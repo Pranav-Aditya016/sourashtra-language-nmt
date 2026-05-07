@@ -35,6 +35,16 @@ logs_v5_reverse/
 *.tar.gz
 *.tar.bz2
 
+# IEEE paper (copyright)
+ieee_paper/
+ieee_paper01/
+
+# Documentation
+claude_files/
+README.md
+*.md
+*.tex
+
 # Environment / secrets
 .env
 *.env
