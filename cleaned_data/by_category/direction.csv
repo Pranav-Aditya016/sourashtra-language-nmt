@@ -1,0 +1,11 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,தீ3ஸ்,dees,,,,Direction,திசை,ஆட் தீ3ஸுன் ஸே,There are eight directions,எட்டு திசைகள் உள்ளன,direction,corpus_sourashtradictionary
+,,தி3க்கு,dikku,,,,Direction,திசை,தி3க்குனுக் தெ3க்கி தெ4ரத்தக் காந்தொ நுக3ஸு,The magnet is used to find directions,திசைகளை கண்டறிய காந்தம் உபயோகப்படுகிறது,direction,corpus_sourashtradictionary
+,,கௌ2னஸ்,khaunas,,,,East,கிழக்கு,ஸுரித் கௌ2னஸும் நிகு3லயி,The sun will rise in the east,சூரியன் கிழக்கில் உதிக்கும்,direction,corpus_sourashtradictionary
+,,ஹொஸ்தொ,hosto,,,,West,மேற்கு,ஸுரித் ஹொஸ்தாம் ஜ2கா3யி,The sun sets in the west,சூரியன் மேற்கில் மறையும்,direction,corpus_sourashtradictionary
+,,உத்தர்,uttar,,,,North,வடக்கு,ஹிமகி3ரி பா4ரதுக் உத்தரும் ஸே,The Himalayas are located in the north of India,இமயமலை இந்தியாவின் வடக்கே உள்ளது,direction,corpus_sourashtradictionary
+,,தெ3க்ஷண்,dekshaN,,,,South,தெற்கு,கன்யாகுமரி தெ3க்ஷண் பொகட் ஸே,Kanyakumari is in the south,கன்னியாகுமரி தெற்கில் உள்ளது,direction,corpus_sourashtradictionary
+,,அக்3னி,agni,,,,South East,தென்கிழக்கு,அக்3னிமூலோஸி ஹந்த3வ் தௌரமுக் செர்க்க ஹொயெ தா2மு,Southeast is the perfect place for a kitchen,தென்கிழக்குதான் சமையலறைக்கு சரியான இடம்,direction,corpus_sourashtradictionary
+,,நைருதி,nairuti,,,,South West,தென்மேற்கு,நைருத்யா பொவ்ஸுகலம் ஜூன் ம்ஹடா3ம் ஹர்ம்ப3ம் ஹோயி,Southwest monsoon starts in Jun,தென்மேற்கு பருவமழை ஜூன் மாதம் தொடங்கும்,direction,corpus_sourashtradictionary
+,,ஈஶான்யொ,eessaanyo,,,,North East,வடகிழக்கு,புஜா ஹொவ்ரிக் ஈஶான்யொ தி3க்கும் தொ2வ்னொ,The prayer room should be placed in a north-easterly direction,பூஜை அறையை வடகிழக்கு திசையில் வைக்க வேண்டும்,direction,corpus_sourashtradictionary
+,,வாயு,vaayu,,,,North West,வடமேற்கு,வாயு மூலாம் மலொ ப4ந்து3னொ,The toilet should be built in the northwest,வடமேற்கில் கழிவறை கட்ட வேண்டும்,direction,corpus_sourashtradictionary

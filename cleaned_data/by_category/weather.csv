@@ -1,0 +1,33 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,வராமான்,varaamaan,,,,Weather,வானிலை,வரொகின் வாத3ளொ ஹால் வராமான் நிச்சு மர்ச்சாஸு,The weather changes daily due to winds and storms,காற்று மற்றும் புயல் காரணமாக நாள்தோறும் வானிலை மாறுகிறது,weather,corpus_sourashtradictionary
+,,ஹூன்,hoon,,,,Sunny,வெயில்,ஹிந்தொ3 ஹூன் வேன் ஸே,Today the sun is high,இன்று வெயில் அதிகமாக உள்ளது,weather,corpus_sourashtradictionary
+,,ஹூந்ஹளத்,hoonhaLat,,,,Evening sunlight,மஞ்சள் வெயில்,ஹூந்ஹளத் ஆங்கு3க் விட்டமின் டி3 தே3ஸு,Evening sunlight provides vitamin D to the body,மஞ்சள் வெயில் உடலுக்கு வைட்டமின் டி அளிக்கிறது,weather,corpus_sourashtradictionary
+,,மேக்4,mEgh,,,,Cloud,மேகம்,களொ மேக்4 பொவ்ஸ் அனஸு,The black cloud brings rain,கருமேகம் மழையை கொண்டுவருகிறது,weather,corpus_sourashtradictionary
+,,சிணுக்,ciNuk,,,,Drizzle,தூறல்,பொவ்ஸுக் முது3ல்லொ சிணுக் பொடெ3ஸ்,Lightly drizzled before rain,மழைக்கு முன் லேசாக தூறல் விழுந்தது,weather,corpus_sourashtradictionary
+,,சிங்குல்,cingkul,,,,Drizzle,தூறல்,லேஸ்கன் சிங்குல் லலரஸ்,It is drizzling slightly,லேசாக தூறல் பெய்கிறது,weather,corpus_sourashtradictionary
+,,ஸீக3ல்,seegal,,,,Drizzle,தூறல்,ஸொளொபா2ர் ர்ஹீ ஸீக3ள் தய்லேத் ஸே,It has been drizzling since morning,காலையில் இருந்து தூறல் பெய்து வருகிறது,weather,corpus_sourashtradictionary
+,,பொவ்ஸ்,povs,,,,Rain,மழை,பொவ்ஸ் ஸுட்டுனாத்தக் பொட்3லேத் ஸே,It is constantly raining,தொடர்ந்து மழை பெய்து வருகிறது,weather,corpus_sourashtradictionary
+,,பொவ்ஸு பனி,povsu pani,,,,Rain water,மழை நீர்,அவ்ரெ வீது3ம் பொவ்ஸு பனி ஹிப்3பி3ரெஸ்,Rainwater is stagnant in our street,எங்கள் தெருவில் மழைநீர் தேங்கி நிற்கிறது,weather,corpus_sourashtradictionary
+,,ஜ2ஞ்ஜு,jhanjju,,,,"Torrential rain, Heavy rain, Thunderstorm, Thunder storm","பேய்மழை, கனமழை",ஜ2ஞ்ஜு ஹால் மென்க்யான் வேன் கெஷ்டம் பொட்லேத் ஸே,People are suffering due to torrential rain,பேய்மழையால் மக்கள் மிகவும் கஷ்டப்படுகின்றனர்,weather,corpus_sourashtradictionary
+,,ஒஸாட்,osaaT,,,,Splashing of rainwater,மழைநீர் தெறித்தல்,விடி3கவாட் ஜா2ய். ஒஸாட் ஹனரஸ்,Close the window panes. Rain water splashes,ஜன்னல் கதவை மூடு. மழை நீர் தெறிக்கிறது,weather,corpus_sourashtradictionary
+,,கர்கொ,karko,,,,Hailstone,ஆலங்கட்டி,பொள்டொ ஹொல்லொ கர்கொ பொடெ3ஸி,Hail pounded on the roof,கூரை மீது ஆலங்கட்டி மழை பொழிந்தது,weather,corpus_sourashtradictionary
+,,வரொ,varo,,,,"Air, Wind",காற்று,பொ3லொம்ஹொயெ வரொ ஹனெ ஹால் ஜு2கு3 ஜா2டு3ன் மூள் ஸெரொ உக்கயி பொள்டி3யொ,A lot of trees were uprooted due to strong winds,பலமான காற்று வீசியதால் ஏராளமான மரங்கள் வேரோடு சாய்ந்தன,weather,corpus_sourashtradictionary
+,,ஸில்லொ வரொ,sillo varo,,,,Breeze,தென்றல்,த3க்ஷண் பொகட் ர்ஹீ ஸில்லொ வரொ ஹனரஸ்,The breeze is blowing from the south,தெற்கிலிருந்து தென்றல் வீசுகிறது,weather,corpus_sourashtradictionary
+,,வௌல்,vaul,,,,Cold Breeze,வாடைக்காற்று,உத்தர் பொகட் ர்ஹீ வௌல் ஹனரஸ்,Cold winds blow from the north,வடக்கிலிருந்து வாடைக் காற்று வீசுகிறது,weather,corpus_sourashtradictionary
+,,ஹேன்,hEn,,,,Hot air,அனல்காற்று,சித்திரை ம்ஹடா3ம் ஹேன் ஹனயி,Hot air blows during the month of Chittirai,சித்திரை மாதத்தில் அனல் காற்று வீசும்,weather,corpus_sourashtradictionary
+,,வாத3ளொ,vaadaLo,,,,Storm,புயல்,வாத3ளொ தெ3ட்டு பொவ்ஸ் க2ல்லி அவஸு,The storm is bringing heavy rain,புயல் பலத்த மழையைக் கொண்டுவருகிறது,weather,corpus_sourashtradictionary
+,,சக்ரவாத3ளொ,cakravaadaLo,,,,"Cyclone, Hurricane",சூறாவளி,"சக்ரவாத3ளாம் பெ4ண்டு, கா3யின் மெல்லொ ஹுட3ரஸி",Sheep and cows also fly in the hurricane,"சூறாவளியில் ஆடு, மாடுகளும் பறக்கின்றன",weather,corpus_sourashtradictionary
+,,ஹீம்,heem,,,,Cool,குளிர்,கம்ப3ள் சொக்காய் ஹீமும் ர்ஹீ ஆங்கு3க் கப3ட3யி,Sweaters protect the body from the cold,கம்பளி சட்டைகள் குளிரில் இருந்து உடலைப் பாதுகாக்கும்,weather,corpus_sourashtradictionary
+,,ஹிமுஸ்,himus,,,,Cold,குளிர்,ஒர்ஸுஒர்ஸு ஹிமுஸ் வேன் ஹொய்லேத் ஜாரஸ்,The cold is getting worse year by year,வருடாவருடம் குளிர் அதிகமாகிக் கொண்டே போகிறது,weather,corpus_sourashtradictionary
+,,ஒஸு,osu,,,,Snow,பனி,ஸில்லா தே3ஶும் இரளா கலமு ஒஸு பொட3ஸு,Snowfall occurs in colder countries during the winter,குளிர் நாடுகளில் பனிக்காலத்தில் பனிப்பொழிவு ஏற்படுகிறது,weather,corpus_sourashtradictionary
+,,ஓஸு,Osu,,,,Snow,பனி,ஶேலு ந்ஹாத்தக் ஓஸும் ஜானாங்கோ3,Do not go in the snow without a sweater,கம்பளி சட்டை இல்லாமல் பனியில் செல்ல வேண்டாம்,weather,corpus_sourashtradictionary
+,,மொஞ்சு,monjcu,,,,"Mist, Fog",மூடுபனி,த4னுர் ம்ஹடா3ம் மொஞ்சு வேன் ர்ஹாயி,The fog will be high in the month of Margazhi,மார்கழி மாதத்தில் மூடுபனி அதிகமாக இருக்கும்,weather,corpus_sourashtradictionary
+,,கெ4டி3 பொட3த்தெ,gheDi poDatte,,,,Freeze,உறைதல்,ஹிமுஸுகலமு நலர்தேல் கெ4டி3 பொள்ட்3யி,Coconut oil freezes in winter,குளிர்காலத்தில் தேங்காய் எண்ணெய் உறைந்துவிடும்,weather,corpus_sourashtradictionary
+,,ஹின்னொ,hinno,,,,Ice,பனிக்கட்டி,ஸில்லாகா3மும் ஹிமுஸுகலமு பனி ஹின்னொகன் ஹொய்யாயி,In colder countries the water turns to ice in winter,குளிர்நாடுகளில் குளிர்காலத்தில் தண்ணீர் பனிக்கட்டியாக மாறும்,weather,corpus_sourashtradictionary
+,,பனி கெ3ட்3டொ3,pani geDDo,,,,Ice,பனிக்கட்டி,பனி கெ3ட்3டொ3 க2யெத் க4டி3ம் க2ஜ்ஜு அவயி,Eating ice can cause throat sore,பனிக்கட்டி சாப்பிட்டால் தொண்டையில் புண் வரும்,weather,corpus_sourashtradictionary
+,,பிடு3,piDu,,,,Lightning,மின்னல்,பிடு3 பொடெ3த் ஜா2ட்3 ஹுலொ லயி ஜெலி ஜேட3யி,"When struck by lightning, the tree will catches fire and burn",மின்னல் தாக்கினால் மரம் தீப்பற்றி எரிந்து விடும்,weather,corpus_sourashtradictionary
+,,சப3ல்,cabal,,,,Lightning,மின்னல்,மேகு3ன் விஜிலிக் ப4ராட்த4ட்3டெ3ரியொஹால் சப3ல் உரு ஹோஸு,Lightning is caused by clouds discharging electricity,மேகங்கள் மின்சாரத்தை வெளியேற்றுவதால் மின்னல் ஏற்படுகிறது,weather,corpus_sourashtradictionary
+,,கெ3ர்ஜனொ,gerjano,,,,Thunderclap,"இடிமுழக்கம், இடி இடிக்கும் சத்தம்",பொவ்ஸுகலமு கெ3ர்ஜனொ ஐகாயி,The thunderclap can be heard during the rainy season,மழைக்காலத்தில் இடி இடிக்கும் சத்தம் கேட்கும்,weather,corpus_sourashtradictionary
+,,இரன்,iran,,,,Thunder,இடி,ர்ஹியெவாகுர் இரன் தி3யெஸி,Suddenly there was thunder,திடீரென இடி இடித்தது,weather,corpus_sourashtradictionary
+,,பவி,pavi,,,,Thunder,இடி,பவி ஸெத்3து3 கான் செவுட் ஜாரஸ்,The sound of thunder pierce the ear,இடிச் சத்தம் காதைப் பிளக்கிறது,weather,corpus_sourashtradictionary
+,,இந்த்3ரத4னுஷ்,indradhanush,,,,Rainbow,வானவில்,பொவ்ஸ் ஸுட்டெ பராது இந்த்3ரத4னுஷ் தெ3க்காயி,The rainbow will appear after the rain stops,மழை நின்ற பிறகு வானவில் தோன்றும்,weather,corpus_sourashtradictionary

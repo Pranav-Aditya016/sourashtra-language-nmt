@@ -1,0 +1,29 @@
+{
+  "best_threshold": 0.5,
+  "test_metrics": {
+    "corpus_bleu": 4.64,
+    "avg_sentence_bleu": 2.29,
+    "avg_chrf": 21.18,
+    "avg_cer": 122.47,
+    "avg_wer": 128.12,
+    "exact_match_accuracy": 7.84,
+    "num_samples": 1914
+  },
+  "neural_metrics": {
+    "corpus_bleu": 3.83,
+    "avg_sentence_bleu": 3.13,
+    "avg_chrf": 18.26,
+    "avg_cer": 146.98,
+    "avg_wer": 148.63,
+    "exact_match_accuracy": 5.85,
+    "num_samples": 1914
+  },
+  "neural_em": 5.85,
+  "retrieval_em": 7.41901776384535,
+  "hybrid_em": 7.84,
+  "enhanced_retrieval": true,
+  "method_distribution": {
+    "retrieval": 1348,
+    "neural": 566
+  }
+}

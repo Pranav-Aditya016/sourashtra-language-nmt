@@ -1,0 +1,762 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,அக்3க3பொ3க்3க3யி,aggaboggayi,,,,Jumpy,அலறியடித்து,,,,general,corpus_sourashtradictionary
+,,அக3ஸ்மாத்,agasmaat,,,,By chance,தற்செயல்,,,,general,corpus_sourashtradictionary
+,,அட்3க்3யளம்,aDgyaLam,,,,Identification mark,அடையாளக்குறி,,,,general,corpus_sourashtradictionary
+,,அடக்3,aTag,,,,Obstacle,தடை,,,,general,corpus_sourashtradictionary
+,,அடா3த்,aDaat,,,,Atrocity,அடாவடி,,,,general,corpus_sourashtradictionary
+,,அதி4கரணொ,adhikaraNo,,,,"Section, Category","பிரிவு, வகை",,,,general,corpus_sourashtradictionary
+,,அதுர்ஷ்டு,aturshTu,,,,Luck,அதிர்ஷ்டம்,,,,general,corpus_sourashtradictionary
+,,அந்து,antu,,,,"Final, End",இறுதி,,,,general,corpus_sourashtradictionary
+,,அந்தும்,antum,,,,At the end,"கடைசியாக, இறுதியில்",,,,general,corpus_sourashtradictionary
+,,அப்3ப3ய்,abbay,,,,Will get,கிடைக்கும்,,,,general,corpus_sourashtradictionary
+,,அப்3ப3ரஸ்,abbaras,,,,Available,கிடைக்கிறது,,,,general,corpus_sourashtradictionary
+,,அப்3பி3டி3யொ,abbiDiyo,,,,"Obtained, Found, Received, Got it",கிடைத்தது,,,,general,corpus_sourashtradictionary
+,,அப்3பெ3ஸ்,abbes,,,,"Obtained, Found, Received, Got it",கிடைத்தது,,,,general,corpus_sourashtradictionary
+,,அப்3னி,abni,,,,"Availability, Getting, Receiving","கிடைத்தல், பெறுதல்",,,,general,corpus_sourashtradictionary
+,,அப4ய,abhaya,,,,Non dangerous,ஆபத்தில்லாத,,,,general,corpus_sourashtradictionary
+,,அபரிமிதொ,aparimito,,,,Unlimited,எல்லையற்ற,,,,general,corpus_sourashtradictionary
+,,அப்ஸரஸ்,apsaras,,,,Celestial Nymph,ரதி,,,,general,corpus_sourashtradictionary
+,,அபாயகர,apaayakara,,,,Dangerous,ஆபத்தான,,,,general,corpus_sourashtradictionary
+,,அபி4மான்,abhimaan,,,,Pride,"பெருமை, பற்றுதல்",,,,general,corpus_sourashtradictionary
+,,அபுல்கரெ,apulkare,,,,Initiative,"தன்முனைப்பு, முன்முயற்சி",,He takes the initiative in everything,,general,corpus_sourashtradictionary
+,,அயிதர்,ayitar,,,,In person,நேரில்,,,,general,corpus_sourashtradictionary
+,,அர்ச்சத்தெ,arccatte,,,,"Honouring, Praising",கெளரவித்தல்,,,,general,corpus_sourashtradictionary
+,,அரே,arE,,,,Hey,அடேய்,,,,general,corpus_sourashtradictionary
+,,அலக்3கொ3,alaggo,,,,"Alone, Separate",தனியாக,,,,general,corpus_sourashtradictionary
+,,அலாதி3,alaadi,,,,Separately,தனியாக,,,,general,corpus_sourashtradictionary
+,,அன்யாவ்,anyaav,,,,"Unjust, Unfair",அநியாயம்,,,,general,corpus_sourashtradictionary
+,,அனுப4வ்,anubhav,,,,Experience,அனுபவம்,,,,general,corpus_sourashtradictionary
+,,அனுஸரணொ,anusaraNo,,,,Following,பின்பற்றுதல்,,,,general,corpus_sourashtradictionary
+,,அஸத்திஸா,asattisaa,,,,Funny,வேடிக்கையான,,,,general,corpus_sourashtradictionary
+,,அஸினி,asini,,,,Comedy,நகைச்சுவை,,,,general,corpus_sourashtradictionary
+,,அஸொகெரி,asokeri,,,,Just like that,கொஞ்சத்தில்,,,,general,corpus_sourashtradictionary
+,,அஶுத்3த3ம்,assuddam,,,,Unclean,சுத்தமற்ற,,,,general,corpus_sourashtradictionary
+,,ஆத3ரொ,aadaro,,,,Support,ஆதரவு,,,,general,corpus_sourashtradictionary
+,,ஆபத்3,aapad,,,,"Difficulty, Distress, Danger","சிரமம், துன்பம், ஆபத்து",,,,general,corpus_sourashtradictionary
+,,ஆலோசனொ,aalOcano,,,,Advice,அறிவுரை,,,,general,corpus_sourashtradictionary
+,,ஆவர்த்தனொ,aavarttano,,,,Frequency,அதிர்வெண்,,,,general,corpus_sourashtradictionary
+,,ஆவொ,aavo,,,,Worldly matters,உலக விஷயங்கள்,,,,general,corpus_sourashtradictionary
+,,ஆஸ்தி,aasti,,,,Property,சொத்து,,,,general,corpus_sourashtradictionary
+,,ஆஸனொ,aasano,,,,Seat,ஆசனம்,,,,general,corpus_sourashtradictionary
+,,ஆஹவ்,aahav,,,,Challenge,"சவால், அறை கூவல்",,,,general,corpus_sourashtradictionary
+,,இத்யாதி3,ityaadi,,,,Etcetera,இதர,,,,general,corpus_sourashtradictionary
+,,இவர்,ivar,,,,"Details, Explanation, Description","விவரம், விளக்கம்",,,,general,corpus_sourashtradictionary
+,,இவர்,ivar,,,,"Message, Information","செய்தி, தகவல்",,,,general,corpus_sourashtradictionary
+,,இவர் தொவர்,ivar tovar,,,,Common sense,பொது அறிவு,,,,general,corpus_sourashtradictionary
+,,ஈக்ஸர்,eeksar,,,,Along with,கூடவே,,,,general,corpus_sourashtradictionary
+,,உச்லாவ்,uclaav,,,,Means,வரும்படி,,,,general,corpus_sourashtradictionary
+,,உட்ச்சாஉட்ச்சினி,uTccaauTccini,,,,Uncertain,இழுபறி,,,,general,corpus_sourashtradictionary
+,,உண்டொ,uNTo,,,,Curl,சுருண்டு,,,,general,corpus_sourashtradictionary
+,,உத்பத்தி,utpatti,,,,Production,உற்பத்தி,,,,general,corpus_sourashtradictionary
+,,உந்நதி,unnati,,,,"Improvement, Progress, Advancement","முன்னேற்றம், உயர்வு",,,,general,corpus_sourashtradictionary
+,,உபசாரணொ,upacaaraNo,,,,Treatment,உபசரிப்பு,,,,general,corpus_sourashtradictionary
+,,உபதே3ஶ்,upadEss,,,,Advise,அறிவுரை,,,,general,corpus_sourashtradictionary
+,,உபஹார்,upahaar,,,,Gift,பரிசு,,,,general,corpus_sourashtradictionary
+,,ஊதெ,uute,,,,"Waste, In Vain","வீண், வீணாக",,,,general,corpus_sourashtradictionary
+,,ஊளெ,uuLe,,,,Whistle,ஊதல்,,,,general,corpus_sourashtradictionary
+,,ஐகனா-ஸெத்3து3,aikanaa-seddu,,,,Ultrasound,செவி உணரா ஒலி,,,,general,corpus_sourashtradictionary
+,,ஐகினி,aikini,,,,Hearing,கேள்விபடுவது,,,,general,corpus_sourashtradictionary
+,,ஐதொ,aito,,,,Ready,தயார்,,,,general,corpus_sourashtradictionary
+,,ஒடா3 ஜா2ட்3 தின்னாள்,oDaa jhaaD tinnaaL,,,,Sourashtrians Festival,சௌராஷ்டிரர்களின் திருவிழா,,,,general,corpus_sourashtradictionary
+,,ஒண்டபோகும்,oNTapOkum,,,,Oneside,ஒருபக்கம்,,,,general,corpus_sourashtradictionary
+,,ஒண்டிம்புல்,oNTimpul,,,,"In Private, Alone","தனிமையில், தனியாக",,,,general,corpus_sourashtradictionary
+,,ஒண்டேஸொகன்,oNTEsokan,,,,"Alike, Similar, Same as",ஒரே மாதிரியாக,,,,general,corpus_sourashtradictionary
+,,ஒண்டேஸொகன் ர்ஹா,oNTEsokan rhaa,,,,Resemble,"ஒத்திரு, ஒரே மாதிரியாக",,,,general,corpus_sourashtradictionary
+,,ஒண்டேஸொகன் ர்ஹாத்தெ,oNTEsokan rhaatte,,,,"Resemblence, Similarity",ஒத்திருத்தல்,,,,general,corpus_sourashtradictionary
+,,ஒத்தடி3,ottaDi,,,,Become Dry,வற்றி,,,,general,corpus_sourashtradictionary
+,,ஒப்பிள்னி,oppiLni,,,,"Recognition, Acceptance, Confession","அங்கீகாரம், ஏற்றுக்கொள்ளுதல், வாக்குமூலம், ஒப்புக்கொள்ளுதல்",,,,general,corpus_sourashtradictionary
+,,ஒய்து3ஶாலொ,oydussaalo,,,,Hospital,மருத்துவமனை,,,,general,corpus_sourashtradictionary
+,,ஒர்கை3,orgai,,,,Be useful,"பயன்படும், உதவும்",,,,general,corpus_sourashtradictionary
+,,ஒரை,orai,,,,Wealth,செல்வம்,,,,general,corpus_sourashtradictionary
+,,ஒரொ,oro,,,,Skewness,கோணல்,,,,general,corpus_sourashtradictionary
+,,ஒரொதிரொ,orotiro,,,,ZigZag,கோணல்மாணலாக,,,,general,corpus_sourashtradictionary
+,,ஒலொ,olo,,,,Net,வலை,,,,general,corpus_sourashtradictionary
+,,ஒஜாதி,ojaati,,,,a type of,ஒருவகை,,,,general,corpus_sourashtradictionary
+,,ஓடு,OTu,,,,"Secret, Confidential",இரகசியம்,,,,general,corpus_sourashtradictionary
+,,ஓடுனும்,OTunum,,,,"Side by Side, Juxtapose",அருகருகே,,,,general,corpus_sourashtradictionary
+,,ஓர்த்தோ,OrttO,,,,In the corner,மூலையில்,,,,general,corpus_sourashtradictionary
+,,ஓர்ப்பு,Orppu,,,,Compromise,சமரசம்,,,,general,corpus_sourashtradictionary
+,,ஓரொ,Oro,,,,Sideways,ஓரமாக,,,,general,corpus_sourashtradictionary
+,,ஓஸம,Osama,,,,Many a time,ஏகப்பட்ட,,,,general,corpus_sourashtradictionary
+,,ஔதா3ர்யொ,audaaryo,,,,Generosity,தயாள குணம்,,,,general,corpus_sourashtradictionary
+,,க2ட்டி,khaTTi,,,,Stick,குச்சி,,,,general,corpus_sourashtradictionary
+,,க்2யாதி,khyaati,,,,Well known,நன்கு அறியப்பட்ட,,,,general,corpus_sourashtradictionary
+,,க2லி,khali,,,,Empty,காலி,,,,general,corpus_sourashtradictionary
+,,க3தி,gati,,,,"Condtion, State",நிலை,,,,general,corpus_sourashtradictionary
+,,கடி2ன்,kaThin,,,,"Hard, Tough, Drastic","வன்மையான, கடினமான",,,,general,corpus_sourashtradictionary
+,,கடி2ன் ஹொயெ,kaThin hoye,,,,Tough,கடினமான,,,,general,corpus_sourashtradictionary
+,,கரொ,karo,,,,Gift,பரிசு,,,,general,corpus_sourashtradictionary
+,,க்ஷாமம்,kshaamam,,,,Scarcity,பற்றாக்குறை,,,,general,corpus_sourashtradictionary
+,,க்ஷேமு,kshEmu,,,,Comfort,ஸௌக்கியம்,,,,general,corpus_sourashtradictionary
+,,கா3ட்,gaaT,,,,Knot,முடிச்சு,,,,general,corpus_sourashtradictionary
+,,கா4ம்,ghaam,,,,"Beat, Blow, Injury","அடி, காயம்",,,,general,corpus_sourashtradictionary
+,,காட்,kaaT,,,,Stain,கறை,,,,general,corpus_sourashtradictionary
+,,காந்தி,kaanti,,,,Shining,ஒளிருதல்,,,,general,corpus_sourashtradictionary
+,,காமுக்ரமொ,kaamukramo,,,,"Agenda, Program, Event",நிகழ்ச்சி நிரல்,,,,general,corpus_sourashtradictionary
+,,காரணொ,kaaraNo,,,,"Reason, Cause",காரணம்,,,,general,corpus_sourashtradictionary
+,,கால்டு3,kaalDu,,,,Quarter Rupee,காலணா,,,,general,corpus_sourashtradictionary
+,,காஸ்,kaas,,,,Rupee,காசு,,,,general,corpus_sourashtradictionary
+,,கி3தொ3,gido,,,,Scratch,கீறல்,,,,general,corpus_sourashtradictionary
+,,கி3ர்க்கத்தெ,girkkatte,,,,"Scrawling, Scribbling",கிறுக்குதல்,,,,general,corpus_sourashtradictionary
+,,கி3லேஸு,gilEsu,,,,Disconnects,துண்டிக்கிறது,,,,general,corpus_sourashtradictionary
+,,கீ3த்,geet,,,,Song,பாட்டு,,,,general,corpus_sourashtradictionary
+,,கு2தா3,khudaa,,,,"Hypothecate, Pawn, Pledge, Mortgage",அடகு,,,,general,corpus_sourashtradictionary
+,,கு2தி3,khudi,,,,Partner in game,விளையாட்டில் கூட்டாளி,,,,general,corpus_sourashtradictionary
+,,கு2பா3ய்,khubaay,,,,Glare,கூசும்,,,,general,corpus_sourashtradictionary
+,,கு3ட்3டு3,guDDu,,,,"Secret, Confidential",இரகசியம்,,,,general,corpus_sourashtradictionary
+,,கு3ண்ட3ளி,guNDaLi,,,,Coil,சுருள்,,,,general,corpus_sourashtradictionary
+,,கு3ண்ணு,guNNu,,,,"Character, Attribute, Quality","குணம், பண்பு, தரம், தன்மை",,,,general,corpus_sourashtradictionary
+,,கு3தெ3,gude,,,,Walking stick,கைத்தடி,,,,general,corpus_sourashtradictionary
+,,கு3ருத்து,guruttu,,,,Identification,அடையாளம்,,,,general,corpus_sourashtradictionary
+,,கு3ருத்து களட3ரியொ,guruttu kaLaDariyo,,,,Introductory,அறிமுக,,,,general,corpus_sourashtradictionary
+,,கு3ருத்து களட்3னி,guruttu kaLaDni,,,,Introduction,அறிமுகம்,,,,general,corpus_sourashtradictionary
+,,கு3ருத்து களள்ளத்தெ,guruttu kaLaLLatte,,,,"Recognition, Authentication",அடையாளம் காணல்,,,,general,corpus_sourashtradictionary
+,,கு3ள்ளொ,guLLo,,,,Ball,பந்து,,,,general,corpus_sourashtradictionary
+,,குக்3னொ,kugno,,,,Close,நெருக்கமான,,,,general,corpus_sourashtradictionary
+,,குரன்,kuran,,,,Poetry,கவிதை,,,,general,corpus_sourashtradictionary
+,,கூடக்,kooTak,,,,Puzzle,புதிர்,,,,general,corpus_sourashtradictionary
+,,கூத்,koot,,,,Shout or Bawl,கூப்பாடு,,,,general,corpus_sourashtradictionary
+,,கெ2டின்,kheTin,,,,Harsh,கடுமையான,,,,general,corpus_sourashtradictionary
+,,கெ2தொ,kheto,,,,Story,கதை,,,,general,corpus_sourashtradictionary
+,,கெ2னி,kheni,,,,Story,கதை,,,,general,corpus_sourashtradictionary
+,,கெ3ஞ்ஜாவ்,genjjaav,,,,Hashish,கஞ்சா,,,,general,corpus_sourashtradictionary
+,,கெ3டி3,geDi,,,,Cart,வண்டி,,,,general,corpus_sourashtradictionary
+,,கெ3லய்,gelay,,,,Seep,வழியும்,,,,general,corpus_sourashtradictionary
+,,கெ3னாத்,genaat,,,,Treasure,புதையல்,,,,general,corpus_sourashtradictionary
+,,கெ4ட்டி,gheTTi,,,,Loudly,சத்தமாக,,,,general,corpus_sourashtradictionary
+,,கெ4டி3,gheDi,,,,Loud,சத்தம்,,,,general,corpus_sourashtradictionary
+,,கெ4டி3 பொ3வத்தே,gheDi bovattE,,,,Reprimanding,"கண்டித்தல், கடிந்துரைத்தல்",,,,general,corpus_sourashtradictionary
+,,கெ4னம்,ghenam,,,,"Pride, Dignity",கௌரவம்,,,,general,corpus_sourashtradictionary
+,,கெர்வான,kervaana,,,,Can not do,செய்ய முடியாது,,,,general,corpus_sourashtradictionary
+,,கெருங்கி3னி,kerunggini,,,,"Dissolve. Dissolution, Melt","கரைதல், உருகுதல்",,,,general,corpus_sourashtradictionary
+,,கெருங்கை3,kerunggai,,,,"Dissolve, Melt","கரையும், உருகும்",,,,general,corpus_sourashtradictionary
+,,கெஷ்டம் ஹொயெ,keshTam hoye,,,,Hard,கஷ்டமான,,,,general,corpus_sourashtradictionary
+,,கே3கு3,gEgu,,,,Around,சுற்றிலும்,,,,general,corpus_sourashtradictionary
+,,கேர்,kEr,,,,Care,கவனித்துக்கொள்ளல்,,,,general,corpus_sourashtradictionary
+,,கொ2ப்3பி3ம் ஹொயெ,khobbim hoye,,,,"Regular, Usual",வழக்கமான,,,,general,corpus_sourashtradictionary
+,,கொ3வ்ண்ட3ய்யொ,govNDayyo,,,,"Lost, Missing, Misplaced","தொலைந்தது, காணாமல் போனது",,,,general,corpus_sourashtradictionary
+,,கொ3வ்ண்ட3யி ஜாத்தெ,govNDayi jaatte,,,,To get lost,"தொலைந்து போகுதல், வழி தவறுதல்",,,,general,corpus_sourashtradictionary
+,,கொ4ரம் பி2வ்ரத்தெ,ghoram phivratte,,,,Distraction,கவனத்தை திருப்புதல்,,,,general,corpus_sourashtradictionary
+,,கொவ்டொ3,kovDo,,,,Cowrie Shell,சோளி,,,,general,corpus_sourashtradictionary
+,,கொனொ,kono,,,,Edge,"முனை, ஓரம்",,,,general,corpus_sourashtradictionary
+,,கோ3கோ3,gOgO,,,,Incessantly,சும்மா சும்மா,,,,general,corpus_sourashtradictionary
+,,கோ3கோ3தீ,gOgOtee,,,,Just,சும்மாவேனும்,,,,general,corpus_sourashtradictionary
+,,கோ3ஸ்,gOs,,,,"Idle, Free, Just, Often","சும்மா, இலவசம், சும்மாவேனும்",,,,general,corpus_sourashtradictionary
+,,கௌ3ணி,gauNi,,,,Mucial Concert,சங்கீதக் கச்சேரி,,,,general,corpus_sourashtradictionary
+,,கௌத்,kaut,,,,Fun,வேடிக்கை,,,,general,corpus_sourashtradictionary
+,,கௌஶல்,kaussal,,,,"Skill, Talent, Ability","கலை, திறமை",,,,general,corpus_sourashtradictionary
+,,சடா3வ்,caDaav,,,,Best,சிறந்த,,,,general,corpus_sourashtradictionary
+,,சதுர்பாஷா,caturpaashaa,,,,Four Language,நான்கு மொழிகள்,,,,general,corpus_sourashtradictionary
+,,சமத்கார்,camatkaar,,,,Dexterity,சாமர்த்தியம்,,,,general,corpus_sourashtradictionary
+,,சல்சித்ரா கு3வ்னி,calcitraa guvni,,,,Film roll,திரைப்படச்சுருள்,,,,general,corpus_sourashtradictionary
+,,சல்சித்ரொ,calcitro,,,,"Film, Movie",திரைப்படம்,,,,general,corpus_sourashtradictionary
+,,"சல்த கேர், ஸொன்னொகொ3","calta kEr, sonnogo",,,,"Continue, Keep on, Sustain","தொடரவும், இடைவிடாதிரு",,,,general,corpus_sourashtradictionary
+,,சலய்,calay,,,,Happen,நடக்கும்,,,,general,corpus_sourashtradictionary
+,,சல்லினி,callini,,,,"In Touch, Behaving","வரபோக, நடந்துகொள்ளுதல்",,,,general,corpus_sourashtradictionary
+,,சல்னி,calni,,,,Behavior,நடத்தை,,,,general,corpus_sourashtradictionary
+,,சா2ப்பொ,chaappo,,,,"Print, Stamp","அச்சு, முத்திரை",,,,general,corpus_sourashtradictionary
+,,சாரி,caari,,,,Spy,ஒற்றன்,,,,general,corpus_sourashtradictionary
+,,சி2ரன்,chiran,,,,Lantern,லாந்தர்,,,,general,corpus_sourashtradictionary
+,,சித்துர்,cittur,,,,"Art, Painting, Portrait",ஓவியம்,,,,general,corpus_sourashtradictionary
+,,சில்லம்,cillam,,,,Bank,வங்கி,,,,general,corpus_sourashtradictionary
+,,சுங்கிலி,cungkili,,,,Escaping,தப்பித்து,,,,general,corpus_sourashtradictionary
+,,சுட்டூர்,cuTToor,,,,Around,சுற்றிலும்,,,,general,corpus_sourashtradictionary
+,,சுட்டொ,cuTTo,,,,"Cigar, Cheroot",சுருட்டு,,,,general,corpus_sourashtradictionary
+,,சுண்டா3ய்,cuNDaay,,,,Hot,சுடும்,,,,general,corpus_sourashtradictionary
+,,சுண்டி3ன் தக3த்தெ,cuNDin tagatte,,,,Burn with hot iron,சூடு போடுதல்,,,,general,corpus_sourashtradictionary
+,,சுருக்,curuk,,,,"Fast, Quickly","வேகமாக, விரைவாக",,,,general,corpus_sourashtradictionary
+,,சூ,coo,,,,"Mistake, Fault, Error",தப்பு,,,,general,corpus_sourashtradictionary
+,,சூக்,cook,,,,"Complaint, Fault","குறை, கோள்",,,,general,corpus_sourashtradictionary
+,,செட்3னி,ceDni,,,,Advancement,முன்னேற்றம்,,,,general,corpus_sourashtradictionary
+,,செடா3வ்,ceDaav,,,,"Advanced, Superior","மேம்பட்ட, உசத்தியான",,,,general,corpus_sourashtradictionary
+,,செது3ரத்தெ,ceduratte,,,,"Scatter, Splash","சிதறுதல், தெறித்தல்",,,,general,corpus_sourashtradictionary
+,,செந்து3ரடொ3,cenduraDo,,,,Mini Ferris wheel,ரங்கராட்டினம்,,,,general,corpus_sourashtradictionary
+,,"செரிஜாத்தெ, அனுஸரிஞ்ஜாத்தெ","cerijaatte, anusarinjjaatte",,,,"Conform, Hormon, Solidarity","ஒத்திரு, இணக்கம்",,,,general,corpus_sourashtradictionary
+,,செவ்டி3,cevDi,,,,Dissuade,விரோதமாகப் புத்திமதி கூறு,,,,general,corpus_sourashtradictionary
+,,சொகட்3,cokaD,,,,"Fine, Good","நல்லது, நல்ல, நன்றாக",,,,general,corpus_sourashtradictionary
+,,சொகட்3 ஸனி,cokaD sani,,,,Maintenance,பராமரிப்பு,,,,general,corpus_sourashtradictionary
+,,சோட்3 ஸே,cOD sE,,,,Is good,நன்றாக இருக்கிறது,,,,general,corpus_sourashtradictionary
+,,சௌல்னி,caulni,,,,Holding tight,இறுக்கமாகப் பிடித்துக்கொள்ளுதல்,,,,general,corpus_sourashtradictionary
+,,டங்கினி,Tangkini,,,,Inscription,கல்வெட்டு,,,,general,corpus_sourashtradictionary
+,,"டே3ரொ, ம்ஹொடொ3 பல்லொ","DEro, mhoDo pallo",,,,Tent,கூடாரம்,,,,general,corpus_sourashtradictionary
+,,த3மரு,damaru,,,,Lotus,தாமரை,,,,general,corpus_sourashtradictionary
+,,த3னி,dani,,,,Palanquin,பல்லக்கு,,,,general,corpus_sourashtradictionary
+,,த3ஸ்து,dastu,,,,Gift,பரிசு,,,,general,corpus_sourashtradictionary
+,,த3ஸல்,dasal,,,,Free lunch offered on the Saturdays of Tamil month Purattasi,"புரட்டாசி சனிக்கிழமைகளில் வழங்கப்படும் அன்னதானம், தளிகை",,,,general,corpus_sourashtradictionary
+,,த4மா தா4மு,dhamaa dhaamu,,,,"Hurry, Hastel, Hurry Burry",அவசரம்,,,,general,corpus_sourashtradictionary
+,,த4மா தா4முரு,dhamaa dhaamuru,,,,"Hurriedly, Hastily, Hurry Burrily","ஓட்டம் ஓட்டமாக, அவசரமாக",,,,general,corpus_sourashtradictionary
+,,த4மினி,dhamini,,,,Flow,ஓட்டம்,,,,general,corpus_sourashtradictionary
+,,த்4வனி,dhvani,,,,Audio,ஒலி அமைவு,,,,general,corpus_sourashtradictionary
+,,த4ன்,dhan,,,,Wealth,செல்வம்,,,,general,corpus_sourashtradictionary
+,,த4னக3தி3,dhanagadi,,,,Bank,வங்கி,,,,general,corpus_sourashtradictionary
+,,த4னகே4ர்,dhanaghEr,,,,Bank,வங்கி,,,,general,corpus_sourashtradictionary
+,,த4னவார்,dhanavaar,,,,Bank,வங்கி,,,,general,corpus_sourashtradictionary
+,,தத்3து3,taddu,,,,"Strong, Staunch","வலுவான, உறுதியான",,,,general,corpus_sourashtradictionary
+,,ததி3,tadi,,,,System,முறை,,,,general,corpus_sourashtradictionary
+,,ததி3,tadi,,,,"System, Context","முறை, சூழல்",,,,general,corpus_sourashtradictionary
+,,த்ராணி,traaNi,,,,"Capacity, Efficiency",திறன்,,,,general,corpus_sourashtradictionary
+,,"தரொ, கு3ணவத்தொ","taro, guNavatto",,,,Quality,தரம்,,,,general,corpus_sourashtradictionary
+,,தா3ண்,daaN,,,,"Staff, Handle","தடி, கைப்பிடி",,,,general,corpus_sourashtradictionary
+,,தா3ன்,daan,,,,"Donation, Giving alms",தானம்,,,,general,corpus_sourashtradictionary
+,,தா4னுக்,dhaanuk,,,,As per,அதன்படி,,,,general,corpus_sourashtradictionary
+,,"தார், கெம்பி3","taar, kembi",,,,Wire,கம்பி,,,,general,corpus_sourashtradictionary
+,,தாஸு,taasu,,,,"Chance, Occasion, Moment","தருணம், சந்தர்ப்பம்",,,,general,corpus_sourashtradictionary
+,,தாஸும்,taasum,,,,Opposite,எதிரில்,,,,general,corpus_sourashtradictionary
+,,தி2ரன்,thiran,,,,Permanent,நிரந்தரம்,,,,general,corpus_sourashtradictionary
+,,தி3க்குல்,dikkul,,,,Inattention,"பராக்கு, கவனமின்மை",,,,general,corpus_sourashtradictionary
+,,தி3த3த்தெ,didatte,,,,Giving back,திருப்பிக் கொடுத்தல்,,,,general,corpus_sourashtradictionary
+,,தி3ர்னி,dirni,,,,"Dissolve. Dissolution, Melt","கரைதல், உருகுதல்",,,,general,corpus_sourashtradictionary
+,,தி3வ்ய,divya,,,,"Splendorous, Fantastic, Wonderful",அற்புதமான,,,,general,corpus_sourashtradictionary
+,,தி3வளி,divaLi,,,,Diwali / Deepawali / Deepavali Festival,தீபாவளி,,,,general,corpus_sourashtradictionary
+,,தி3னுஸ்,dinus,,,,Variety,வகை,,,,general,corpus_sourashtradictionary
+,,தி3ஜனி,dijani,,,,"Wear and Tear, Depreciation","தேய்தல், தேய்மானம்",,,,general,corpus_sourashtradictionary
+,,திகு3ச்சர்,tiguccar,,,,"By itself, Automatically",தன்னால்,,,,general,corpus_sourashtradictionary
+,,திவுச்சர்,tivuccar,,,,"By itself, Automatically",தன்னால்,,,,general,corpus_sourashtradictionary
+,,தீ2ரப்பன்,theerappan,,,,Stability,ஸ்திரத்தன்மை,,,,general,corpus_sourashtradictionary
+,,தீ3 தொ2வெத்தெனொ,dee thovetteno,,,,Lucky,கொடுத்து வைத்தவன்,,,,general,corpus_sourashtradictionary
+,,தீ4னு,dheenu,,,,"Right, Freedom","உரிமை, சுதந்திரம்",,,,general,corpus_sourashtradictionary
+,,து3க்3வாள்,dugvaaL,,,,Famine,பஞ்சம்,,,,general,corpus_sourashtradictionary
+,,து3கா3ள்,dugaaL,,,,Famine,பஞ்சம்,,,,general,corpus_sourashtradictionary
+,,து3ட3கொ,duDako,,,,Split,பிளவு,,,,general,corpus_sourashtradictionary
+,,து3ர்கு3ன்,durgun,,,,Spoling,கெடும்படி,,,,general,corpus_sourashtradictionary
+,,து3ஸ்தர்,dustar,,,,Rare,அபூர்வம்,,,,general,corpus_sourashtradictionary
+,,து3ஸ்தல்,dustal,,,,Rare,அபூர்வம்,,,,general,corpus_sourashtradictionary
+,,து3ஸ்தல்கன்,dustalkan,,,,"Hardly, Rarely","அரிதாக, அபூர்வமாக",poorana ghiraaN dustalkan hosu,Total eclipse occurs rarely,முழு கிரகணம் அரிதாகவே நிகழ்கிறது,general,corpus_sourashtradictionary
+,,து3ஷ்க்ருதின்,dushkrutin,,,,Evil deed,கெட்ட செயல்,,,,general,corpus_sourashtradictionary
+,,து3ஷ்கரெ,dushkare,,,,"Bad deed, Bad activity",மோசமான செயல்,,,,general,corpus_sourashtradictionary
+,,து3ஷ்ட,dushTa,,,,"Bad, Wicked","கெட்ட, பொல்லாத",,,,general,corpus_sourashtradictionary
+,,து4ட்3டு3லத்தெ,dhuDDulatte,,,,Confirmation,உறுதிப்படுத்தல்,,,,general,corpus_sourashtradictionary
+,,துங்கன்,tungkan,,,,Measure of money,பணத்தின் அளவு,,,,general,corpus_sourashtradictionary
+,,துட3ன்,tuDan,,,,"Change, Retail",சில்லறை,,,,general,corpus_sourashtradictionary
+,,துர்னி,turni,,,,Entry,நுழைவு,,,,general,corpus_sourashtradictionary
+,,துருங்க3வாஸ்,turunggavaas,,,,Imprisonment,சிறைவாசம்,,,,general,corpus_sourashtradictionary
+,,துருங்கொ3,turunggo,,,,"Prison, Jail",சிறைச்சாலை,,,,general,corpus_sourashtradictionary
+,,துருன்,turun,,,,Hastily,அவசரமாக,,,,general,corpus_sourashtradictionary
+,,தூ4ம்,dhoom,,,,Smoke,புகை,,,,general,corpus_sourashtradictionary
+,,தூ4ம் பு2வத்தெ,dhoom phuvatte,,,,Smoking,புகை பிடித்தல்,,,,general,corpus_sourashtradictionary
+,,தூ4ம்பான் வள்டி,dhoompaan vaLTi,,,,Cigarette,சிகரெட்,,,,general,corpus_sourashtradictionary
+,,தூ4ர்தொ,dhoorto,,,,Cunning,தந்திரமான,,,,general,corpus_sourashtradictionary
+,,தெ2ட்கி,theTki,,,,stumble,"தடுக்கி, இடறி",,,,general,corpus_sourashtradictionary
+,,தெ2ட்கினி,theTkini,,,,Stuck,சிக்குதல்,,,,general,corpus_sourashtradictionary
+,,தெ3க்கணா,dekkaNaa,,,,Invisible,கண்ணுக்கு தெரியாத,,,,general,corpus_sourashtradictionary
+,,தெ3க்கணா ஜா,dekkaNaa jaa,,,,"Disappear, Vanish","மறைந்து போ, காணாமற்போ",,,,general,corpus_sourashtradictionary
+,,தெ3க்கணாத்தொ ஹொய்யொ,dekkaNaatto hoyyo,,,,"Disappeared, Vanished",மறைந்து போனது,,,,general,corpus_sourashtradictionary
+,,தெ3க்காணி,dekkaaNi,,,,Missing,காணவில்லை,,,,general,corpus_sourashtradictionary
+,,தெ3ட்டு,deTTu,,,,Dense,அடர்த்தி,,,,general,corpus_sourashtradictionary
+,,தெ3ண்டு3,deNDu,,,,Useless,"வெட்டி, பயனற்ற",,,,general,corpus_sourashtradictionary
+,,தெ3ள்கொ,deLko,,,,"Thick, Thickness","கனம், தடிமனான",,,,general,corpus_sourashtradictionary
+,,தெ4ரம்பு3ரால்,dheramburaal,,,,"Hurlyburly, Chaotic, Disorderly",தடால்புடால்,,,,general,corpus_sourashtradictionary
+,,தெ4ர்னி பொட3த்தெ,dherni poDatte,,,,Be caught,பிடிபடுதல்,,,,general,corpus_sourashtradictionary
+,,தெர்ஸி,tersi,,,,"Continue, Keep on, Sustain","தொடரவும், இடைவிடாதிரு",,,,general,corpus_sourashtradictionary
+,,தெர்ஸு,tersu,,,,Continuously,தொடர்ந்து,,,,general,corpus_sourashtradictionary
+,,தை3வத்தன்,daivattan,,,,Luck,அதிர்ஷ்டம்,,,,general,corpus_sourashtradictionary
+,,தொ3ரி,dori,,,,Thread,நூல்,,,,general,corpus_sourashtradictionary
+,,தொ3ஸ்கொகா2ல்,doskokhaal,,,,Upside down,தலைகீழாக,,,,general,corpus_sourashtradictionary
+,,தொக்குல்,tokkul,,,,Contempt,கேவலம்,,,,general,corpus_sourashtradictionary
+,,தொப்3பா3தொப்3பி3னி,tobbaatobbini,,,,Hustle bustle,தள்ளுமுள்ளு,,,,general,corpus_sourashtradictionary
+,,தொப்பத்தெ,toppatte,,,,"Miss, Breach, Violate","தவறுதல், மீறுதல்",,,,general,corpus_sourashtradictionary
+,,தொரண்,toraN,,,,"Line, Queue, Series","வரிசை, தொடர்",,,,general,corpus_sourashtradictionary
+,,தொரப்,torap,,,,Clue,துப்பு,,,,general,corpus_sourashtradictionary
+,,தோ2ட்3தோ2டு3ன்,thODthODun,,,,Little by Little,கொஞ்சம் கொஞ்சமாக,,,,general,corpus_sourashtradictionary
+,,தோ3ர்,dOr,,,,Rope,கயிறு,,,,general,corpus_sourashtradictionary
+,,தோ3வு,dOvu,,,,"Shop, Godown",பேரங்காடி,,,,general,corpus_sourashtradictionary
+,,தோகு,tOku,,,,Opposite,எதிர்,,,,general,corpus_sourashtradictionary
+,,தோன் தே3த்தெ,tOn dEtte,,,,"Dealing, Coping, Facing","எதிர்கொள்ளுதல், சமாளித்தல்",,,,general,corpus_sourashtradictionary
+,,தௌ3ணோ,dauNO,,,,Mirror,கண்ணாடி,,,,general,corpus_sourashtradictionary
+,,நங்கு,nangku,,,,"Hope, Trust","நேர்மை, நம்பிக்கை",,,,general,corpus_sourashtradictionary
+,,நட்கம்,naTkam,,,,Drama,நாடகம்,,,,general,corpus_sourashtradictionary
+,,நடி,naTi,,,,Actress,நடிகை,,,,general,corpus_sourashtradictionary
+,,நடொ,naTo,,,,Actor,நடிகர்,,,,general,corpus_sourashtradictionary
+,,நரகு,naraku,,,,Hell,நரகம்,,,,general,corpus_sourashtradictionary
+,,நஸாத்,nasaat,,,,Loss,நஷ்டம்,,,,general,corpus_sourashtradictionary
+,,நஸினம்,nasinam,,,,Ruin,அழிவு,,,,general,corpus_sourashtradictionary
+,,நஸினம் ஹொயெ,nasinam hoye,,,,Dilapidated,பாழடைந்த,,,,general,corpus_sourashtradictionary
+,,ந்ஹான் தெரொ,nhaan tero,,,,Film,மென் படலம்,,,,general,corpus_sourashtradictionary
+,,நாச்,naac,,,,Cinema,"சினிமா, நாடகம்",,,,general,corpus_sourashtradictionary
+,,நாவ் பொடெ3,naav poDe,,,,Popular,புகழ்பெற்ற,,,,general,corpus_sourashtradictionary
+,,நாவு,naavu,,,,Name,பெயர்,,,,general,corpus_sourashtradictionary
+,,நானாப்ரகார்,naanaaprakaar,,,,"Many kinds, Various types, Variety",பல விதமான,,,,general,corpus_sourashtradictionary
+,,நாஸ்து,naastu,,,,Destruction,அழிவு,,,,general,corpus_sourashtradictionary
+,,நிக்கு,nikku,,,,Mark,குறி,,,,general,corpus_sourashtradictionary
+,,நித்யப்பன்,nityappan,,,,Permanent,நிரந்தரம்,,,,general,corpus_sourashtradictionary
+,,நிர்ணயம்,nirNayam,,,,Determination,தீர்மானித்தல்,,,,general,corpus_sourashtradictionary
+,,நிர்ப3ந்த4ம் கேர்,nirbandham kEr,,,,"Force, Insist, Urge","வற்புறுத்து, கட்டாயப்படுத்து",,,,general,corpus_sourashtradictionary
+,,நிராகரணொ,niraakaraNo,,,,Abrogation,ரத்து செய்தல்,,,,general,corpus_sourashtradictionary
+,,நிவ்ரி,nivri,,,,Share,"பகிர், பங்கு பிரி",,,,general,corpus_sourashtradictionary
+,,நிவேஷ்,nivEsh,,,,Investment,முதலீடு,,,,general,corpus_sourashtradictionary
+,,நிவேஷுபோ2ள்,nivEshuphOL,,,,Return on Investment,முதலீட்டின் மீதான வருவாய்,,,,general,corpus_sourashtradictionary
+,,நிள்ச்சி,niLcci,,,,"Steady, Durable",நிலையாய்,,,,general,corpus_sourashtradictionary
+,,நிஜ்ஜம்,nijjam,,,,Fact,உண்மை,,,,general,corpus_sourashtradictionary
+,,நிஸ்கனொ,niskano,,,,Decision,முடிவு,,,,general,corpus_sourashtradictionary
+,,நீதி,neeti,,,,Justice,"நீதி, நியாயம்",,,,general,corpus_sourashtradictionary
+,,நீபு3,neebu,,,,Wooden water bucket,மரத்தொட்டி,,,,general,corpus_sourashtradictionary
+,,நீவி,neevi,,,,Wooden bucket,தொட்டி,,,,general,corpus_sourashtradictionary
+,,நீஸ்,nees,,,,Guru blasphemy,குரு நிந்தனை,,,,general,corpus_sourashtradictionary
+,,நுக3த்தெ,nugatte,,,,Use,பயன்படுத்துதல்,,,,general,corpus_sourashtradictionary
+,,நுகை3,nugai,,,,Will be useful,பயன்படும்,,,,general,corpus_sourashtradictionary
+,,நுதி,nuti,,,,Fame,புகழ்,,,,general,corpus_sourashtradictionary
+,,நூனம்,noonam,,,,Determination,தீர்மானித்தல்,,,,general,corpus_sourashtradictionary
+,,நெஷ்டி,neshTi,,,,Loss,"நஷ்டம், இழப்பு",,,,general,corpus_sourashtradictionary
+,,நெஷ்டி பொடெ3,neshTi poDe,,,,Lost,இழந்த,,,,general,corpus_sourashtradictionary
+,,நேகு,nEku,,,,"Purity, Clean","தூய்மை, தெளிவு, சுத்தம்",,,,general,corpus_sourashtradictionary
+,,நேர்வெது3ர்,nErvedur,,,,Quite the opposite,நேரெதிரே,,,,general,corpus_sourashtradictionary
+,,நேரும்,nErum,,,,In person,நேரில்,,,,general,corpus_sourashtradictionary
+,,நொம்க்கெ,nomkke,,,,"Confidence, Belief, Trust, Hope",நம்பிக்கை,,,,general,corpus_sourashtradictionary
+,,நொம்மினி,nommini,,,,"Confidence, Belief, Trust, Hope",நம்பிக்கை,,,,general,corpus_sourashtradictionary
+,,நோகு3,nOgu,,,,Action,நடவடிக்கை,,,,general,corpus_sourashtradictionary
+,,ப2லி,phali,,,,"Result, Benefit",பலன்,,,,general,corpus_sourashtradictionary
+,,ப2ள்ளயொ,phaLLayo,,,,Next one,அடுத்த,,,,general,corpus_sourashtradictionary
+,,ப3ந்தி3,bandi,,,,Prisoner,கைதி,,,,general,corpus_sourashtradictionary
+,,ப3பி3லி,babili,,,,Doll,பொம்மை,,,,general,corpus_sourashtradictionary
+,,ப3ர,bara,,,,"Good, Better, Well","நன்று, நல்லது, சிறந்தது",,,,general,corpus_sourashtradictionary
+,,ப3ரொ,baro,,,,"Good, Better, Well","நன்று, நல்லது, சிறந்தது",,,,general,corpus_sourashtradictionary
+,,ப3ரொ ஹோய்,baro hOy,,,,Will heal,குணமாகும்,,,,general,corpus_sourashtradictionary
+,,ப3ஜார்,bajaar,,,,"Market, Bazaar",கடைத்தெரு,,,,general,corpus_sourashtradictionary
+,,ப3ஸ்பம்,baspam,,,,"Ash, Microfined medicine, Drug","சாம்பல், மருந்துப்பொடி",,,,general,corpus_sourashtradictionary
+,,ப4ந்தி3னிப்பன்,bhandinippan,,,,Structural,கட்டமைப்பு,,,,general,corpus_sourashtradictionary
+,,ப4ர்தி,bharti,,,,Instead,பதிலாக,,,,general,corpus_sourashtradictionary
+,,ப4ரம் ஹொயெ,bharam hoye,,,,Heavy,கனமான,,,,general,corpus_sourashtradictionary
+,,ப4ரி,bhari,,,,Big,பெரிய,,,,general,corpus_sourashtradictionary
+,,ப4ரொ,bharo,,,,Load,சுமை,,,,general,corpus_sourashtradictionary
+,,ப4வாட்,bhavaaT,,,,"Noise, Shouting",இரைச்சல்,,,,general,corpus_sourashtradictionary
+,,பக்வம்,pakvam,,,,Maturation,பக்குவம்,,,,general,corpus_sourashtradictionary
+,,பட்டி,paTTi,,,,List,பட்டியல்,,,,general,corpus_sourashtradictionary
+,,படி,paTi,,,,Cotton yarn,பருத்தி நூல்,,,,general,corpus_sourashtradictionary
+,,பதா3ள்,padaaL,,,,Underworld,பாதாளம்,,,,general,corpus_sourashtradictionary
+,,ப்ரக்ஞொ,praknjo,,,,"Wise, Concisious","புத்திசாலி, தன் நினைவுள்ள",,,,general,corpus_sourashtradictionary
+,,ப்ரகார்,prakaar,,,,Type,வகை,,,,general,corpus_sourashtradictionary
+,,ப்ரதா4ன்,pradhaan,,,,"Main, Primary","முக்கிய, முதன்மை",,,,general,corpus_sourashtradictionary
+,,ப்ரதா4ன்கன்,pradhaankan,,,,"Mainly, Primarily","முக்கியமாக, முதன்மையாக",,,,general,corpus_sourashtradictionary
+,,ப்ரதிஜ்ஞொ,pratijnjo,,,,"Vow, Promise","சபதம், வாக்குறுதி",,,,general,corpus_sourashtradictionary
+,,ப்ரதிஜ்ஞொபத்ரொ,pratijnjopatro,,,,"Bond paper, Promissory",முத்திரை தாள்,,,,general,corpus_sourashtradictionary
+,,ப்ரதீகொ,prateeko,,,,Symbol,சின்னம்,,,,general,corpus_sourashtradictionary
+,,ப்ரயத்ன பொட3த்தெ,prayatna poDatte,,,,Trying,முயற்சித்தல்,,,,general,corpus_sourashtradictionary
+,,ப்ரயோஜுன்,prayOjun,,,,Useful,உபயோகம்,,,,general,corpus_sourashtradictionary
+,,பர்வொ ந்ஹீ,parvo nhee,,,,"Nevermind, It's okay",பரவாயில்லை,,,,general,corpus_sourashtradictionary
+,,ப்ரஸித்3தி4,prasiddhi,,,,Trending,அதிகம் பேசப்படும்,,,,general,corpus_sourashtradictionary
+,,ப்ரஶ்னொ,prassno,,,,"Problem, Issue",பிரச்சினை,,,,general,corpus_sourashtradictionary
+,,ப்ரஹேல்,prahEl,,,,Riddle,விடுகதை,,,,general,corpus_sourashtradictionary
+,,ப்ராக்,praak,,,,Front,முன்,,,,general,corpus_sourashtradictionary
+,,பராக்ரமொ,paraakramo,,,,"Valor, Valour, Prowess, Daring","வீரம், துணிவு",,,,general,corpus_sourashtradictionary
+,,ப்ராப்தி,praapti,,,,"Luck, Act of obtaining",பேறு,,,,general,corpus_sourashtradictionary
+,,ப்ரால்,praal,,,,More than,விட,,,,general,corpus_sourashtradictionary
+,,பரிகொ4,parigho,,,,Trench,அகழி,,,,general,corpus_sourashtradictionary
+,,பரிணாம்,pariNaam,,,,Evolution,பரிணாமம்,,,,general,corpus_sourashtradictionary
+,,பரிபாலனொ,paripaalano,,,,Fostering,வளர்த்தல்,,,,general,corpus_sourashtradictionary
+,,பரிஸ்தி2தி,paristhiti,,,,Situation,"சூழ்நிலை, நிலைமை",,,,general,corpus_sourashtradictionary
+,,பரிஶோத4னொ,parissOdhano,,,,"Testing, Experiment","ஆராய்ச்சி, பரிசோதனை",,,,general,corpus_sourashtradictionary
+,,பரிஷேசனொ,parishEcano,,,,Sprinkling,தெளித்தல்,,,,general,corpus_sourashtradictionary
+,,பருன்,parun,,,,Others,பிறர்,,,,general,corpus_sourashtradictionary
+,,பலத்தெ,palatte,,,,Administering,நிர்வகித்தல்,,,,general,corpus_sourashtradictionary
+,,பலனம்,palanam,,,,Administration,நிர்வாகம்,,,,general,corpus_sourashtradictionary
+,,பவ்ரத்,pavrat,,,,"Rebuke, Condemnation","அதட்டுதல், கண்டனம்",,,,general,corpus_sourashtradictionary
+,,பளொ ஹெட3த்தெ,paLo heDatte,,,,Invasion,படை எடுத்தல்,,,,general,corpus_sourashtradictionary
+,,பஜெ மெனே வேங்கு3,paje menE vEnggu,,,,Upon asking,கேட்டவுடன்,,,,general,corpus_sourashtradictionary
+,,பஜெந்தயகாம்,pajentayakaam,,,,Arrangement,ஏற்பாடு,,,,general,corpus_sourashtradictionary
+,,பஜெந்தெ,pajente,,,,"Needful, Requisite",வேண்டிய மட்டும்,,,,general,corpus_sourashtradictionary
+,,பஜெஹோரியொ,pajehOriyo,,,,Need,தேவை,,,,general,corpus_sourashtradictionary
+,,பஸ்கட் ஜாத்தெ,paskaT jaatte,,,,"Follow, Chase, Pursue",பின்தொடர்தல்,,,,general,corpus_sourashtradictionary
+,,பஸொ,paso,,,,Splinter,துரும்பு,,,,general,corpus_sourashtradictionary
+,,பா2ட்,phaaT,,,,Crack,வெடிப்பு,,,,general,corpus_sourashtradictionary
+,,பா4க்3கி3,bhaaggi,,,,Wealth,செல்வம்,,,,general,corpus_sourashtradictionary
+,,பா4க்3யம்,bhaagyam,,,,Luck,அதிர்ஷ்டம்,,,,general,corpus_sourashtradictionary
+,,பா4க்3யவான்,bhaagyavaan,,,,Lucky,அதிர்ஷ்டசாலி,,,,general,corpus_sourashtradictionary
+,,பா4கு3,bhaagu,,,,"Part, Episode","பாகம், அத்தியாயம்",,,,general,corpus_sourashtradictionary
+,,பா4ட்,bhaaT,,,,Uproar,கூக்குரல்,,,,general,corpus_sourashtradictionary
+,,பா4ர்,bhaar,,,,Responsibility,பொறுப்பு,,,,general,corpus_sourashtradictionary
+,,பா4ரு,bhaaru,,,,"Weight, Burden","கனம், சுமை",,,,general,corpus_sourashtradictionary
+,,பா4வனொ,bhaavano,,,,Meaning,பொருள்,,,,general,corpus_sourashtradictionary
+,,பா4ஷா வல்லரி,bhaashaa vallari,,,,Bouquet of Language,மொழிப் பூங்கொத்து,,,,general,corpus_sourashtradictionary
+,,பா4ஷொ,bhaasho,,,,Language,மொழி,,,,general,corpus_sourashtradictionary
+,,பாம்ஶு,paamssu,,,,Pension,ஓய்வூதியம்,,,,general,corpus_sourashtradictionary
+,,பி2ரி,phiri,,,,"Again, Repeat, Return","திருப்பி, திரும்பவும், மீண்டும், மறுபடியும்",,,,general,corpus_sourashtradictionary
+,,பி2ரிஹுட3த்திஸாயொ,phirihuDattisaayo,,,,Resilient,மீள்தன்மையுடையது,,,,general,corpus_sourashtradictionary
+,,பி2ரிஹுட3ன் கு3ண்ணு,phirihuDan guNNu,,,,Resilience,மீள்தன்மை,,,,general,corpus_sourashtradictionary
+,,பி3கு3ஸ்,bigus,,,,Pressure,அழுத்தம்,,,,general,corpus_sourashtradictionary
+,,பி3ஸ்ஸொ,bisso,,,,Speed,வேகமாக,,,,general,corpus_sourashtradictionary
+,,பி4டா3த்திஸா,bhiDaattisaa,,,,Acceptable,ஏற்கத்தக்க,,,,general,corpus_sourashtradictionary
+,,பி4டாத்திஸொ,bhiTaattiso,,,,Deserve to be friendly,நட்பு கொள்ள தக்க,,,,general,corpus_sourashtradictionary
+,,பி4டௌ3த்திஸொ,bhiDauttiso,,,,Believable,நம்பும்படியாக,,,,general,corpus_sourashtradictionary
+,,பி4ண்டி3னி,bhiNDini,,,,"Belief, Trust, Hope",நம்பிக்கை,,,,general,corpus_sourashtradictionary
+,,பி4ருஸ்,bhirus,,,,"Tight, Numb","இறுகின, மரத்துப் போன",,,,general,corpus_sourashtradictionary
+,,பிர்ஜனம்,pirjanam,,,,"Benefit, Use","அனுகூலம், நன்மை",,,,general,corpus_sourashtradictionary
+,,பிள்டி,piLTi,,,,"Doll, Toy, Puppet, Stooge","பொம்மை, கைக்கூலி",,,,general,corpus_sourashtradictionary
+,,பிஸதய,pisataya,,,,"Stupid, Nonsense",முட்டாள்தனமான,,,,general,corpus_sourashtradictionary
+,,பு2ட்3கொ துட்3கொ,phuDko tuDko,,,,Miscellaneous,இதர,,,,general,corpus_sourashtradictionary
+,,பு2ட்கோ,phuTkO,,,,"Hole, Torn","ஓட்டை, கிழிந்த",,,,general,corpus_sourashtradictionary
+,,பு2ரத்திகொ,phurattiko,,,,For the rest,மீதம் இருப்பதற்கு,,,,general,corpus_sourashtradictionary
+,,பு2ர்னா,phurnaa,,,,Not enough,போதாது,,,,general,corpus_sourashtradictionary
+,,பு2ரொ,phuro,,,,Enough,"போதும், போதுமான",,,,general,corpus_sourashtradictionary
+,,பு2ரொ ஹொய்யொ,phuro hoyyo,,,,Bored,சலித்துவிட்டது,,,,general,corpus_sourashtradictionary
+,,பு2ரொ ஹோத்திஸா,phuro hOttisaa,,,,Boring,சலிப்பு தட்டக்கூடிய,,,,general,corpus_sourashtradictionary
+,,பு2லாபு2லி,phulaaphuli,,,,White Wart,பால் மரு,,,,general,corpus_sourashtradictionary
+,,பு2வணி,phuvaNi,,,,"Whistle, Bugle","ஊதல், ஊதுகுழல்",,,,general,corpus_sourashtradictionary
+,,பு2ள்ளயொ,phuLLayo,,,,Previous one,முந்தைய,,,,general,corpus_sourashtradictionary
+,,பு2ள்ளொ,phuLLo,,,,"Before, Previous","முன்னால், முந்தைய",,,,general,corpus_sourashtradictionary
+,,பு3த்3தி4,buddhi,,,,"Wisdom, Intelligence, Wit","புத்திக்கூர்மை, அறிவு",,,,general,corpus_sourashtradictionary
+,,பு3வ்ட3த்தெ,buvDatte,,,,Dipping,நனைத்தல்,,,,general,corpus_sourashtradictionary
+,,புகா2ர்,pukhaar,,,,Complaint,குற்றச்சாட்டு,,,,general,corpus_sourashtradictionary
+,,புட்டொ,puTTo,,,,Hole,ஓட்டை,,,,general,corpus_sourashtradictionary
+,,புஸ்னி,pusni,,,,Question,கேள்வி,,,,general,corpus_sourashtradictionary
+,,பூர்ணொ,poorNo,,,,Full,முழு,,,,general,corpus_sourashtradictionary
+,,பூர்தி,poorti,,,,Complete,முழுமை,,,,general,corpus_sourashtradictionary
+,,பெ4ள்ளி,bheLLi,,,,"Very much, Highly, Sorely",மிகவும்,,,,general,corpus_sourashtradictionary
+,,பெ4ளி,bheLi,,,,"More, Highly, Very","மிக, மிகவும், அதிக",,,,general,corpus_sourashtradictionary
+,,பெ4ளி ஸ்ரேஷ்டு2,bheLi srEshThu,,,,"Awesome, Elegant, Exquisite, Finest, Grand, Magnificent","அற்புதமான, நேர்த்தியான, சிறந்த, பிரமாண்டமான",,,,general,corpus_sourashtradictionary
+,,பெட்மாட்,peTmaaT,,,,Sitting Cross legged,சப்பணம்,,,,general,corpus_sourashtradictionary
+,,பெத்தெ,pette,,,,"Alone, Separate",தனியாக,,,,general,corpus_sourashtradictionary
+,,பெரும்போ3,perumbO,,,,Drat,நாசமாய் (போக),,,,general,corpus_sourashtradictionary
+,,பெஶாவ்,pessaav,,,,"Broad, Wide, Width",அகலமான,,,,general,corpus_sourashtradictionary
+,,பே4த்,bhEt,,,,Difference,வேறுபாடு,,,,general,corpus_sourashtradictionary
+,,பை2லாதி,phailaati,,,,Etcetera,முதலிய,,,,general,corpus_sourashtradictionary
+,,பை3,bai,,,,Debit,பற்று,,,,general,corpus_sourashtradictionary
+,,பைடி3,paiDi,,,,Cap,தொப்பி,,,,general,corpus_sourashtradictionary
+,,பைஸல்,paisal,,,,Solution,தீர்வு,,,,general,corpus_sourashtradictionary
+,,பொ3ணால்,boNaal,,,,"Fire Cracker, Crackers",பட்டாசு,,,,general,corpus_sourashtradictionary
+,,பொ3து3ல்,bodul,,,,"Instead, Substitue","பதிலாக, மாற்றாக்",,,,general,corpus_sourashtradictionary
+,,பொ3லம்,bolam,,,,"Strength, Force, Power","பலம், வலிமை",,,,general,corpus_sourashtradictionary
+,,பொ3லம் ஹொயெ,bolam hoye,,,,"Strong, Forceful, Powerful","பலமான, வலிமையான",,,,general,corpus_sourashtradictionary
+,,பொ3லிம்,bolim,,,,"Strength, Force","பலம், வலிமை",,,,general,corpus_sourashtradictionary
+,,பொ4ங்கு3ரொ,bhongguro,,,,Top,பம்பரம்,,,,general,corpus_sourashtradictionary
+,,பொ4த்3ரம்,bhodram,,,,"Careful,Safety","கவனம், பத்திரம், பாதுகாப்பு",,,,general,corpus_sourashtradictionary
+,,பொ4த்3ரம் ஹொயெ,bhodram hoye,,,,Safe,"பத்திரமான, பாதுகாப்பான",,,,general,corpus_sourashtradictionary
+,,பொ4த்3ரம்கன்,bhodramkan,,,,"Carefully, Safely","பத்திரமாக, பாதுகாப்பாக",,,,general,corpus_sourashtradictionary
+,,பொ4ம்,bhom,,,,Conch,சங்கு,,,,general,corpus_sourashtradictionary
+,,பொ4ய்ஸ்,bhoys,,,,"Opulence, Status","பவுசு, அந்தஸ்து",,,,general,corpus_sourashtradictionary
+,,பொ4வெ,bhove,,,,Many,நிறைய,,,,general,corpus_sourashtradictionary
+,,பொக்கு,pokku,,,,"Hull, Husk",தொலி,,,,general,corpus_sourashtradictionary
+,,பொகட்,pokaT,,,,"Side, Sideways","பக்க, பக்கமாக",,,,general,corpus_sourashtradictionary
+,,பொக்ளொ,pokLo,,,,Near by,அருகில்,,,,general,corpus_sourashtradictionary
+,,பொஞ்சி,ponjci,,,,Village Council,பஞ்சாயத்து,,,,general,corpus_sourashtradictionary
+,,பொட்டாஸ்,poTTaas,,,,Fire Cracker,பட்டாசு,,,,general,corpus_sourashtradictionary
+,,பொட்டேட்,poTTET,,,,Workshop,பட்டறை,,,,general,corpus_sourashtradictionary
+,,பொராக் ஸாத்தெ,poraak saatte,,,,Watching passively,வேடிக்கை பார்த்தல்,,,,general,corpus_sourashtradictionary
+,,பொள்கி3னி,poLgini,,,,Socializing,பழக்கம்,,,,general,corpus_sourashtradictionary
+,,போ2குர்,phOkur,,,,"Side, Towards",பக்கமாக,,,,general,corpus_sourashtradictionary
+,,போ2ரு,phOru,,,,Table,மேசை,,,,general,corpus_sourashtradictionary
+,,போ2லு,phOlu,,,,"Fruit, Benefit, Result, Effect","பலன், விளைவு",,,,general,corpus_sourashtradictionary
+,,போ2ள்,phOL,,,,"Fruit, Benefit, Result, Effect","பலன், விளைவு",,,,general,corpus_sourashtradictionary
+,,போ3த4னொ,bOdhano,,,,Advice,அறிவுரை,,,,general,corpus_sourashtradictionary
+,,மந்தொ3,mando,,,,"Dull, Blunt","மந்தமான, மழுங்கிய",,,,general,corpus_sourashtradictionary
+,,ம்ருது3லொ,mrudulo,,,,"Soft, Gentle, Polite","மென்மை, மென்மையான",,,,general,corpus_sourashtradictionary
+,,மல்லாமல்லினி,mallaamallini,,,,"Hustle bustle, Chaos","சலசலப்பு, பெருங்குழப்பம்",,,,general,corpus_sourashtradictionary
+,,மளீ,maLee,,,,Dirty,அழுக்கான,,,,general,corpus_sourashtradictionary
+,,"மஹத்வம், கு3ருத்வம்","mahatvam, gurutvam",,,,Importance,முக்கியத்துவம்,,,,general,corpus_sourashtradictionary
+,,ம்ஹெத்3தி3 தரொ,mheddi taro,,,,Medium,நடுத்தரம்,,,,general,corpus_sourashtradictionary
+,,ம்ஹொடொ3,mhoDo,,,,Capital,பெரிய,,,,general,corpus_sourashtradictionary
+,,ம்ஹொத்3தி3,mhoddi,,,,Middle,"நடுவில், மையம், இடை",,,,general,corpus_sourashtradictionary
+,,ம்ஹொஜார்,mhojaar,,,,Middle,"நடுவில், மையம், இடை",,,,general,corpus_sourashtradictionary
+,,மாய்பா4ஷொ,maaybhaasho,,,,"Mother tongue, Mother-tongue",தாய் மொழி,,,,general,corpus_sourashtradictionary
+,,மார்கு3,maargu,,,,"Way, Path","பாதை, வழி",,,,general,corpus_sourashtradictionary
+,,மிதி,miti,,,,"Limit, Border, Boundary",எல்லை,,,,general,corpus_sourashtradictionary
+,,மிள்ட,miLTa,,,,Added up,சேரும்,,,,general,corpus_sourashtradictionary
+,,மிளத்தெ,miLatte,,,,Departure,புறப்படுதல்,,,,general,corpus_sourashtradictionary
+,,மிள்நாத்தொ,miLnaatto,,,,Without joining,சேராமல்,,,,general,corpus_sourashtradictionary
+,,மிள்னி,miLni,,,,"Meeting, Union",சந்தித்தல்,,,,general,corpus_sourashtradictionary
+,,மிளாமேள்,miLaamEL,,,,"Meeting, Union",சந்தித்தல்,,,,general,corpus_sourashtradictionary
+,,மிளை,miLai,,,,Will get,கிடைக்கும்,,,,general,corpus_sourashtradictionary
+,,முக3த்தெ,mugatte,,,,Search,தேடுதல்,,,,general,corpus_sourashtradictionary
+,,முக்யம்,mukyam,,,,Important,முக்கியம்,,,,general,corpus_sourashtradictionary
+,,முத்3ரொ,mudro,,,,"Stamp, Impression, Seal",முத்திரை,,,,general,corpus_sourashtradictionary
+,,முது3ல்லொ,mudullo,,,,"First, Firstly, Advance","முதலில், முன்கூட்டியே",,,,general,corpus_sourashtradictionary
+,,முரளி,muraLi,,,,Flute,புல்லாங்குழல்,,,,general,corpus_sourashtradictionary
+,,முரி,muri,,,,Dirt,அழுக்கு,,,,general,corpus_sourashtradictionary
+,,முரி அட்டு,muri aTTu,,,,Overly Dirt,அதிக அழுக்கு,,,,general,corpus_sourashtradictionary
+,,முரி ஹொயெ,muri hoye,,,,Dirty,அழுக்கான,,,,general,corpus_sourashtradictionary
+,,முஜ்ஜொ,mujjo,,,,Done,முடிந்தது,,,,general,corpus_sourashtradictionary
+,,முஜுன்,mujun,,,,Bad deeds,தீய செயல்கள்,,,,general,corpus_sourashtradictionary
+,,முஸை,musai,,,,"Possible, May","சாத்தியம், கூடும்",,,,general,corpus_sourashtradictionary
+,,மூஸி,moosi,,,,Edge,முனை,,,,general,corpus_sourashtradictionary
+,,மெத்தன்,mettan,,,,"Soft, Crisp",மிருதுவான,,,,general,corpus_sourashtradictionary
+,,மெனிக்யத்தன்,menikyattan,,,,Effort,முயற்சி,,,,general,corpus_sourashtradictionary
+,,மொஸி,meaasi,,,,Soot,புகைக்கரி,,,,general,corpus_sourashtradictionary
+,,மேட்,mET,,,,"Best, Excellent",சிறந்த,,,,general,corpus_sourashtradictionary
+,,மேடுன்,mETun,,,,Elite,சிறந்தவர்கள்,,,,general,corpus_sourashtradictionary
+,,மைத்ரி,maitri,,,,Friendship,நட்பு,,,,general,corpus_sourashtradictionary
+,,மொக்குளொ,mokkuLo,,,,Delightfully,நன்றாக,,,,general,corpus_sourashtradictionary
+,,மொகி3ன்,mogin,,,,"Ignorant, Idiot, Nincompoop",அறிவற்றவன்,,,,general,corpus_sourashtradictionary
+,,மொது3ரளி,moduraLi,,,,"Employer, Boss",முதலாளி,,,,general,corpus_sourashtradictionary
+,,மொரண் ஸேரு,moraN sEru,,,,"Numerous, Plenty, Ample","எண்ணற்ற, ஏராளமான",,,,general,corpus_sourashtradictionary
+,,மொரணு பத்ரொ,moraNu patro,,,,Will,உயில்,,,,general,corpus_sourashtradictionary
+,,மொரளி,moraLi,,,,Rich,பணக்காரன்,,,,general,corpus_sourashtradictionary
+,,மொருமு,morumu,,,,"Secret, Supense","இரகசியம், மர்மம்",,,,general,corpus_sourashtradictionary
+,,மொனொ,mono,,,,Sharp,கூர்மை,,,,general,corpus_sourashtradictionary
+,,மொஶான்,mossaan,,,,Cemetry,மயானம்,,,,general,corpus_sourashtradictionary
+,,மோல்,mOl,,,,"Price, Cost, Value","விலை, மதிப்பு",,,,general,corpus_sourashtradictionary
+,,மோவு,mOvu,,,,Size,அளவு,,,,general,corpus_sourashtradictionary
+,,மோஸ்,mOs,,,,Humbug,மோசம்,,,,general,corpus_sourashtradictionary
+,,மோஹத்திஸா,mOhattisaa,,,,"Sexy, Glamour",கவர்ச்சியான,,,,general,corpus_sourashtradictionary
+,,யத்தன்,yattan,,,,"Attempt, Try",முயற்சி,,,,general,corpus_sourashtradictionary
+,,யஷ்டி,yashTi,,,,"Stick, Rod","குச்சி, தடி",,,,general,corpus_sourashtradictionary
+,,யுத்3,yud,,,,War,போர்,,,,general,corpus_sourashtradictionary
+,,யோஜனொ,yOjano,,,,"Plan, Project",திட்டம்,,,,general,corpus_sourashtradictionary
+,,ரத்3து3 கெரத்தெ,raddu keratte,,,,Cancellation,ரத்து செய்தல்,,,,general,corpus_sourashtradictionary
+,,ரப்தா வத்தான்,raptaa vattaan,,,,Colloquial,பேச்சுவழக்கு,,,,general,corpus_sourashtradictionary
+,,ர்ரூப்,rroop,,,,"Figure, Image, Design","உருவம், வடிவமைப்பு",,,,general,corpus_sourashtradictionary
+,,ரல்,ral,,,,Capital,மூலதனம்,,,,general,corpus_sourashtradictionary
+,,ர்ஹத்த,rhatta,,,,"Real, True",உண்மையான,,,,general,corpus_sourashtradictionary
+,,ர்ஹவாரனி,rhavaarani,,,,Could not be,இருக்க முடியவில்லை,,,,general,corpus_sourashtradictionary
+,,ர்ஹவொ,rhavo,,,,Stay,இருங்கள்,,,,general,corpus_sourashtradictionary
+,,ர்ஹியெ ஒன்னு,rhiye onnu,,,,All of a Sudden,திடீரென்று,,,,general,corpus_sourashtradictionary
+,,ர்ஹியெவாகுர்,rhiyevaakur,,,,Suddenly,திடீரென்று,,,,general,corpus_sourashtradictionary
+,,ரிங்க3ட3த்தெ,ringgaDatte,,,,Beating again and again,அடி அடி என அடித்தல்,,,,general,corpus_sourashtradictionary
+,,ரித்தி,ritti,,,,Waste,வீண்,,,,general,corpus_sourashtradictionary
+,,ரீண்,reeN,,,,Debt,கடன்,,,,general,corpus_sourashtradictionary
+,,ரீதி,reeti,,,,"Manner, Fashion, Style","முறை, பாணி, பாங்கு",,,,general,corpus_sourashtradictionary
+,,ருதன்,rutan,,,,"True, Truth",உண்மை,,,,general,corpus_sourashtradictionary
+,,ருந்தி3,rundi,,,,"Spread, Widely","பரவி, அகலமாக",,,,general,corpus_sourashtradictionary
+,,ருஜிம்,rujim,,,,In person,நேரில்,,,,general,corpus_sourashtradictionary
+,,ருஜு,ruju,,,,"Fact, Truth",உண்மை,,,,general,corpus_sourashtradictionary
+,,ரூட் ஹனத்தெ,rooT hanatte,,,,Plunder,கொள்ளையடித்தல்,,,,general,corpus_sourashtradictionary
+,,ரூடி4,rooDhi,,,,"Habit, Practice, Tradition",பழக்கம்,,,,general,corpus_sourashtradictionary
+,,ரூடு,rooTu,,,,Robbery,கொள்ளை,,,,general,corpus_sourashtradictionary
+,,ரூணி,rooNi,,,,Habit,பழக்கம்,,,,general,corpus_sourashtradictionary
+,,ரூப்,roop,,,,"Form, Feature",உருவம்,,,,general,corpus_sourashtradictionary
+,,ரூபு,roopu,,,,Beauty,அழகு,,,,general,corpus_sourashtradictionary
+,,ரெச்செ,recce,,,,Noise,கூச்சல்,,,,general,corpus_sourashtradictionary
+,,ரெந்து3,rendu,,,,Gap,"இடைவெளி, வரை",,,,general,corpus_sourashtradictionary
+,,ரேய்,rEy,,,,Hey,"அடேய், ஏய்",,,,general,corpus_sourashtradictionary
+,,ரை,rai,,,,Wealth,செல்வம்,,,,general,corpus_sourashtradictionary
+,,ரொக்டொ3,rokDo,,,,"Cash, Sum, Amount","ரொக்கம், தொகை",,,,general,corpus_sourashtradictionary
+,,ரொஸம்,rosam,,,,Irate,ரோஷம்,,,,general,corpus_sourashtradictionary
+,,லக3ரஸ்,lagaras,,,,"Seems, Feel",தோணுகிறது,,,,general,corpus_sourashtradictionary
+,,லகை3,lagai,,,,"Will take, Seems","ஆகும், தோணும்",,,,general,corpus_sourashtradictionary
+,,லங்க3ர்,langgar,,,,Anchor,நங்கூரம்,,,,general,corpus_sourashtradictionary
+,,லடை3,laDai,,,,"Fight, Battle","போர், சண்டை",,,,general,corpus_sourashtradictionary
+,,லம்பு3,lambu,,,,Long,நீளமான,,,,general,corpus_sourashtradictionary
+,,லவ்காஸ்,lavkaas,,,,"Matter, Detail, News","விஷயம், விவரம், செய்தி",,,,general,corpus_sourashtradictionary
+,,ல்ஹெக்கொ,lhekko,,,,"Account, Calculation",கணக்கு,,,,general,corpus_sourashtradictionary
+,,ல்ஹெகு3,lhegu,,,,Easy,எளிதான,,,,general,corpus_sourashtradictionary
+,,ல்ஹெகூ3வர்,lhegoovar,,,,"With ease, Easily",எளிதாக,,,,general,corpus_sourashtradictionary
+,,லாப்,laap,,,,"Profit, Benefit","லாபம், நன்மை",,,,general,corpus_sourashtradictionary
+,,லாலித்யொ,laalityo,,,,Elegance,நேர்த்தி,,,,general,corpus_sourashtradictionary
+,,லானி,laani,,,,"Better, It's Okay","சிறந்தது, நல்லது, பரவாயில்லை",,,,general,corpus_sourashtradictionary
+,,லுண்டி,luNTi,,,,"Violation, Breach","மீறுதல், மீறல்",,,,general,corpus_sourashtradictionary
+,,லெக்கு,lekku,,,,"Particular Place, Destination",இடம்,,,,general,corpus_sourashtradictionary
+,,லெக்ஷன்,lekshan,,,,"Unit, Identity","அலகு, அடையாளம்",,,,general,corpus_sourashtradictionary
+,,லெங்கு3,lenggu,,,,"Till, Until, Up to","வரை, வரைக்கும்",,,,general,corpus_sourashtradictionary
+,,லென்து,lentu,,,,"Till, Until, Up to","வரை, வரைக்கும்",,,,general,corpus_sourashtradictionary
+,,லொட3த்தெ,loDatte,,,,To come inside,உள்ளே வருதல்,,,,general,corpus_sourashtradictionary
+,,லொட்கினி,loTkini,,,,Stumble,கால் தடுமாற்றம்,,,,general,corpus_sourashtradictionary
+,,லொம்பி3,lombi,,,,Tired,தளர்ந்து,,,,general,corpus_sourashtradictionary
+,,லொம்பு3,lombu,,,,Long,நீளமான,,,,general,corpus_sourashtradictionary
+,,லொள்வாத்தெ,loLvaatte,,,,Stumbling,தடுமாறுதல்,,,,general,corpus_sourashtradictionary
+,,லோள் பொட3த்தெ,lOL poDatte,,,,"Running from pillar to post, Wandering","சீரழிதல், அலைதல்",,,,general,corpus_sourashtradictionary
+,,லௌகாஸ்,laukaas,,,,Matter,விஷயம்,,,,general,corpus_sourashtradictionary
+,,வக்ர,vakra,,,,Crooked,நேர்மையற்ற,,,,general,corpus_sourashtradictionary
+,,வகொ3,vago,,,,"Type, Kinds",வகை,,,,general,corpus_sourashtradictionary
+,,வட்கெ,vaTke,,,,"Custom, Routine, Used to","வழக்கம், வாடிக்கை",,,,general,corpus_sourashtradictionary
+,,வடி3னி,vaDini,,,,"Wilt, Wither","வாடிப்போதல், வதங்குதல்",,,,general,corpus_sourashtradictionary
+,,வடொ,vaTo,,,,"Part, Share, Role","பங்கு, பாகம்",,,,general,corpus_sourashtradictionary
+,,வணி,vaNi,,,,Business,வியாபாரம்,,,,general,corpus_sourashtradictionary
+,,வத்தாபுட்3கி,vattaapuDki,,,,Dictionary,அகராதி,,,,general,corpus_sourashtradictionary
+,,வத்தாபெடி,vattaapeTi,,,,Dictionary,அகராதி,,,,general,corpus_sourashtradictionary
+,,வத்தான்,vattaan,,,,Words,சொற்கள்,,,,general,corpus_sourashtradictionary
+,,வத்தொ,vatteaa,,,,"Speech, Conversation, Chat","பேச்சு, உரையாடல்",,,,general,corpus_sourashtradictionary
+,,வத்தொபோ3ல்,vattobOl,,,,"Chat, Speaking term, Dialogue","அரட்டை, பேச்சுவார்த்தை",,,,general,corpus_sourashtradictionary
+,,வதி3னி,vadini,,,,Communication,"தொடர்பு, தகவல் பரிமாற்றம்",,,,general,corpus_sourashtradictionary
+,,வரெ,vare,,,,Business,வியாபாரம்,,,,general,corpus_sourashtradictionary
+,,வஸ்து,vastu,,,,"Article, object, item, Goods",பொருள்,,,,general,corpus_sourashtradictionary
+,,வஹு,vahu,,,,Dump,அடை,,,,general,corpus_sourashtradictionary
+,,வாகு,vaaku,,,,Word,சொல்,,,,general,corpus_sourashtradictionary
+,,வாள்,vaaL,,,,"Number of times, Times",தடவை,,,,general,corpus_sourashtradictionary
+,,வாஸ்கொ3ளொ,vaasgoLo,,,,Cloth Ball,துணிப்பந்து,,,,general,corpus_sourashtradictionary
+,,விக்கு,vikku,,,,Poison,"விஷம், சிங்கி, நஞ்சு",,,,general,corpus_sourashtradictionary
+,,விங்கினி,vingkini,,,,Change,மாற்றம்,,,,general,corpus_sourashtradictionary
+,,வித4ம்,vidham,,,,"Kind, Type, Category, Class",வகை,,,,general,corpus_sourashtradictionary
+,,வித்தொ / விர்த்தொ,vitteaa / virtteaa,,,,"Waste, Unnecessary","வீண், தேவையற்ற",,,,general,corpus_sourashtradictionary
+,,வித்தா வத்தொ,vittaa vatteaa,,,,Gossip,வீண்பேச்சு,,,,general,corpus_sourashtradictionary
+,,விதி4,vidhi,,,,Rule,விதிமுறை,,,,general,corpus_sourashtradictionary
+,,விபத்,vipat,,,,Dangerous,அபாயமாக,,,,general,corpus_sourashtradictionary
+,,விர்தாக்,virtaak,,,,"Waste, In Vain, Unnecessary","வீண், வீணாக",,,,general,corpus_sourashtradictionary
+,,விரதி,virati,,,,Retirement,பணி ஓய்வு,,,,general,corpus_sourashtradictionary
+,,விவரிணி,vivariNi,,,,Details,விவரம்,,,,general,corpus_sourashtradictionary
+,,விஜனொ,vijaneaa,,,,Fan,விசிறி,,,,general,corpus_sourashtradictionary
+,,விஸ்தார்,vistaar,,,,Broad,"பரந்த, விரிவு",,,,general,corpus_sourashtradictionary
+,,விஸ்ராத்தெ,visraatte,,,,Forgetting,மறத்தல்,,,,general,corpus_sourashtradictionary
+,,விஸ்வாஸ்,visvaas,,,,Faith,விசுவாசம்,,,,general,corpus_sourashtradictionary
+,,விஶ்ராந்தி,vissraanti,,,,"Rest, Relaxation",ஓய்வு,,,,general,corpus_sourashtradictionary
+,,விஶ்வாஸ்,vissvaas,,,,Belief,நம்பிக்கை,,,,general,corpus_sourashtradictionary
+,,விஶேஷ்,vissEsh,,,,"Special, Function","சிறப்பு, நிகழ்ச்சி",,,,general,corpus_sourashtradictionary
+,,வெக்கினிதெ3க்கினி,vekkinidekkini,,,,Interview,பேட்டி,,,,general,corpus_sourashtradictionary
+,,வெகுள,vekuLa,,,,Different,வேறு,,,,general,corpus_sourashtradictionary
+,,வெடி3க்,veDik,,,,Fun,வேடிக்கை,,,,general,corpus_sourashtradictionary
+,,வெது3ர்,vedur,,,,In front of,எதிரே,,,,general,corpus_sourashtradictionary
+,,வெது3ர் கெர்லத்தெ,vedur kerlatte,,,,"Deal with, Cope with, Face","எதிர்கொள்வது, சமாளிப்பது, கையாள்வது",,Children need to be taught how to deal with difficult times,கடினமான காலங்களை எப்படி எதிர்கொள்வது என்பதை குழந்தைகளுக்கு கற்றுக்கொடுக்க வேண்டும்,general,corpus_sourashtradictionary
+,,வெது3ர் ஸெத்3து3,vedur seddu,,,,Echo,எதிரொலி,,,,general,corpus_sourashtradictionary
+,,வெள்கி3னி,veLgini,,,,Separation,"பிரிதல், பிரிவு",,,,general,corpus_sourashtradictionary
+,,வேய்,vEy,,,,Let it be,இருக்கட்டும்,,,,general,corpus_sourashtradictionary
+,,வேஸ்,vEs,,,,Expense,செலவு,,,,general,corpus_sourashtradictionary
+,,ஜ2ண்டா3வு,jhaNDaavu,,,,Flag,கொடி,,,,general,corpus_sourashtradictionary
+,,ஜக3ரம்,jagaram,,,,"Awake, Alert, Vigilant","விழிப்பு, விழிப்புடன்",,,,general,corpus_sourashtradictionary
+,,ஜங்க்,jangk,,,,"Way, Path",வழி,,,,general,corpus_sourashtradictionary
+,,ஜவாப்,javaap,,,,Answer,பதில்,,,,general,corpus_sourashtradictionary
+,,ஜனத்தகொ,janattako,,,,To know,அறிய,,,,general,corpus_sourashtradictionary
+,,ஜன்லத்தெ,janlatte,,,,Understanding,"புரிதல், புரிந்துகொள்ளுதல்",,,,general,corpus_sourashtradictionary
+,,ஜன்லுனாத்தெ,janlunaatte,,,,Ignorance,அறியாமை,,,,general,corpus_sourashtradictionary
+,,ஜனி,jani,,,,Trend,போக்கு,,,,general,corpus_sourashtradictionary
+,,ஜா பி2ஜ்ஜாய்,jaa phijjaay,,,,Get lost,தொலைந்து போ,,,,general,corpus_sourashtradictionary
+,,ஜாக்3ரதொ,jaagrato,,,,"Careful, Beware",கவனம்,,,,general,corpus_sourashtradictionary
+,,ஜாதி,jaati,,,,Variety,வகை,,,,general,corpus_sourashtradictionary
+,,ஜாரா,jaaraa,,,,Go,போடா,,,,general,corpus_sourashtradictionary
+,,ஜால்,jaal,,,,"Net, Web",வலை,,,,general,corpus_sourashtradictionary
+,,ஜாள்,jaaL,,,,"Burn, Irritation","எரி, எரிச்சல்",,,,general,corpus_sourashtradictionary
+,,ஜியெஸ்,jiyes,,,,Gone,சென்றது,,,,general,corpus_sourashtradictionary
+,,ஜீலிஅவுஸ்,jeeliavus,,,,"Goodbye, Farewell",பிரியாவிடை,,,,general,corpus_sourashtradictionary
+,,ஜுட்னா,juTnaa,,,,Won't get,கிடைக்காது,,,,general,corpus_sourashtradictionary
+,,ஜுடை3,juDai,,,,Will get,கிடைக்கும்,,,,general,corpus_sourashtradictionary
+,,ஜுண்ண,juNNa,,,,"No, ain't",இல்லை,,,,general,corpus_sourashtradictionary
+,,ஜுலன்,julan,,,,Shining,ஒளிரும்,,,,general,corpus_sourashtradictionary
+,,ஜெ2டொ3,jheDo,,,,Fight,சண்டை,,,,general,corpus_sourashtradictionary
+,,ஜெ2ர்ப்பாய்,jherppaay,,,,Seep,கசியும்,,,,general,corpus_sourashtradictionary
+,,ஜெதொ3,jedo,,,,"Team, Group",அணி,,,,general,corpus_sourashtradictionary
+,,ஜெதொ3மிளன்,jedomiLan,,,,Alliance,கூட்டணி,,,,general,corpus_sourashtradictionary
+,,ஜேம்,jEm,,,,Gift,வெகுமதி,,,,general,corpus_sourashtradictionary
+,,ஜொடி3,joDi,,,,"Pair, Couples","இணை, இருவர்",,,,general,corpus_sourashtradictionary
+,,ஸக்ரியொ,sakriyo,,,,"Agile, Active",சுறுசுறுப்பான,,,,general,corpus_sourashtradictionary
+,,ஸகல,sakala,,,,All,அனைத்தும்,,,,general,corpus_sourashtradictionary
+,,ஸங்கீ3த்,sanggeet,,,,Music,இசை,,,,general,corpus_sourashtradictionary
+,,ஸத்,sat,,,,"True, Truth, Good","உண்மை, நல்ல",,,,general,corpus_sourashtradictionary
+,,ஸத3ஸ்,sadas,,,,"Council, Assembly",சபை,,,,general,corpus_sourashtradictionary
+,,ஸத்கரெ,satkare,,,,"Good deed, Good activity",நல்ல செயல்,,,,general,corpus_sourashtradictionary
+,,ஸ்தான்யொ,staanyo,,,,Since,"முதல், இருந்து",,,,general,corpus_sourashtradictionary
+,,ஸ்தி2தி,sthiti,,,,"Condition, State",நிலை,,,,general,corpus_sourashtradictionary
+,,ஸ்திரம்,stiram,,,,"Confirmation, Assurance",உறுதி,,,,general,corpus_sourashtradictionary
+,,"ஸ்திரம் கேர், து4ட்3டி3","stiram kEr, dhuDDi",,,,Confirm,உறுதிப்படுத்தவும்,,,,general,corpus_sourashtradictionary
+,,ஸப்3தா3ர்துன்,sabdaartun,,,,Meaning,சொற்பொருள்,,,,general,corpus_sourashtradictionary
+,,ஸபா4,sabhaa,,,,"Assembly, Forum, Gathering",சபை,,,,general,corpus_sourashtradictionary
+,,ஸம்டை,samTai,,,,Will be available,கிடைக்கும்,,,,general,corpus_sourashtradictionary
+,,ஸம்பத்து,sampattu,,,,"Prosperity, Wealth, Resource","செழிப்பு, செல்வம், வளம்",,,,general,corpus_sourashtradictionary
+,,ஸம்பூர்ணொ,sampoorNo,,,,Complete,முழுமையான,,,,general,corpus_sourashtradictionary
+,,ஸம்ரக்ஷணொ,samrakshaNo,,,,"Protection, Preservation",பாதுகாத்தல்,,,,general,corpus_sourashtradictionary
+,,ஸமர்து2,samarthu,,,,"Able, Skilled, Talented",திறமையான,,,,general,corpus_sourashtradictionary
+,,ஸம்ர்ப்பணொ,samrppaNo,,,,Dedication,அர்ப்பணிப்பு,,,,general,corpus_sourashtradictionary
+,,ஸம்ருத்3தி4,samruddhi,,,,Prosperous,வளமான,,,,general,corpus_sourashtradictionary
+,,ஸம்ஸ்க்ருதி,samskruti,,,,Culture,"கலாச்சாரம், பண்பாடு",,,,general,corpus_sourashtradictionary
+,,ஸமஸ்தொ,samasto,,,,"Common, General, Public",பொது,,,,general,corpus_sourashtradictionary
+,,ஸமஸ்யொ,samasyo,,,,"Problem, Issue",பிரச்சினை,,,,general,corpus_sourashtradictionary
+,,ஸமாசார்,samaacaar,,,,"News, Message, Information","செய்தி, தகவல்",,,,general,corpus_sourashtradictionary
+,,ஸமாசார்பத்ரொ,samaacaarpatro,,,,Newspaper,செய்தித்தாள்,,,,general,corpus_sourashtradictionary
+,,ஸமாஜ்,samaaj,,,,Society,சமூகம்,,,,general,corpus_sourashtradictionary
+,,ஸமிதி,samiti,,,,"Association, Committee","சங்கம், குழு",,,,general,corpus_sourashtradictionary
+,,ஸர,sara,,,,"With, Along with",உடன்,,,,general,corpus_sourashtradictionary
+,,ஸரதெனொ,sarateno,,,,"Mate, Colleague",உடன் இருப்பவர்,,,,general,corpus_sourashtradictionary
+,,ஸராவ்,saraav,,,,"Balance, Remainder, Remaining, Remnant","இருப்பு, மீதி, மிச்சம்",,,,general,corpus_sourashtradictionary
+,,ஸ்‌ரீ,sree,,,,Wealth,செல்வம்,,,,general,corpus_sourashtradictionary
+,,ஸ்ருதி,sruti,,,,Pitch,சுருதி,,,,general,corpus_sourashtradictionary
+,,ஸல்லிஸ்,sallis,,,,Easy,எளிமையான,,,,general,corpus_sourashtradictionary
+,,ஸவணி,savaNi,,,,Video,காணொளி,,,,general,corpus_sourashtradictionary
+,,ஸ்வதந்த்ரொ,svatantro,,,,Independence,சுதந்திரம்,,,,general,corpus_sourashtradictionary
+,,ஸ்வயஸுக2ம்,svayasukham,,,,Selfishness,தன்னலம்,,,,general,corpus_sourashtradictionary
+,,ஸவஸ்,savas,,,,"Companionship, Friendship","சகவாசம், நட்பு",,,,general,corpus_sourashtradictionary
+,,ஸ்வாக்,svaak,,,,Wealth,செல்வம்,,,,general,corpus_sourashtradictionary
+,,ஸன்மார்கு3,sanmaargu,,,,Right path,சரியான பாதை,,,,general,corpus_sourashtradictionary
+,,ஸன்னெ,sanne,,,,Common,பொதுவான,,,,general,corpus_sourashtradictionary
+,,ஸனாதனொ,sanaatano,,,,"Permanent, Forever","நிரந்தரமான, என்றென்றும்",,,,general,corpus_sourashtradictionary
+,,ஸனி,sani,,,,"Glance, View, Vision, Look",பார்வை,,,,general,corpus_sourashtradictionary
+,,ஸஸ்யொ,sasyo,,,,"Benefit, Result",பலன்,,,,general,corpus_sourashtradictionary
+,,ஸஹஜம்,sahajam,,,,Natural,இயற்கை,,,,general,corpus_sourashtradictionary
+,,ஸஹஜம்,sahajam,,,,"Fluent, Effortless","சரளமானவர், தங்கு தடையின்றி","பாரிஸும் ஒண்டெ ஒர்ஸு ப2ராது, தெனு பி2ரஞ்சு பா4ஷாம் ஸஹஜம் ஹொய்யா",After a year in France she was fluent in French,"பிரான்சில் ஒரு வருடம் கழித்து, அவர் பிரெஞ்சு மொழியில் சரளமாக இருந்தார்",general,corpus_sourashtradictionary
+,,ஸஹஜம்கன்,sahajamkan,,,,"Fluently, Effortlessly",சரளமாக,தெனு ஜெர்மனி ஸஹஜம்கன் வத்தொ கெரராஸ்,He speaks German fluently,அவர் சரளமாக ஜெர்மன் பேசுகிறார்,general,corpus_sourashtradictionary
+,,ஸஹாவு,sahaavu,,,,Help,உதவி,,,,general,corpus_sourashtradictionary
+,,ஸாக்ககொ,saakkako,,,,"To see, To look",பார்க்க,,,,general,corpus_sourashtradictionary
+,,ஸாங்க்,saangk,,,,Source,ஆதாரம்,,,,general,corpus_sourashtradictionary
+,,ஸாத4னொ,saadhano,,,,"Means, Instrument, Tool","வழிமுறை, கருவி",,,,general,corpus_sourashtradictionary
+,,ஸாதா4ரணம்,saadhaaraNam,,,,"Simple, Normal, Ordinary",எளிமை,,,,general,corpus_sourashtradictionary
+,,ஸாது4,saadhu,,,,"Meek, Peaceful, Bland",சாதுவான,,,,general,corpus_sourashtradictionary
+,,ஸாமதி,saamati,,,,Proverb,பழமொழி,,,,general,corpus_sourashtradictionary
+,,ஸாமான்யொ,saamaanyo,,,,"Common, Usual, Normal, Simple, Ordinary","பொதுவான, வழக்கமான, இயல்பான, எளிமையான",,,,general,corpus_sourashtradictionary
+,,ஸாமான்யொ ஞான்,saamaanyo njaan,,,,General Knowledge,பொது அறிவு,,,,general,corpus_sourashtradictionary
+,,ஸாரம்ஶொ,saaramsso,,,,"Essence, Gist, Abstract","சாராம்சம், சுருக்கம்",,,,general,corpus_sourashtradictionary
+,,ஸிங்க்3யார்,singgyaar,,,,"Beauty, Beautiful, Cute","அழகு, அழகான",,,,general,corpus_sourashtradictionary
+,,ஸிங்க்3யார்ஹொயெ,singgyaarhoye,,,,"Handsome, Lovely, Loviest, Cutie",அழகான,,,,general,corpus_sourashtradictionary
+,,ஸிரி,siri,,,,"Wealth, Prosperity","பொருள், செல்வம்",,,,general,corpus_sourashtradictionary
+,,ஸில்மொ,silmo,,,,"Labor, Labour",உழைப்பு,,,,general,corpus_sourashtradictionary
+,,ஸிலின்,silin,,,,With difficulty,கஷ்டப்பட்டு,,,,general,corpus_sourashtradictionary
+,,ஸின்னாத்தொ,sinnaatto,,,,Without tiring,சோர்வின்றி,,,,general,corpus_sourashtradictionary
+,,ஸீம்,seem,,,,"Limit, Border, Boundary",எல்லை,,,,general,corpus_sourashtradictionary
+,,ஸுட்டுனாத்தொ,suTTunaatto,,,,Incessant,இடைவிடாமல்,,,,general,corpus_sourashtradictionary
+,,ஸுத்2த4,suthdha,,,,"Clean, Pure, Neat",சுத்தம்,,,,general,corpus_sourashtradictionary
+,,ஸுத்3த4ம் ஹொயெ,suddham hoye,,,,"Pure, Divine, Spotless, Virgin","தூய்மையான, களங்கமற்ற, பரிசுத்தமான, புது நிலையில் உள்ள",,,,general,corpus_sourashtradictionary
+,,ஸுரு,suru,,,,Wringle,சுருக்கம்,,,,general,corpus_sourashtradictionary
+,,ஸுல்ப்3யம்,sulbyam,,,,"Simple, Easy","எளிது, எளிமை, எளிமையான",,,,general,corpus_sourashtradictionary
+,,ஸூசனொ,soocano,,,,Suggestion,பரிந்துரை,,,,general,corpus_sourashtradictionary
+,,ஸூசனொ,soocano,,,,"Information, List","தகவல், பட்டியல்",,,,general,corpus_sourashtradictionary
+,,ஸூட்,sooT,,,,Burn with hot iron,சூடு (வைத்தல்),,,,general,corpus_sourashtradictionary
+,,ஸெங்க3ல்,senggal,,,,Chain,சங்கிலி,,,,general,corpus_sourashtradictionary
+,,ஸெங்கு3,senggu,,,,Company,துணை,,,,general,corpus_sourashtradictionary
+,,ஸெத்3து3,seddu,,,,"Noise, Sound",சத்தம்,,,,general,corpus_sourashtradictionary
+,,ஸெத்து,settu,,,,Promise,சத்தியம்,,,,general,corpus_sourashtradictionary
+,,ஸெத்லொ,setlo,,,,"End, Last","முடிவில், இறுதியில்",,,,general,corpus_sourashtradictionary
+,,ஸெர்க்கஸ்,serkkas,,,,"Ok, Okay, Okey",சரி,,,,general,corpus_sourashtradictionary
+,,ஸெர்க்கொ,serkko,,,,Correct,"சரி, சரியான",,,,general,corpus_sourashtradictionary
+,,ஸெர்ச்சத்தெ,serccatte,,,,Solving,தீர்த்தல்,,,,general,corpus_sourashtradictionary
+,,ஸெர்மான்,sermaan,,,,Equivalent,சமமாக,,,,general,corpus_sourashtradictionary
+,,ஸெவ்கன்,sevkan,,,,Best person,சிறந்தவன்,,,,general,corpus_sourashtradictionary
+,,ஸெஜ்ஜெ,sejje,,,,Neighbourhood,அக்கம்பக்கத்து,,,,general,corpus_sourashtradictionary
+,,ஸேத்தெ ந்ஹா,sEtte nhaa,,,,"No, Not",இல்லை,,,,general,corpus_sourashtradictionary
+,,ஸேவொ,sEvo,,,,Service,சேவை,,,,general,corpus_sourashtradictionary
+,,ஸைலு,sailu,,,,Shadow,நிழல்,,,,general,corpus_sourashtradictionary
+,,ஸைலொ,sailo,,,,Shadow,நிழல்,,,,general,corpus_sourashtradictionary
+,,ஸொகன்,sokan,,,,"Alike, Model, Type, Similar","மாதிரி, போல",,,,general,corpus_sourashtradictionary
+,,ஸொம்பு3ளோ,sombuLO,,,,Salary,சம்பளம்,,,,general,corpus_sourashtradictionary
+,,ஸொம்மரவ்னி,sommaravni,,,,"Growth, Development","வளர்ச்சி, முன்னேற்றம்",,,,general,corpus_sourashtradictionary
+,,ஸொல்பம்,solpam,,,,"Simple, Easy",எளிமை,,,,general,corpus_sourashtradictionary
+,,ஸொவ்ண்டினி,sovNTini,,,,Be captured,அகப்படுதல்,,,,general,corpus_sourashtradictionary
+,,ஸொவ்ரொ,sovro,,,,Relative,உறவினர்,,,,general,corpus_sourashtradictionary
+,,ஸௌகது,saukatu,,,,Administration,நிர்வாகம்,,,,general,corpus_sourashtradictionary
+,,ஸௌர்யம்,sauryam,,,,Well,நலம்,,,,general,corpus_sourashtradictionary
+,,ஸௌராஷ்ட்ரா,sauraashTraa,,,,Sourashtra,ஸௌராஷ்ட்ரா,,,,general,corpus_sourashtradictionary
+,,ஶக்தி,ssakti,,,,"Energy, Power, Force, Vigor, Vigour","ஆற்றல், பலம், உடல் வலிமை, வீரியம்",,,,general,corpus_sourashtradictionary
+,,ஶம்பு3,ssambu,,,,Teachings,"சாஸ்திரம், போதனை",,,,general,corpus_sourashtradictionary
+,,ஶமுலன்,ssamulan,,,,Mitigation,தணித்தல்,,,,general,corpus_sourashtradictionary
+,,ஶ்ரேஷ்டு2,ssrEshThu,,,,"Best, Excellent",சிறந்தது,,,,general,corpus_sourashtradictionary
+,,ஶாந்தி,ssaanti,,,,Remedy,"நிவர்த்தி, பரிகாரம்",,,,general,corpus_sourashtradictionary
+,,ஶாபன,ssaapana,,,,Curse,சாபம்,,,,general,corpus_sourashtradictionary
+,,ஶாஸ்வதொ,ssaasvato,,,,"Continuous, Permanent, Eternal, eternity","இடையறாத, நிரந்தரமான",,,,general,corpus_sourashtradictionary
+,,ஶிபாரிஸு,ssipaarisu,,,,Recommendation,பரிந்துரை,,,,general,corpus_sourashtradictionary
+,,ஶிபி3ரொ,ssibiro,,,,Camp,கூடாரம்,,,,general,corpus_sourashtradictionary
+,,ஶில்லொ,ssillo,,,,Cold,குளிர்ந்த,,,,general,corpus_sourashtradictionary
+,,ஶீல்,sseel,,,,Discipline,ஒழுக்கம்,,,,general,corpus_sourashtradictionary
+,,ஶீன்,sseen,,,,Tiredness,களைப்பு,,,,general,corpus_sourashtradictionary
+,,ஶுத்3த4ம்,ssuddham,,,,"Clean, Pure, Neat","சுத்தம், தூய்மையான, களங்கமற்ற",,,,general,corpus_sourashtradictionary
+,,ஶெக்கானா,ssekkaanaa,,,,Not able to,முடியாமல்,,,,general,corpus_sourashtradictionary
+,,ஶெக்குனா,ssekkunaa,,,,Cannot,முடியாது,,,,general,corpus_sourashtradictionary
+,,ஶெங்கள்,ssengkaL,,,,"Handcuff, Chain","கைவிலங்கு, சங்கிலி",,,,general,corpus_sourashtradictionary
+,,ஶெணம்,sseNam,,,,"Quick, Quickly",விரைவாக,,,,general,corpus_sourashtradictionary
+,,ஶெந்த,ssenta,,,,With,"உடன், கூட",,,,general,corpus_sourashtradictionary
+,,ஶெவ்வட்,ssevvaT,,,,Near by,அருகில்,,,,general,corpus_sourashtradictionary
+,,ஶோப4னொ,ssObhano,,,,"Nice, Super",அருமை,,,,general,corpus_sourashtradictionary
+,,ஶௌர்யொ,ssauryo,,,,Braveness,தைர்யம்,,,,general,corpus_sourashtradictionary
+,,ஹக்,hak,,,,"Right, Claim",உரிமை,,,,general,corpus_sourashtradictionary
+,,ஹங்கார்,hangkaar,,,,"Rage, Tantrum, Anger",ஆத்திரம்,,,,general,corpus_sourashtradictionary
+,,ஹத்3த3ட்3டு,haddaDTu,,,,1/32 of a Rupee,அரையணா,,,,general,corpus_sourashtradictionary
+,,ஹத்3து3,haddu,,,,Half,பாதி,,,,general,corpus_sourashtradictionary
+,,ஹத3ம்,hadam,,,,No means,வக்கு,,,,general,corpus_sourashtradictionary
+,,ஹத்தா3முத்து3,hatdaamutdu,,,,Half-done,அரைகுறை,,,,general,corpus_sourashtradictionary
+,,ஹர்ம்ப3ம்,harmbam,,,,Beginning,ஆரம்பம்,,,,general,corpus_sourashtradictionary
+,,ஹல்கொ,halko,,,,Lightweight,இலேசான,,,,general,corpus_sourashtradictionary
+,,ஹலு,halu,,,,"Slow, Slowly",மெதுவாக,,,,general,corpus_sourashtradictionary
+,,ஹவ்ட3னு வஸ்து,havDanu vastu,,,,Souvenir,நினைவுப்பொருள்,,,,general,corpus_sourashtradictionary
+,,ஹள்ளு,haLLu,,,,"Slow, Slowly",மெதுவாக,,,,general,corpus_sourashtradictionary
+,,ஹன்னவ்,hannav,,,,Money,பணம்,,,,general,corpus_sourashtradictionary
+,,ஹன்னௌ,hannau,,,,Money,பணம்,,,,general,corpus_sourashtradictionary
+,,ஹிங்கா3டு3,hinggaaDu,,,,Export,ஏற்றுமதி,,,,general,corpus_sourashtradictionary
+,,ஹிண்டி3னி,hiNDini,,,,Wandering,"திரிதல், அலைதல்",,,,general,corpus_sourashtradictionary
+,,"ஹிதவ், ஹிதௌ","hitav, hitau",,,,"Benefit, Good advice, Goodness","நன்மை, நல்ல அறிவுரை",,,,general,corpus_sourashtradictionary
+,,ஹின்டத்தெ,hinTatte,,,,"Breach, Violate",மீறுதல்,,,,general,corpus_sourashtradictionary
+,,ஹீன்,heen,,,,"Evil, Damage","தீமை, தீங்கு, சேதம்",,,,general,corpus_sourashtradictionary
+,,ஹீனு,heenu,,,,"Absent, Deficiency","இல்லாதது, குறைபாடு",,,,general,corpus_sourashtradictionary
+,,ஹுடொ3,huDo,,,,Belly down,குப்புற,,,,general,corpus_sourashtradictionary
+,,ஹுடொ3தி3டொ3,huDodiDo,,,,Upside down,தலைகீழாக,,,,general,corpus_sourashtradictionary
+,,ஹுத்ராடு3,hutraaDu,,,,Import,இறக்குமதி,,,,general,corpus_sourashtradictionary
+,,ஹுதா3ர்,hudaar,,,,Loan,இரவல்,,,,general,corpus_sourashtradictionary
+,,ஹுர்படொ3,hurpaDo,,,,Flip / Reverse Side,தலைகீழாக,,,,general,corpus_sourashtradictionary
+,,ஹெதா3ர்த்து,hedaarttu,,,,"Incidental, Casual",தற்செயலான,,,,general,corpus_sourashtradictionary
+,,ஹெம்மல்,hemmal,,,,Haughtiness,மமதை,,,,general,corpus_sourashtradictionary
+,,ஹேது,hEtu,,,,"Reason, Route, Motivation","காரணம், வழி, செயல் நோக்கம்",,,,general,corpus_sourashtradictionary
+,,ஹொடி,hoTi,,,,Lap,மடி,,,,general,corpus_sourashtradictionary
+,,ஹொடி3னி,hoDini,,,,"Growth, Development","வளர்ச்சி, முன்னேற்றம்",,,,general,corpus_sourashtradictionary
+,,ஹோடா3 ஹோட்,hODaa hOT,,,,"Scarcity, Insufficient",பற்றாக்குறை,,,,general,corpus_sourashtradictionary
+,,ஹோர் அவ்னி,hOr avni,,,,Progress,முன்னேற்றம்,,,,general,corpus_sourashtradictionary
+,,ஹோன்தய,hOntaya,,,,"Needful, Requisite",தேவையான,,,,general,corpus_sourashtradictionary

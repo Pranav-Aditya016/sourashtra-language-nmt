@@ -1,0 +1,71 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,சால்,caal,,,,"Behavior, Conduct, Manners, Etiquette",நடத்தை,,,,manners,corpus_sourashtradictionary
+,,சால்சலன்,caalcalan,,,,"Behavior, Conduct, Manners, Etiquette",நடத்தை,,,,manners,corpus_sourashtradictionary
+,,லோக்சால்,lOkcaal,,,,"Good Manners, Conduct",நல்ல நடத்தை,,,,manners,corpus_sourashtradictionary
+,,நமஸ்கார்,namaskaar,,,,"Hi, Hello",வணக்கம்,,,,manners,corpus_sourashtradictionary
+,,அபி4வாத3னொ,abhivaadano,,,,"Welcome, Welcoming, Reception","நல்வரவு, வரவேற்றல்",,,,manners,corpus_sourashtradictionary
+,,த4ன்யவாத்,dhanyavaat,,,,"Thanks, Thank you",நன்றி,,,,manners,corpus_sourashtradictionary
+,,த4ன்னு,dhannu,,,,"Thanks, Thank you",நன்றி,,,,manners,corpus_sourashtradictionary
+,,மிந்தி3ன் மெல்லத்தெ,mindin mellatte,,,,"Saying ""Thanks"", Thank you",நன்றி சொல்லிக்கொள்தல்,,,,manners,corpus_sourashtradictionary
+,,கீர்தி,keerti,,,,Fame,புகழ்,,,,manners,corpus_sourashtradictionary
+,,யஶொ,yasso,,,,Fame,புகழ்,,,,manners,corpus_sourashtradictionary
+,,நந்தினி,nantini,,,,"Greeting, Congrats",வாழ்த்து,,,,manners,corpus_sourashtradictionary
+,,நந்தி3னுன்,nandinun,,,,"Wishes, Greetings",வாழ்த்துக்கள்,,,,manners,corpus_sourashtradictionary
+,,நந்தி3னுன்,nandinun,,,,"Congrats, Congratulations",வாழ்த்துக்கள்,,,,manners,corpus_sourashtradictionary
+,,ஆஸின்,aasin,,,,Congratulations,வாழ்த்துக்கள்,,,,manners,corpus_sourashtradictionary
+,,நுதி,nuti,,,,Pride,பெருமை,,,,manners,corpus_sourashtradictionary
+,,தீ3வனொ,deevano,,,,Blessing,ஆசிர்வாதம்,,,,manners,corpus_sourashtradictionary
+,,ப4லா,bhalaa,,,,Good luck,நலம் உண்டாகட்டும்,,,,manners,corpus_sourashtradictionary
+,,ப2ல்திபா2ர் நமஸ்கார்,phaltiphaar namaskaar,,,,Good morning,அதிகாலை வணக்கம்,,,,manners,corpus_sourashtradictionary
+,,ஸொளபா2ர் நமஸ்கார்,soLaphaar namaskaar,,,,Good morning,காலை வணக்கம்,,,,manners,corpus_sourashtradictionary
+,,து4வார் நமஸ்கார்,dhuvaar namaskaar,,,,Good afternoon,மதிய வணக்கம்,,,,manners,corpus_sourashtradictionary
+,,வீள் நமஸ்கார்,veeL namaskaar,,,,Good evening,மாலை வணக்கம்,,,,manners,corpus_sourashtradictionary
+,,ராத் நமஸ்கார்,raat namaskaar,,,,Good night,இரவு வணக்கம்,,,,manners,corpus_sourashtradictionary
+,,ஸுப4 ராத்,subha raat,,,,Good night,நல் இரவு,,,,manners,corpus_sourashtradictionary
+,,க்ஷமொ,kshamo,,,,"Apology, Forgiveness","மன்னித்தல், மன்னிப்பு",,,,manners,corpus_sourashtradictionary
+,,ஸவன்,savan,,,,"Apology, Forgiveness","மன்னித்தல், மன்னிப்பு",,,,manners,corpus_sourashtradictionary
+,,மாப் கெருவோ,maap keruvO,,,,"Sorry, Excuse, Pardon, Forgive",மன்னிக்கவும்,,,,manners,corpus_sourashtradictionary
+,,மாப் மாய்,maap maay,,,,Apologize,மன்னிப்பு கேள்,,,,manners,corpus_sourashtradictionary
+,,ஹகு3ர்,hagur,,,,Impatient,பொறுமையின்மை,,,,manners,corpus_sourashtradictionary
+,,அசார்,acaar,,,,"Discipline, Conduct","ஒழுக்கம், நடத்தை",,,,manners,corpus_sourashtradictionary
+,,நம்ப்ரொ,nampro,,,,Discipline,ஒழுக்கம்,,,,manners,corpus_sourashtradictionary
+,,ப4வ்யுர்,bhavyur,,,,"Modesty, Humility",பணிவு,,,,manners,corpus_sourashtradictionary
+,,நம்ரொ,namro,,,,"Modesty, Humility",பணிவு,,,,manners,corpus_sourashtradictionary
+,,சமத்கார்,camatkaar,,,,"Modesty, Humility",பணிவு,,,,manners,corpus_sourashtradictionary
+,,நமி,nami,,,,"Submissively, Modesty",பணிந்து,,,,manners,corpus_sourashtradictionary
+,,நம்ரதொ,namrato,,,,"Humble, Modesty, Humility, Submissive",அடக்கம்,,,,manners,corpus_sourashtradictionary
+,,க2ரால்,kharaal,,,,"Strict, Stringency",கண்டிப்பு,,,,manners,corpus_sourashtradictionary
+,,விஞ்ஞாபனொ,vinjnjaapano,,,,"Request, Advertisement",கோரிக்கை,,,,manners,corpus_sourashtradictionary
+,,ப்ரார்த2னொ,praarthano,,,,Request,கோரிக்கை,,,,manners,corpus_sourashtradictionary
+,,உபகார்,upakaar,,,,Help,உதவி,,,,manners,corpus_sourashtradictionary
+,,உபஹார்,upahaar,,,,Help,உதவி,,,,manners,corpus_sourashtradictionary
+,,மென்லெ,menle,,,,"Plead, Consider","மன்றாடு, கருதிக்கொள், எண்ணிக்கொள், நினைத்துகொள்",,,,manners,corpus_sourashtradictionary
+,,மென்லத்தெ,menlatte,,,,"Pleading, To consider","மன்றாடுதல், கருதுதல், எண்ணிக்கொள்ளுதல், நினைத்துகொள்ளுதல்",,,,manners,corpus_sourashtradictionary
+,,த3யொ,dayo,,,,"Compassion, Kindness, Mercy, Sympathy","இரக்கம், கருணை",,,,manners,corpus_sourashtradictionary
+,,த3யாளுப்பன்,dayaaLuppan,,,,"Compassion, Kindness, Mercy, Sympathy","இரக்கம், கருணை",,,,manners,corpus_sourashtradictionary
+,,தா3க்ஷன்,daakshan,,,,"Compassion, Kindness, Mercy, Sympathy","இரக்கம், கருணை",,,,manners,corpus_sourashtradictionary
+,,த3க்ஷண்,dakshaN,,,,"Compassion, Kindness, Mercy, Sympathy","இரக்கம், கருணை",,,,manners,corpus_sourashtradictionary
+,,ப்ரீதி,preeti,,,,"Love, Kindness","அன்பு, கருணை",,,,manners,corpus_sourashtradictionary
+,,கெங்கு,kengku,,,,Grace,கருணை,,,,manners,corpus_sourashtradictionary
+,,மொர்க்3யாத்,morgyaat,,,,"Respect, Courtesy",மரியாதை,,,,manners,corpus_sourashtradictionary
+,,மர்யாதொ3,maryaado,,,,"Respect, Courtesy",மரியாதை,,,,manners,corpus_sourashtradictionary
+,,உபசார்,upacaar,,,,"Courtesy, Treatment","விருந்தோம்பல், நடத்தும் வகை",,,,manners,corpus_sourashtradictionary
+,,நங்கு,nangku,,,,"Honesty, Sincerity","நாணயம், நேர்மை",,,,manners,corpus_sourashtradictionary
+,,நங்கத்திஸா,nangkattisaa,,,,"Honest, Sincere","நாணயமான, நேர்மையான",,,,manners,corpus_sourashtradictionary
+,,தெ4ரும்,dherum,,,,"Charity, Dharma, Righteousness, Honesty, Sincerity","தர்மம், நேர்மை",,,,manners,corpus_sourashtradictionary
+,,ப4வ்யம்,bhavyam,,,,"Polite, Dignity, Decency",கண்ணியம்,,,,manners,corpus_sourashtradictionary
+,,"ப4வ்யம் ஹொயெ, ப4வ்யம்கன்","bhavyam hoye, bhavyamkan",,,,"Politeful, Dignified, Decent","கண்ணியமான, கண்ணியமாக",,,,manners,corpus_sourashtradictionary
+,,ஸெகு3ஞ்ஜுனொ,segunjjuno,,,,Endure,சகித்துக்கொள்ளுதல்,,,,manners,corpus_sourashtradictionary
+,,அஹிம்ஸொ,ahimso,,,,Non violent,வன்முறையற்ற,,,,manners,corpus_sourashtradictionary
+,,மெய்,mey,,,,So,ஆக,,,,manners,corpus_sourashtradictionary
+,,ஹாய்,haay,,,,"Yes, Yeah, Yup","ஆம், ஆமாம்",,,,manners,corpus_sourashtradictionary
+,,வேய்,vEy,,,,"Okey, Okay",ஆகட்டும்,,,,manners,corpus_sourashtradictionary
+,,வெகொ3,vego,,,,"Okey, Okay",ஆகட்டும்,,,,manners,corpus_sourashtradictionary
+,,ஸ்வபா4வு,svabhaavu,,,,"Natural, Temperament, Natural character","இயற்கை, குணம், இயற்கை குணம்",,,,manners,corpus_sourashtradictionary
+,,சா2ளி,chaaLi,,,,Natural qualities,இயற்கை குணங்கள்,,,,manners,corpus_sourashtradictionary
+,,ஸாருன்,saarun,,,,"Good qualities, Good deeds","நல்ல குணங்கள், நற்செயல்கள்",,,,manners,corpus_sourashtradictionary
+,,ருஸ்பொ,ruspo,,,,Behaving reasonably,நியாயமாக நடத்தல்,,,,manners,corpus_sourashtradictionary
+,,ஸெத்து,settu,,,,Truth,சத்தியம்,,,,manners,corpus_sourashtradictionary
+,,ஸெத்து வத்தொ,settu vatto,,,,Real talk,உண்மையான பேச்சு,,,,manners,corpus_sourashtradictionary
+,,ர்ஹத்த வத்தொ,rhatta vatto,,,,Real talk,உண்மையான பேச்சு,,,,manners,corpus_sourashtradictionary
+,,நிபூ3ஸ்,niboos,,,,Real talk,உண்மையான பேச்சு,,,,manners,corpus_sourashtradictionary

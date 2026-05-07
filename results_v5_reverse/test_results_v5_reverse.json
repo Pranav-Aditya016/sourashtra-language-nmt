@@ -1,0 +1,25 @@
+{
+  "model": "google/byt5-small",
+  "version": "V5-Reverse",
+  "approach": "ByT5-small byte-level \u2014 English/Tamil \u2192 Sourashtra (Roman)",
+  "test_metrics": {
+    "corpus_bleu": 3.89,
+    "avg_sentence_bleu": 1.23,
+    "avg_chrf": 20.17,
+    "avg_cer": 97.93,
+    "avg_wer": 114.38,
+    "exact_match_accuracy": 3.76,
+    "num_samples": 1914
+  },
+  "hf_test_metrics": {
+    "test_loss": 3.0091588497161865,
+    "test_exact_match": 3.76,
+    "test_partial_match": 9.14,
+    "test_runtime": 1623.2631,
+    "test_samples_per_second": 1.179,
+    "test_steps_per_second": 0.074
+  },
+  "training_time_minutes": 473.0,
+  "total_train_examples": 22585,
+  "augmentation_ratio": 2.36
+}

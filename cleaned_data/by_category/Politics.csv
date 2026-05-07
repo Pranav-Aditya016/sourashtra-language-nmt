@@ -1,0 +1,835 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+ꢂꢖ꣄ꢔꢷꢒꢵꢬ꣄,अङ्गीकार्,அங்கீ3கார்,angeekaar,aGgIkAr,aṅgīkār,əŋgiːkɑːɾ,recognition,அங்கீகாரம்,,,,Politics,words
+ꢂꢗ꣄ꢗꢸ,अच्चु,அச்சு,achchu,accu,accu,ət͡ʃt͡ʃu,axis,அச்சு,,,,Politics,words
+ꢜꢖ꣄ꢒꢸ,टङ्कु,டங்கு,t'anku,TaGku,ṭaṅku,ʈəŋku,axis,அச்சு,,,,Politics,words
+ꢦꢡ꣄ꢬꢮꢵꢲꢶꢥꢶ,पत्रवाहिनि,பத்ரவாஹினி,patravaahini,patravAhini,patravāhini,pət̪ɾəʋɑːɦɪn̪ɪ,post,அஞ்சல்,,,,Politics,words
+ꢦꢡ꣄ꢬꢮꢵꢲꢒꣁ,पत्रवाहका॑,பத்ரவாஹகொ,patravaahako',patravAhakO,patravāhakŏ,pət̪ɾəʋɑːɦəko,postman,அஞ்சல்காரர்,,,,Politics,words
+ꢦꢡ꣄ꢬꢮꢵꢲꣁ,पत्रवाहा॑,பத்ரவாஹொ,patravaaho',patravAhO,patravāhŏ,pət̪ɾəʋɑːɦo,postman,அஞ்சல்காரர்,,,,Politics,words
+ꢭꢿꢓꢸꢮꢵꢥ꣄,लेखुवान,லேகு2வான்,lekhuvaan,lekhuvAn,lekhuvān,leːkʰuʋɑːn̪,postman,அஞ்சல்காரர்,,,,Politics,words
+ꢦꢡ꣄ꢬꢮꢵꢲ ꢒꢵꢬ꣄ꢫꢵꢭꢫꣁ,पत्रवाह कार्यालया॑,பத்ரவாஹ கார்யாலயொ,patravaaha kaaryaalayo',patravAha kAryAlayO,patravāha kāryālayŏ,pət̪ɾəʋɑːɦə kɑːɾjɑːləjo,post office,அஞ்சலகம்,,,,Politics,words
+ꢒꣂꢰ꣄ꢜꢸ,कोष्टु,கோஷ்டு,kosht'u,koSTu,koṣṭu,koːʂʈu,"table, schedule",அட்டவணை,,,,Politics,words
+ꢆꢞ꣄ꢔꢞ꣄ꢠꢶ,उड्गड्णि,உட்3க3ட்3ணி,ud'gad'ni,uDgaDNi,uḍgaḍṇi,uɖgəɖɳɪ,oppression,அடக்குமுறை,,,,Politics,words
+ꢣꢪꢥꣁ,दमना॑,த3மனொ,damano',damanO,damanŏ,d̪əmən̪o,oppression,அடக்குமுறை,,,,Politics,words
+ꢒꢸꢣꣁ,कुदा॑,குதொ3,kudo',kudO,kudŏ,kud̪o,pawn,அடகு,,,,Politics,words
+ꢒꢸꢣꣁ,कुदा॑,குதொ3,kudo',kudO,kudŏ,kud̪o,mortgage,அடமானம்,,,,Politics,words
+ꢓꢵꢭ꣄ꢣꢳ꣄ ꢓꢵꢭ꣄ꢣꢾꢳꢪ꣄,खाल्दळ,கா2ல்த3ள்,khaaldal' khaalde'l'am,khAldaL khAldELam,khāldal̤ khāldĕl̤am,kʰɑːld̪əɭ kʰɑːld̪eɭəm,basement,அடித்தளம்,,,,Politics,words
+ꢃꢤꢵꢬꢸ ꢨꢵꢡ꣄ꢫꢡꣁ,आधारु बाद्यता॑,ஆதா4ரு பா3த்யதொ,aadhaaru baatyato',AdhAru bAtyatO,ādhāru bātyatŏ,ɑːd̪ʰɑːɾu bɑːt̪jət̪o,fundamental right,அடிப்படையுரிமை,,,,Politics,words
+ꢱ꣄ꢬꢿꢠꢶꢗꢵꢭ꣄,स्रेणिचाल,ஸ்ரேணிசால்,srenichaal,sreNicAl,sreṇicāl,s̪ɾeːɳɪt͡ʃɑːl,parade,அணிவகுப்பு,,,,Politics,words
+ꢂꢡ꣄ꢒꢫꢵꢬ꣄,अत्क्यार्,அத்க்யார்,atkayaar,atkayAr,atkayār,ət̪kəjɑːɾ,"power, authority",அதிகாரம்,,,,Politics,words
+ꢂꢡ꣄ꢒ꣄ꢫꢵꢬꢶ,अत्क्यारि,அத்க்யாரி,atkyaari,atkyAri,atkyāri,ət̪kjɑːɾɪ,officer,அதிகாரி,,,,Politics,words
+ꢪꢥ꣄ꢡ꣄ꢬꢶ ꢒꢵꢬ꣄ꢫꢵꢭꢫꣁ,मन्त्रि कार्यालया॑,மந்த்ரிகார்யாலயொ,mantri kaaryaalayo',mantri kAryAlayO,mantri kāryālayŏ,mən̪t̪ɾɪ kɑːɾjɑːləjo,ministry,அமைச்சகம்,,,,Politics,words
+ꢪꢥ꣄ꢡ꣄ꢬꢶ,मन्त्रि,மந்த்ரி,mantri,mantri,mantri,mən̪t̪ɾɪ,minister,அமைச்சர்,,,,Politics,words
+ꢂꢪꢵꢡ꣄ꢫꣁ,अमात्या॑,அமாத்யொ,amaatyo',amAtyO,amātyŏ,əmɑːt̪jo,minister,அமைச்சர்,,,,Politics,words
+ꢪꢥ꣄ꢡ꣄ꢬꢶꢱꢨꣁ,मन्त्रिसबा॑,மந்த்ரிஸபொ3,mantrisabo',mantrisabO,mantrisabŏ,mən̪t̪ɾɪs̪əbo,cabinet,அமைச்சரவை,,,,Politics,words
+ꢯꢵꢥ꣄ꢡꢶ,शान्ति,ஶாந்தி,shaanti,zAnti,śānti,ʃɑːn̪t̪ɪ,peace,அமைதி,,,,Politics,words
+ꢱꢖ꣄ꢕꢜꢶꢒꣁ,सङ्घटिका॑,ஸங்க4டிகொ,sanghat'iko',saGghaTikO,saṅghaṭikŏ,s̪əŋgʰəʈɪko,organizer,அமைப்பாளர்,,,,Politics,words
+ꢱꢛ꣄ꢗꢭꢥꢒꢵꢬꣁ,सञ्चलनकारा॑,ஸஞ்சலனகாரொ,sanchalanakaaro',saJcalanakArO,sañcalanakārŏ,s̪əɲt͡ʃələn̪əkɑːɾo,organizer,அமைப்பாளர்,,,,Politics,words
+ꢮꢶꢣꢿꢱ꣄,विदेस्,விதே3ஸ்,vides,vides,vides,ʋɪd̪eːs̪,foreign country,அயல்நாடு,,,,Politics,words
+ꢩꢬꢳꢡꢿꢱ꣄,भरळदेस्,ப4ரளதே3ஸ்,bharal'ates,bharaLates,bharal̤ates,bʰəɾəɭət̪eːs̪,foreign country,அயல்நாடு,,,,Politics,words
+ꢬꢙꣁ,रजा॑,ரஜொ,rajo',rajO,rajŏ,ɾəd͡ʒo,king,அரசன்,,,,Politics,words
+ꢬꢵꢜ꣄,राट,ராட்,raat',rAT,rāṭ,ɾɑːʈ,king,அரசன்,,,,Politics,words
+ꢩꢹꢦꣁ,भूपा॑,பூ4பொ,bhoopo',bhUpO,bhūpŏ,bʰuːpo,king,அரசன்,,,,Politics,words
+ꢩꢹꢦꢡꢶ,भूपति,பூ4பதி,bhoopati,bhUpati,bhūpati,bʰuːpət̪ɪ,king,அரசன்,,,,Politics,words
+ꢬꢠꢶ,रणि,ரணி,rani,raNi,raṇi,ɾəɳɪ,queen,அரசி,,,,Politics,words
+ꢬꢵꢜꢳꢶ,राटाळि,ராடளி,raat'al'i,rATaLi,rāṭal̤i,ɾɑːʈəɭɪ,queen,அரசி,,,,Politics,words
+ꢱꢪ꣄ꢱ꣄ꢢꢵꢦꢥꣁ,सम्स्थापना॑,ஸம்ஸ்தா2பனொ,samsthaapano',samsthApanO,samsthāpanŏ,s̪əms̪t̪ʰɑːpən̪o,constitution,அரசியல் சட்டம்,,,,Politics,words
+ꢱꢪ꣄ꢮꢶꢤꢵ,सम्विधा,ஸம்விதா4,samvidhaa,samvidhA,samvidhā,s̪əmʋɪd̪ʰɑː,constitution,அரசியல் சட்டம்,,,,Politics,words
+ꢬꢵꢙꢥꢷꢡꢶꢮꢵꢥ꣄,राजनीतिवान,ராஜநீதிவான்,raajaneetivaan,rAjanItivAn,rājanītivān,ɾɑːd͡ʒən̪iːt̪ɪʋɑːn̪,politician,அரசியல்வாதி,,,,Politics,words
+ꢱꢬ꣄ꢒꢵꢬ꣄,सर्कार,ஸர்கார்,sarkaar,sarkAr,sarkār,s̪əɾkɑːɾ,government,அரசு,,,,Politics,words
+ꢬꢵꢙꢵꢖ꣄ꢔꢸ,राजाङ्गु,ராஜாங்கு3,raajaangu,rAjAGgu,rājāṅgu,ɾɑːd͡ʒɑːŋgu,government,அரசு,,,,Politics,words
+ꢬꢵꢙ꣄ꢩꢮꢥ꣄,राज्भवन,ராஜ்ப4வன்,raajbhavan,rAjbhavan,rājbhavan,ɾɑːd͡ʒbʰəʋən̪,government house,அரசமாளிகை,,,,Politics,words
+ꢬꢮꢸꢳ꣄,रवुळ्,ரவுள்,ravul',ravuL,ravul̤,ɾəʋuɭ,palace,அரண்மனை,,,,Politics,words
+ꢦ꣄ꢬꢵꢱꢵꢣꣁ,प्रासादा॑,ப்ராஸாதொ3,praasaado',prAsAdO,prāsādŏ,pɾɑːs̪ɑːd̪o,palace,அரண்மனை,,,,Politics,words
+ꢍꢒꢒ꣄,एकक्,ஏகக்,ekak,ekak,ekak,eːkək,unit,அலகு,,,,Politics,words
+ꢄꢒꢵꢫ꣄,इकाय,இகாய்,ikaay,ikAy,ikāy,ɪkɑːj,unit,அலகு,,,,Politics,words
+ꢭꢵꢜ꣄,लाट्,லாட்,laat',lAT,lāṭ,lɑːʈ,wave,அலை,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢵꢭꢫ ꢩꢰꣁ,कार्यालय भाषा॑,கார்யாலய பா4ஷொ,kaaryaalaya bhasho',kAryAlaya bhaSO,kāryālaya bhaṣŏ,kɑːɾjɑːləjə bʰəʂo,official language,அலுவலகமொழி,,,,Politics,words
+ꢂꢡ꣄ꢒꢵꢬꢶ,अत्कारि,அத்காரி,atkaari,atkAri,atkāri,ət̪kɑːɾɪ,officer,அதிகாரி,,,,Politics,words
+ꢂꢮ꣄ꢱꢬꢸ ꢱꢵꢱꢥꣁ,अव्सरु सासना॑,அவ்ஸரு ஸாஸனொ,avsaru saasano',avsaru sAsanO,avsaru sāsanŏ,əʋs̪əɾu s̪ɑːs̪ən̪o,emergency rule,அவசரச்சட்டம்,,,,Politics,words
+ꢃꢦꢡ꣄ꢒꢵꢭꢸ ꢱꢵꢱꢥꣁ,आपत्कालु सासना॑,ஆபத்காலு ஸாஸனொ,aapatkaalu saasano',ApatkAlu sAsanO,āpatkālu sāsanŏ,ɑːpət̪kɑːlu s̪ɑːs̪ən̪o,emergency rule,அவசரச்சட்டம்,,,,Politics,words
+ꢂꢮ꣄ꢱꢬ꣄ꢱ꣄ꢢꢶꢡꢶ,अव्सर्स्थिति,அவ்ஸர் ஸ்தி2தி,avsarsthiti,avsarsthiti,avsarsthiti,əʋs̪əɾs̪t̪ʰɪt̪ɪ,emergency,அவசரநிலை,,,,Politics,words
+ꢨꣁꢮ꣄ꢥꢶꢕꢵꢜ꣄,बा॑व्निघाट्,பொ3வ்நி கா4ட்,bo'vnighaat',bOvnighAT,bŏvnighāṭ,boʋn̪ɪgʰɑːʈ,calling bell,அழைப்புமணி,,,,Politics,words
+ꢦꢬꢶꢪꢵꢠ꣄,परिमाण,பரிமாண்,parimaan,parimAN,parimāṇ,pəɾɪmɑːɳ,size,பரிமாணம்,,,,Politics,words
+ꢦ꣄ꢬꢒꢜꢥꣁ,प्रकटना॑,ப்ரகடனொ,prakat'ano',prakaTanO,prakaṭanŏ,pɾəkəʈən̪o,report,அறிக்கை,,,,Politics,words
+ꢃꢮꢿꢣꢥꣁ,आवेदना॑,ஆவேத3னொ,aavedano',AvedanO,āvedanŏ,ɑːʋeːd̪ən̪o,report,அறிக்கை,,,,Politics,words
+ꢮꢶꢰꢫꢒꢳꢞ꣄ꢠꢶ,विषयकळट्णि,விஷயகளட்3ணி,vishayakal'ad'ni,viSayakaLaDNi,viṣayakal̤aḍṇi,ʋɪʂəjəkəɭəɖɳɪ,report,அறிக்கை,,,,Politics,words
+ꢦ꣄ꢬꢒꢞ꣄ꢠꢵꢬ꣄,प्रकड्णार,ப்ரகட்3ணார்,prakad'naar,prakaDNAr,prakaḍṇār,pɾəkəɖɳɑːɾ,announcer,அறிவிப்பாளர்,,,,Politics,words
+ꢦ꣄ꢬꢒꢞꢠꣁꢒꢾꢬ꣄ꢥꢵꢬ꣄,प्रकडणा॑ क॑र्नार,ப்ரகட3ணொ கெர்னார்,prakad'ano'ke'rnaar,prakaDaNOkErnAr,prakaḍaṇŏkĕrnār,pɾəkəɖəɳokeɾn̪ɑːɾ,announcer,அறிவிப்பாளர்,,,,Politics,words
+ꢮꢶꢰꢫꢸ ꢒꢳꢞ꣄ꢥꢵꢬ꣄,विषयु कळड्नार,விஷயு களட்3னார்,vishayu kal'ad'naar,viSayu kaLaDnAr,viṣayu kal̤aḍnār,ʋɪʂəju kəɭəɖn̪ɑːɾ,announcer,அறிவிப்பாளர்,,,,Politics,words
+ꢱꢹꢗꢥꣁ,सूचना॑,ஸூசனொ,soochano',sUcanO,sūcanŏ,s̪uːt͡ʃən̪o,"notice, announcement",அறிவிப்பு,,,,Politics,words
+ꢱꢹꢗꢥꢵ ꢦꣁꢭ꣄ꢒꣁ,सूचना पा॑ल्का॑,ஸூசனாபொல்கொ,soochanaa po'lko',sUcanA pOlkO,sūcanā pŏlkŏ,s̪uːt͡ʃən̪ɑː polko,notice board,அறிவிப்புப் பலகை,,,,Politics,words
+ꢂꢥꢸꢪꢡ꣄,अनुमत्,அனுமத்,anumat,anumat,anumat,ən̪umət̪,permission,அனுமதி,,,,Politics,words
+ꢂꢥꢸꢪꢡ꣄ ꢱꢹꢗꢶ,अनुमत्सूचि,அனுமத்ஸூசி,anumat soochi,anumat sUci,anumat sūci,ən̪umət̪ s̪uːt͡ʃɪ,permit,அனுமதிச் சீட்டு,,,,Politics,words
+ꢂꢥꢸꢩꢮ꣄,अनुभव,அனுப4வ்,anubhav,anubhav,anubhav,ən̪ubʰəʋ,experi ence,அனுபவம்,,,,Politics,words
+ꢒꢨ꣄ꢙꣁ,कब्जा॑,கப்3ஜொ,kabjo',kabjO,kabjŏ,kəbd͡ʒo,encroachment,ஆக்கிரமிப்பு,,,,Politics,words
+ꢃꢒ꣄ꢬꢪꢠꣁ,आक्रमणा॑,ஆக்ரமணொ,aakramano',AkramaNO,ākramaṇŏ,ɑːkɾəməɳo,encroachment,ஆக்கிரமிப்பு,,,,Politics,words
+ꢱꢵꢱꢥꣁ,सासना॑,ஸாஸனொ,saasano',sAsanO,sāsanŏ,s̪ɑːs̪ən̪o,rule,ஆட்சி,,,,Politics,words
+ꢱꣃꢱꢱ꣄ꢡꢾ,सौसस्ते,ஸௌஸஸ்தே,sausaste',sausastE,sausastĕ,s̪əus̪əs̪t̪e,rule,ஆட்சி,,,,Politics,words
+ꢱꣃꢱꢶꢥꢶ,सौसिनि,ஸௌஸினி,sausini,sausini,sausini,s̪əus̪ɪn̪ɪ,rule,ஆட்சி,,,,Politics,words
+ꢬꢵꢙ꣄ꢫ ꢩꢰꣁ,राज्य भाषा॑,ராஜ்யபா4ஷொ,raajya bhasho',rAjya bhaSO,rājya bhaṣŏ,ɾɑːd͡ʒjə bʰəʂo,administrative language,ஆட்சிமொழி,,,,Politics,words
+ꢃꢙ꣄ꢛꢾ,आजञो,ஆஜ்ஞொ,aajnye',AjJE,ājñĕ,ɑːd͡ʒɲe,order,ஆணை,,,,Politics,words
+ꢥꢶꢫꣂꢔꣁ,नियोगा॑,நியோகொ3,niyogo',niyogO,niyogŏ,n̪ɪjoːgo,commission,ஆணையம்,,,,Politics,words
+ꢃꢫꣂꢔ꣄,आयोग,ஆயோக்3,aayog,Ayog,āyog,ɑːjoːg,commission,ஆணையம்,,,,Politics,words
+ꢥꢶꢫꣂꢔꢶ,नियोगि,நியோகி3,niyogi,niyogi,niyogi,n̪ɪjoːgɪ,commissioner,ஆணையர்,,,,Politics,words
+ꢃꢫꣂꢒꢶ,आयोगि,ஆயோகி3,aayoki,Ayoki,āyoki,ɑːjoːkɪ,commissioner,ஆணையர்,,,,Politics,words
+ꢂꢣ꣄ꢭꢥ꣄,अद्लन,அத்3லன்,adlan,adlan,adlan,əd̪lən̪,support,ஆதரவு,,,,Politics,words
+ꢂꢣ꣄ꢥꢶ,अद्नि,அத்3னி,adni,adni,adni,əd̪n̪ɪ,support,ஆதரவு,,,,Politics,words
+ꢭꢵꢨ꣄,लाब्,லாப்3,laab,lAb,lāb,lɑːb,profit,ஆதாயம்,,,,Politics,words
+ꢂꢣꢵꢮ꣄,अदाव,அதா3வ்,adaav,adAv,adāv,əd̪ɑːʋ,profit,ஆதாயம்,,,,Politics,words
+ꢦ꣄ꢬꢩꢸꢡ꣄ꢮꣁ,प्रभुत्वा॑,ப்ரபு4த்வொ,prabhutvo',prabhutvO,prabhutvŏ,pɾəbʰut̪ʋo,domination,ஆதிக்கம்,,,,Politics,words
+ꢂꢬ꣄ꢒ꣄ꢫꢵꢬ꣄,अर्क्यार,அர்க்யார்,arkyaar,arkyAr,arkyār,əɾkjɑːɾ,domination,ஆதிக்கம்,,,,Politics,words
+ꢃꢤꢶꢦꢡ꣄ꢫꣁ,आधिपत्या॑,ஆதி4பத்யொ,aadhipatyo',AdhipatyO,ādhipatyŏ,ɑːd̪ʰɪpət̪jo,domination,ஆதிக்கம்,,,,Politics,words
+ꢆꢡ꣄ꢦꢵꢣꢥꢱꢸꢭ꣄ꢒꣁ,उत्पादनसुल्को,உத்பாத3னஸுல்கொ,utpaadanasulko',utpAdanasulkO,utpādanasulkŏ,ut̪pɑːd̪ən̪əs̪ulko,excise duty,ஆயத்தீர்வை,,,,Politics,words
+ꢱꢸꢭ꣄ꢒꣁ,सुल्का॑,ஸுல்கொ,sulko',sulkO,sulkŏ,s̪ulko,tax,ஆயம்,,,,Politics,words
+ꢒꢬꣁ,करा॑,கரொ,karo',karO,karŏ,kəɾo,tax,ஆயம்,,,,Politics,words
+ꢃꢫꢸꢱ꣄ꢣꢠ꣄ꢞꢥꣁ,आयुस्दण्डना॑,ஆயுஸ்த3ண்ட3னொ,aayusdand'ano',AyusdaNDanO,āyusdaṇḍanŏ,ɑːjus̪d̪əɳɖən̪o,life imprisonment,ஆயுள் தண்டனை,,,,Politics,words
+ꢆꢡ꣄ꢱꢵꢲ꣄,उत्साह,உத்ஸாஹ்,utsaah,utsAh,utsāh,ut̪s̪ɑːɦ,zeal,ஆர்வம்,,,,Politics,words
+ꢒꢮ꣄ꢡꢸꢒꣁ,कव्तुका॑,கவ்துகொ,kavtuko',kavtukO,kavtukŏ,kəʋt̪uko,zeal,ஆர்வம்,,,,Politics,words
+ꢃꢭꣂꢱꢥꣁ,आलोसना॑,ஆலோஸனொ,aalosano',AlosanO,ālosanŏ,ɑːloːs̪ən̪o,suggestion,ஆலோசனை,,,,Politics,words
+ꢂꢩꢶꢦ꣄ꢬꢵꢫꢸ,अभिप्रायु,அபி4ப்ராயு,abhipraayu,abhiprAyu,abhiprāyu,əbʰɪpɾɑːju,suggestion,ஆலோசனை,,,,Politics,words
+ꢭꢶꢓꢾꢦꢡ꣄ꢡꢬ꣄,लिख॑पत्तर,லிகெ2பத்தர்,likhe'pattar,likhEpattar,likhĕpattar,lɪkʰepət̪t̪əɾ,record/document,ஆவணம்,,,,Politics,words
+ꢭꢿꢓ ꢦ꣄ꢬꢪꢵꢠꣁ,लेख प्रमाणा॑,லேக2 ப்ரமாணொ,lekha pramaano',lekha pramANO,lekha pramāṇŏ,leːkʰə pɾəmɑːɳo,record/document,ஆவணம்,,,,Politics,words
+ꢱꢵꢱꢥꢦꢒ꣄ꢰꣁ,सासन पक्षो,ஸாஸனபக்ஷொ,saasanapaksho',sAsanapakSO,sāsanapakṣŏ,s̪ɑːs̪ən̪əpəkʂo,ruling party,ஆளுங்கட்சி,,,,Politics,words
+ꢬꢵꢙ꣄ꢦꢵꢭ꣄,राज्पाल्,ராஜ்பால்,raajpaal,rAjpAl,rājpāl,ɾɑːd͡ʒpɑːl,governor,ஆளுநர்,,,,Politics,words
+ꢬꢵꢙ꣄ꢦꢵꢭꢥꣁ,राज्पालना॑,ராஜபாலனொ,raajpaalano',rAjpAlanO,rājpālanŏ,ɾɑːd͡ʒpɑːlən̪o,governance,ஆளுமை,,,,Politics,words
+ꢏꢦ꣄ꢦꢶꢭꢶꢥꢶ,आ॑प्पिलिनि,ஒப்பிலினி,o'ppilini,Oppilini,ŏppilini,oppɪlɪn̪ɪ,"consent, accord",இசைவு,,,,Politics,words
+ꢱꢪ꣄ꢪꢡ꣄,सम्मत,ஸம்மத்,sammat,sammat,sammat,s̪əmmət̪,"consent, accord",இசைவு,,,,Politics,words
+ꢒꢨꢥ꣄ꢣꢸꢱꢬ꣄ꢒꢵꢬ꣄,कबन्दु सर्कार्,கப3ந்து3ஸர்கார்,kabandusarkaar,kabandusarkAr,kabandusarkār,kəbən̪d̪us̪əɾkɑːɾ,interim government,இடைக்கால அரசு,,,,Politics,words
+ꢂꢥ꣄ꢡꢬ꣄ꢥꢶꢰꢾꢤ꣄,अन्तर्निषेध,அந்தர்நிஷேத்4,antarnishe'dh,antarniSEdh,antarniṣĕdh,ən̪t̪əɾn̪ɪʂed̪ʰ,interim stay,இடைக்காலத் தடை,,,,Politics,words
+ꢪꢴꢣ꣄ꢣꢶꢪꢸ ꢲꢶꢨ꣄ꢨꢞ꣄ꢠꢶ,म्हद् मद्दिमु हिब्बड्णि,ம:த்3தி3மு ஹிப்3ப3ட்3ணி,mhaddimu hibbad'ni,mhaddimu hibbaDNi,mhaddimu hibbaḍṇi,mɦəd̪d̪ɪmu ɦɪbbəɖɳɪ,interim stay,இடைக்காலத் தடை,,,,Politics,words
+ꢣꢾꢬ꣄ꢒꢭꢶ,तेर्कलि,தெர்களி,de'rkali,dErkali,dĕrkali,d̪eɾkəlɪ,"middle man, broker",இடைத்தரகர்,,,,Politics,words
+ꢪꢴꢣ꣄ꢫꢮꢬ꣄ꢡꢶ,म्हद्यवर्ति,ம:த்3யவர்தி,mhadyavarti,mhadyavarti,mhadyavarti,mɦəd̪jəʋəɾt̪ɪ,"middle man, broker",இடைத்தரகர்,,,,Politics,words
+ꢂꢮ꣄ꢞꢒꢵꢭꢸ ꢗꢸꢥꢵꢮ꣄,अव्डकालु चुनाव,அவ்ட3காலுசுனாவ்,avd'akaalu chunaav,avDakAlu cunAv,avḍakālu cunāv,əʋɖəkɑːlu t͡ʃun̪ɑːʋ,mid-term pole,இடைத்தேர்தல்,,,,Politics,words
+ꢪꢴꢣ꣄ꢣꢶꢪ꣄ ꢲꢶꢨ꣄ꢨꢞ꣄ꢠꢶ,म्हद्दिमहिब्बड्णि अवलम्बना॑,ம:த்3தி3ம் ஹிப்3ப3ட்3ணி,mhaddim hibbad'ni,mhaddim hibbaDNi,mhaddim hibbaḍṇi,mɦəd̪d̪ɪm ɦɪbbəɖɳɪ,suspension/interruption,இடைநிறுத்தம்,,,,Politics,words
+ꢂꢮꢭꢪ꣄ꢨ꣄ꢥꣁ,तत्कालु हिब्बड्णि,அவலம்ப3னொ,avalambno',avalambnO,avalambnŏ,əʋələmbn̪o,suspension/interruption,இடைநிறுத்தம்,,,,Politics,words
+ꢡꢡ꣄ꢒꢵꢭꢸ ꢲꢶꢨ꣄ꢨꢞ꣄ꢠꢶ,तत्कालु हिब्बड्णि,தத்காலு ஹிப்3ப3ட்3ணி,tatkaalu hibbad'ni,tatkAlu hibbaDNi,tatkālu hibbaḍṇi,t̪ət̪kɑːlu ɦɪbbəɖɳɪ,suspension/interruption,இடைநிறுத்தம்,,,,Politics,words
+ꢌꢠ꣄ꢔꢶꢥꢶ,ए॑ण्गिनि,எண்கி3னி,e'ngini,ENgini,ĕṇgini,eɳgɪn̪ɪ,accordance,இணக்கம்,,,,Politics,words
+ꢂꢥꢸꢬꢹꢦꢡꣁ,अनुरूपता॑,அனுரூபதொ,anuroopato',anurUpatO,anurūpatŏ,ən̪uɾuːpət̪o,accordance,இணக்கம்,,,,Politics,words
+ꢱꢲ ꢪꢥ꣄ꢡꢶꢬꢶ,सह मन्तिरि,ஸஹ மந்திரி,saha mantiri,saha mantiri,saha mantiri,s̪əɦə mən̪t̪ɪɾɪ,minister for state,இணையமைச்சர்,,,,Politics,words
+ꢱꢾꢬ꣄ꢗꢥ꣄ꢩꢵꢰꣁ,च॑र्चन्भाषा॑,செர்சன்பா4ஷொ,se'rchanbhaasho',sErcanbhASO,sĕrcanbhāṣŏ,s̪eɾt͡ʃən̪bʰɑːʂo,link language,இணைப்புமொழி,,,,Politics,words
+ꢱꢥ꣄ꢣꢶ ꢩꢵꢰꣁ,सन्दि भाषा॑,ஸந்தி3 பா4ஷொ,sandi bhaasho',sandi bhASO,sandi bhāṣŏ,s̪ən̪d̪ɪ bʰɑːʂo,link language,இணைப்புமொழி,,,,Politics,words
+ꢱꢪ꣄ꢫꢸꢒ꣄ꢡ ꢱꢖ꣄ꢕꣁ,सम्युक्त सङ्घा॑,ஸம்யுக்த ஸங்கொ4,samyukta sangho',samyukta saGghO,samyukta saṅghŏ,s̪əmjukt̪ə s̪əŋgʰo,federation,இணையம்,,,,Politics,words
+ꢱꢛ꣄ꢙꢶꢒꢾ,सञ्जिका॑,ஸஞ்ஜிகொ,sanjike',saJjikE,sañjikĕ,s̪əɲd͡ʒɪke,issue,இதழ்,,,,Politics,words
+ꢩꢵꢬꢡꢥꢶꢬ꣄ꢮꢵꢲꢸꢱꢿꢮꣁ,भारत निर्वाहु सेवा॑,பா4ரதநிர்வாஹுஸேவொ,bhaaratanirvaahusevo',bhAratanirvAhusevO,bhāratanirvāhusevŏ,bʰɑːɾət̪ən̪ɪɾʋɑːɦus̪eːʋo,Indian Admini strative Service,இந்திய ஆட்சிப்பணி,,,,Politics,words
+ꢩꢵꢬꢡ ꢂꢦꢬꢵꢤꢸ ꢱꢵꢱꢥꣁ,भारत अपराधु सासना॑,பா4ரதஅபராது4 ஸாஸனொ,bhaarata aparaadhu saasano',bhArata aparAdhu sAsanO,bhārata aparādhu sāsanŏ,bʰɑːɾət̪ə əpəɾɑːd̪ʰu s̪ɑːs̪ən̪o,Indian Penal Code-IPC,இந்தியக் குற்றவியல் சட்டம்,,,,Politics,words
+ꢃꢥ꣄ꢣꣂꢭ꣄,आन्दोल,ஆந்தோ3ல்,aandol,Andol,āndol,ɑːn̪d̪oːl,movement,இயக்கம்,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢵꢭꢫ ꢱꢖ꣄ꢔꢪꣁ,कार्यालय सङ्गमा॑,கார்யாலய ஸங்க3மொ,kaaryaalaya sangamo',kAryAlaya saGgamO,kāryālaya saṅgamŏ,kɑːɾjɑːləjə s̪əŋgəmo,directorate,இயக்ககம்,,,,Politics,words
+ꢥꢶꢬ꣄ꢮꢵꢲꢶ,निर्वाहि,நிர்வாஹி,nirvaahi,nirvAhi,nirvāhi,n̪ɪɾʋɑːɦɪ,director,இயக்குநர்,,,,Politics,words
+ꢥꢶꢬ꣄ꢣꢿꢱꢒ꣄,निर्देसक,நிர்தே3ஸக்,nirdesak,nirdesak,nirdesak,n̪ɪɾd̪eːs̪ək,director,இயக்குநர்,,,,Politics,words
+ꢂꢤ꣄ꢫꢒ꣄ꢰꣁ,अध्यक्षो,அத்4யக்ஷொ,adhyaksho',adhyakSO,adhyakṣŏ,əd̪ʰjəkʂo,director,இயக்குநர்,,,,Politics,words
+ꢂꢣ꣄ꢫꢵꢫ꣄,अद्याय,அத்3யாய்,adyaay,adyAy,adyāy,əd̪jɑːj,chapter,இயல்,,,,Politics,words
+ꢗꢬ꣄ꢒꢵ,चर्का,சர்கா,charkaa,carkA,carkā,t͡ʃəɾkɑː,charkha,இராட்டை,,,,Politics,words
+ꢆꢬꢵꢮ꣄ꢱꣁꢬꢵꢮ꣄,उराव्सा॑राव,உராவ்ஸொராவ்,uraavso'raav,urAvsOrAv,urāvsŏrāv,uɾɑːʋs̪oɾɑːʋ,"stock, balance",இருப்பு,,,,Politics,words
+ꢭꢒ꣄ꢰꢫꣁ,लक्ष्या॑,லக்ஷ்யொ,lakshayo',lakSayO,lakṣayŏ,ləkʂəjo,target,இலக்கு,,,,Politics,words
+ꢪꢸꢣ꣄ꢬꣁ,मुद्रा॑,முத்3ரொ,mudro',mudrO,mudrŏ,mud̪ɾo,"stamp, seal",இலச்சினை,,,,Politics,words
+ꢮꢶꢩꢵꢒ,विभाक,விபா4க்3,vibhaaka,vibhAka,vibhāka,ʋɪbʰɑːkə,department,இலாகா,,,,Politics,words
+ꢫꢸꢮꢬꢵꢜ꣄,युवराट्,யுவராட்,yuvaraat',yuvarAT,yuvarāṭ,juʋəɾɑːʈ,prince,இளவரசன்,,,,Politics,words
+ꢫꢸꢮꢬꢵꢠꢶ,युवराणि,யுவராணி,yuvaraani,yuvarANi,yuvarāṇi,juʋəɾɑːɳɪ,princess,இளவரசி,,,,Politics,words
+ꢫꢸꢮꢬꢵꢙ꣄ꢛꢶ,युवराजञि,யுவராஜ்ஞி,yuvaraajnyi,yuvarAjJi,yuvarājñi,juʋəɾɑːd͡ʒɲɪ,princess,இளவரசி,,,,Politics,words
+ꢲꢸꢡ꣄ꢡꢸꢬꢵꢮ꣄,हुत्तुराव,ஹுத்துராவ்,hutturaav,hutturAv,hutturāv,ɦut̪t̪uɾɑːʋ,import,இறக்குமதி,,,,Politics,words
+ꢲꢸꢡ꣄ꢡꢸꢬꢵꢜ꣄,हुत्तुराट,ஹுத்துராட்,hutturaat',hutturAT,hutturāṭ,ɦut̪t̪uɾɑːʈ,import,இறக்குமதி,,,,Politics,words
+ꢦ꣄ꢬꢡꢶ ꢧꣁꢳ꣄꣄,प्रतिफोळ,ப்ரதிபோ2ள்,prati pho'l',prati phOL,prati phŏl̤,pɾət̪ɪ pʰoɭ,compensation,ஈடு,,,,Politics,words
+ꢆꢖ꣄ꢙꢪꢶꢡꢶ,उञचमिति,உஞ்சமிதி,ungjamiti,uGjamiti,uṅjamiti,uŋd͡ʒəmɪt̪ɪ,ceiling,உச்சவரம்பு,,,,Politics,words
+ꢆꢳ꣄ꢳꢸ,उळ्ळु,உள்ளு,ul'l'u,uLLu,ul̤l̤u,uɭɭu,abetment,உடந்தை,,,,Politics,words
+ꢱꢲꢗꢵꢬ꣄,सहचार्,ஸஹசார்,sahachaar,sahacAr,sahacār,s̪əɦət͡ʃɑːɾ,"agreement, treaty, pact",உடன்படிக்கை,,,,Politics,words
+ꢱꢥ꣄ꢤꢶ,सन्धि,ஸந்தி4,sandhi,sandhi,sandhi,s̪ən̪d̪ʰɪ,"agreement, treaty, pact",உடன்படிக்கை,,,,Politics,words
+ꢦꢬꢱ꣄ꢦꢬ ꢱꢪ꣄ꢪꢥ꣄ꢣꣁ,परस्पर सम्मन्दा॑,பரஸ்பர ஸம்மந்தொ3,paraspara sammando',paraspara sammandO,paraspara sammandŏ,pəɾəs̪pəɾə s̪əmmən̪d̪o,co - relation,உடனுறவு,,,,Politics,words
+ꢦꢬꢱ꣄ꢦꢬ ꢏꢱ꣄ꢡꢦꢥ꣄,परस्पर आ॑स्तपन,பரஸ்பர ஒஸ்தபன்,paraspara o'stapan,paraspara Ostapan,paraspara ŏstapan,pəɾəs̪pəɾə os̪t̪əpən̪,co - relation,உடனுறவு,,,,Politics,words
+ꢃꢲꢵꢬꢸ ꢮꢶꢩꢵꢔ꣄,आहारु विभाग,ஆஹாரு விபா4க்3,aahaaru vibhaag,AhAru vibhAg,āhāru vibhāg,ɑːɦɑːɾu ʋɪbʰɑːg,food department,உணவுத்துறை,,,,Politics,words
+ꢓꢥꢶ ꢮꢶꢩꢵꢔ꣄,खनिविभाग,க2னி விபா4க்3,khani vibhaag,khani vibhAg,khani vibhāg,kʰən̪ɪ ʋɪbʰɑːg,food department,உணவுத்துறை,,,,Politics,words
+ꢆꢡ꣄ꢡꢬꢮꢵꢣ꣄,उत्तरवाद,உத்தரவாத்3,uttaravaad,uttaravAd,uttaravād,ut̪t̪əɾəʋɑːd̪,guarantee,உத்தரவாதம்,,,,Politics,words
+ꢃꢒ꣄ꢒꢸꢣꣁ,आक्कुtaaq,ஆக்குதொ,aakkudo',AkkudO,ākkudŏ,ɑːkkud̪o,order,உத்தரவு,,,,Politics,words
+ꢱꢲꢒꢵꢬ꣄,सहकार,ஸஹகார்,sahakaar,sahakAr,sahakār,s̪əɦəkɑːɾ,aid,உதவி,,,,Politics,words
+ꢱꢲꢵꢮ꣄,सहाव,ஸஹாவ்,sahaav,sahAv,sahāv,s̪əɦɑːʋ,aid,உதவி,,,,Politics,words
+ꢆꢦ ꢪꢥ꣄ꢡꢶꢬꢶ,उप मन्तिरि,உப மந்திரி,upa mantiri,upa mantiri,upa mantiri,upə mən̪t̪ɪɾɪ,assistant minister,உதவி அமைச்சர்,,,,Politics,words
+ꢆꢦ ꢣꢹꢡ ꢥꢶꢮꢵꢱ꣄,उप दूत निवास्,உப தூ4தநிவாஸ்,upa doota nivaas,upa dUta nivAs,upa dūta nivās,upə d̪uːt̪ə n̪ɪʋɑːs̪,consulate,உதவித்தூதரகம்,,,,Politics,words
+ꢮꢿꢡꢥꣁ,वेतना॑,வேதனொ,vetano',vetanO,vetanŏ,ʋeːt̪ən̪o,stipend,உதவிப்பணம்,,,,Politics,words
+ꢆꢦꢶꢬ꣄,उपिर,உபிர்,upir,upir,upir,upɪɾ,surplus,உபரி,,,,Politics,words
+ꢮꢿꢥ꣄,वेन,வேன்,ven,ven,ven,ʋeːn̪,surplus,உபரி,,,,Politics,words
+ꢂꢣ꣄ꢣꢶ,अद्दि,அத்3தி3,addi,addi,addi,əd̪d̪ɪ,surplus,உபரி,,,,Politics,words
+ꢂꢡꢶꢬꢶꢒ꣄ꢡ,अतिरिक्त,அதிரிக்த,atirikta,atirikta,atirikta,ət̪ɪɾɪkt̪ə,surplus,உபரி,,,,Politics,words
+ꢄꢗ꣄ꢗꢵ ꢦꢡ꣄ꢡꢬ꣄,इच्चा पत्तर,இச்சா பத்தர்,ichchaa pattar,iccA pattar,iccā pattar,ɪt͡ʃt͡ʃɑː pət̪t̪əɾ,will,உயில்,,,,Politics,words
+ꢂꢥꢸꢒ꣄ꢛꢵ ꢦꢸꢡ꣄ꢬꣁ,अनुकञा पत्रा॑,அனுக்ஞாபத்ரொ,anuknjaa putro',anukJA putrO,anukñā putrŏ,ən̪ukɲɑː put̪ɾo,licence,உரிமம்,,,,Politics,words
+ꢨꢵꢣ꣄ꢫꣁ,बाद्या॑,பா3த்3யொ,baadyo',bAdyO,bādyŏ,bɑːd̪jo,right,உரிமை,,,,Politics,words
+ꢨꢞ꣄ꢫꢮꢵꢥ꣄,बाद्यवान्,பா3த்3யவான்,bad'yavaan,baDyavAn,baḍyavān,bəɖjəʋɑːn̪,"owner, proprietor",உரிமையாளர்,,,,Politics,words
+ꢙꢸꢥꢡ꣄ꢮꢵꢥ꣄,जुनत्वान,ஜுனத்வான்,junatvaan,junatvAn,junatvān,d͡ʒun̪ət̪ʋɑːn̪,farmer,உழவர்,,,,Politics,words
+ꢓꢿꢡꢶ,खेति,கே2தி,kheti,kheti,kheti,kʰeːt̪ɪ,farmer,உழவர்,,,,Politics,words
+ꢔ꣄ꢬꢲ ꢮꢶꢩꢵꢔ꣄,ग्रह विभाग,க்3ரஹ விபா4க்3,graha vibhaag,graha vibhAg,graha vibhāg,gɾəɦə ʋɪbʰɑːg,home department,உள்துறை,,,,Politics,words
+ꢮꢶꢰꢫ ꢱꢸꢗꢶꢒꣁ,विषयसूचिका॑,விஷய ஸூசிகொ,vishaya suchiko',viSaya sucikO,viṣaya sucikŏ,ʋɪʂəjə s̪ut͡ʃɪko,content,உள்ளடக்கம்,,,,Politics,words
+ꢂꢥ꣄ꢡꢬ꣄ ꢬꢵꢙ꣄ꢙꢶ,अन्तर्राज्जि,அந்தர்ராஜ்ஜி,antar raajji,antar rAjji,antar rājji,ən̪t̪əɾ ɾɑːd͡ʒd͡ʒɪ,local ad ministration,உள்ளாட்சி,,,,Politics,words
+ꢥꢶꢮꢿꢰ꣄ꢫꣁ,निवेष्या॑,நிவேஷ்யொ,niveshyo',niveSyO,niveṣyŏ,n̪ɪʋeːʂjo,input,உள்ளீடு,,,,Politics,words
+ꢆꢡ꣄ꢦꢣ꣄,उत्पद,உத்பத்3,utpad,utpad,utpad,ut̪pəd̪,production,உற்பத்தி,,,,Politics,words
+ꢆꢡ꣄ꢦꢵꢣꢥꣁ,उत्पादना॑,உத்பாத3னொ,utpaadano',utpAdanO,utpādanŏ,ut̪pɑːd̪ən̪o,production,உற்பத்தி,,,,Politics,words
+ꢤꢶꢞꢮꢵꢒ꣄,धिडवाक,தி4ட3வாக்,dhid'avaak,dhiDavAk,dhiḍavāk,d̪ʰɪɖəʋɑːk,oath,உறுதிமொழி,,,,Politics,words
+ꢂꢖ꣄ꢔꢱ꣄ꢢꢸ,अङ्गस्थु,அங்க3ஸ்து2,angasthu,aGgasthu,aṅgasthu,əŋgəs̪t̪ʰu,member,உறுப்பினர்,,,,Politics,words
+ꢱꣁꢪ꣄ꢨꢸꢳꣁ,सोम्बुळा॑,ஸொம்பு3ளொ,so'mbul'o',sOmbuLO,sŏmbul̤ŏ,s̪ombuɭo,"salary, emo luments",ஊதியம்,,,,Politics,words
+ꢮꢾꢡꢥꣁ,वेतना॑,வேதனொ,ve'tano',vEtanO,vĕtanŏ,ʋet̪ən̪o,"salary, emo luments",ஊதியம்,,,,Politics,words
+ꢮꢵꢲꢥꣁ,वाहना॑,வாஹனொ,vaahano',vAhanO,vāhanŏ,ʋɑːɦən̪o,vehicle,ஊர்தி,,,,Politics,words
+ꢙꢵꢥ꣄ꢮꢵꢱ꣄,जान्वास,ஜான்வாஸ்,jaanvaas,jAnvAs,jānvās,d͡ʒɑːn̪ʋɑːs̪,procession,ஊர்வலம்,,,,Politics,words
+ꢱꣂꢩꢵꢫꢵꢡ꣄ꢬꣁ,सोभा यात्रा॑,ஸோபா4 யாத்ரொ,sobhaayaatro',sobhAyAtrO,sobhāyātrŏ,s̪oːbʰɑːjɑːt̪ɾo,procession,ஊர்வலம்,,,,Politics,words
+ꢏꢬꢵꢡ꣄,ओरात,ஒராத்,o'raat,OrAt,ŏrāt,oɾɑːt̪,procession,ஊர்வலம்,,,,Politics,words
+ꢗꢸꢜ꣄ꢜꢸ,चुट्टु,சுட்டு,chut't'u,cuTTu,cuṭṭu,t͡ʃuʈʈu,procession,ஊர்வலம்,,,,Politics,words
+ꢔꢶꢬꢵꢪ꣄ꢫꣁ,गिराम्या॑,க்3ராம்யொ,giraamyo',girAmyO,girāmyŏ,gɪɾɑːmjo,rural,ஊரகம்,,,,Politics,words
+ꢔꢵꢪꢠ꣄ꢗꢥ꣄,गामण्चन्,கா3மண்சன்,gaamanchan,gAmaNcan,gāmaṇcan,gɑːməɳt͡ʃən̪,curfew,ஊரடங்கு,,,,Politics,words
+ꢱꢛ꣄ꢗꢵꢬꢸ ꢥꢰꢿꢤꢥꣁ,सञचारु निषेधना॑,ஸஞ்சாரு நிஷேத4னொ,sanchaaru nashedhano',saJcAru naSedhanO,sañcāru naṣedhanŏ,s̪əɲt͡ʃɑːɾu n̪əʂeːd̪ʰən̪o,curfew,ஊரடங்கு,,,,Politics,words
+ꢦꢠꢖ꣄ꢗꢵꢫꢡ꣄ ꢬꢵꢙ꣄ꢙꢶ,पञ्चायत्राज्जि,பஞ்சாயத் ராஜ்ஜி,panangchaayat raajji,paNaGcAyat rAjji,paṇaṅcāyat rājji,pəɳəŋt͡ʃɑːjət̪ ɾɑːd͡ʒd͡ʒɪ,panchayat,ஊராட்சி,,,,Politics,words
+ꢦꢖ꣄ꢗꢵꢫꢡꢕꢿꢬ꣄,पञ्चायघेर्,பஞ்சாயதுகே4ர்,pangchaayatagher,paGcAyatagher,paṅcāyatagher,pəŋt͡ʃɑːjət̪əgʰeːɾ,panchayat union,ஊராட்சி ஒன்றியம்,,,,Politics,words
+ꢨ꣄ꢬꢰ꣄ꢜꢵꢗꢵꢬ꣄,ब्रष्टाचार,ப்3ரஷ்டாசார்,brasht'aachaar,braSTAcAr,braṣṭācār,bɾəʂʈɑːt͡ʃɑːɾ,corruption,ஊழல்,,,,Politics,words
+ꢪꢭꢶꢥꢵꢗꢵꢬ꣄,मलिनाचार,மலினாசார்,malinaachaar,malinAcAr,malinācār,məlɪn̪ɑːt͡ʃɑːɾ,corruption,ஊழல்,,,,Politics,words
+ꢱꢿꢮꣁ,सेवा॑,ஸேவொ,sevo',sevO,sevŏ,s̪eːʋo,service,ஊழியம்,,,,Politics,words
+ꢱꢿꢮꢒꣁ,सेवका॑,ஸேவகொ,sevako',sevakO,sevakŏ,s̪eːʋəko,servant,ஊழியர்,,,,Politics,words
+ꢱꢿꢮꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,सेवा॑ केर्नार,ஸேவொ கெர்னார்,sevo' ke'rnaar,sevO kErnAr,sevŏ kĕrnār,s̪eːʋo keɾn̪ɑːɾ,servant,ஊழியர்,,,,Politics,words
+ꢱꢖ꣄ꢓ꣄ꢫꢵꢦꣁꢭ꣄ꢒꣁ,सङ्खयापा॑ल्का॑,ஸங்க்2யா பொல்கொ,sankhyaapo'lko',saGkhyApOlkO,saṅkhyāpŏlkŏ,s̪əŋkʰjɑːpolko,number plate,எண்பலகை,,,,Politics,words
+ꢮꢶꢩꢒ꣄ꢰꢸ,विभक्षउ,விப4க்ஷு,vibhakshu,vibhakSu,vibhakṣu,ʋɪbʰəkʂu,opposition party,எதிர்க்கட்சி,,,,Politics,words
+ꢡꣂꢒ꣄ꢱꢥꢶ,दोक्सनि,தோக்ஸனி,toksani,toksani,toksani,t̪oːks̪ən̪ɪ,expectation,எதிர்பார்ப்பு,,,,Politics,words
+ꢦ꣄ꢬꢡꢷꢒ꣄ꢰꣁ,प्रतीक्षो,ப்ரதீக்ஷொ,prateeksho',pratIkSO,pratīkṣŏ,pɾət̪iːkʂo,expectation,எதிர்பார்ப்பு,,,,Politics,words
+ꢦ꣄ꢬꢡꢶꢤ꣄ꢮꢥꢶ,प्रति ध्वनि,ப்ரதி த்4வனி,pratidhvani,pratidhvani,pratidhvani,pɾət̪ɪd̪ʰʋən̪ɪ,echo,எதிரொலி,,,,Politics,words
+ꢦ꣄ꢬꢡꢶꢗꢵꢫꢵ,प्रतिचाया,ப்ரதிஸாயா,pratichaayaa,praticAyA,praticāyā,pɾət̪ɪt͡ʃɑːjɑː,reflection,எதிரொளி,,,,Politics,words
+ꢦ꣄ꢬꢡꢶ ꢨꢶꢪ꣄ꢨꢸ,प्रति बिम्बु,ப்ரதி பி3ம்பு3,prati bimbu,prati bimbu,prati bimbu,pɾət̪ɪ bɪmbu,reflection,எதிரொளி,,,,Politics,words
+ꢍꢒꢵꢤꢶꢦꢡꢶ,एकाधिपति,ஏகாதி4பதி,ekaadhipati,ekAdhipati,ekādhipati,eːkɑːd̪ʰɪpət̪ɪ,autocrat,எதேச்சாதிகாரி,,,,Politics,words
+ꢱ꣄ꢮꢿꢗ꣄ꢗꢵꢗꢵꢬꢶ,स्वेच्चाचारि,ஸ்வேச்சாசாரி,svechchaachaari,sveccAcAri,sveccācāri,s̪ʋeːt͡ʃt͡ʃɑːt͡ʃɑːɾɪ,autocrat,எதேச்சாதிகாரி,,,,Politics,words
+ꢌꢭ꣄ꢔꢾ,एल्ग॑,எல்கெ3,e'lge',ElgE,ĕlgĕ,elge,border,எல்லை,,,,Politics,words
+ꢂꢣ꣄ꢣꢸ,अद्दु,அத்3து3,addu,addu,addu,əd̪d̪u,border,எல்லை,,,,Politics,words
+ꢱꢷꢪꣁ,सीमा॑,ஸீமொ,seemo',sImO,sīmŏ,s̪iːmo,border,எல்லை,,,,Politics,words
+ꢱꢷꢪꢵ ꢡꢾꢔꢸꢬꢵꢭ꣄,सीमा त॑गुराल,ஸீமா தெகு3ரால்,seemaa te'guraal,sImA tEgurAl,sīmā tĕgurāl,s̪iːmɑː t̪eguɾɑːl,border dispute,எல்லைத்தகராறு,,,,Politics,words
+ꢂꢣ꣄ꢣꢸ ꢡꢾꢔꢸꢬꢵꢭ꣄,अद्दु त॑गउराल,அத்3து3 தெகு3ரால்,addu te'guraal,addu tEgurAl,addu tĕgurāl,əd̪d̪u t̪eguɾɑːl,border dispute,எல்லைத்தகராறு,,,,Politics,words
+ꢭꢶꢦꢶꢒꣁ,लिपिका॑,லிபிகொ,lipiko',lipikO,lipikŏ,lɪpɪko,clerk,எழுத்தர்,,,,Politics,words
+ꢔꢸꢪꢱ꣄ꢡꣁ,गुमस्ता॑,கு3மஸ்தொ,gumasto',gumastO,gumastŏ,guməs̪t̪o,clerk,எழுத்தர்,,,,Politics,words
+ꢗꢾꢣꢸꢮꢸ ꢛꢵꢥ꣄,च॑दुवु ञान,செது3வு ஞான்,che'duvu nyaan,cEduvu JAn,cĕduvu ñān,t͡ʃed̪uʋu ɲɑːn̪,literacy,எழுத்தறிவு,,,,Politics,words
+ꢭꢿꢓꢥꢱꢵꢪꢔ꣄ꢬꢶ,लेखन सामग्रि,லேக2ன ஸாமக்3ரி,lekhanasaamagri,lekhanasAmagri,lekhanasāmagri,leːkʰən̪əs̪ɑːməgɾɪ,stationary,எழுதுபொருள்,,,,Politics,words
+ꢭꢿꢓꢮꢱ꣄ꢡꢸ,लेखवस्तु,லேக2வஸ்து,lekhavastu,lekhavastu,lekhavastu,leːkʰəʋəs̪t̪u,stationary,எழுதுபொருள்,,,,Politics,words
+ꢌꢙꢪꢵꢥ꣄,एजमान,எஜமான்,e'jamaan,EjamAn,ĕjamān,ed͡ʒəmɑːn̪,master,எஜமான்,,,,Politics,words
+ꢪꣁꢣ꣄ꢬꢳꢶ,मा॑द्रळि,மொத்3ரளி,mo'dral'i,mOdraLi,mŏdral̤i,mod̪ɾəɭɪ,master,எஜமான்,,,,Politics,words
+ꢱ꣄ꢮꢿꢗ꣄ꢗꢵꢗꢵꢬ꣄,स्वेच्चाचार,ஸ்வேச்சாசார்,svechchaachaar,sveccAcAr,sveccācār,s̪ʋeːt͡ʃt͡ʃɑːt͡ʃɑːɾ,autocracy,ஏகாதிபத்தியம்,,,,Politics,words
+ꢍꢒꢵꢤꢶꢦꢡꢶ,एकाधिपति,ஏகாதி4பதி,ekaadhipati,ekAdhipati,ekādhipati,eːkɑːd̪ʰɪpət̪ɪ,autocrat/ dictator,ஏகாதிபதி / சர்வாதிகாரி,,,,Politics,words
+ꢱꢬ꣄ꢮꢵꢡꢶꢒꢵꢬꢶ,सर्वातिकारि,ஸர்வாதிகாரி,sarvaatikaari,sarvAtikAri,sarvātikāri,s̪əɾʋɑːt̪ɪkɑːɾɪ,autocrat/ dictator,ஏகாதிபதி / சர்வாதிகாரி,,,,Politics,words
+ꢂꢥꢸꢒ꣄ꢬꢪꣁ,अनुक्रमा॑,அனுக்ரமொ,anukramo',anukramO,anukramŏ,ən̪ukɾəmo,arrangement,ஏற்பாடு,,,,Politics,words
+ꢱ꣄ꢮꢷꢒꢵꢬ꣄,स्वीकार,ஸ்வீகார்,sveekaar,svIkAr,svīkār,s̪ʋiːkɑːɾ,acceptance,ஏற்பு/ஒப்புதல்,,,,Politics,words
+ꢂꢖ꣄ꢔꢷꢒꢵꢬ꣄,अङ्गीकार,அங்கீ3கார்,angeekaar,aGgIkAr,aṅgīkār,əŋgiːkɑːɾ,acceptance,ஏற்பு/ஒப்புதல்,,,,Politics,words
+ꢏꢦ꣄ꢦꢶꢭ꣄ꢥꢶ,आ॑प्पिल्नि,ஒப்பில்னி,o'ppilni,Oppilni,ŏppilni,oppɪln̪ɪ,acceptance,ஏற்பு/ஒப்புதல்,,,,Politics,words
+ꢆꢖ꣄ꢗ ꢓꢵꢭ꣄,उञ्च खाल्,உஞ்ச கா2ல்,ungcha khaal,uGca khAl,uṅca khāl,uŋt͡ʃə kʰɑːl,fluctuation,ஏற்ற இறக்கம்,,,,Politics,words
+ꢲꢶꢖ꣄ꢔꢵꢮ꣄,हिङ्गाव्,ஹிங்கா3வ்,hingaav,hiGgAv,hiṅgāv,ɦɪŋgɑːʋ,export,ஏற்றுமதி,,,,Politics,words
+ꢥꢶꢬ꣄ꢫꢵꢡ꣄,निर्यात,நிர்யாத்,niryaat,niryAt,niryāt,n̪ɪɾjɑːt̪,export,ஏற்றுமதி,,,,Politics,words
+ꢲꢶꢖ꣄ꢔꢵꢜ꣄,हिङ्गाट,ஹிங்கா3ட்,hingaat',hiGgAT,hiṅgāṭ,ɦɪŋgɑːʈ,export,ஏற்றுமதி,,,,Politics,words
+ꢎꢒ꣄ꢫ ꢬꢵꢰ꣄ꢜ꣄ꢬ ꢱꢪ꣄ꢱ꣄ꢡꢵꢥ꣄,ऐक्य राष्ट्र सम्स्तान,ஐக்ய ராஷ்ட்ர ஸம்ஸ்தான்,aikya raasht'ra samstaan,aikya rASTra samstAn,aikya rāṣṭra samstān,əɪkjə ɾɑːʂʈɾə s̪əms̪t̪ɑːn̪,United Nations Organisation,ஐக்கிய நாடுகள் சபை,,,,Politics,words
+ꢎꢒ꣄ꢫ ꢂꢔ꣄ꢬꢠꢶ,ईक्य अग्रणि,ஐக்ய அக்3ரணி,aikya agrani,aikya agraNi,aikya agraṇi,əɪkjə əgɾəɳɪ,United Front,ஐக்கிய முன்னணி,,,,Politics,words
+ꢣꣁꢦ꣄ꢦꢵ ꢢꣁꢮ꣄ꢥꢶ,दा॑ब्बि थोव्नि,தொ3ப்3பி3 தொ2வ்னி,do'ppaa tho'vni,dOppA thOvni,dŏppā thŏvni,d̪oppɑː t̪ʰoʋn̪ɪ,adjournment,ஒத்திவைப்பு,,,,Politics,words
+ꢱꢲꢒꢵꢬ꣄,सहकार्,ஸஹகார்,sahakaar,sahakAr,sahakār,s̪əɦəkɑːɾ,co-operation,ஒத்துழைப்பு,,,,Politics,words
+ꢱꢲꢫꣂꢔ꣄,सहयोग,ஸஹயோக்3,sahayog,sahayog,sahayog,s̪əɦəjoːg,co-operation,ஒத்துழைப்பு,,,,Politics,words
+ꢮꢶꢩꢵꢙꢥꣁ,विभाजना॑,விபா4ஜனொ,vibhaajano',vibhAjanO,vibhājanŏ,ʋɪbʰɑːd͡ʒən̪o,allotment,ஒதுக்கீடு,,,,Politics,words
+ꢦꢬꢮꢱꣁ ꢒꢾꢬ꣄ꢥꢶ,परवसा॑ क॑र्नि,பரவஸொ கெர்னி,paravaso' ke'rni,paravasO kErni,paravasŏ kĕrni,pəɾəʋəs̪o keɾn̪ɪ,handover,ஒப்படைப்பு,,,,Politics,words
+ꢏꢦ꣄ꢦꢥ꣄ꢣ ꢱꢹꢗꢥꣁ,आ॑प्पन्द सूचना॑,ஒப்பந்த3ஸூசனொ,o'ppanda soochano',Oppanda sUcanO,ŏppanda sūcanŏ,oppən̪d̪ə s̪uːt͡ʃən̪o,tender,ஒப்பந்தப்புள்ளி,,,,Politics,words
+ꢏꢦ꣄ꢦꢥ꣄ꢣꢪ꣄,आ॑प्पन्दम,ஒப்பந்த3ம்,o'ppandam,Oppandam,ŏppandam,oppən̪d̪əm,contract,ஒப்பந்தம்,,,,Politics,words
+ꢲꢵꢡꢸ ꢂꢒ꣄ꢰꢬ꣄,हातु अक्षर,ஹாது அக்ஷர்,haatu akshar,hAtu akSar,hātu akṣar,ɦɑːt̪u əkʂəɾ,signature,ஒப்பு,,,,Politics,words
+ꢱ꣄ꢮꢷꢒꢬ꣄ꢥꢶ,स्वीकर्नि,ஸ்வீகர்னி,sveekarni,svIkarni,svīkarni,s̪ʋiːkəɾn̪ɪ,acknowledge ment,ஒப்புகை,,,,Politics,words
+ꢦ꣄ꢬꢵꢦ꣄ꢡꢶ ꢱꢖ꣄ꢔꢶꢥꢶ,प्राप्ति सङ्गिनि,ப்ராப்தி ஸங்கி3னி,praapti sangini,prApti saGgini,prāpti saṅgini,pɾɑːpt̪ɪ s̪əŋgɪn̪ɪ,acknowledge ment,ஒப்புகை,,,,Politics,words
+ꢭꢿꢡꢥꢶ,लेतनि,லோதனி,letani,letani,letani,leːt̪ən̪ɪ,surrender,ஒப்புவிப்பு,,,,Politics,words
+ꢎꢒ꣄ꢫ ꢩꢵꢮꢥꣁ,ऐक्यभावना॑,ஐக்ய பா4வனொ,aikya bhaavano',aikya bhAvanO,aikya bhāvanŏ,əɪkjə bʰɑːʋən̪o,integration,ஒருமைப்பாடு,,,,Politics,words
+ꢥꢶꢫꢪꣁ,नियमा॑,நியமொ,niyamo',niyamO,niyamŏ,n̪ɪjəmo,regulation,ஒழுங்குமுறை,,,,Politics,words
+ꢤꣁꢥꢶꢥꢾꢬ꣄ꢦꢶꢥꢶ,धा॑नि न॑र्पिनि,தொ4னிநெர்பினி,dho'nine'rpini,dhOninErpini,dhŏninĕrpini,d̪ʰon̪ɪn̪eɾpɪn̪ɪ,broad casting,ஒலிபரப்பு,,,,Politics,words
+ꢤꣁꢥꢶ ꢦ꣄ꢬꢱꢵꢬ꣄,धा॑नि प्रसार,தொ4னி ப்ரஸார்,dho'ni prasaar,dhOni prasAr,dhŏni prasār,d̪ʰon̪ɪ pɾəs̪ɑːɾ,broad casting,ஒலிபரப்பு,,,,Politics,words
+ꢬꢹꢦꢸ ꢥꢾꢬ꣄ꢦꢶꢥꢶ,रूपु न॑र्पिनि,ரூபுநெர்பினி,roopu ne'rpini,rUpu nErpini,rūpu nĕrpini,ɾuːpu n̪eɾpɪn̪ɪ,telecasting,ஒளிபரப்பு,,,,Politics,words
+ꢬꢹꢦꢸ ꢦ꣄ꢬꢱꢵꢬ꣄,रूपु प्रसार,ரூபு ப்ரஸார்,roopu prasaar,rUpu prasAr,rūpu prasār,ɾuːpu pɾəs̪ɑːɾ,telecasting,ஒளிபரப்பு,,,,Politics,words
+ꢭꢸꢔ꣄ꢙꢵꢥꢶ,लुगञानि,லுக்ஜானி,lugjaani,lugjAni,lugjāni,lugd͡ʒɑːn̪ɪ,spy,ஒற்றன்,,,,Politics,words
+ꢔꢸꢦ꣄ꢡꢗꢵꢬꢶ,गुप्तचारि,கு3ப்தசாரி,guptachaari,guptacAri,guptacāri,gupt̪ət͡ʃɑːɾɪ,spy,ஒற்றன்,,,,Politics,words
+ꢔꢸꢦ꣄ꢡꣁ,गुप्ता॑,கு3ப்தொ,gupto',guptO,guptŏ,gupt̪o,spy,ஒற்றன்,,,,Politics,words
+ꢔꢸꢞꢵꢗꢵꢬꢶ,गुडाचारि,கு3டா3சாரி,gud'aachaari,guDAcAri,guḍācāri,guɖɑːt͡ʃɑːɾɪ,spy,ஒற்றன்,,,,Politics,words
+ꢒꢸꢣ꣄ꢮꣁ,कुट्रा॑,குட்ரொ,kudvo',kudvO,kudvŏ,kud̪ʋo,mortgage,ஒற்றி,,,,Politics,words
+ꢗꢖ꣄ꢔꢪ꣄,चङ्गम्,ஸங்க3ம்,changam,caGgam,caṅgam,t͡ʃəŋgəm,union,ஒன்றியம்,,,,Politics,words
+ꢮꢵꢒ꣄,वाक्,வோட்,vaak,vAk,vāk,ʋɑːk,vote,ஓட்டு,,,,Politics,words
+ꢪꢡꢣꢵꢥ꣄,मतदान,மததா3ன்,matadaan,matadAn,matadān,mət̪əd̪ɑːn̪,vote,ஓட்டு,,,,Politics,words
+ꢮꢵꢔ꣄ꢣꢵꢥ꣄,वाग्दान,வாக்3தா3ன்,vaagdaan,vAgdAn,vāgdān,ʋɑːgd̪ɑːn̪,vote,ஓட்டு,,,,Politics,words
+ꢮꢵꢒ꣄ ꢨꢵꢡ꣄ꢫꣁ,वाक्बात्या॑,வாக்பா3த்யொ,vaak baatyo',vAk bAtyO,vāk bātyŏ,ʋɑːk bɑːt̪jo,franchise,ஓட்டுரிமை,,,,Politics,words
+ꢮꢶꢱ꣄ꢬꢵꢥ꣄ꢡꢶ,विस्रान्ति,விஸ்ராந்தி,visraanti,visrAnti,visrānti,ʋɪs̪ɾɑːn̪t̪ɪ,retiring,ஓய்வூ பெறுதல்,,,,Politics,words
+ꢮꢶꢬꢡꢶ,विरति,விரதி,virati,virati,virati,ʋɪɾət̪ɪ,retiring,ஓய்வூ பெறுதல்,,,,Politics,words
+ꢒꢒ꣄ꢰꢶ,कक्षि,கக்ஷி,kakshi,kakSi,kakṣi,kəkʂɪ,party,கட்சி,,,,Politics,words
+ꢱꢸꢭ꣄ꢒꢪ꣄,सूल्कम्,ஸுல்கம்,sulkam,sulkam,sulkam,s̪ulkəm,fare,கட்டணம்,,,,Politics,words
+ꢣꢬꣁ,दरा॑,த3ரொ,daro',darO,darŏ,d̪əɾo,fare,கட்டணம்,,,,Politics,words
+ꢪꣂꢭ꣄,मोल्,மோல்,mol,mol,mol,moːl,fare,கட்டணம்,,,,Politics,words
+ꢒꢾꢜ꣄ꢜꣁ,केट्टा॑,கெட்டொ,ke't't'o',kETTO,kĕṭṭŏ,keʈʈo,bundle,கட்டு,,,,Politics,words
+ꢥꢶꢫꢪꣁ,नियमा॑,நியமொ,niyamo',niyamO,niyamŏ,n̪ɪjəmo,con trol,கட்டுப்பாடு,,,,Politics,words
+ꢙꢭ ꢱꢿꢥꣁ,जल सेना॑,ஜல ஸேனொ,jala seno',jala senO,jala senŏ,d͡ʒələ s̪eːn̪o,naval force,கடற்படை,,,,Politics,words
+ꢬꢷꢠ꣄,रीण,ரீண்,reen,rIN,rīṇ,ɾiːɳ,debt,கடன்,,,,Politics,words
+ꢬꢷꢠꢸꢩꢵꢬ꣄,रीणुभार,ரீணுபா4ர்,reenubhaar,rINubhAr,rīṇubhār,ɾiːɳubʰɑːɾ,liabilities,கடன் பொறுப்பு,,,,Politics,words
+ꢱꢾꢮ꣄ꢒꢥ꣄,स॑व्कन्,ஸெவ்கன்,se'vkan,sEvkan,sĕvkan,s̪eʋkən̪,peon,கடைநிலை ஊழியர்,,,,Politics,words
+ꢔꢮꢸꢛ꣄ꢙꢶ ꢔꢮꢸꢛ꣄ꢙꢸꢥꢵꢬ꣄,गवुञ्जि,க3வுஞ்ஜி,gavunji gavunjunaar,gavuJji gavuJjunAr,gavuñji gavuñjunār,gəʋuɲd͡ʒɪ gəʋuɲd͡ʒun̪ɑːɾ,supervision,கண்காணிப்பு,,,,Politics,words
+ꢥꢶꢬꢷꢰꢠꣁ,गवुन्जुनार्,க3வுஞ்ஜுனார்,nireeshano',nirISaNO,nirīṣaṇŏ,n̪ɪɾiːʂəɳo,supervision,கண்காணிப்பு,,,,Politics,words
+ꢭꢴꢾꢒꢒꣀꢡ꣄,ल्हेककैत,லெ:க்கைத்,lhe'kakait,lhEkakait,lhĕkakait,lɦekəkəɪt̪,accountant,கணக்கர்,,,,Politics,words
+ꢭꢴꢾꢒ꣄ꢒꣁ ꢲꢾꢞ꣄ꢠꢶ,ल्ह॑क्का॑ हेड्णि,லெ:க்கொ ஹெட்3ணி,lhe'kko' he'd'ni,lhEkkO hEDNi,lhĕkkŏ hĕḍṇi,lɦekko ɦeɖɳɪ,enumeration,கணக்கெடுப்பு,,,,Politics,words
+ꢔꢠꢥꣁ,गणना॑,க3ணனொ,ganano',gaNanO,gaṇanŏ,gəɳən̪o,enumeration,கணக்கெடுப்பு,,,,Politics,words
+ꢔꢠꢶꢠꢶ,गणिणि,க3ணிணி,ganini,gaNiNi,gaṇiṇi,gəɳɪɳɪ,computer,கணினி,,,,Politics,words
+ꢲꢷꢱꢸꢥꢿꢭ꣄,हीसुनेल,ஹீஸுநேல்,heesunel,hIsunel,hīsunel,ɦiːs̪un̪eːl,computer,கணினி,,,,Politics,words
+ꢭꢴꢾꢒ꣄ꢒꢥꢶ,ल्ह॑क्कनि,லெ:க்கனி,lhe'kkani,lhEkkani,lhĕkkani,lɦekkən̪ɪ,computer,கணினி,,,,Politics,words
+ꢨꢥ꣄ꢤꢸ,बन्धु,ப3ந்து4,bandhu,bandhu,bandhu,bən̪d̪ʰu,"bandh, lock-out",கதவடைப்பு,,,,Politics,words
+ꢂꢩꢶꢦ꣄ꢬꢵꢫ,अभिप्राय,அபி4ப்ராயு,abhipraaya,abhiprAya,abhiprāya,əbʰɪpɾɑːjə,"opinion, idea",கருத்து,,,,Politics,words
+ꢇꢲꣁ,ऊहा॑,ஊஹொ,ooho',UhO,ūhŏ,uːɦo,assumption,கருதுகோள்,,,,Politics,words
+ꢇꢲꢥꣁ,ऊहना॑,ஊஹனொ,oohano',UhanO,ūhanŏ,uːɦən̪o,assumption,கருதுகோள்,,,,Politics,words
+ꢭꢴꢾꢒ꣄ꢒꢵꢮ꣄,ल्ह॑क्काव,லெ:க்காவ்,lhe'kkaav,lhEkkAv,lhĕkkāv,lɦekkɑːʋ,calculator,கணிப்பான்,,,,Politics,words
+ꢦꣁꢒ꣄ꢒꢶꢰꢪ꣄,पा॑क्किषम्,பொக்கிஷம்,po'kkisham,pOkkiSam,pŏkkiṣam,pokkɪʂəm,treasury,கருவூலம்,,,,Politics,words
+ꢮꢶꢡ꣄ꢡꢒꣂꢰ꣄,वित्तकोष,வித்தகோஷ்,vittakosh,vittakoS,vittakoṣ,ʋɪt̪t̪əkoːʂ,treasury,கருவூலம்,,,,Politics,words
+ꢮꢶꢣ꣄ꢫꢵ ꢪꢥ꣄ꢡ꣄ꢬꢶ,विद्या मन्त्रि,வித்3யா மந்த்ரி,vidyaa mantri,vidyA mantri,vidyā mantri,ʋɪd̪jɑː mən̪t̪ɾɪ,education minister,கல்வி அமைச்சர்,,,,Politics,words
+ꢮꢶꢣ꣄ꢫꢵ ꢮꢶꢩꢵꢔ꣄,विद्याविभाग्,வித்3யாவிபா4க்3,vidyaa vibhaag,vidyA vibhAg,vidyā vibhāg,ʋɪd̪jɑː ʋɪbʰɑːg,education department,கல்வித்துறை,,,,Politics,words
+ꢪꢶꢱ꣄ꢬꢠꣁ,मिस्रणा॑,மிஸ்ரணொ,misrano',misraNO,misraṇŏ,mɪs̪ɾəɳo,adulteration,கலப்படம்,,,,Politics,words
+ꢪꢶꢱ꣄ꢡ ꢙꢵꢡ꣄,मिस्तजात्,மிஸ்ரஜாத்,mista jaat,mista jAt,mista jāt,mɪs̪t̪ə d͡ʒɑːt̪,"cross-breed, hybrid",கலப்பினம்,,,,Politics,words
+ꢆꢣꢵꢱꢷꢥ꣄,उदासीन,உதா3ஸீன்,udaaseen,udAsIn,udāsīn,ud̪ɑːs̪iːn̪,negligence,கவனக் குறைவு,,,,Politics,words
+ꢆꢦꢾꢒ꣄ꢰꣁ,उपेक्षो,உபேக்ஷொ,upe'ksho',upEkSO,upĕkṣŏ,upekʂo,negligence,கவனக் குறைவு,,,,Politics,words
+ꢱꢩꣁ,सभा॑,ஸபொ4,sabho',sabhO,sabhŏ,s̪əbʰo,association,கழகம்,,,,Politics,words
+ꢱꢪ꣄ꢱ꣄ꢢꢵꢥ꣄,सम्स्थान,ஸம்ஸ்தா2ன்,samsthaan,samsthAn,samsthān,s̪əms̪t̪ʰɑːn̪,association,கழகம்,,,,Politics,words
+ꢩꢶꢞ꣄ꢠꢶ,भिड्णि,பி4ட்3ணி,bhid'ni,bhiDNi,bhiḍṇi,bʰɪɖɳɪ,discount,கழிவு,,,,Politics,words
+ꢤꢵꢡꢸ,धातु,தா4து,dhaatu,dhAtu,dhātu,d̪ʰɑːt̪u,ore,கனிமம்,,,,Politics,words
+ꢓꢙꢵꢥꣁ,खजाना॑,க2ஜானொ,khajaano',khajAnO,khajānŏ,kʰəd͡ʒɑːn̪o,treasury,கஜானா,,,,Politics,words
+ꢲꢥ꣄ꢥꢮꢸ ꢦꢡꢡ꣄ꢬ꣄,हन्नवुपत्रर,ஹன்னவு பத்தர்,hannavu patatr,hannavu patatr,hannavu patatr,ɦən̪n̪əʋu pət̪ət̪ɾ,cheque,காசோலை,,,,Politics,words
+ꢬꢰꢠꢒꢬ꣄ꢥꢶ,रक्षणकर्नि,ரக்ஷணகர்னி,rashanakarni,raSaNakarni,raṣaṇakarni,ɾəʂəɳəkəɾn̪ɪ,insulation,காப்பிடுதல்,,,,Politics,words
+ꢬꢰꢠ ꢩꢬ꣄ꢡꢶ,रक्षणभर्ति,ரக்ஷணப4ர்தி,rashana bharti,raSaNa bharti,raṣaṇa bharti,ɾəʂəɳə bʰəɾt̪ɪ,insurance,காப்பீடு,,,,Politics,words
+ꢪꢸꢱꢶꢥꢶ,मुसिनि,முஸினி,musini,musini,musini,mus̪ɪn̪ɪ,termina tion,காலாவதி,,,,Politics,words
+ꢦꣁꢭꢶꢱ꣄ꢥꢶꢬꢷꢒ꣄ꢱꢒꣁ,पोलिस्निरीक्षका॑,பொலிஸ்நிரீக்ஷகொ,po'lisnireeksako',pOlisnirIksakO,pŏlisnirīksakŏ,polɪs̪n̪ɪɾiːks̪əko,police inspector,காவல் ஆய்வாளர்,,,,Politics,words
+ꢢꢵꢠꢵ ꢥꢶꢬꢶꢒ꣄ꢰꢒꣁ,थाणा निरिक्षका॑,தா2ணா நிரிக்ஷகொ,thaanaa nirikshako',thANA nirikSakO,thāṇā nirikṣakŏ,t̪ʰɑːɳɑː n̪ɪɾɪkʂəko,police inspector,காவல் ஆய்வாளர்,,,,Politics,words
+ꢬꢴꢒ꣄ꢒꣀꢡ꣄,र्हक्कैत,ர:க்கைத்,rhakkait,rhakkait,rhakkait,ɾɦəkkəɪt̪,watchman,காவல்காரன்,,,,Politics,words
+ꢬꢴꢒ꣄ꢒꢸꢮꢵꢥ꣄,र्हक्कुवान,ர:க்குவான்,rhakkuvaan,rhakkuvAn,rhakkuvān,ɾɦəkkuʋɑːn̪,watchman,காவல்காரன்,,,,Politics,words
+ꢢꢵꢠꢵꢮꢶꢩꢵꢒ꣄,थाणाविभाक,தா2ணாவிபா4க்,thaanaavibhaak,thANAvibhAk,thāṇāvibhāk,t̪ʰɑːɳɑːʋɪbʰɑːk,police department,காவல் துறை,,,,Politics,words
+ꢢꢠꢫ꣄ꢡꢸ,थाणय्तु,த2ணய்து,thanaytu,thaNaytu,thaṇaytu,t̪ʰəɳəjt̪u,policeman,காவலர்,,,,Politics,words
+ꢒꢶꢞ꣄ꢞꢖ꣄ꢒꢶ,किड्डङ्कि,கி3ட்3ட3ங்கி3,kid'd'anki,kiDDaGki,kiḍḍaṅki,kɪɖɖəŋkɪ,godown,கிடங்கு,,,,Politics,words
+ꢥꢴꢥꢦꣁꢬ꣄ꢱꢾ,न्हन्पा॑र्स॑,ந:ன்பொர்ஸெ,nhanapo'rse',nhanapOrsE,nhanapŏrsĕ,n̪ɦən̪əpoɾs̪e,hamlet,குக்கிராமம்,,,,Politics,words
+ꢥꢴꢥ꣄ꢔꢵꢪ꣄,न्हन्गाम,ந:ன் கா3ம்,nhangaam,nhangAm,nhangām,n̪ɦən̪gɑːm,hamlet,குக்கிராமம்,,,,Politics,words
+ꢥꢴꢥ꣄ ꢦꣁꢜ꣄ꢒ꣄ꢫꢵꢜ꣄,न्हन पा॑ट्क्याट,ந:ன் பொட்க்யாட்,nhan po't'kyaat',nhan pOTkyAT,nhan pŏṭkyāṭ,n̪ɦən̪ poʈkjɑːʈ,hamlet,குக்கிராமம்,,,,Politics,words
+ꢔꢠ ꢡꢥ꣄ꢡ꣄ꢬꢸ,गण तन्त्रु,க3ண தந்த்ரு,gana tantru,gaNa tantru,gaṇa tantru,gəɳə t̪ən̪t̪ɾu,"republic, democracy",குடியரசு,,,,Politics,words
+ꢔꢠ ꢬꢵꢙ꣄ꢫꢸ,गण राज्यु,க3ண ராஜ்யு,gana raajyu,gaNa rAjyu,gaṇa rājyu,gəɳə ɾɑːd͡ʒju,"republic, democracy",குடியரசு,,,,Politics,words
+ꢦ꣄ꢬꢙꢵ ꢦ꣄ꢬꢩꢸꢡ꣄ꢮꣁ,प्रजा प्रभुत्वा॑,ப்ரஜா ப்ரபு4த்வொ,prajaa prabhutvo',prajA prabhutvO,prajā prabhutvŏ,pɾəd͡ʒɑː pɾəbʰut̪ʋo,"republic, democracy",குடியரசு,,,,Politics,words
+ꢙꢥꢵꢡꢶꢦꢡꢶ,जनातिपति,ஜனாதிபதி,janaatipati,janAtipati,janātipati,d͡ʒən̪ɑːt̪ɪpət̪ɪ,president of the country,குடியரசுத் தலைவர்,,,,Politics,words
+ꢦ꣄ꢬꢙꢵ ꢨꢵꢡ꣄ꢫꢸ,प्रजाबात्यु,ப்ரஜாபா3த்யு,prajaa baatyu,prajA bAtyu,prajā bātyu,pɾəd͡ʒɑː bɑːt̪ju,citizenship,குடியுரிமை,,,,Politics,words
+ꢥꢵꢔꢬꢶꢒꢡꣁ,नागरिकता॑,நாக3ரிகதொ,naagarikato',nAgarikatO,nāgarikatŏ,n̪ɑːgəɾɪkət̪o,citizenship,குடியுரிமை,,,,Politics,words
+ꢒꢸꢜꢸꢪ꣄ꢨ ꢥꢶꢬꣂꢡ꣄,कुटुम्बनिरोत्,குடும்ப3நிரோத்4,kut'umba nirot,kuTumba nirot,kuṭumba nirot,kuʈumbə n̪ɪɾoːt̪,family planning,குடும்பக் கட்டுப்பாடு,,,,Politics,words
+ꢒꢸꢜꢸꢪ꣄ꢨ ꢒ꣄ꢰꢿꢪ ꢮꢶꢩꢵꢔ꣄,कुटुम्प क्षेम विभाग,குடும்ப க்ஷேம விபா4க்3,kut'umba kshema vibhaag,kuTumba kSema vibhAg,kuṭumba kṣema vibhāg,kuʈumbə kʂeːmə ʋɪbʰɑːg,family welfare department,குடும்ப நலத்துறை,,,,Politics,words
+ꢏꢡ꣄ꢡꢶ,आ॑त्ति,ஒத்தி,o'tti,Otti,ŏtti,ot̪t̪ɪ,lease,குத்தகை,,,,Politics,words
+ꢔꢸꢪ꣄ꢱ꣄ꢡꣁ,गुमस्ता॑,கு3மஸ்தொ,gumsto',gumstO,gumstŏ,gums̪t̪o,clerk,குமாஸ்தா,,,,Politics,words
+ꢔꢸꢪ꣄ꢦꢸ,गुम्पु,கு3ம்பு,gumpu,gumpu,gumpu,gumpu,group,குழு,,,,Politics,words
+ꢂꢦꢬꢵꢤ꣄,अपराध,அபராத்4,aparaadh,aparAdh,aparādh,əpəɾɑːd̪ʰ,accusation,குற்றச்சாட்டு,,,,Politics,words
+ꢘꢸꢒ꣄ꢕꢭ꣄ꢥꢶ,चूक्घल्नि,சூக் க4ல்னி,chhukghalni,chukghalni,chukghalni,t͡ʃʰukgʰəln̪ɪ,accusation,குற்றச்சாட்டு,,,,Politics,words
+ꢂꢦꢬꢵꢤ꣄,अपराध,அபராத்4,aparaadh,aparAdh,aparādh,əpəɾɑːd̪ʰ,"default, fault",குற்றம்,,,,Politics,words
+ꢗꢶꢥ꣄ꢲꢸꢥ꣄,चिनहुन,சின்ஹுன்,chinhun,cinhun,cinhun,t͡ʃɪn̪ɦun̪,signs,குறிகள்,,,,Politics,words
+ꢔꢸꢬ꣄ꢡꢸꢥ꣄,गुर्तुन,கு3ர்துன்,gurtun,gurtun,gurtun,guɾt̪un̪,signs,குறிகள்,,,,Politics,words
+ꢱꢶꢥ꣄ꢡꢸꢱꢖ꣄ꢓ꣄ꢫꣁ,सिन्तु सङ्ख्या॑,கு3ர்து ஸங்க்2யொ,sintusankhyo',sintusaGkhyO,sintusaṅkhyŏ,s̪ɪn̪t̪us̪əŋkʰjo,index number,குறியீட்டெண்,,,,Politics,words
+ꢱꢶꢥ꣄ꢲꢸ,सिन्हु,சின்ஹு,sinhu,sinhu,sinhu,s̪ɪn̪ɦu,"index, code",குறியீடு,,,,Politics,words
+ꢔꢸꢬ꣄ꢡꢸ,गुर्तु,கு3ர்து,gurtu,gurtu,gurtu,guɾt̪u,"index, code",குறியீடு,,,,Politics,words
+ꢆꢥ꣄ꢥ ꢦꣁꢞꢾꢫꣁ,उन्न पा॑ड॑या॑,உன்ன பொடெ3யொ,unna po'd'e'yo',unna pODEyO,unna pŏḍĕyŏ,un̪n̪ə poɖejo,minimum,குறைந்தபட்சம்,,,,Politics,words
+ꢆꢥ꣄ꢥ ꢦꢒ꣄ꢯꢸ,उन्न पक्षु,உன்ன பக்ஷு,unna pakshu,unna pakzu,unna pakśu,un̪n̪ə pəkʃu,minimum,குறைந்தபட்சம்,,,,Politics,words
+ꢦꢒ꣄ꢯ ꢎꢒ꣄ꢫꢡꣁ,पक्ष ऐक्यता॑,பக்ஷ ஐக்யதொ,paksha aikyato',pakza aikyatO,pakśa aikyatŏ,pəkʃə əɪkjət̪o,front,கூட்டணி,,,,Politics,words
+ꢪꢹꢔꣁ,मूगा॑,மூகொ3,moogo',mUgO,mūgŏ,muːgo,crowd,கூட்டம்,,,,Politics,words
+ꢔꢸꢪ꣄ꢦꢸꢪꢶꢳ꣄ꢥꢶ,गुम्पु,கு3ம்பு,gumpumil'ni,gumpumiLni,gumpumil̤ni,gumpumɪɭn̪ɪ,crowd,கூட்டம்,,,,Politics,words
+ꢪꢶꢳ꣄꣄ꢠꢶ,मिळ्नि,மிள்னி,mil'ni,miLNi,mil̤ṇi,mɪɭɳɪ,crowd,கூட்டம்,,,,Politics,words
+ꢪꢔꢶꢥꢶ,मगिनि,மகி3னி,magini,magini,magini,məgɪn̪ɪ,demand,கேட்பு,,,,Politics,words
+ꢓꢿꢭꢸ ꢒ꣄ꢬꢶꢫꣁ,खेलु क्रिया॑,கே2ளு க்ரியொ,khelu kriyo',khelu kriyO,khelu kriyŏ,kʰeːlu kɾɪjo,entertainment,கேளிக்கை,,,,Politics,words
+ꢪꢥꣂꢬꢛ꣄ꢙꢥ꣄,मनोरञ꣄जन,மனோரஞ்ஜன்,manoranjan,manoraJjan,manorañjan,mən̪oːɾəɲd͡ʒən̪,entertainment,கேளிக்கை,,,,Politics,words
+ꢲꢵꢡꢸ ꣄ꢪꢔꣁ,हातु मगा॑,ஹாதுமகொ3,haatu mago',hAtu magO,hātu magŏ,ɦɑːt̪u məgo,handloom,கைத்தறி,,,,Politics,words
+ꢩꢥ꣄ꢣꢶ,भन्दि,ப3ந்தி3,bhandi,bhandi,bhandi,bʰən̪d̪ɪ,prisoner,கைதி,,,,Politics,words
+ꢡꢸꢰ꣄ ꢦ꣄ꢬꢫꣂꢔ꣄,तुष्प्रयोग,து3ஷ்ப்ரயோக்3,tush prayog,tuS prayog,tuṣ prayog,t̪uʂ pɾəjoːg,misappropriation,கையாடல்,,,,Politics,words
+ꢬꢷꢠꢸꢨꢥ꣄ꢣꢶ,रीणुबन्दि,ரீணுப3ந்தி3,reenubandi,rINubandi,rīṇubandi,ɾiːɳubən̪d̪ɪ,bonded labour,கொத்தடிமை,,,,Politics,words
+ꢤꣁꢙ꣄,धा॑ज,தொ4ஜ்,dho'j,dhOj,dhŏj,d̪ʰod͡ʒ,flag,கொடி,,,,Politics,words
+ꢤꣁꢙ ꢱ꣄ꢢꢪ꣄ꢨꢸ,धा॑ज स्थम्बु,தொ4ஜ ஸ்த2ம்பு3,dho'ja sthambu,dhOja sthambu,dhŏja sthambu,d̪ʰod͡ʒə s̪t̪ʰəmbu,flag post,கொடிமரம்,,,,Politics,words
+ꢭꢒ꣄ꢰ꣄ꢫꢸ,लक्ष्यु,லக்ஷ்யு,lakshyu,lakSyu,lakṣyu,ləkʂju,policy,கொள்கை,,,,Politics,words
+ꢤ꣄ꢫꢿꢫꢸ,ध्येयु,த்4யேயு,dhyeyu,dhyeyu,dhyeyu,d̪ʰjeːju,policy,கொள்கை,,,,Politics,words
+ꢮꢶꢩꢵꢔ꣄,विभाग,விபா4க்3,vibhaag,vibhAg,vibhāg,ʋɪbʰɑːg,division,கோட்டம்,,,,Politics,words
+ꢣꢸꢬꢸꢔ꣄,दुरुग्,து3ருக்3,durug,durug,durug,d̪uɾug,fort,கோட்டை,,,,Politics,words
+ꢥꢶꢫꢪꣁ,नियमा॑,நியமொ,niyamo',niyamO,niyamŏ,n̪ɪjəmo,policy,கோட்பாடு,,,,Politics,words
+ꢱꢶꢣ꣄ꢣꢵꢥ꣄ꢡꢸ,सिद्दान्तु,ஸித்3தா3ந்து,siddaantu,siddAntu,siddāntu,s̪ɪd̪d̪ɑːn̪t̪u,policy,கோட்பாடு,,,,Politics,words
+ꢒꣂꢠ꣄,कोण,கோண்,kon,koN,koṇ,koːɳ,angle,கோணம்,,,,Politics,words
+ꢒꣁꢥꣁ,का॑ना॑,கொனொ,ko'no',kOnO,kŏnŏ,kon̪o,angle,கோணம்,,,,Politics,words
+ꢣ꣄ꢬꢸꢰ꣄ꢜꢶꢒꣂꢠ꣄,द्रुष्टिकोण,த்3ருஷ்டிகோண்,drusht'ikon,druSTikoN,druṣṭikoṇ,d̪ɾuʂʈɪkoːɳ,angle,கோணம்,,,,Politics,words
+ꢦꣁꢪꢜ꣄,पा॑मट,பொமட்,po'mat',pOmaT,pŏmaṭ,poməʈ,file,கோப்பு,,,,Politics,words
+ꢪꢒꢶꢥꢶ,मगिनि,மகி3னி,makini,makini,makini,məkɪn̪ɪ,"demand, requisition",கோரிக்கை,,,,Politics,words
+ꢒꣁꢬꢶ,का॑रि,கொரி,ko'ri,kOri,kŏri,koɾɪ,"demand, requisition",கோரிக்கை,,,,Politics,words
+ꢮꢬ꣄ꢔꢸ,वर्गु,வர்கு3,vargu,vargu,vargu,ʋəɾgu,group,கோஷ்டி,,,,Politics,words
+ꢔꣂꢰ꣄ꢜꢶ,गोष्टि,கோ3ஷ்டி,gosht'i,goSTi,goṣṭi,goːʂʈɪ,group,கோஷ்டி,,,,Politics,words
+ꢗꢒ꣄ꢬꢮꢬ꣄ꢡ꣄ꢡꢶ,चक्रवर्त्ति,சக்ரவர்த்தி,chakravartti,cakravartti,cakravartti,t͡ʃəkɾəʋəɾt̪t̪ɪ,emperor,சக்கரவர்த்தி,,,,Politics,words
+ꢩꣀ-ꢩꢾꢫ꣄ꢥꢥꢸꢦꢥ꣄,भै-भेय्ननुपन,பை4-பெ4ய்னனுபன்,bhai-bhe'ynanupan,bhai-bhEynanupan,bhai-bhĕynanupan,bʰəɪ-bʰejn̪ən̪upən̪,brotherhood,சகோதரத்துவம்,,,,Politics,words
+ꢱꢖ꣄ꢔꢪ꣄,सङ्गम्,ஸங்க3ம்,sangam,saGgam,saṅgam,s̪əŋgəm,association,சங்கம்,,,,Politics,words
+ꢱꢖ꣄ꢕꣁ,सङ्घा॑,ஸங்கொ4,sangho',saGghO,saṅghŏ,s̪əŋgʰo,association,சங்கம்,,,,Politics,words
+ꢱꢜ꣄ꢜꢱꢩꣁ,सट्टसभा॑,ஸட்டஸபொ4,sat't'asabho',saTTasabhO,saṭṭasabhŏ,s̪əʈʈəs̪əbʰo,legisla tive assembly,சட்டசபை,,,,Politics,words
+ꢮꢶꢤꢵꢥ꣄ ꢱꣃꢤꣁ,विधान सैधा॑,விதா4ன் ஸௌதொ4,vidhaan saudho',vidhAn saudhO,vidhān saudhŏ,ʋɪd̪ʰɑːn̪ s̪əud̪ʰo,legisla tive assembly,சட்டசபை,,,,Politics,words
+ꢮꢶꢤꢵꢥꢸ ꢱꣃꢤꣁ,विधानु सौधा॑,விதா4னு ஸௌதொ4,vidhaanu saudho',vidhAnu saudhO,vidhānu saudhŏ,ʋɪd̪ʰɑːn̪u s̪əud̪ʰo,legisla tive assembly,சட்டசபை,,,,Politics,words
+ꢮꢶꢤꢵꢥ꣄ ꢱꢩꣁ,विधान सभा॑,விதா4ன் ஸபொ4,vidhaan sabho',vidhAn sabhO,vidhān sabhŏ,ʋɪd̪ʰɑːn̪ s̪əbʰo,legisla tive assembly,சட்டசபை,,,,Politics,words
+ꢱꢵꢱꢥꢪꢬ꣄ꢗꢶꢥꢶ,सासनमर्चिनि,ஸாஸனமர்சினி,saasanamarchini,sAsanamarcini,sāsanamarcini,s̪ɑːs̪ən̪əməɾt͡ʃɪn̪ɪ,amendment,சட்டத்திருத்தம்,,,,Politics,words
+ꢱꢵꢱꢥ ꢡꢶꢣ꣄ꢡꢸꢮꢳꢶꢶ,सासन तिद्तुवळि,ஸாஸன தித்3துவளி,saasana tidtuval'ii,sAsana tidtuvaLii,sāsana tidtuval̤ii,s̪ɑːs̪ən̪ə t̪ɪd̪t̪uʋəɭɪɪ,amendment,சட்டத்திருத்தம்,,,,Politics,words
+ꢱꢵꢱꢥ ꢱꢹꢤꢵꢬ꣄,सासन सुधार,ஸாஸன ஸுதா4ர்,saasana soodhaar,sAsana sUdhAr,sāsana sūdhār,s̪ɑːs̪ən̪ə s̪uːd̪ʰɑːɾ,amendment,சட்டத்திருத்தம்,,,,Politics,words
+ꢱꢵꢱꢥꣁ,सासना॑,ஸாஸனொ,saasano',sAsanO,sāsanŏ,s̪ɑːs̪ən̪o,"act, law",சட்டம்,,,,Politics,words
+ꢮꢶꢤꢵꢥ꣄,विधान,விதா4ன்,vidhaan,vidhAn,vidhān,ʋɪd̪ʰɑːn̪,"act, law",சட்டம்,,,,Politics,words
+ꢱꢜ꣄ꢜꢱ꣄ꢩꣁ,सट्टसभा॑,ஸட்டஸபொ4,sat't'asbho',saTTasbhO,saṭṭasbhŏ,s̪əʈʈəs̪bʰo,le gislative assembly,சட்டமன்றம்,,,,Politics,words
+ꢱꢡ꣄ꢫꢵꢔ꣄ꢬꢲꣁ,सत्याग्रहा॑,ஸத்யாக்3ரஹொ,satyaagraho',satyAgrahO,satyāgrahŏ,s̪ət̪jɑːgɾəɦo,"satyagraha, protest",சத்தியாக்கிரகம்,,,,Politics,words
+ꢱꢾꢡ꣄ꢡꢬ꣄,स॑त्तर्,ஸெத்தர்,se'ttar,sEttar,sĕttar,s̪et̪t̪əɾ,choultry,சத்திரம்,,,,Politics,words
+ꢱꢡꢶ,सति,ஸதி,sati,sati,sati,s̪ət̪ɪ,conspiracy,சதி,,,,Politics,words
+ꢱꢩꢵꢥꢵꢫꢒꣁ,सभानायका॑,ஸபா4நாயகொ,sabhaanaayako',sabhAnAyakO,sabhānāyakŏ,s̪əbʰɑːn̪ɑːjəko,assembly speaker,சபாநாயகர்,,,,Politics,words
+ꢱꣁꢪ꣄ꢦꢸꢳꢵ ꢗꢾꢜ꣄ꢥꢶ,सा॑म्पुळाच॑ट्नि,ஸொம்பு3ளாசெட்னி,so'mpul'aa che't'ni,sOmpuLA cETni,sŏmpul̤ā cĕṭni,s̪ompuɭɑː t͡ʃeʈn̪ɪ,pay raise,சம்பள உயர்வு,,,,Politics,words
+ꢱꣁꢪ꣄ꢨꢸꢳꣁ,सा॑म्बुळा॑,ஸொம்பு3ளொ,so'mbul'o',sOmbuLO,sŏmbul̤ŏ,s̪ombuɭo,salary,சம்பளம்,,,,Politics,words
+ꢦꢔꢵꢬ꣄,पगार,பகா3ர்,pagaar,pagAr,pagār,pəgɑːɾ,salary,சம்பளம்,,,,Politics,words
+ꢱꢪꢵꢥꢸꢦꢥ꣄,समानुपन,ஸமானுபன்,samaanupan,samAnupan,samānupan,s̪əmɑːn̪upən̪,equality,சமத்துவம்,,,,Politics,words
+ꢱꢵꢪꢵꢣꢵꢥ꣄,समादान्,ஸமாதா4ன்,saamaadaan,sAmAdAn,sāmādān,s̪ɑːmɑːd̪ɑːn̪,peace,சமாதானம்,,,,Politics,words
+ꢱꢪꢸꢣꢵꢫ꣄,समुदाय,ஸமுதா3ய்,samudaay,samudAy,samudāy,s̪əmud̪ɑːj,society,சமுதாயம் / சமூகம்,,,,Politics,words
+ꢱꢪꢹꢲꢸ,समूहु,ஸமூஹு,samoohu,samUhu,samūhu,s̪əmuːɦu,society,சமுதாயம் / சமூகம்,,,,Politics,words
+ꢱꢬ꣄ꢮꢵꢤꢶꢒꢵꢬ꣄,सर्वाधिकार्,ஸர்வாதி4கார்,sarvaadhikaar,sarvAdhikAr,sarvādhikār,s̪əɾʋɑːd̪ʰɪkɑːɾ,dictatorship,சர்வாதிகாரம்,,,,Politics,words
+ꢱꢬ꣄ꢮꢵꢤꢶꢒꢵꢬꢶ,सर्वाधिकारि,ஸர்வாதி4காரி,sarvaadhikaari,sarvAdhikAri,sarvādhikāri,s̪əɾʋɑːd̪ʰɪkɑːɾɪ,dictator,சர்வாதிகாரி,,,,Politics,words
+ꢬꢪꢵꢬꢪꢶ,रमारमि,ரமாரமி,ramaarami,ramArami,ramārami,ɾəmɑːɾəmɪ,average,சராசரி,,,,Politics,words
+ꢱꢾꢭ꣄ꢒꢾ,स॑ल्क॑,ஸெல்கெ,se'lke',sElkE,sĕlkĕ,s̪elke,concession,சலுகை,,,,Politics,words
+ꢱꢲꢵꢮꢸ,सहावु,ஸஹாவு,sahaavu,sahAvu,sahāvu,s̪əɦɑːʋu,concession,சலுகை,,,,Politics,words
+ꢱꢵꢤꢥꣁ,साधना॑,ஸாத4னொ,saadhano',sAdhanO,sādhanŏ,s̪ɑːd̪ʰən̪o,achievement,சாதனை,,,,Politics,words
+ꢆꢦꢭꢨ꣄ꢤꢶ,उपलब्धि,உபலப்3தி4,upalabdhi,upalabdhi,upalabdhi,upələbd̪ʰɪ,achievement,சாதனை,,,,Politics,words
+ꢭꢨꢶꢛ꣄ꢗꢶꢥꢶ,लबिञ्चिनि,லபி3ஞ்சினி,labinchini,labiJcini,labiñcini,ləbɪɲt͡ʃɪn̪ɪ,achievement,சாதனை,,,,Politics,words
+ꢱꢪ꣄ꢱ꣄ꢫꣁ,समस्या॑,ஸமஸ்யொ,samsyo',samsyO,samsyŏ,s̪əms̪jo,problem,சிக்கல்,,,,Politics,words
+ꢦ꣄ꢬꢱ꣄ꢥꣁ,प्रस्ना॑,ப்ரஸ்னொ,prasno',prasnO,prasnŏ,pɾəs̪n̪o,problem,சிக்கல்,,,,Politics,words
+ꢆꢥ꣄ꢥꢮꢿꢱ꣄,उन्नवेस्,உன்னவேஸ்,unnaves,unnaves,unnaves,un̪n̪əʋeːs̪,"economy, thrift",சிக்கனம்,,,,Politics,words
+ꢱꣁꢜ꣄ꢜꢸ,सा॑ट्टु,ஸொட்டு,so't't'u,sOTTu,sŏṭṭu,s̪oʈʈu,"economy, thrift",சிக்கனம்,,,,Politics,words
+ꢮꢶꢒꢵꢬ꣄,विकार,விகார்,vikaar,vikAr,vikār,ʋɪkɑːɾ,decay,சிதைவு,,,,Politics,words
+ꢥꢱꢶꢥꢪ꣄,नसिनम,நஸினம்,nasinam,nasinam,nasinam,n̪əs̪ɪn̪əm,decay,சிதைவு,,,,Politics,words
+ꢱꢶꢡꢶꢭ꣄,सितिल,ஸிதில்,sitil,sitil,sitil,s̪ɪt̪ɪl,decay,சிதைவு,,,,Politics,words
+ꢱꢸꢨꢬ꣄ꢗꢶ,सुबर्चि,ஸுப3ர்சி,subarchi,subarci,subarci,s̪ubəɾt͡ʃɪ,recommendation,சிபாரிசு,,,,Politics,words
+ꢱꢶꢪ꣄ꢲꢵꢱꢥꣁ,सिम्हासना॑,ஸிம்ஹாஸனொ,simhaasano',simhAsanO,simhāsanŏ,s̪ɪmɦɑːs̪ən̪o,throne,சிம்மாசனம்,,,,Politics,words
+ꢱꢶꢪ꣄ꢲꢹ ꢃꢱꢥꣁ,सिम्हु आसना॑,ஸிம்ஹு ஆஸனொ,simhoo aasano',simhU AsanO,simhū āsanŏ,s̪ɪmɦuː ɑːs̪ən̪o,throne,சிம்மாசனம்,,,,Politics,words
+ꢂꢭ꣄ꢦ ꢱꢖ꣄ꢓꢫꣁ,अल्प सङ्खया॑,அல்ப ஸங்க2யொ,alpa sankhayo',alpa saGkhayO,alpa saṅkhayŏ,əlpə s̪əŋkʰəjo,minority,சிறுபான்மை,,,,Politics,words
+ꢥꢴꢥ꣄ꢥ ꢣꢵꢮꣁ,न्हन्न दावा॑,ந:ன்தா3வொ,nhanna daavo',nhanna dAvO,nhanna dāvŏ,n̪ɦən̪n̪ə d̪ɑːʋo,petty case,சிறுவழக்கு,,,,Politics,words
+ꢒꢵꢬꢵꢔ꣄ꢬꢆ,काराग्रहु,காராக்3ரஹு,kaaraagra_u,kArAgra_u,kārāgraü,kɑːɾɑːgɾə_u,"jail, prison",சிறை,,,,Politics,words
+ꢙꢾꢫꢶꢭ꣄,ज॑यिल,ஜெயில்,je'yil,jEyil,jĕyil,d͡ʒejɪl,"jail, prison",சிறை,,,,Politics,words
+ꢪꢸꢣ꣄ꢬꣁ,मुद्रा॑,முத்3ரொ,mudro',mudrO,mudrŏ,mud̪ɾo,symbol,சின்னம்,,,,Politics,words
+ꢗꢶꢥ꣄ꢲꢸ,चिन्हु,சின்ஹு,chinhu,cinhu,cinhu,t͡ʃɪn̪ɦu,symbol,சின்னம்,,,,Politics,words
+ꢮꢵꢒ꣄ꢒꢸꢗꢷꢜ꣄,वाक्कुचीट,வாக்கு சீட்,vaakkucheet',vAkkucIT,vākkucīṭ,ʋɑːkkut͡ʃiːʈ,ballot,வாக்குசீட்டு,,,,Politics,words
+ꢱꢸꢒꢬ꣄ꢠꢶ,सूकर्णि,ஸுகர்ணி,sukarni,sukarNi,sukarṇi,s̪ukəɾɳɪ,reformation,சீர்திருத்தம்,,,,Politics,words
+ꢱꢸꢤꢵꢬ꣄,सुधार,ஸுதா4ர்,sudhaar,sudhAr,sudhār,s̪ud̪ʰɑːɾ,reformation,சீர்திருத்தம்,,,,Politics,words
+ꢱꢪꢬꢹꢦ ꢮꢱ꣄ꢡꢬ꣄,समरूप वस्तर,ஸமரூப வஸ்தர்,samaroopa vastar,samarUpa vastar,samarūpa vastar,s̪əməɾuːpə ʋəs̪t̪əɾ,uniform,சீருடை,,,,Politics,words
+ꢱꢸꢭ꣄ꢒꢪ꣄,सुल्कम्,ஸுல்கம்,sulkam,sulkam,sulkam,s̪ulkəm,excise duty,சுங்கவரி,,,,Politics,words
+ꢱꢸꢭ꣄ꢒꣁ,सुल्का॑,ஸுல்கொ,sulko',sulkO,sulkŏ,s̪ulko,excise duty,சுங்கவரி,,,,Politics,words
+ꢱꢸꢡꢥ꣄ꢣꢬꢸ,सुतन्द्रु,ஸுதந்த்3ரு,sutandaru,sutandaru,sutandaru,s̪ut̪ən̪d̪əɾu,freedom,சுதந்திரம்,,,,Politics,words
+ꢣꢸꢰ꣄ꢦ꣄ꢬꢫꣁꢒ꣄,दुष्प्रयोक,து3ஷ்ப்ரயோக்,dushprayo'k,duSprayOk,duṣprayŏk,d̪uʂpɾəjok,exploitation,சுரண்டல்,,,,Politics,words
+ꢱꢖ꣄ꢒ꣄ꢯꢾꢦꢸ,सङ्क्क्षेपु,ஸங்க்க்ஷேபு,sankshe'pu,saGkzEpu,saṅkśĕpu,s̪əŋkʃepu,abridgement,சுருக்கம்,,,,Politics,words
+ꢩꢷꢡꢸꢬ꣄ ꢣꢾꢮ꣄ꢱꢶꢥꢶ,भीतुर् द॑व्सिनि,பீ4துர் தெ3வ்ஸினி,bheetur de'vsini,bhItur dEvsini,bhītur dĕvsini,bʰiːt̪uɾ d̪eʋs̪ɪn̪ɪ,wall-poster,சுவரொட்டி,,,,Politics,words
+ꢗꢸꢜ꣄ꢜꢸꢬ꣄ ꢒꢳꢞ꣄ꢠꢶ,चुट्टुर् कळड्णि,சுட்டுர் களட்3ணி,chut't'ur kal'ad'ni,cuTTur kaLaDNi,cuṭṭur kal̤aḍṇi,t͡ʃuʈʈuɾ kəɭəɖɳɪ,circular,சுற்றிக்கை,,,,Politics,words
+ꢦꢬꢶꢦꢡ꣄ꢡꢬ꣄,परिपत्तर,பரிபத்தர்,paripattar,paripattar,paripattar,pəɾɪpət̪t̪əɾ,circular,சுற்றிக்கை,,,,Politics,words
+ꢪꢬꢵꢪꢡ꣄ꢡꢸ,मरमत्तु,மராமத்து,maraamattu,marAmattu,marāmattu,məɾɑːmət̪t̪u,repair,செப்பனிடுதல்,,,,Politics,words
+ꢱꢸꢤꢬꢠꣁ,सुधरणा॑,ஸுத4ரணொ,sudharano',sudharaNO,sudharaṇŏ,s̪ud̪ʰəɾəɳo,repair,செப்பனிடுதல்,,,,Politics,words
+ꢗꢪ꣄ꢱ꣄ꢒꢬꢠꣁ,चम्स्करणा॑,சம்ஸ்கரணொ,chamskarano',camskaraNO,camskaraṇŏ,t͡ʃəms̪kəɾəɳo,repair,செப்பனிடுதல்,,,,Politics,words
+ꢱꢹꢗꢥ ꢮꢶꢩꢵꢔ꣄,सूचन विभाग,ஸூசன விபா4க்3,soochana vibhaag,sUcana vibhAg,sūcana vibhāg,s̪uːt͡ʃən̪ə ʋɪbʰɑːg,information department,செய்தித்துறை,,,,Politics,words
+ꢱꢪꢵꢗ꣄ꢗꢵꢬꢸ ꢮꢶꢩꢵꢔ꣄,समाच्चारु विभाग,ஸமாச்சாரு விபா4க்3,samaachchaaru vibhaag,samAccAru vibhAg,samāccāru vibhāg,s̪əmɑːt͡ʃt͡ʃɑːɾu ʋɪbʰɑːg,information department,செய்தித்துறை,,,,Politics,words
+ꢱꢗꢶꢮꢵꢭꢫꣁ,सचिवालया॑,ஸசிவாலயொ,sachivaalayo',sacivAlayO,sacivālayŏ,s̪ət͡ʃɪʋɑːləjo,secretariate,செயலகம்,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢣꢬ꣄ꢱꢶ,कार्यदर्सि,கார்யத3ர்ஸி,kaaryadarsi,kAryadarsi,kāryadarsi,kɑːɾjəd̪əɾs̪ɪ,secretary,செயலர்,,,,Politics,words
+ꢨ꣄ꢬꢩꢵꢮ꣄,प्रभाव्,ப்ரபா4வ்,brabhaav,brabhAv,brabhāv,bɾəbʰɑːʋ,influence,செல்வாக்கு,,,,Politics,words
+ꢮꢿꢱꢸꢥ꣄,वेसुन्,வேஸுன்,vesun,vesun,vesun,ʋeːs̪un̪,items of expenditure,செலவினம்,,,,Politics,words
+ꢮꢿꢱ,वेस,வேஸ்,vesa,vesa,vesa,ʋeːs̪ə,expenditure,செலவு,,,,Politics,words
+ꢣꢾꢜ꣄ꢜꢸ,देट्टु,தெ3ட்டு,de't't'u,dETTu,dĕṭṭu,d̪eʈʈu,intensity,செறிவு,,,,Politics,words
+ꢒ꣄ꢯꢡꢶ,क्षति,க்ஷதி,kshati,kzati,kśati,kʃət̪ɪ,damage,சேதம்,,,,Politics,words
+ꢱꢿꢡꢵꢬꢪ꣄,सेतारम्,சேதாரம்,setaaram,setAram,setāram,s̪eːt̪ɑːɾəm,spoilage,சேதாரம்,,,,Politics,words
+ꢆꢬꢵꢮ,उराव,உராவ்,uraava,urAva,urāva,uɾɑːʋə,savings,சேமிப்பு,,,,Politics,words
+ꢱꢿꢥꢵꢤꢶꢦꢡꢶ,सेनाधिपति,ஸேனாதி4பதி,senaadhipati,senAdhipati,senādhipati,s̪eːn̪ɑːd̪ʰɪpət̪ɪ,army chief,சேனாதிபதி,,,,Politics,words
+ꢱꢫ꣄ꢒꢥꣁ,सय्कना॑,ஸய்கனொ,saykano',saykanO,saykanŏ,s̪əjkən̪o,signal,சைகை,,,,Politics,words
+ꢱꢪꢶꢙ꣄ꢛꢸ,समिज्ना॑,ஸமிஜ்ஞொ,samijnyu,samijJu,samijñu,s̪əmɪd͡ʒɲu,signal,சைகை,,,,Politics,words
+ꢱꣁꢡ꣄ꢡꢸ,सा॑त्तु,ஸொத்து,so'ttu,sOttu,sŏttu,s̪ot̪t̪u,assets,சொத்து,,,,Politics,words
+ꢮꢶꢮꢵꢡ꣄,विवात,விவாத்,vivaat,vivAt,vivāt,ʋɪʋɑːt̪,dispute,தகராறு,,,,Politics,words
+ꢡꢾꢔꢸꢬꢵꢭ꣄,त॑गुराल,தெகு3ரால்,te'guraal,tEgurAl,tĕgurāl,t̪eguɾɑːl,dispute,தகராறு,,,,Politics,words
+ꢫꣂꢔ꣄ꢫꢡꣁ,योग्यता॑,யோக்3யதொ,yogyato',yogyatO,yogyatŏ,joːgjət̪o,"qualification, eligibility",தகுதி,,,,Politics,words
+ꢭꢵꢔꢶꢡꣁ,लागिता॑,லாகி3தொ,laagito',lAgitO,lāgitŏ,lɑːgɪt̪o,"qualification, eligibility",தகுதி,,,,Politics,words
+ꢜꢖ꣄ꢒꢠꢒꢬ꣄ꢡꣁ,टङकणकर्ता॑,டங்கணகர்தொ,t'ankanakarto',TaGkaNakartO,ṭaṅkaṇakartŏ,ʈəŋkəɳəkəɾt̪o,typist,தட்டெழுத்தர்,,,,Politics,words
+ꢪꢵꢬ꣄ꢔꢸ,मार्गु,மார்கு3,maargu,mArgu,mārgu,mɑːɾgu,route,தடம்,,,,Politics,words
+ꢃꢞ꣄ꢞꢪꢸꢥ꣄,अड्डामुन,அட்3ட3முன்,aad'd'amun,ADDamun,āḍḍamun,ɑːɖɖəmun̪,obstacles,தடைகள்,,,,Politics,words
+ꢂꢞ꣄ꢞꢶꢥ꣄,अड्डिन,அட்3டி3ன்,ad'd'in,aDDin,aḍḍin,əɖɖɪn̪,obstacles,தடைகள்,,,,Politics,words
+ꢨꢵꢤꢵꢥ꣄,बाधान,பா3தா4ன்,baadhaan,bAdhAn,bādhān,bɑːd̪ʰɑːn̪,obstacles,தடைகள்,,,,Politics,words
+ꢣꢠ꣄ꢞꢠꣁ,दण्डणा॑,த3ண்ட3ணொ,dand'ano',daNDaNO,daṇḍaṇŏ,d̪əɳɖəɳo,"fine, penalty",தண்டம்,,,,Politics,words
+ꢣꢠ꣄ꢞꢠꣁ,दण्डणा॑,த3ண்ட3ணொ,dand'ano',daNDaNO,daṇḍaṇŏ,d̪əɳɖəɳo,punishment,தண்டனை,,,,Politics,words
+ꢱꢾꢬ꣄ꢒꢬꢥꢶ,स॑र्करनि,ஸெர்கர:னி,se'rkarani,sErkarani,sĕrkarani,s̪eɾkəɾən̪ɪ,audit,தணிக்கை,,,,Politics,words
+ꢭꢾꢓ꣄ꢒꣁ,ल॑ख्का॑,லெக்2கொ,le'khko',lEkhkO,lĕkhkŏ,lekʰko,audit,தணிக்கை,,,,Politics,words
+ꢭꢴꢾꢒ꣄ꢒꢵ ꢥꢶꢬꢷꢒ꣄ꢰꢠꣁ,ल्ह॑क्का निरीक्षणा॑,லெ:க்கா நிரீக்ஷனொ,lhe'kkaa nireekshano',lhEkkA nirIkSaNO,lhĕkkā nirīkṣaṇŏ,lɦekkɑː n̪ɪɾiːkʂəɳo,audit,தணிக்கை,,,,Politics,words
+ꢭꢴꢾꢒ꣄ꢒꢵ ꢱꣂꢤꢥꣁ,ल्ह॑क्का सोधना॑,லெ:க்கா ஸோத4னொ,lhe'kkaa sodhano',lhEkkA sodhanO,lhĕkkā sodhanŏ,lɦekkɑː s̪oːd̪ʰən̪o,audit,தணிக்கை,,,,Politics,words
+ꢡꢾꢬꢒꢸ ꢲꢥ꣄ꢥꢮ꣄,तेरकु हन्नव,தெரகு ஹன்னவ்,te'raku hannav,tEraku hannav,tĕraku hannav,t̪eɾəku ɦən̪n̪əʋ,brokerage,தரகு,,,,Politics,words
+ꢦꢒꢰꢮꢵꢥꢸꢥ꣄,पक्षवानुन,பக்ஷவானுன்,pakashavaanun,pakaSavAnun,pakaṣavānun,pəkəʂəʋɑːn̪un̪,parties,தரப்பினர்,,,,Politics,words
+ꢱ꣄ꢬꢿꢠꢶ,स्रेणि,ஸ்ரேணி,sreni,sreNi,sreṇi,s̪ɾeːɳɪ,"grade, standard",தரம்,,,,Politics,words
+ꢆꢥ꣄ꢥꢡꢶ,उन्नति,உந்நதி,unnati,unnati,unnati,un̪n̪ət̪ɪ,"grade, standard",தரம்,,,,Politics,words
+ꢮꢶꢬ꣄ꢡꢵ ꢩꢸꢛꢶ,व्र्ताभुञि,விர்தாபு4ஞி,virtaa bhunyi,virtA bhuJi,virtā bhuñi,ʋɪɾt̪ɑː bʰuɲɪ,wasteland,தரிசு நிலம்,,,,Politics,words
+ꢥꢶꢱ꣄ꢡ ꢩꢸꢄ~,निस्त भुइ~,நிஸ்த பு4இ~,nista bhui~,nista bhui~,nista bhui~,n̪ɪs̪t̪ə bʰuɪ~,wasteland,தரிசு நிலம்,,,,Politics,words
+ꢣꢳꢦꢳꣁ,दळपळा॑,த3ளபளொ,dal'apal'o',daLapaLO,dal̤apal̤ŏ,d̪əɭəpəɭo,land army,தரைப்படை,,,,Politics,words
+ꢣꢳ ꢱꢾꢥꣁ,दळ सेना॑,த3ள ஸேனொ,dal'a se'no',daLa sEnO,dal̤a sĕnŏ,d̪əɭə s̪en̪o,land army,தரைப்படை,,,,Politics,words
+ꢦꢣ ꢱꢿꢥꣁ,पद सेना॑,பத3ஸேனொ,pada seno',pada senO,pada senŏ,pəd̪ə s̪eːn̪o,land army,தரைப்படை,,,,Politics,words
+ꢬꢵꢙꢤꢵꢥꢶ,राजधानि,ராஜதா4னி,raajadhaani,rAjadhAni,rājadhāni,ɾɑːd͡ʒəd̪ʰɑːn̪ɪ,capital city,தலைநகரம்,,,,Politics,words
+ꢂꢔ꣄ꢬꢵꢱꢥꢸꢦꢥ꣄,अग्रासनुपन,அக்3ராஸனுபன்,agraasanupan,agrAsanupan,agrāsanupan,əgɾɑːs̪ən̪upən̪,leadership,தலைமை,,,,Politics,words
+ꢂꢔ꣄ꢬꢵꢱꢥꣁ,अग्रासना॑,அக்3ராஸனொ,agraasano',agrAsanO,agrāsanŏ,əgɾɑːs̪ən̪o,leadership,தலைமை,,,,Politics,words
+ꢂꢔ꣄ꢬꢵꢱꢥꢵꢤꢶꢦꢡꢶ,अग्रासनाधिपति,அக்3ராஸனாதி4பதி,agraasanaadhipati,agrAsanAdhipati,agrāsanādhipati,əgɾɑːs̪ən̪ɑːd̪ʰɪpət̪ɪ,"leader, president",தலைவர்,,,,Politics,words
+ꢬꢶꢨꢾꢜ꣄,रिबेट,ரிபே3ட்,ribe't',ribET,ribĕṭ,ɾɪbeʈ,"discount, rebate",தள்ளுபடி,,,,Politics,words
+ꢣꣁꢦ꣄ꢨꢶꢣꢾꢥꢶ,दा॑प्बिद॑नि,தொ3ப்பி3தெ3னி,do'pbide'ni,dOpbidEni,dŏpbidĕni,d̪opbɪd̪en̪ɪ,"discount, rebate",தள்ளுபடி,,,,Politics,words
+ꢆꢥ꣄ꢥ ꢒꢾꢬ꣄ꢥꢶ,उन्न क॑र्नि,உன்ன கெர்னி,unna ke'rni,unna kErni,unna kĕrni,un̪n̪ə keɾn̪ɪ,"discount, rebate",தள்ளுபடி,,,,Politics,words
+ꢆꢦꢒꢬꢠꣁ,उपकरणा॑,உபகரணொ,upakarano',upakaraNO,upakaraṇŏ,upəkəɾəɳo,equipment,தளவாடம்,,,,Politics,words
+ꢱ꣄ꢮꢫ ꢂꢟꢶꢒꢵꢬ꣄,स्वय अधिकार,ஸ்வய அதி4கார்,svaya ad'hikaar,svaya aDhikAr,svaya aḍhikār,s̪ʋəjə əɖʰɪkɑːɾ,autonomy,தன்னாட்சி,,,,Politics,words
+ꢱ꣄ꢮꢗꢭ꣄ꢥꢶ,स्वचल्नि,ஸ்வசல்னி,svachalni,svacalni,svacalni,s̪ʋət͡ʃəln̪ɪ,automation,தன்னியக்கம்,,,,Politics,words
+ꢏꢠ꣄ꢜꢶꢫꢵꢳ꣄,आ॑ण्टियाळ,ஒண்டியாள்,o'nt'iyaal',ONTiyAL,ŏṇṭiyāl̤,oɳʈɪjɑːɭ,individual,தனிநபர்,,,,Politics,words
+ꢏꢠ꣄ꢜꢮ꣄ꢫꢒ꣄ꢡꢶ,आ॑ण्टव्यक्ति,ஒண்டவ்யக்தி,o'nt'avyakti,ONTavyakti,ŏṇṭavyakti,oɳʈəʋjəkt̪ɪ,individual,தனிநபர்,,,,Politics,words
+ꢪꢵꢬ꣄,मार,மார்,maar,mAr,mār,mɑːɾ,attack,தாக்குதல்,,,,Politics,words
+ꢪꢵꢡ꣄ꢬꢸ ꢩꢵꢰꣁ,मात्रु भाषा॑,மாத்ரு பா4ஷொ,maatru bhaasho',mAtru bhASO,mātru bhāṣŏ,mɑːt̪ɾu bʰɑːʂo,mother tongue,தாய்மொழி,,,,Politics,words
+ꢫꣂꢙꢥꢵ ꢃꢫꣂꢔ꣄,योजना आयोग,யோஜனா ஆயோக்3,yojanaa aayog,yojanA Ayog,yojanā āyog,joːd͡ʒən̪ɑː ɑːjoːg,planning commission,திட்டக்குழு,,,,Politics,words
+ꢫꣂꢙꢥꣁ,योजना॑,யோஜனொ,yojano',yojanO,yojanŏ,joːd͡ʒən̪o,plan,திட்டம்,,,,Politics,words
+ꢡꢶꢠ꣄ꢗꢶꢥꢶ,तिण्चिनि,திண்சினி,tinchini,tiNcini,tiṇcini,t̪ɪɳt͡ʃɪn̪ɪ,imposition,திணிப்பு,,,,Politics,words
+ꢂꢤꢶꢬꣂꢦꢠꣁ,अधिरोपणा॑,அதி4ரோபணொ,adhiropano',adhiropaNO,adhiropaṇŏ,əd̪ʰɪɾoːpəɳo,imposition,திணிப்பு,,,,Politics,words
+ꢣꢶꢮꢵꢭ꣄,दिवाल,தி3வால்,divaal,divAl,divāl,d̪ɪʋɑːl,insolvent,திவால்,,,,Politics,words
+ꢤꢶꢮꢵꢥ꣄,धिवान्,தி4வான்,dhivaan,dhivAn,dhivān,d̪ʰɪʋɑːn̪,diwan,திவான்,,,,Politics,words
+ꢆꢔ꣄ꢬꢮꢵꢡꢶ,उग्रवाति,உக்3ரவாதி,ugravaati,ugravAti,ugravāti,ugɾəʋɑːt̪ɪ,extremist,தீவிரவாதி,,,,Politics,words
+ꢡꢶꢬ꣄ꢪꢵꢥ꣄,तिर्मान्,திர்மான்,tirmaan,tirmAn,tirmān,t̪ɪɾmɑːn̪,resolution,தீர்மானம்,,,,Politics,words
+ꢥꢶꢬ꣄ꢠꢫꣁ,निर्णया॑,நிர்ணயொ,nirnayo',nirNayO,nirṇayŏ,n̪ɪɾɳəjo,resolution,தீர்மானம்,,,,Politics,words
+ꢡꢷꢬ꣄ꢮꣁ,तीर्वा॑,தீர்வொ,teervo',tIrvO,tīrvŏ,t̪iːɾʋo,duty,தீர்வை,,,,Politics,words
+ꢆꢦꢬꢵꢰ꣄ꢜ꣄ꢬꢦꢡꢶ,उपराष्ट्रपति,உபராஷ்ட்ரபதி,uparaasht'rapati,uparASTrapati,uparāṣṭrapati,upəɾɑːʂʈɾəpət̪ɪ,vice-president,துணைராஷ்ட்ரபதி,,,,Politics,words
+ꢆꢦꢮꢶꢢꢶ,उपविधि,உபவிதி4,upavithi,upavithi,upavithi,upəʋɪt̪ʰɪ,by-law,துணைவிதி,,,,Politics,words
+ꢥꢶꢬ꣄ꢪꢭꢶꢒꢬꢠꣁ,निर्मलिकरणा॑,நிர்மலிகரணொ,nirmalikarano',nirmalikaraNO,nirmalikaraṇŏ,n̪ɪɾməlɪkəɾəɳo,sanitation,துப்புரவு,,,,Politics,words
+ꢱꢸꢣ꣄ꢤꢶ ꢦꢵꢭꢥꣁ,सुद्धिपालना॑,ஸுத்3தி4 பாலனொ,suddhi paalano',suddhi pAlanO,suddhi pālanŏ,s̪ud̪d̪ʰɪ pɑːlən̪o,sanitation,துப்புரவு,,,,Politics,words
+ꢡꢵꢬꢸ ꢬꢾꢪ꣄,तारु रेम,தாரு ரேம்,taaru re'm,tAru rEm,tāru rĕm,t̪ɑːɾu ɾem,harbour,துறைமுகம்,,,,Politics,words
+ꢥꢵꢮꢸꢬꢾꢪ꣄,नावु रेम,நாவுரேம்,naavure'm,nAvurEm,nāvurĕm,n̪ɑːʋuɾem,harbour,துறைமுகம்,,,,Politics,words
+ꢥꢮ꣄ꢒꢵ ꢬꢿꢪ꣄,नव्का रेम,நவ்கா ரேம்,navkaa rem,navkA rem,navkā rem,n̪əʋkɑː ɾeːm,harbour,துறைமுகம்,,,,Politics,words
+ꢣꢸꢡꢥꢶꢮꢵꢱ꣄,दुत निवास,தூ3த நிவாஸ்,dutanivaas,dutanivAs,dutanivās,d̪ut̪ən̪ɪʋɑːs̪,embassy,தூதரகம்,,,,Politics,words
+ꢣꢹꢡꣁ,दूता॑,தூ3தொ,dooto',dUtO,dūtŏ,d̪uːt̪o,messenger,தூதுவன்,,,,Politics,words
+ꢦꢬꢶꢱꢸꢣ꣄ꢤꢶ,परिसुद्धि,பரிஸுத்3தி4,parisuddhi,parisuddhi,parisuddhi,pəɾɪs̪ud̪d̪ʰɪ,cleanliness,தூய்மை,,,,Politics,words
+ꢥꢶꢳ꣄꣄ꢗꢶꢥꢶ,निळ्चिनि,நிள்சினி,nil'chini,niLcini,nil̤cini,n̪ɪɭt͡ʃɪn̪ɪ,stagnation,தேக்கம்,,,,Politics,words
+ꢣꢾꢱꢩꢒ꣄ꢡꣁ,देसभक्ता॑,தே3ஸப4க்தொ,de'sabhakto',dEsabhaktO,dĕsabhaktŏ,d̪es̪əbʰəkt̪o,patriot,தேசபக்தர்,,,,Politics,words
+ꢣꢿꢱꢩꢒ꣄ꢡꢶ,देसभक्ति,தே3ஸப4க்தி,desabhakti,desabhakti,desabhakti,d̪eːs̪əbʰəkt̪ɪ,patriotism,தேசபக்தி,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢸ,राष्टरु,ராஷ்ட்ரு,raasht'ru,rASTru,rāṣṭru,ɾɑːʂʈɾu,nation,தேசம்,,,,Politics,words
+ꢣꢾꢱꢸ,देसु,தே3ஸு,de'su,dEsu,dĕsu,d̪es̪u,nation,தேசம்,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢚꢠ꣄ꢞꢵꢮ꣄,राष्ट्रझण्डाव,ராஷ்ட்ரஜ2ண்டா3வ்,raasht'rajhand'aav,rASTrajhaNDAv,rāṣṭrajhaṇḍāv,ɾɑːʂʈɾəd͡ʒʰəɳɖɑːʋ,National Flag,தேசியக்கொடி,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢔꢵꢥꢪ꣄,राष्ट्रगानम,ராஷ்ட்ரகா3னம்,raasht'ragaanam,rASTragAnam,rāṣṭragānam,ɾɑːʂʈɾəgɑːn̪əm,National Anthem,தேசியகீதம்,,,,Politics,words
+ꢣꢾꢱꢸꢔꢷꢡ꣄,देसुगीत,தே3ஸுகீ3த்,de'sugeet,dEsugIt,dĕsugīt,d̪es̪ugiːt̪,National Anthem,தேசியகீதம்,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢩꢵꢰꣁ,राष्ट्रभाषा॑,ராஷ்ட்ரபா4ஷொ,raasht'rabhaasho',rASTrabhASO,rāṣṭrabhāṣŏ,ɾɑːʂʈɾəbʰɑːʂo,National Language,தேசியமொழி,,,,Politics,words
+ꢗꢸꢥꢵꢮ꣄,चुनाव,சுனாவ்,chunaav,cunAv,cunāv,t͡ʃun̪ɑːʋ,election,தேர்தல்,,,,Politics,words
+ꢥꢶꢬ꣄ꢮꢵꢗꢥ꣄,निर्वाचन,நிர்வாசன்,nirvaachan,nirvAcan,nirvācan,n̪ɪɾʋɑːt͡ʃən̪,election,தேர்தல்,,,,Politics,words
+ꢦꢙꢾꢥ꣄ꢡꣁ,पज॑न्ता॑,பஜெந்தொ,paje'nto',pajEntO,pajĕntŏ,pəd͡ʒen̪t̪o,need,தேவை,,,,Politics,words
+ꢥꢶꢬ꣄ꢮꢵꢗꢥꢸ ꢩꢵꢔ꣄,निर्वाचनु भाग,நிர்வாசனு பா4க்3,nirvaachanu bhaag,nirvAcanu bhAg,nirvācanu bhāg,n̪ɪɾʋɑːt͡ʃən̪u bʰɑːg,constituency,தொகுதி,,,,Politics,words
+ꢱꢖ꣄ꢒꢭꢥꢒꣁ,सङ्कलनका॑,ஸங்கலனகொ,sankalanako',saGkalanakO,saṅkalanakŏ,s̪əŋkələn̪əko,compiler,தொகுப்பாளர்,,,,Politics,words
+ꢮ꣄ꢫꢵꢱꢶꢒꢬ꣄ꢡꣁ,व्यासिकर्ता॑,வ்யாஸிகர்தொ,vyaasikarto',vyAsikartO,vyāsikartŏ,ʋjɑːs̪ɪkəɾt̪o,compiler,தொகுப்பாளர்,,,,Politics,words
+ꢱꢖ꣄ꢒꢭꢥꣁ,सङ्कलना॑,ஸங்கலனொ,sankalano',saGkalanO,saṅkalanŏ,s̪əŋkələn̪o,compilation,தொகுப்பு,,,,Politics,words
+ꢮ꣄ꢫꢵꢱ꣄,व्यास,வ்யாஸ்,vyaas,vyAs,vyās,ʋjɑːs̪,compilation,தொகுப்பு,,,,Politics,words
+ꢬꣁꢒ꣄ꢒꢪ꣄,रोक्कम,ரொக்கம்,ro'kkam,rOkkam,rŏkkam,ɾokkəm,amount,தொகை,,,,Politics,words
+ꢤꢥꢬꢵꢯꢶ,धनराशि,த4னராஶி,dhanaraashi,dhanarAzi,dhanarāśi,d̪ʰən̪əɾɑːʃɪ,amount,தொகை,,,,Politics,words
+ꢱꢾꢮ꣄ꢒꢥ꣄,सेव्कन,ஸெவ்கன்,se'vkan,sEvkan,sĕvkan,s̪eʋkən̪,volunteer,தொண்டர்,,,,Politics,words
+ꢣꢹꢬ ꣄ꢭꢶꢓ꣄ꢥꢶ,दूर्लिख्नि,தூ3ர்லிக்2னி,doora likhni,dUra likhni,dūra likhni,d̪uːɾə lɪkʰn̪ɪ,telegram,தொலைவரி,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꣁ,कार्या॑,கார்யொ,kaaryo',kAryO,kāryŏ,kɑːɾjo,labour,தொழில்,,,,Politics,words
+ꢒꢵꢪ꣄,काम,காம்,kaam,kAm,kām,kɑːm,labour,தொழில்,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢮꢵꢥ꣄,कार्यवान,கார்யவான்,kaaryavaan,kAryavAn,kāryavān,kɑːɾjəʋɑːn̪,labourer,தொழிலாளி,,,,Politics,words
+ꢒꢵꢪ꣄ꢒꢾꢬ꣄ꢡꣁ,काम्क॑र्ता॑,காம் கெர்தொ,kaamke'rto',kAmkErtO,kāmkĕrtŏ,kɑːmkeɾt̪o,labourer,தொழிலாளி,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢱ꣄ꢢꣁ,कर्यस्था॑,கார்யஸ்தொ2,kaaryastho',kAryasthO,kāryasthŏ,kɑːɾjəs̪t̪ʰo,labourer,தொழிலாளி,,,,Politics,words
+ꢒꢵꢪꢸ ꢦꣁꢜ꣄ꢜꢾꢜ꣄,कामु पा॑ट्ट॑ट,காமு பொட்டெட்,kaamu po't't'e't',kAmu pOTTET,kāmu pŏṭṭĕṭ,kɑːmu poʈʈeʈ,industrial estate,தொழிற்பேட்டை,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢕꢥꣁ,कारयघना॑,கார்யக4னொ,kaaryaghano',kAryaghanO,kāryaghanŏ,kɑːɾjəgʰən̪o,industrial estate,தொழிற்பேட்டை,,,,Politics,words
+ꢆꢣ꣄ꢣꢾꢱ꣄,उद्देस,உத்3தே3ஸ்,udde's,uddEs,uddĕs,ud̪d̪es̪,approximation,தோராயம்,,,,Politics,words
+ꢱꢵꢪꢷꢦ꣄ꢫꢡꣁ,सामीप्यता॑,ஸாமீப்யதொ,saameepyato',sAmIpyatO,sāmīpyatŏ,s̪ɑːmiːpjət̪o,approximation,தோராயம்,,,,Politics,words
+ꢆꢥ꣄ꢥ ꢆꢦꢶꢬ꣄,उन्न उपिर,உன்ன உபிர்,unna upir,unna upir,unna upir,un̪n̪ə upɪɾ,approximation,தோராயம்,,,,Politics,words
+ꢱꢶꢖ꣄ꢔꣀꢡ꣄,सिङ्गैत,ஸிங்கை3த்,singait,siGgait,siṅgait,s̪ɪŋgəɪt̪,comrade,தோழர்,,,,Politics,words
+ꢱꢾꢖ꣄ꢔꢡꢶ,स॑ङ्गति,ஸெங்க3தி,se'ngati,sEGgati,sĕṅgati,s̪eŋgət̪ɪ,comrade,தோழர்,,,,Politics,words
+ꢱꢲꢮꢵꢱꢶ,सहवासि,ஸஹவாஸி,sahavaasi,sahavAsi,sahavāsi,s̪əɦəʋɑːs̪ɪ,comrade,தோழர்,,,,Politics,words
+ꢱꢾꢖ꣄ꢔꢮꢶ,स॑ङ्गवि,ஸெங்க3வி,se'ngavi,sEGgavi,sĕṅgavi,s̪eŋgəʋɪ,comrade,தோழர்,,,,Politics,words
+ꢥꢔꢬꢱꢩꣁ,नगरसभा॑,நக3ர ஸபொ4,nagarasabho',nagarasabhO,nagarasabhŏ,n̪əgəɾəs̪əbʰo,municipality,நகரசபை,,,,Politics,words
+ꢔ꣄ꢬꢵꢪ ꢱꢖ꣄ꢕꣁ,ग्राम सङ्घा॑,க்3ராம ஸங்கொ4,graama sangho',grAma saGghO,grāma saṅghŏ,gɾɑːmə s̪əŋgʰo,municipality,நகரசபை,,,,Politics,words
+ꢥꢔꢬ ꢦꢵꢭꢶꢒꣁ,नगर पालिका॑,நக3ர பாலிகொ,nagara paaliko',nagara pAlikO,nagara pālikŏ,n̪əgəɾə pɑːlɪko,municipality,நகரசபை,,,,Politics,words
+ꢗꢵꢭ꣄ꢗꢭꢥ꣄,चाल्चलन,சால்சலன்,chaalchalan,cAlcalan,cālcalan,t͡ʃɑːlt͡ʃələn̪,movement,நடமாட்டம்,,,,Politics,words
+ꢒ꣄ꢬꢶꢫꢵꢒ꣄ꢬꢪꣁ,क्रियाक्रमा॑,க்ரியாக்ரமொ,kriyaakramo',kriyAkramO,kriyākramŏ,kɾɪjɑːkɾəmo,action,நடவடிக்கை,,,,Politics,words
+ꢪꢤ꣄ꢫ ꢱꢬ꣄ꢒꢵꢬ꣄,मध्य सर्कार,மத்4யஸர்கார்,madhya sarkaar,madhya sarkAr,madhya sarkār,məd̪ʰjə s̪əɾkɑːɾ,Central Government,நடுவணரசு,,,,Politics,words
+ꢆꢭꢵꢱꢸꢮꢵꢜ꣄,उलासुवाट,உலாஸு வாட்,ulaasuvaat',ulAsuvAT,ulāsuvāṭ,ulɑːs̪uʋɑːʈ,pavement,நடைபாதை,,,,Politics,words
+ꢗꢭꢥ꣄ꢮꢵꢜ꣄,चलन्वाट,சலன் வாட்,chalanvaat',calanvAT,calanvāṭ,t͡ʃələn̪ʋɑːʈ,pavement,நடைபாதை,,,,Politics,words
+ꢥꢾꢰ꣄ꢜꢶ ꢥꢶꢮꢵꢬꢠꣁ,न॑ष्टि निवारणा॑,நெஷ்டி நிவாரணொ,ne'sht'i nivaarano',nESTi nivAraNO,nĕṣṭi nivāraṇŏ,n̪eʂʈɪ n̪ɪʋɑːɾəɳo,compensation,நஷ்ட ஈடு,,,,Politics,words
+ꢥꢵꢔ꣄ꢬꢷꢔ꣄,नाग्रीग,நாக3ரீக்3,naagreeg,nAgrIg,nāgrīg,n̪ɑːgɾiːg,civilization,நாகரீகம்,,,,Politics,words
+ꢱꢪ꣄ꢱ꣄ꢒ꣄ꢬꢸꢡꢶ,सम्स्क्रुति,ஸம்ஸ்க்ருதி,samskruti,samskruti,samskruti,s̪əms̪kɾut̪ɪ,civilization,நாகரீகம்,,,,Politics,words
+ꢣꢶꢥ꣄ꢥꢸ ꢱꣁꢪ꣄ꢨꢸꢳꣁ,दिन्नु सा॑म्बुळा॑,தி3ன்னு ஸொம்பு3ளொ,dinnu so'mbul'o',dinnu sOmbuLO,dinnu sŏmbul̤ŏ,d̪ɪn̪n̪u s̪ombuɭo,daily wage,நாட்கூலி,,,,Politics,words
+ꢔ꣄ꢬꢵꢪ꣄ꢫꢙꢵꢡ꣄,ग्राम्यजात,க்3ராம்யஜாத்,graamyajaat,grAmyajAt,grāmyajāt,gɾɑːmjəd͡ʒɑːt̪,local race,நாட்டினம்,,,,Politics,words
+ꢱ꣄ꢢꢭꢷꢫꢙꢵꢡ꣄,स्थलीयजात,ஸ்த2லீயஜாத்,sthaleeyajaat,sthalIyajAt,sthalīyajāt,s̪t̪ʰəliːjəd͡ʒɑːt̪,local race,நாட்டினம்,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬ ꢚꢠ꣄ꢞꢮ꣄,राष्ट्र झण्डाव,ராஷ்ட்ர ஜ2ண்டா3வ்,raasht'ra jhand'av,rASTra jhaNDav,rāṣṭra jhaṇḍav,ɾɑːʂʈɾə d͡ʒʰəɳɖəʋ,National Flag,நாட்டுக்கொடி,,,,Politics,words
+ꢣꢾꢱꢸ ꢚꢠ꣄ꢞꢵꢮ꣄,देसु झण्डाव,தே3ஸு ஜ2ண்டா3வ்,de'su jhand'aav,dEsu jhaNDAv,dĕsu jhaṇḍāv,d̪es̪u d͡ʒʰəɳɖɑːʋ,National Flag,நாட்டுக்கொடி,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢔꢷꢜ꣄,राष्ट्रगीत,ராஷ்ட்ர கீ3த்,raasht'rageet',rASTragIT,rāṣṭragīṭ,ɾɑːʂʈɾəgiːʈ,National Anthem,நாட்டுப்பண்,,,,Politics,words
+ꢣꢾꢱꢸꢔꢷꢜ꣄,देसुगीत,தே3ஸு கீ3த்,de'sugeet',dEsugIT,dĕsugīṭ,d̪es̪ugiːʈ,National Anthem,நாட்டுப்பண்,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬ ꢩꢒ꣄ꢡꢶ,राष्ट्र भक्ति,ராஷ்ட்ர ப4க்தி,raasht'ra bhakti,rASTra bhakti,rāṣṭra bhakti,ɾɑːʂʈɾə bʰəkt̪ɪ,patriotism,நாட்டுப்பற்று,,,,Politics,words
+ꢣꢾꢱꢸꢩꢒ꣄ꢡꢶ,देसुभक्ति,தே3ஸுப3க்தி,de'subhakti,dEsubhakti,dĕsubhakti,d̪es̪ubʰəkt̪ɪ,patriotism,நாட்டுப்பற்று,,,,Politics,words
+ꢥꢵꢔꢬꢷꢒꢡꣁ,नागरीकता॑,நாக3ரீகதொ,naagareekato',nAgarIkatO,nāgarīkatŏ,n̪ɑːgəɾiːkət̪o,citizenship / nationality,நாட்டுரிமை,,,,Politics,words
+ꢣꢾꢱꢶꢫꢡꣁ,देसुयता॑,தே3ஸீயதொ,de'siyato',dEsiyatO,dĕsiyatŏ,d̪es̪ɪjət̪o,citizenship / nationality,நாட்டுரிமை,,,,Politics,words
+ꢭꣂꢒ꣄ ꢱꢩꣁ,लोक्सभा॑,லோக்ஸபொ4,lok sabho',lok sabhO,lok sabhŏ,loːk s̪əbʰo,parliament,நாடாளுமன்றம்,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢸ,राष्ट्रु,ராஷ்ட்ரு,raasht'ru,rASTru,rāṣṭru,ɾɑːʂʈɾu,country,நாடு,,,,Politics,words
+ꢣꢾꢱ꣄,देस,தே3ஸ்,de's,dEs,dĕs,d̪es̪,country,நாடு,,,,Politics,words
+ꢒꢵꢬ꣄ꢫ ꢗꢵꢭꢥꣁ,कार्य चालना॑,கார்ய சாலனொ,kaarya chaalano',kArya cAlanO,kārya cālanŏ,kɑːɾjə t͡ʃɑːlən̪o,event,நிகழ்ச்சி,,,,Politics,words
+ꢮꣀꢩꢮ꣄,वैभव,வைப4வ்,vaibhav,vaibhav,vaibhav,ʋəɪbʰəʋ,event,நிகழ்ச்சி,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢒ꣄ꢬꢪꣁ,कार्यक्रमा॑,கார்யக்ரமொ,kaaryakramo',kAryakramO,kāryakramŏ,kɑːɾjəkɾəmo,"agenda, programme",நிகழ்ச்சிநிரல்,,,,Politics,words
+ꢲꢥ꣄ꢥꢮꢸ,हन्नवु,ஹன்னவ்,hannavu,hannavu,hannavu,ɦən̪n̪əʋu,fund,நிதி,,,,Politics,words
+ꢥꢶꢕꢶ,निघि,நிதி4,nighi,nighi,nighi,n̪ɪgʰɪ,fund,நிதி,,,,Politics,words
+ꢥꢶꢡꢶ ꢮꢶꢩꢵꢔ,नितिविभाग,நிதி4விபா4க்3,niti vibhaaga,niti vibhAga,niti vibhāga,n̪ɪt̪ɪ ʋɪbʰɑːgə,finance department,நிதித்துறை,,,,Politics,words
+ꢥꢶꢦꢥ꣄ꢣꢥꣁ,निपन्दना॑,நிபந்த3னொ,nipandano',nipandanO,nipandanŏ,n̪ɪpən̪d̪ən̪o,condition,நிபந்தனை,,,,Politics,words
+ꢥꢶꢬ꣄ꢮꢵꢲ꣄,निर्वाह,நிர்வாஹ்,nirvaah,nirvAh,nirvāh,n̪ɪɾʋɑːɦ,administration,நிர்வாகம்,,,,Politics,words
+ꢒ꣄ꢬꢪꣁ,क्रमा॑,க்ரமொ,kramo',kramO,kramŏ,kɾəmo,series/sequence,நிரல்,,,,Politics,words
+ꢥꢶꢬꢸꢦꢠꣁ,निरुपणा॑,நிரூபணொ,nirupano',nirupaNO,nirupaṇŏ,n̪ɪɾupəɳo,proof,நிருபணம்,,,,Politics,words
+ꢦ꣄ꢬꢪꢵꢠ꣄,प्रमाण,ப்ரமாண்,pramaan,pramAN,pramāṇ,pɾəmɑːɳ,proof,நிருபணம்,,,,Politics,words
+ꢬꢹꢙꢸ,रूजु,ருஜு,rooju,rUju,rūju,ɾuːd͡ʒu,proof,நிருபணம்,,,,Politics,words
+ꢱ꣄ꢬꢿꢠꢶ,स्रेणि,ஸ்ரோணி,sreni,sreNi,sreṇi,s̪ɾeːɳɪ,range,நிரை,,,,Politics,words
+ꢢꢵꢪꢸ ꢒꢬꣁ,थामु करा॑,தா2மு கரொ,thaamu karo',thAmu karO,thāmu karŏ,t̪ʰɑːmu kəɾo,land tax,நிலவரி,,,,Politics,words
+ꢱ꣄ꢢꢵꢦꢥꣁ,स्थापना॑,ஸ்தா2பனொ,sthaapano',sthApanO,sthāpanŏ,s̪t̪ʰɑːpən̪o,institute,நிறுவனம்,,,,Politics,words
+ꢫꣂꢒ꣄ꢫꢡꣁ,योक्यता॑,யோக்யதொ,yokyato',yokyatO,yokyatŏ,joːkjət̪o,merit,நிறை,,,,Politics,words
+ꢥꢷꢡꢶꢦꢡꢶ,नीतिपति,நீதிபதி,neetipati,nItipati,nītipati,n̪iːt̪ɪpət̪ɪ,judge,நீதிபதி,,,,Politics,words
+ꢥꢶꢫꢵꢫꢵꢤꢶꢦꢡꢶ,नियायाधिपति,நியாயாதி4பதி,niyaayaadhipati,niyAyAdhipati,niyāyādhipati,n̪ɪjɑːjɑːd̪ʰɪpət̪ɪ,judge,நீதிபதி,,,,Politics,words
+ꢥꢷꢡꢶꢱ꣄ꢢꢭ꣄,नीतिस्थल,நீதிஸ்த2ல்,neetisthal,nItisthal,nītisthal,n̪iːt̪ɪs̪t̪ʰəl,court,நீதிமன்றம்,,,,Politics,words
+ꢆꢦꢫꣂꢔꢸ ꢮꢱ꣄ꢡꢸꢥ꣄,उपयोगु वस्तुन,உபயோகு3வஸ்துன்,upayogu vastun,upayogu vastun,upayogu vastun,upəjoːgu ʋəs̪t̪un̪,consumer`s goods,நுகர்பொருள்கள்,,,,Politics,words
+ꢥꢸꢔꢥ꣄ ꢮꢱ꣄ꢡꢸꢥ꣄,नुगन वस्तुन,நுக3ன் வஸ்துன்,nugan vastun,nugan vastun,nugan vastun,n̪ugən̪ ʋəs̪t̪un̪,consumer`s goods,நுகர்பொருள்கள்,,,,Politics,words
+ꢆꢦꢫꣂꢔ,उपयोग,உபயோக்3,upayoga,upayoga,upayoga,upəjoːgə,consumption,நுகர்வு,,,,Politics,words
+ꢥꢸꢔꢶꢥꢶ,नुगिनि,நுகி3னி,nugini,nugini,nugini,n̪ugɪn̪ɪ,consumption,நுகர்வு,,,,Politics,words
+ꢡꢸꢬ꣄ꢥꢶ,तुर्नि,துர்னி,turni,turni,turni,t̪uɾn̪ɪ,entry,நுழைவு,,,,Politics,words
+ꢦ꣄ꢬꢾꢮ꣄ꢯ꣄,प्रेवुश,ப்ரவேஶ்,pre'vsh,prEvz,prĕvś,pɾeʋʃ,entry,நுழைவு,,,,Politics,words
+ꢄꢬ꣄ꢒꢜ꣄,इर्कट,இர்கட்,irkat',irkaT,irkaṭ,ɪɾkəʈ,crisis,நெருக்கடி,,,,Politics,words
+ꢱꢖ꣄ꢔꢜ꣄,सङ्गट,ஸங்க3ட்,sangat',saGgaT,saṅgaṭ,s̪əŋgəʈ,crisis,நெருக்கடி,,,,Politics,words
+ꢮꢔꣁ ꢦꢬꢶ ꢱꣂꢣꢥꣁ,वगा॑परिसोदना॑,வகொ3பரிஸோத3னொ,vago' pari sodano',vagO pari sodanO,vagŏ pari sodanŏ,ʋəgo pəɾɪ s̪oːd̪ən̪o,analysis,பகுப்பாய்வு,,,,Politics,words
+ꢱꢲꢫꣁꢔ꣄,सहयोग,ஸஹயோக்3,sahayo'g,sahayOg,sahayŏg,s̪əɦəjog,contribution,பங்களிப்பு,,,,Politics,words
+ꢮꢜꣁ,वटो,வடொ,vat'o',vaTO,vaṭŏ,ʋəʈo,share,பங்கு,,,,Politics,words
+ꢣꢸꢔꢵꢳꢸ ꢲꢥ꣄ꢥꢮ꣄,दुगाळु हन्नव,து3கா3ளு ஹன்னவ்,dugaal'u hannav,dugALu hannav,dugāl̤u hannav,d̪ugɑːɭu ɦən̪n̪əʋ,dearness allowance,பஞ்சப்படி,,,,Politics,words
+ꢣꢸꢔꢵꢳꢸ ꢩꢬ꣄ꢡꣁ,दुगाळु भर्ता॑,து3கா3ளு ப4ர்தொ,dugaal'u bharto',dugALu bhartO,dugāl̤u bhartŏ,d̪ugɑːɭu bʰəɾt̪o,dearness allowance,பஞ்சப்படி,,,,Politics,words
+ꢣꢸꢔꢵꢳ꣄꣄,दुगाळ,து3கா3ள்,dugaal',dugAL,dugāl̤,d̪ugɑːɭ,famine,பஞ்சம்,,,,Politics,words
+ꢱꢿꢥꣁ,सेना॑,ஸேனொ,seno',senO,senŏ,s̪eːn̪o,army,பட்டாளம் / படை,,,,Politics,words
+ꢦꢳꣁ,पळा॑,பளொ,pal'o',paLO,pal̤ŏ,pəɭo,army,பட்டாளம் / படை,,,,Politics,words
+ꢨꢶꢭ꣄,बिल्,பி3ல்,bil,bil,bil,bɪl,bill,பட்டி,,,,Politics,words
+ꢬꢱꢷꢡꢸ,रसीतु,ரஸீத்,raseetu,rasItu,rasītu,ɾəs̪iːt̪u,bill,பட்டி,,,,Politics,words
+ꢙꢵꢦꢶꢡꣁ,जापिता॑,ஜாபிதொ,jaapito',jApitO,jāpitŏ,d͡ʒɑːpɪt̪o,list,பட்டியல்,,,,Politics,words
+ꢙꢦ꣄ꢡꣁ,जप्ता॑,ஜப்தொ,japto',japtO,japtŏ,d͡ʒəpt̪o,list,பட்டியல்,,,,Politics,words
+ꢱꢪ꣄ꢩꢮꢥꣁ,सम्भावना॑,ஸம்பா4வனொ,sambhavano',sambhavanO,sambhavanŏ,s̪əmbʰəʋən̪o,allowance,படி,,,,Politics,words
+ꢲꢥꢶ,हनि,ஹனி,hani,hani,hani,ɦən̪ɪ,"attack, aggression",படை எடுப்பு,,,,Politics,words
+ꢚꢾꢞꢵ ꢂꢫ꣄ꢣꢸ,झ॑डा अय्दु,ஜெ2டா3 அய்து3,jhe'd'aa aydu,jhEDA aydu,jhĕḍā aydu,d͡ʒʰeɖɑː əjd̪u,arms,படைக்கலம்,,,,Politics,words
+ꢱꢿꢥꢵ ꢣꢳꢮꢵꢞꢸꢥ꣄,सेना दळवाडुण,ஸேனா த3ளவாடு3ண்,senaa dal'avaad'un,senA daLavADun,senā dal̤avāḍun,s̪eːn̪ɑː d̪əɭəʋɑːɖun̪,arms,படைக்கலம்,,,,Politics,words
+ꢱꢿꢥꢵꢦꢡꢶ,सेनापति,ஸேனாபதி,senaapati,senApati,senāpati,s̪eːn̪ɑːpət̪ɪ,army chief,படைத்தளபதி,,,,Politics,words
+ꢣꢭꢒꢬ꣄ꢡꣁ,दलकर्ता॑,த3ளகர்தொ,dalakarto',dalakartO,dalakartŏ,d̪ələkəɾt̪o,army chief,படைத்தளபதி,,,,Politics,words
+ꢣꢿꢥꢵ ꢣꢳ꣄,सेनादळ,ஸேனா த3ள்,denaa dal',denA daL,denā dal̤,d̪eːn̪ɑː d̪əɭ,regiment,படைப்பிரிவு,,,,Politics,words
+ꢦꢣꢵꢬ꣄ꢢꢸꢥ꣄,पदार्थुन,பதா3ர்து2ன்,padaarthun,padArthun,padārthun,pəd̪ɑːɾt̪ʰun̪,commodity,பண்டங்கள்,,,,Politics,words
+ꢩꣁꢠ꣄ꢠꢪꢸꢥ꣄,भा॑ण्णमुन,பொ4ண்ணமுன்,bho'nnamun,bhONNamun,bhŏṇṇamun,bʰoɳɳəmun̪,commodity,பண்டங்கள்,,,,Politics,words
+ꢒꢭꢵꢗꢵꢬ꣄,कलाचार्,கலாசார்,kalaachaar,kalAcAr,kalācār,kəlɑːt͡ʃɑːɾ,culture,பண்பாடு,,,,Politics,words
+ꢱꢪ꣄ꢱ꣄ꢒ꣄ꢬꢸꢡꢶ,सम्स्क्रुति,ஸம்ஸ்க்ருதி,samskruti,samskruti,samskruti,s̪əms̪kɾut̪ɪ,culture,பண்பாடு,,,,Politics,words
+ꢆꢣ꣄ꢫꣂꢔ꣄,उद्योग्,உத்3யோக்3,udyog,udyog,udyog,ud̪joːg,profession,பணி,,,,Politics,words
+ꢒꢵꢪ꣄ ꢲꢾꢞ꣄ꢠꢶ,काम ह॑ड्णि,காம் ஹெட்3ணி,kaam he'd'ni,kAm hEDNi,kām hĕḍṇi,kɑːm ɦeɖɳɪ,dismissal,பணி நீக்கம்,,,,Politics,words
+ꢒꢪ ꣄ꢪꢬ꣄ꢗꢶꢥꢶ,काम्मरिनि,காம் மர்சினி,kama marchini,kama marcini,kama marcini,kəmə məɾt͡ʃɪn̪ɪ,transfer,பணி மாற்றம்,,,,Politics,words
+ꢒꢵꢪꢸ ꢙꢿꢰ꣄ꢜꢦꢥ꣄,कामु जेष्टपन,காமு ஜேஷ்டபன்,kaamu jesht'apan,kAmu jeSTapan,kāmu jeṣṭapan,kɑːmu d͡ʒeːʂʈəpən̪,seniority,பணி மூப்பு,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢵꢮꢵꢥ꣄,कार्यावान्,கார்யவான்,kaaryaavaan,kAryAvAn,kāryāvān,kɑːɾjɑːʋɑːn̪,employees,பணியாளர்,,,,Politics,words
+ꢦꢣꢮꢶ,पदवि,பத3வி,padavi,padavi,padavi,pəd̪əʋɪ,"position, job",பதவி,,,,Politics,words
+ꢦꢣꢮꢶ ꢲꢸꢡ꣄ꢬꢵꢮ꣄,पदवि हुत्राव,பத3வி ஹுத்ராவ்,padavi hutraav,padavi hutrAv,padavi hutrāv,pəd̪əʋɪ ɦut̪ɾɑːʋ,demotion,பதவி இறக்கம்,,,,Politics,words
+ꢦꢣꢮꢶ ꢲꢶꢖ꣄ꢔꢵꢮ꣄,पदवि हिङ्गाव,பத3வி ஹிங்கா3வ்,padavi hingaav,padavi hiGgAv,padavi hiṅgāv,pəd̪əʋɪ ɦɪŋgɑːʋ,promotion,பதவி உயர்வு,,,,Politics,words
+ꢦꢣꢮꢶꢓꢳ꣄ꢳꢶꢥꢶ,पदवि खळ्ळिनि,பத3வி க2ள்ளினி,padavikhal'l'ini,padavikhaLLini,padavikhal̤l̤ini,pəd̪əʋɪkʰəɭɭɪn̪ɪ,sworn in,பதவி ஏற்பு,,,,Politics,words
+ꢦꢣꢮꢶ ꢒꢵꢭ,पदविकाल,பத3விகால்,padavi kaala,padavi kAla,padavi kāla,pəd̪əʋɪ kɑːlə,tenure,பதவிக்காலம்,,,,Politics,words
+ꢚꢜ꣄ꢢꢶ,झट्थि,ஜ2ட்தி2,jhat'thi,jhaTthi,jhaṭthi,d͡ʒʰəʈt̪ʰɪ,editor,பதிப்பாசிரியர்,,,,Politics,words
+ꢏꢣ꣄ꢣꢶ,ओद्दि,ஒத்3தி3,o'ddi,Oddi,ŏddi,od̪d̪ɪ,editor,பதிப்பாசிரியர்,,,,Politics,words
+ꢥꢶꢪ꣄ꢦꢶꢥꢶ,निम्पिनि,நிம்பினி,nimpini,nimpini,nimpini,n̪ɪmpɪn̪ɪ,edition,பதிப்பு,,,,Politics,words
+ꢱꢪ꣄ꢱ꣄ꢒꢬꢠꣁ,सम्स्करणा॑,ஸம்ஸ்கரணொ,samskarano',samskaraNO,samskaraṇŏ,s̪əms̪kəɾəɳo,edition,பதிப்பு,,,,Politics,words
+ꢥꢶꢪ꣄ꢦꢶꢥꢶ ꢨꢵꢤ꣄ꢫꢡꣁ,निम्पि निबाध्यता॑,நிம்பினிபா3த்4யதொ,nimpini baadhyato',nimpini bAdhyatO,nimpini bādhyatŏ,n̪ɪmpɪn̪ɪ bɑːd̪ʰjət̪o,copy right,பதிப்புரிமை,,,,Politics,words
+ꢩꢬ꣄ꢡꢶ,भर्ति,ப4ர்தி,bharti,bharti,bharti,bʰəɾt̪ɪ,substitute,பதிலாள்,,,,Politics,words
+ꢨꣁꢣꢸꢭ꣄,बा॑दुल,பொ3து3ல்,bo'dul,bOdul,bŏdul,bod̪ul,substitute,பதிலாள்,,,,Politics,words
+ꢦꢛ꣄ꢗꢶꢒꣁ,पञ्चिका॑,பஞ்சிகொ,panchiko',paJcikO,pañcikŏ,pəɲt͡ʃɪko,registration,பதிவு,,,,Politics,words
+ꢥꢶꢬ꣄ꢣꢿꢱꣁ,निर्देसा॑,நிர்தே3ஸொ,nirdeso',nirdesO,nirdesŏ,n̪ɪɾd̪eːs̪o,registration,பதிவு,,,,Politics,words
+ꢦꢛ꣄ꢗꢶꢒꣁ ꢦꢡ꣄ꢡꢬ꣄,पञ्चिका पत्तर,பஞ்சிகா பத்தர்,panchiko' pattar,paJcikO pattar,pañcikŏ pattar,pəɲt͡ʃɪko pət̪t̪əɾ,register,பதிவேடு,,,,Politics,words
+ꢱꢾꢡ꣄ꢡꢬ꣄,स॑त्तर,ஸெத்தர்,se'ttar,sEttar,sĕttar,s̪et̪t̪əɾ,travellers bungalow,பயணிகள் விடுதி,,,,Politics,words
+ꢩꣁꢔꢸꢥꢵꢬ꣄,भा॑गुनार,பொ4கு3னார்,bho'gunaar,bhOgunAr,bhŏgunār,bʰogun̪ɑːɾ,beneficiary,பயனாளி,,,,Politics,words
+ꢱꢶꢒ꣄ꢰꢵ ꢪꢵꢣ꣄ꢫꣁ,सिक्षा माद्यो,ஸிக்ஷா மாத்3யொ,sikshaa maadyo',sikSA mAdyO,sikṣā mādyŏ,s̪ɪkʂɑː mɑːd̪jo,medium of education,பயிற்றுமொழி,,,,Politics,words
+ꢦꢬꢶꢦꢵꢭꢥꣁ,परिपालना॑,பரிபாலனொ,paripaalano',paripAlanO,paripālanŏ,pəɾɪpɑːlən̪o,maintenance,பராமரிப்பு,,,,Politics,words
+ꢦꢬꢶꢱꢷꢭꢥꣁ,परिसीलना॑,பரிஸீலனொ,pariseelano',parisIlanO,parisīlanŏ,pəɾɪs̪iːlən̪o,consideration,பரிசீலனை,,,,Politics,words
+ꢱꢸꢦꢬ꣄ꢗꢶ,सुपर्चि,ஸுப3ர்சி,suparchi,suparci,suparci,s̪upəɾt͡ʃɪ,recommendation,பரிந்துரை,,,,Politics,words
+ꢦꢬꢶꢮꢬ꣄ꢡꢥꣁ,परिवर्तना॑,பரிவர்தனொ,parivartano',parivartanO,parivartanŏ,pəɾɪʋəɾt̪ən̪o,exchange,பரிமாற்றம்,,,,Politics,words
+ꢥꢶꢤꢶ ꢆꢥ꣄ꢥꣁ,निधिउन्ना॑,நிதி4உன்னொ,nidhi unno',nidhi unnO,nidhi unnŏ,n̪ɪd̪ʰɪ un̪n̪o,"shortage, deficit",பற்றாக்குறை,,,,Politics,words
+ꢧꢸꢬꣁ ꢧꢸꢬ꣄ꢥꢵꢱ꣄ꢡꢾ,फुरा॑ फुर्नास्ते,பு2ரொ பு2ர்னாஸ்தே,phuro' phurnaaste',phurO phurnAstE,phurŏ phurnāstĕ,pʰuɾo pʰuɾn̪ɑːs̪t̪e,"shortage, deficit",பற்றாக்குறை,,,,Politics,words
+ꢦꢬ꣄ꢬꢸ,पर्रु,பற்று,parru,parru,parru,pəɾɾu,debit,பற்று,,,,Politics,words
+ꢙꢥꢶ,जनि,ஜனி,jani,jani,jani,d͡ʒən̪ɪ,debit,பற்று,,,,Politics,words
+ꢂꢦꢲꢬꢠꣁ,अपहरणा॑,அபஹரணொ,apaharano',apaharaNO,apaharaṇŏ,əpəɦəɾəɳo,seize,பறிமுதல்,,,,Politics,words
+ꢦꢥꢶ ꢱꢶꢛ꣄ꢗꢵꢮ꣄,पनि सिनन्चाव,பனி ஸிஞ்சாவ்,pani sinchaav,pani siJcAv,pani siñcāv,pən̪ɪ s̪ɪɲt͡ʃɑːʋ,irrigation,நீர்பாசனம்,,,,Politics,words
+ꢬꢒ꣄ꢰꢥꣁ,रक्षना॑,ரக்ஷனொ,rakshano',rakSanO,rakṣanŏ,ɾəkʂən̪o,defence,பாதுகாப்பு,,,,Politics,words
+ꢭꣂꢒ꣄ꢱꢩꣁ,लोक्सभा॑,லோக்ஸபொ4,loksabho',loksabhO,loksabhŏ,loːks̪əbʰo,parliament,பாராளுமன்றம்,,,,Politics,words
+ꢣꢹꢡ꣄ ꢆꢡ꣄ꢦꢵꢣꢥꢱꢵꢭꣁ,दूत उत्पादनसाला॑,தூ3த் உத்பாத3னஸாலொ,doot utpaadanasaalo',dUt utpAdanasAlO,dūt utpādanasālŏ,d̪uːt̪ ut̪pɑːd̪ən̪əs̪ɑːlo,dairy,பால்பண்ணை,,,,Politics,words
+ꢗꢸꢥꢵꢮꢸ ꢦ꣄ꢬꢗꢵꢬ꣄,चुनावु प्रचार,சுனாவு ப்ரசார்,chunaavu prachaar,cunAvu pracAr,cunāvu pracār,t͡ʃun̪ɑːʋu pɾət͡ʃɑːɾ,election campaign,தேர்தல் பிரசாரம்,,,,Politics,words
+ꢙꢪꢷꢥ,जमीन,ஜமீன்,jameena,jamIna,jamīna,d͡ʒəmiːn̪ə,surety,பிணை,,,,Politics,words
+ꢩꢬ꣄ꢡꢶ,भर्ति,ப4ர்தி,bharti,bharti,bharti,bʰəɾt̪ɪ,bail,பிணையம்,,,,Politics,words
+ꢦ꣄ꢬꢤꢵꢥ꣄ ꢪꢥ꣄ꢡꢶꢬꢶ,प्रधान्मन्तिरि,ப்ரதா4ன்மந்திரி,pradhaan mantiri,pradhAn mantiri,pradhān mantiri,pɾəd̪ʰɑːn̪ mən̪t̪ɪɾɪ,prime minister,பிரதம அமைச்சர்,,,,Politics,words
+ꢨꣁꢣꢸꢭ꣄ ꢮꢵꢡꢶ,बा॑दुल्वाति,பொ3து3ல்வாதி,bo'dul vaati,bOdul vAti,bŏdul vāti,bod̪ul ʋɑːt̪ɪ,representative,பிரதிநிதி,,,,Politics,words
+ꢦ꣄ꢬꢡꢿꢱꢸ,प्रतेसु,ப்ரதே3ஸு,pratesu,pratesu,pratesu,pɾət̪eːs̪u,territory,பிரதேசம்,,,,Politics,words
+ꢦ꣄ꢬꢩꢸ,प्रभु,ப்ரபு4,prabhu,prabhu,prabhu,pɾəbʰu,lord,பிரபு,,,,Politics,words
+ꢦ꣄ꢬꢙꣁ,प्रजा॑,ப்ரஜொ,prajo',prajO,prajŏ,pɾəd͡ʒo,citizen,பிரஜை,,,,Politics,words
+ꢮꢶꢩꢵꢔ,विभाग,விபா4க3,vibhaaga,vibhAga,vibhāga,ʋɪbʰɑːgə,cell,பிரிவு,,,,Politics,words
+ꢂꢥꢸꢨꢥ꣄ꢤꢸ,अनुबन्धु,அநுப3ந்து4,anubandhu,anubandhu,anubandhu,ən̪ubən̪d̪ʰu,appendix,பிற்சேர்க்கை,,,,Politics,words
+ꢦꢱ꣄ꢒꢜ꣄ꢮꢬ꣄ꢔꢸ ꢱꢪꢹꢲꢸ,पस्कट्वरगु समूहू,பஸ்கட்வர்கு3 ஸமூஹு,paskat'vargu samoohu,paskaTvargu samUhu,paskaṭvargu samūhu,pəs̪kəʈʋəɾgu s̪əmuːɦu,backward class people,பிற்பட்ட வகுப்பினர்,,,,Politics,words
+ꢦꢱ꣄ꢒꢜ꣄ ꢦꣁꢞꢾ ꢱꢪꢹꢲꢸ,पस्कट बा॑ड॑ समूहु,பஸ்கட் பொடெ3 ஸமூஹு,paskat' po'd'e' samoohu,paskaT pODE samUhu,paskaṭ pŏḍĕ samūhu,pəs̪kəʈ poɖe s̪əmuːɦu,backward class people,பிற்பட்ட வகுப்பினர்,,,,Politics,words
+ꢙꢥ꣄ꢪꢵꢥ꣄ꢣꢬꢪꢸ,जन्मान्दरमु,ஜன்மாந்த3ரமு,janmaandaramu,janmAndaramu,janmāndaramu,d͡ʒən̪mɑːn̪d̪əɾəmu,birth rate,பிறப்பு வீதம்,,,,Politics,words
+ꢦꢱ꣄ꢒꢞꢸꢱꢪꢹꢲꢸ,पस्कडु समूहु,பஸ்கடு3 ஸமூஹு,paskad'usamoohu,paskaDusamUhu,paskaḍusamūhu,pəs̪kəɖus̪əmuːɦu,back ward,பின்தங்கிய,,,,Politics,words
+ꢦꢸꢒꢵꢬ꣄,पुकार्,புகா3ர்,pukaar,pukAr,pukār,pukɑːɾ,complaint,புகார்,,,,Politics,words
+ꢂꢩꢶꢫꣂꢔ,अभियोग,அபி4யோக3,abhiyoga,abhiyoga,abhiyoga,əbʰɪjoːgə,complaint,புகார்,,,,Politics,words
+ꢥꣁꢮ꣄ꢮꢒꢬꢠꣁ,नोव्वकरणा॑,நவீகரணொ,no'vvakarano',nOvvakaraNO,nŏvvakaraṇŏ,n̪oʋʋəkəɾəɳo,renewal,புதுப்பித்தல்,,,,Politics,words
+ꢥꣁꢮ꣄ꢮꢒꢾꢬ꣄ꢥꢶ,ना॑व्व क॑र्नि,நொவ்வ கெர்னி,no'vvake'rni,nOvvakErni,nŏvvakĕrni,n̪oʋʋəkeɾn̪ɪ,renewal,புதுப்பித்தல்,,,,Politics,words
+ꢒ꣄ꢬꢵꢥ꣄ꢡꢶ,क्रान्ति,க்ராந்தி,kraanti,krAnti,krānti,kɾɑːn̪t̪ɪ,revolution,புரட்சி,,,,Politics,words
+ꢮꢣꢥ꣄ꢡꢶ,वदन्ति,வத3ந்தி,vadanti,vadanti,vadanti,ʋəd̪ən̪t̪ɪ,rumour,புரளி,,,,Politics,words
+ꢮꢶꢗꢵꢬꢠꣁ,विचारणा॑,விசாரணொ,vichaarano',vicAraNO,vicāraṇŏ,ʋɪt͡ʃɑːɾəɳo,investigation,புலனாய்வு,,,,Politics,words
+ꢂꢥ꣄ꢮꢿꢱꢥꣁ,अन्वेसना॑,அன்வேஸனொ,anvesano',anvesanO,anvesanŏ,ən̪ʋeːs̪ən̪o,investigation,புலனாய்வு,,,,Politics,words
+ꢱꢬ꣄ꢒꢵꢬꢸ ꢢꢵꢪ꣄,सर्कारु थाम,ஸர்காரு தா2ம்,sarkaaru thaam,sarkAru thAm,sarkāru thām,s̪əɾkɑːɾu t̪ʰɑːm,government land,புறம்போக்கு,,,,Politics,words
+ꢮꢶꢱ꣄ꢡꢵꢬ꣄,विस्तार्,விஸ்தார்,vistaar,vistAr,vistār,ʋɪs̪t̪ɑːɾ,amplifier,பெருக்கி,,,,Politics,words
+ꢮꢶꢭꢵꢱ꣄,विलास्,விலாஸ்,vilaas,vilAs,vilās,ʋɪlɑːs̪,amplifier,பெருக்கி,,,,Politics,words
+ꢨꢲꢸ ꢱꢖ꣄ꢓ꣄ꢫꢡꣁ,बहु सङ्ख्यता॑,ப3ஹு ஸங்க்2யதொ,bahu sankhyato',bahu saGkhyatO,bahu saṅkhyatŏ,bəɦu s̪əŋkʰjət̪o,majority,பெரும்பான்மை,,,,Politics,words
+ꢂꢤꢶꢒꢡꣁ,अधिकता॑,அதி4கதொ,adhikato',adhikatO,adhikatŏ,əd̪ʰɪkət̪o,maximum,பெருமம்,,,,Politics,words
+ꢆꢦꢶꢬ꣄,उपिर,உபிர்,upir,upir,upir,upɪɾ,maximum,பெருமம்,,,,Politics,words
+ꢬꢵꢙꢵꢤꢶꢬꢙꣁ,राजाधि रजा॑,ராஜாதி4 ரஜொ,raajaadhirajo',rAjAdhirajO,rājādhirajŏ,ɾɑːd͡ʒɑːd̪ʰɪɾəd͡ʒo,emperor,பேரரசர்,,,,Politics,words
+ꢪꢴꢵꢬꢵꢜ꣄,म्हाराट,மா:ராட்,mhaaraat',mhArAT,mhārāṭ,mɦɑːɾɑːʈ,emperor,பேரரசர்,,,,Politics,words
+ꢱꢵꢪ꣄ꢬꢵꢜ꣄,साम्राट,ஸாம்ராட்,saamraat',sAmrAT,sāmrāṭ,s̪ɑːmɾɑːʈ,emperor,பேரரசர்,,,,Politics,words
+ꢗꢒ꣄ꢬꢮꢬ꣄ꢡꢶ,सक्रवर्ति,சக்ரவர்தி,chakravarti,cakravarti,cakravarti,t͡ʃəkɾəʋəɾt̪ɪ,emperor,பேரரசர்,,,,Politics,words
+ꢭꢵꢪ꣄ꢬꢵꢙ꣄ꢫꢸ,लाम्राज्यु,லாம்ராஜ்யு,laamraajyu,lAmrAjyu,lāmrājyu,lɑːmɾɑːd͡ʒju,empire,பேரரசு,,,,Politics,words
+ꢱꢵꢪ꣄ꢬꢵꢙ꣄ꢫꢸ,साम्राज्यु,ஸாம்ராஜ்யு,saamraajyu,sAmrAjyu,sāmrājyu,s̪ɑːmɾɑːd͡ʒju,empire,பேரரசு,,,,Politics,words
+ꢪꢲꢵ ꢱꢩꣁ,महा सभा॑,மஹாஸபொ4,mahaa sabho',mahA sabhO,mahā sabhŏ,məɦɑː s̪əbʰo,general body,பேரவை,,,,Politics,words
+ꢥꢔꢬꢦꢵꢭꢶꢒꣁ,नगर पालिका॑,நக3ரபாலிகொ,nagarapaaliko',nagarapAlikO,nagarapālikŏ,n̪əgəɾəpɑːlɪko,municipality,பேரூராட்சி,,,,Politics,words
+ꢭꢾꢞ꣄ꢙꢬ꣄,ल॑ड्जर,லெட்3ஜர்,le'd'jar,lEDjar,lĕḍjar,leɖd͡ʒəɾ,ledger,பேரேடு,,,,Politics,words
+ꢮ꣄ꢫꢒ꣄ꢡꢶ ꢭꢴꢾꢒ꣄ꢒꢵ ꢦꢸꢱ꣄ꢡꢮ꣄,व्यक्ति ल्ह॑क्का पुस्तव,வ்யக்தி லெ:க்கா புஸ்தவ்,vyakti lhe'kkaa pustav,vyakti lhEkkA pustav,vyakti lhĕkkā pustav,ʋjəkt̪ɪ lɦekkɑː pus̪t̪əʋ,ledger,பேரேடு,,,,Politics,words
+ꢦꢾꢬꢿꢜ꣄,पेरेट,பெரேட்,pe'ret',pEreT,pĕreṭ,peɾeːʈ,ledger,பேரேடு,,,,Politics,words
+ꢱꢵꢤꢵꢬꢥꢱꢩꣁ,साधारण सभा॑,ஸாதா4ரணஸபொ4,saadhaaranasabho',sAdhAranasabhO,sādhāranasabhŏ,s̪ɑːd̪ʰɑːɾən̪əs̪əbʰo,public meeting,பொதுக்கூட்டம்,,,,Politics,words
+ꢱꢵꢬ꣄ꢮꢙꢥꢶꢒ꣄ ꢱꢩꣁ,सार्वजनिक सभा॑,ஸார்வஜனிக் ஸபொ4,saarvajanik sabho',sArvajanik sabhO,sārvajanik sabhŏ,s̪ɑːɾʋəd͡ʒən̪ɪk s̪əbʰo,public meeting,பொதுக்கூட்டம்,,,,Politics,words
+ꢱꢵꢬ꣄ꢮꢙꢥꢶꢒ꣄ ꢮꢶꢩꢵꢔ꣄,सार्वजनिक्विभग,ஸார்வஜனிக் விபா4க்3,saarvajanik vibhaag,sArvajanik vibhAg,sārvajanik vibhāg,s̪ɑːɾʋəd͡ʒən̪ɪk ʋɪbʰɑːg,public sector,பொதுத்துறை,,,,Politics,words
+ꢭꣁꢒ ꢮꢶꢩꢵꢔ꣄,लोग विभाग,லோக விபா4க்3,lo'ka vibhaag,lOka vibhAg,lŏka vibhāg,lokə ʋɪbʰɑːg,public sector,பொதுத்துறை,,,,Politics,words
+ꢭꣂꢒ ꢔ꣄ꢬꢥ꣄ꢢꢵꢭꢫꣁ,लोक ग्रन्थालया॑,லோக க்3ரந்தா2லயொ,loka granthaalayo',loka granthAlayO,loka granthālayŏ,loːkə gɾən̪t̪ʰɑːləjo,public library,பொதுநூலகம்,,,,Politics,words
+ꢱꢵꢤꢵꢬꢠ ꢮꢶꢬꢵꢪ꣄,साधारण विराम,ஸாதா4ரண விராம்,saadhaarana viraam,sAdhAraNa virAm,sādhāraṇa virām,s̪ɑːd̪ʰɑːɾəɳə ʋɪɾɑːm,public holiday,பொதுவிடுமுறை,,,,Politics,words
+ꢃꢬ꣄ꢢꢶꢒ ꢱ꣄ꢢꢶꢡꢶ,आर्थिक सथिति,ஆர்தி2க ஸ்தி2தி,aarthika sthiti,Arthika sthiti,ārthika sthiti,ɑːɾt̪ʰɪkə s̪t̪ʰɪt̪ɪ,economy,பொருளாதாரம்,,,,Politics,words
+ꢒꢵꢬ꣄ꢫꢩꢵꢬ꣄,कार्यभार,கார்யபா4ர்,kaaryabhaar,kAryabhAr,kāryabhār,kɑːɾjəbʰɑːɾ,incharge,பொறுப்பு,,,,Politics,words
+ꢙꢥꢶ,जनि,ஜனி,jani,jani,jani,d͡ʒən̪ɪ,trend,போக்கு,,,,Politics,words
+ꢦ꣄ꢬꢮꢬ꣄ꢡꢶ,प्रवर्ति,ப்ரவர்தி,pravarti,pravarti,pravarti,pɾəʋəɾt̪ɪ,trend,போக்கு,,,,Politics,words
+ꢱ꣄ꢦꢬ꣄ꢤꢥ꣄,स्पर्धन,ஸ்பர்த4ன்,spardhan,spardhan,spardhan,s̪pəɾd̪ʰən̪,competition,போட்டி,,,,Politics,words
+ꢫꢸꢣ꣄ꢤꢸ,युद्धु,யுத்3து4,yuddhu,yuddhu,yuddhu,jud̪d̪ʰu,war,போர்,,,,Politics,words
+ꢃꢬ꣄ꢩꢵꢜꣁ,आर्भाटो,ஆர்பா4டொ,aarbhaat'o',ArbhATO,ārbhāṭŏ,ɑːɾbʰɑːʈo,agitation,போராட்டம்,,,,Politics,words
+ꢃꢬ꣄ꢩꢵꢜꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,आर्भाटा॑ क॑र्नार,ஆர்பா4டொ கெர்னார்,aarbhaat'o' ke'rnaar,ArbhATO kErnAr,ārbhāṭŏ kĕrnār,ɑːɾbʰɑːʈo keɾn̪ɑːɾ,fighter,போராளி,,,,Politics,words
+ꢫꣁꢣ꣄ꢤꢸ,योद्धु,யோத்3து4,yo'ddhu,yOddhu,yŏddhu,jod̪d̪ʰu,fighter,போராளி,,,,Politics,words
+ꢙꢥ ꢱꢖ꣄ꢓ꣄ꢫꣁ,जन सङ्ख्या॑,ஜன ஸங்க்2யொ,jana sankhyo',jana saGkhyO,jana saṅkhyŏ,d͡ʒən̪ə s̪əŋkʰjo,population,மக்கள் தொகை,,,,Politics,words
+ꢪꢤ꣄ꢫꢱꢬ꣄ꢒꢵꢬ꣄,मध्यसर्कार,மத்4யஸர்கார்,madhyasarkaar,madhyasarkAr,madhyasarkār,məd̪ʰjəs̪əɾkɑːɾ,Central Government,மத்திய அரசு,,,,Politics,words
+ꢒꢿꢥ꣄ꢣ꣄ꢬ ꢱꢬ꣄ꢒꢵꢬ꣄,केन्द्र सर्कार,கேந்த்3ர ஸர்கார்,kendra sarkaar,kendra sarkAr,kendra sarkār,keːn̪d̪ɾə s̪əɾkɑːɾ,Central Government,மத்திய அரசு,,,,Politics,words
+ꢃꢒꢭꢥꣁ,आकलना॑,ஆகலனொ,aakalano',AkalanO,ākalanŏ,ɑːkələn̪o,"estimate, assessment",மதிப்பீடு,,,,Politics,words
+ꢪꢹꢭ꣄ꢫ ꢥꢶꢬ꣄ꢤꢵꢬꢠꣁ,मूल्य निर्धारणा॑,மூல்ய நிர்தா4ரணொ,moolya nirdhaarano',mUlya nirdhAraNO,mūlya nirdhāraṇŏ,muːljə n̪ɪɾd̪ʰɑːɾəɳo,value,மதிப்பு,,,,Politics,words
+ꢦꢬꢶꢱ꣄ꢬꢵꢪ ꢱꢸꢭ꣄ꢒꣁ,परिस्राम सुल्का॑,பரிஸ்ராம ஸுல்கொ,parisraama sulko',parisrAma sulkO,parisrāma sulkŏ,pəɾɪs̪ɾɑːmə s̪ulko,honorarium,மதிப்பூதியம்,,,,Politics,words
+ꢱꢪ꣄ꢩꢵꢮꢥꣁ,सम्भावना॑,ஸம்பா4வனொ,sambhaavano',sambhAvanO,sambhāvanŏ,s̪əmbʰɑːʋən̪o,honorarium,மதிப்பூதியம்,,,,Politics,words
+ꢪꢤꢸ ꢥꢶꢬꣁꢤꢥꣁ,मधु निरोधना॑,மது4 நிரோத4னொ,madhu niro'dhano',madhu nirOdhanO,madhu nirŏdhanŏ,məd̪ʰu n̪ɪɾod̪ʰən̪o,prohibition,மதுவிலக்கு,,,,Politics,words
+ꢱꢗꢶꢮꣁ,सचिवा॑,ஸசிவொ,sachivo',sacivO,sacivŏ,s̪ət͡ʃɪʋo,minister,மந்திரி,,,,Politics,words
+ꢥꢴꢵꢪꢾꢥ꣄ꢥꢶ,न्हाम॑न्नि,நா: மென்னி,nhaame'nni,nhAmEnni,nhāmĕnni,n̪ɦɑːmen̪n̪ɪ,denial,மறுப்பு,,,,Politics,words
+ꢦꢸꢥꢬ꣄ꢧꢸꢭꢥꣁ,पुनर्फुलना॑,புனர்பு2லனொ,punarphulano',punarphulanO,punarphulanŏ,pun̪əɾpʰulən̪o,renaissance,மறுமலர்ச்சி,,,,Politics,words
+ꢦꢸꢥꢬ꣄ ꢙꢷꢮꢥꣁ,पुनर जीवना॑,புனர் ஜீவனொ,punar jeevano',punar jIvanO,punar jīvanŏ,pun̪əɾ d͡ʒiːʋən̪o,rehabilitation,மறுவாழ்வு,,,,Politics,words
+ꢬꢵꢜ,राट,ராட்,raat'a,rATa,rāṭa,ɾɑːʈə,king,மன்னன்,,,,Politics,words
+ꢦꢶꢬꢵꢬ꣄ꢢꢥꢵ ꢦꢡ꣄ꢬꢸ,पिरार्थना पत्रु,பிரார்த2னா பத்ரு,piraarthanaa patru,pirArthanA patru,pirārthanā patru,pɪɾɑːɾt̪ʰən̪ɑː pət̪ɾu,application,மனு,,,,Politics,words
+ꢒꣁꢬꢶ ꢦꢡ꣄ꢬꢸ,का॑रि पत्रु,கொரி பத்ரு,ko'ri patru,kOri patru,kŏri patru,koɾɪ pət̪ɾu,application,மனு,,,,Politics,words
+ꢪꢲꢵ ꢥꢔꢬꢦꢵꢭꢶꢒꣁ,महा नगरपालिका॑,மஹா நக3ரபாலிகொ,mahaa nagarapaaliko',mahA nagarapAlikO,mahā nagarapālikŏ,məɦɑː n̪əgəɾəpɑːlɪko,corporation,மாநகராட்சி,,,,Politics,words
+ꢱꢪ꣄ꢪꢿꢭꢥꣁ,सम्मेलना॑,ஸம்மேளனொ,sammelano',sammelanO,sammelanŏ,s̪əmmeːlən̪o,conferance,மாநாடு,,,,Politics,words
+ꢬꢵꢙ꣄ꢫ ꢱꢬ꣄ꢒꢵꢬ꣄,प्रान्तिय सर्कार,ப்ராந்தியஸர்கார்,raajya sarkaar,rAjya sarkAr,rājya sarkār,ɾɑːd͡ʒjə s̪əɾkɑːɾ,state government,மாநில அரசு,,,,Politics,words
+ꢦ꣄ꢬꢵꢥ꣄ꢡꢸ,प्रान्तु,ப்ராந்து,praantu,prAntu,prāntu,pɾɑːn̪t̪u,state,மாநிலம்,,,,Politics,words
+ꢱꢵꢪ꣄ꢬꢵꢜ,साम्राट,ஸாம்ராட்,saamraat'a,sAmrATa,sāmrāṭa,s̪ɑːmɾɑːʈə,emperor,மாமன்னர்,,,,Politics,words
+ꢱꢵꢪ꣄ꢫꢮꢵꢣ꣄,साम्यवाद,ஸாம்யவாத்3,saamyavaad,sAmyavAd,sāmyavād,s̪ɑːmjəʋɑːd̪,Marxism,மார்க்சீயம்,,,,Politics,words
+ꢙꢶꢭ꣄ꢭꣁ,जिल्ला॑,ஜில்லொ,jillo',jillO,jillŏ,d͡ʒɪllo,district,மாவட்டம்,,,,Politics,words
+ꢪꢵꢥ꣄ꢫꢪ꣄,मान्यम्,மான்யம்,maanyam,mAnyam,mānyam,mɑːn̪jəm,grant,மானியம்,,,,Politics,words
+ꢦꢸꢥꢬ꣄ ꢦ꣄ꢬꢵꢦ꣄ꢡꢶ,पुनर्प्राप्ति,புனர் ப்ராப்தி,punar praapti,punar prApti,punar prāpti,pun̪əɾ pɾɑːpt̪ɪ,recovery,மீட்பு,,,,Politics,words
+ꢒꢮ꣄ꢥꢶ,कव्नि,கவ்னி,kavni,kavni,kavni,kəʋn̪ɪ,balance,மீதி,,,,Politics,words
+ꢆꢬꢵꢮ꣄,उराव,உராவ்,uraav,urAv,urāv,uɾɑːʋ,balance,மீதி,,,,Politics,words
+ꢒꣁꢮ꣄ ꢣꢵꢫꣁ,का॑व दाया॑,கொவ்தா3யொ,ko'v daayo',kOv dAyO,kŏv dāyŏ,koʋ d̪ɑːjo,balance,மீதி,,,,Politics,words
+ꢱꢿꢱ꣄,सेश,ஸேஸ்,ses,ses,ses,s̪eːs̪,balance,மீதி,,,,Politics,words
+ꢦ꣄ꢬꢡꢶꢥꢶꢜꢶ,प्रतिनिति,ப்ரதிநிதி,pratinit'i,pratiniTi,pratiniṭi,pɾət̪ɪn̪ɪʈɪ,agent,முகவர்,,,,Politics,words
+ꢱꢵꢪ꣄ꢬꢵꢜꢸ ꢦꢵꢭꢥꣁ,साम्राटु पालना॑,ஸாம்ராடு பாலனொ,saamraat'u paalano',sAmrATu pAlanO,sāmrāṭu pālanŏ,s̪ɑːmɾɑːʈu pɑːlən̪o,monarchy,முடியரசு,,,,Politics,words
+ꢪꢸꢣ꣄ꢬꣁ,मुद्रा॑,முத்3ரொ,mudro',mudrO,mudrŏ,mud̪ɾo,"seal, stamp",முத்திரை,,,,Politics,words
+ꢪꢹꢭꢸꢤꢥ꣄,मूलुधन,மூலுத4ன்,mooludhan,mUludhan,mūludhan,muːlud̪ʰən̪,capital,முதல்,,,,Politics,words
+ꢪꢸꢒ꣄ꢫ ꢪꢥ꣄ꢡꢶꢬꢶ,मुक्य मन्तिरि,முக்ய மந்திரி,mukya mantiri,mukya mantiri,mukya mantiri,mukjə mən̪t̪ɪɾɪ,chief minister,முதலமைச்சர்,,,,Politics,words
+ꢪꢹꢭꢤꢥꢮꢵꢥ꣄,मूलधनवान,மூலத4னவான்,mooladhanavaan,mUladhanavAn,mūladhanavān,muːləd̪ʰən̪əʋɑːn̪,capitalists,முதலாளி,,,,Politics,words
+ꢤꢥꢮꢵꢥꢸꢦꢥ꣄,धनवानुपन,த4னவானுபன்,dhanavaanupan,dhanavAnupan,dhanavānupan,d̪ʰən̪əʋɑːn̪upən̪,capitalism,முதலாளித்துவம்,,,,Politics,words
+ꢦꢸꢥꢬ꣄ ꢮꢶꢗꢵꢬ ꢦ꣄ꢬꢵꢬ꣄ꢡꢥꣁ,पुनर्विचार प्रार्तना॑,புனர்விசார ப்ரார்தனொ,punar vichaara praartano',punar vicAra prArtanO,punar vicāra prārtanŏ,pun̪əɾ ʋɪt͡ʃɑːɾə pɾɑːɾt̪ən̪o,appeal,மேல்முறையீடு,,,,Politics,words
+ꢦ꣄ꢬꢵꢒ꣄ꢦ꣄ꢬꢡꢶ,प्राक्प्रति,ப்ராக்ப்ரதி,praakprati,prAkprati,prākprati,pɾɑːkpɾət̪ɪ,advance copy,முன்படி,,,,Politics,words
+ꢦꢹꢬ꣄ꢮꢵꢥꢸꢪꢵꢥ꣄,पूर्वानुमान,பூர்வானுமான்,poorvaanumaan,pUrvAnumAn,pūrvānumān,puːɾʋɑːn̪umɑːn̪,forecast,முன்னறிவிப்பு,,,,Politics,words
+ꢧꣀꢭ ꢨꢵꢡ꣄ꢫꢡꣁ,फैल बात्यता॑,பை2ல பா3த்யதொ,phaila baatyato',phaila bAtyatO,phaila bātyatŏ,pʰəɪlə bɑːt̪jət̪o,priority,முன்னுரிமை,,,,Politics,words
+ꢂꢩꢶꢮꢶꢬꢸꢣ꣄ꢤꢶ,अभिविरुद्धि,அபி4விருத்3தி4,abhiviruddhi,abhiviruddhi,abhiviruddhi,əbʰɪʋɪɾud̪d̪ʰɪ,progress,முன்னேற்றம்,,,,Politics,words
+ꢪꢹꢭꢮꢱ꣄ꢡꢸ,मूलवस्तु,மூலவஸ்து,moolavastu,mUlavastu,mūlavastu,muːləʋəs̪t̪u,raw material,மூலப்பொருள்,,,,Politics,words
+ꢃꢖ꣄ꢔꢬꢒ꣄ꢯꢒꣁ,आङ्गरक्षका॑,அங்க3ரக்ஷகொ,aangarakshako',AGgarakzakO,āṅgarakśakŏ,ɑːŋgəɾəkʃəko,body guard,மெய்க்காப்பாளர்,,,,Politics,words
+ꢪꢶꢜ꣄ꢜꣁ,मिट्टा॑,மிட்டொ,mit't'o',miTTO,miṭṭŏ,mɪʈʈo,stage,மேடை,,,,Politics,words
+ꢪꢛ꣄ꢗꢸ,मञ्चु,மஞ்சு,manchu,maJcu,mañcu,məɲt͡ʃu,stage,மேடை,,,,Politics,words
+ꢮꢿꢣꢶꢒꣁ,वेदिका॑,வேதி3கொ,vediko',vedikO,vedikŏ,ʋeːd̪ɪko,stage,மேடை,,,,Politics,words
+ꢂꢩꢶꢮ꣄ꢬꢸꢣ꣄ꢤꢶ,अभिव्रुद्धि,அபி4வ்ருத்3தி4,abhivruddhi,abhivruddhi,abhivruddhi,əbʰɪʋɾud̪d̪ʰɪ,development,மேம்பாடு,,,,Politics,words
+ꢪꢿꢜꢶꢥꢸ ꢮꢶꢤꢵꢥ꣄ ꢱꢩꣁ,मेटिनु विधान सभा॑,மேடினு விதா4ன் ஸபொ4,met'inu vidhaan sabho',meTinu vidhAn sabhO,meṭinu vidhān sabhŏ,meːʈɪn̪u ʋɪd̪ʰɑːn̪ s̪əbʰo,legislative council,மேல்சபை,,,,Politics,words
+ꢆꢛ꣄ꢗ ꢂꢤꢶꢒꢵꢬꢶ,उञ्च अधिकारि,உஞ்சஅதி4காரி,uncha adhikaari,uJca adhikAri,uñca adhikāri,uɲt͡ʃə əd̪ʰɪkɑːɾɪ,superior officer,மேலதிகாரி,,,,Politics,words
+ꢥꢶꢬ꣄ꢮꢵꢲ꣄,निर्वाह,நிர்வாஹ்,nirvaah,nirvAh,nirvāh,n̪ɪɾʋɑːɦ,management,மேலாண்மை,,,,Politics,words
+ꢥꢶꢫꢥ꣄ꢡ꣄ꢬꣁ,नियन्त्रा॑,நியந்த்ரொ,niyantro',niyantrO,niyantrŏ,n̪ɪjən̪t̪ɾo,management,மேலாண்மை,,,,Politics,words
+ꢦ꣄ꢬꢨꢥ꣄ꢤꢒꣁ,प्रबन्धका॑,ப்ரப3ந்த4கொ,prabandhako',prabandhakO,prabandhakŏ,pɾəbən̪d̪ʰəko,manager,மேலாளர்,,,,Politics,words
+ꢪꢾꢜꢸ ꢥꢶꢮꢵꢲꢶ,मेटु निर्वाहि,மேடு நிர்வாஹி,me't'u nivaahi,mETu nivAhi,mĕṭu nivāhi,meʈu n̪ɪʋɑːɦɪ,manager,மேலாளர்,,,,Politics,words
+ꢆꢗ꣄ꢗ ꢂꢙ꣄ꢛꢵꢒꢵꢬ꣄,उच्च आजञाकार,உச்ச ஆஜ்ஞாகார்,uchcha ajnyaakaar,ucca ajJAkAr,ucca ajñākār,ut͡ʃt͡ʃə əd͡ʒɲɑːkɑːɾ,high command,மேலிடம்,,,,Politics,words
+ꢆꢣ꣄ꢤꢬꢠꣁ,उधारणा॑,உத4ரணொ,uddharano',uddharaNO,uddharaṇŏ,ud̪d̪ʰəɾəɳo,quotation,மேற்கோள்,,,,Politics,words
+ꢆꢭ꣄ꢭꢾꢲꢥꣁ,उल्लेहना॑,உல்லேஹனொ,ulle'hano',ullEhanO,ullĕhanŏ,ulleɦən̪o,quotation,மேற்கோள்,,,,Politics,words
+ꢂꢮꢡꢵꢬꢠꣁ,अवतारणा॑,அவதாரணொ,avataarano',avatAraNO,avatāraṇŏ,əʋət̪ɑːɾəɳo,quotation,மேற்கோள்,,,,Politics,words
+ꢂꢮꢡꢵꢬꢶꢡ ꢮꢵꢒ꣄ꢫꢸ,अवतारित वाक्यु,அவதாரித வாக்யு,avataarita vaakyu,avatArita vAkyu,avatārita vākyu,əʋət̪ɑːɾɪt̪ə ʋɑːkju,quotation,மேற்கோள்,,,,Politics,words
+ꢡꢣꢾꢮ,तदेव,ததே3வ,tade'va,tadEva,tadĕva,t̪əd̪eʋə,ditto,மேற்படி,,,,Politics,words
+ꢪꢤ꣄꣄ꢫ ꢱꢬ꣄ꢒꢵꢬ꣄,मध्य सर्कार,மத்4யஸர்கார்,madhya sarkaar,madhya sarkAr,madhya sarkār,məd̪ʰjə s̪əɾkɑːɾ,Central Government,மைய அரசு,,,,Politics,words
+ꢂꢥꢸꢮꢵꢣꢒꣁ,अनुवादका॑,அனுவாத3கொ,anuvaadako',anuvAdakO,anuvādakŏ,ən̪uʋɑːd̪əko,translator,மொழிபெயர்ப்பாளர்,,,,Politics,words
+ꢡꢬ꣄ꢙꢪꣁ ꢒꢾꢬ꣄ꢥꢵꢬ꣄,तर्जमा॑ क॑र्नार,தர்ஜமொ கெர்னார்,tarjamo' ke'rnaar,tarjamO kErnAr,tarjamŏ kĕrnār,t̪əɾd͡ʒəmo keɾn̪ɑːɾ,translator,மொழிபெயர்ப்பாளர்,,,,Politics,words
+ꢚꢾꢞꣁ,झ॑डा॑,ஜெ2டொ3,jhe'd'o',jhEDO,jhĕḍŏ,d͡ʒʰeɖo,war,யுத்தம்,,,,Politics,words
+ꢪꢵꢬ꣄,मार,மார்,maar,mAr,mār,mɑːɾ,war,யுத்தம்,,,,Politics,words
+ꢬꢵꢠꢶ,राणि,ராணி,raani,rANi,rāṇi,ɾɑːɳɪ,queen,ராணி,,,,Politics,words
+ꢦꢭꣁ,पला॑,பளொ,palo',palO,palŏ,pəlo,army,ராணுவம்,,,,Politics,words
+ꢬꢵꢙ ꢣꢸꢬꣂꢲꢶ,राज दुरोहि,ராஜது3ரோஹி,raaja durohi,rAja durohi,rāja durohi,ɾɑːd͡ʒə d̪uɾoːɦɪ,traitor,ராஜதுரோகி,,,,Politics,words
+ꢬꢵꢙꢫ ꢱꢩꣁ,राजयसभा॑,ராஜ்ய ஸபொ4,raajaya sabho',rAjaya sabhO,rājaya sabhŏ,ɾɑːd͡ʒəjə s̪əbʰo,upper house of the Parliament,ராஜ்யசபை,,,,Politics,words
+ꢪꢾꢜꢸ ꢱꢩꣁ,मेटु सभा॑,மேடு ஸபொ4,me't'u sabho',mETu sabhO,mĕṭu sabhŏ,meʈu s̪əbʰo,upper house of the Parliament,ராஜ்யசபை,,,,Politics,words
+ꢬꢙꢶꢥꢪꣁ,रजिनमा॑,ரஜினமொ,rajinamo',rajinamO,rajinamŏ,ɾəd͡ʒɪn̪əmo,resignation,ராஜினாமா,,,,Politics,words
+ꢬꢵꢰ꣄ꢜ꣄ꢬꢦꢡꢶ,राष्ट्रपति,ராஷ்ட்ரபதி,raasht'rapati,rASTrapati,rāṣṭrapati,ɾɑːʂʈɾəpət̪ɪ,president of the country,ராஷ்டிரபதி,,,,Politics,words
+ꢪꢵꢪꢹꢭ꣄,मामूल्,மாமூல்,maamool,mAmUl,māmūl,mɑːmuːl,bribe,லஞ்சம்,,,,Politics,words
+ꢭꢾꢛ꣄ꢗꢪ꣄,लेञ्चम्,லெஞ்ஜம்,le'ncham,lEJcam,lĕñcam,leɲt͡ʃəm,bribe,லஞ்சம்,,,,Politics,words
+ꢭꣁꢒ꣄ ꢱꢩꣁ,लोक सभा॑,லோக்ஸபொ4,lo'k sabho',lOk sabhO,lŏk sabhŏ,lok s̪əbʰo,parliament,லோக்சபை,,,,Politics,words
+ꢮꢶꢡ꣄ꢡꢒꣁꢰ꣄,वित्तकोष,வித்தகோஷ்,vittako'sh,vittakOS,vittakŏṣ,ʋɪt̪t̪əkoʂ,bank,வங்கி,,,,Politics,words
+ꢲꢥ꣄ꢥꢮꢸ ꢱꢖ꣄ꢒ꣄ꢬꢲꢥꣁ,हन्नवु सङ्क्रहना॑,ஹன்னவு ஸங்க்ரஹனொ,hannavu sankrahano',hannavu saGkrahanO,hannavu saṅkrahanŏ,ɦən̪n̪əʋu s̪əŋkɾəɦən̪o,collection,வசூல்,,,,Politics,words
+ꢮꢱꢸꢭ꣄,वसुल,வஸுல்,vasul,vasul,vasul,ʋəs̪ul,collection,வசூல்,,,,Politics,words
+ꢡꢵꢭꢹꢒꢵ,तालूका,தாலுகா,taalookaa,tAlUkA,tālūkā,t̪ɑːluːkɑː,taluk,வட்டம்,,,,Politics,words
+ꢣꢵꢱꢶꢭ꣄ꢣꢵꢬ꣄,दासिल्दार,தா3ஸில்தா3ர்,daasildaar,dAsildAr,dāsildār,d̪ɑːs̪ɪld̪ɑːɾ,tahsildar,வட்டாட்சியர்,,,,Politics,words
+ꢦꢶꢬꢵꢥ꣄ꢡ꣄ꢫꢸ,पिरान्त्यु,பிராந்த்யு,piraantyu,pirAntyu,pirāntyu,pɪɾɑːn̪t̪ju,region,வட்டாரம்,,,,Politics,words
+ꢦꢶꢬꢵꢥ꣄ꢡꢶꢫ ꢩꢵꢰꣁ,पिरान्तिय भाषा॑,பிராந்த்ய பா4ஷொ,piraantiya bhaasho',pirAntiya bhASO,pirāntiya bhāṣŏ,pɪɾɑːn̪t̪ɪjə bʰɑːʂo,regional language,வட்டாரமொழி,,,,Politics,words
+ꢩꢶꢫꢵꢬ꣄,भियार्,பி4யார்,bhiyaar,bhiyAr,bhiyār,bʰɪjɑːɾ,trade,வணிகம்,,,,Politics,words
+ꢮꢵꢠꢶꢙ꣄ꢫꣁ,वाणिज्या॑,வாணிஜ்யொ,vaanijyo',vANijyO,vāṇijyŏ,ʋɑːɳɪd͡ʒjo,trade,வணிகம்,,,,Politics,words
+ꢩꢶꢫꢵꢬꢸ ꢮꢶꢡ꣄ꢡ ꢒꣁꢰ꣄,भियारु वित्त कोष,பி4யாரு வித்த கோஷ்,bhiyaaru vitta ko'sh,bhiyAru vitta kOS,bhiyāru vitta kŏṣ,bʰɪjɑːɾu ʋɪt̪t̪ə koʂ,commercial bank,வணிகவங்கி,,,,Politics,words
+ꢮꢠꢶꢒ ꢮꢶꢡ꣄ꢡ ꢒꣁꢰ꣄,वणिक वित्त कोष,வணிக வித்த கோஷ்,vanika vitta ko'sh,vaNika vitta kOS,vaṇika vitta kŏṣ,ʋəɳɪkə ʋɪt̪t̪ə koʂ,commercial bank,வணிகவங்கி,,,,Politics,words
+ꢩꢶꢫꢵꢬꢸ ꢱꢸꢭ꣄ꢒꣁ,भियारुसुल्का॑,பி4யாருஸுல்கொ,bhiyaaru sulko',bhiyAru sulkO,bhiyāru sulkŏ,bʰɪjɑːɾu s̪ulko,commercial tax,வணிகவரி,,,,Politics,words
+ꢮꢠꢶꢒ ꢱꢸꢭ꣄ꢒꣁ,वणिक सुल्का॑,வணிகஸுல்கொ,vanika sulko',vaNika sulkO,vaṇika sulkŏ,ʋəɳɪkə s̪ulko,commercial tax,வணிகவரி,,,,Politics,words
+ꢒꢶꢪ꣄ꢮꢣꢥ꣄ꢡꢶ,किम्वदन्ति,கிம்வத3ந்தி,kimvadanti,kimvadanti,kimvadanti,kɪmʋəd̪ən̪t̪ɪ,rumour,வதந்தி,,,,Politics,words
+ꢙꢥꢱ꣄ꢬꢸꢡꢶ,जनस्रुति,ஜனஸ்ருதி,janasruti,janasruti,janasruti,d͡ʒən̪əs̪ɾut̪ɪ,rumour,வதந்தி,,,,Politics,words
+ꢩ꣄ꢫꢵꢬ꣄,भ्यार,ப்4யார்,bhyaar,bhyAr,bhyār,bʰjɑːɾ,trade,வர்த்தகம்,,,,Politics,words
+ꢂꢮ꣄ꢥꢶ,अव्नि,அவ்னி,avni,avni,avni,əʋn̪ɪ,credit,வரவு,,,,Politics,words
+ꢡꣂꢬꢠ꣄,ता॑रण,தொரண்,toran,toraN,toraṇ,t̪oːɾəɳ,rank,வரிசை,,,,Politics,words
+ꢒ꣄ꢬꢪꣁ,क्रमा॑,க்ரமொ,kramo',kramO,kramŏ,kɾəmo,rank,வரிசை,,,,Politics,words
+ꢱ꣄ꢬꢿꢠꢶ,स्रेणि,ஸ்ரேணி,sreni,sreNi,sreṇi,s̪ɾeːɳɪ,rank,வரிசை,,,,Politics,words
+ꢱꢸꢭ꣄ꢒꢥꢶꢬ꣄ꢠꢫꢸ,सुल्कनिर्णया॑,ஸுல்கநிர்ணயொ,sulkanirnayu,sulkanirNayu,sulkanirṇayu,s̪ulkən̪ɪɾɳəju,taxation,வரிவிதிப்பு,,,,Politics,words
+ꢆꢗ꣄ꢭꢵꢮ꣄,उच्लाव,உச்லாவ்,uchlaav,uclAv,uclāv,ut͡ʃlɑːʋ,income,வருமானம்,,,,Politics,words
+ꢙꣁꢞꢸꢪ꣄ꢨꢸꢭ꣄,जा॑डुम्बुल,ஜொடு3ம்புல்,jo'd'umbul,jODumbul,jŏḍumbul,d͡ʒoɖumbul,income,வருமானம்,,,,Politics,words
+ꢆꢗ꣄ꢭꢵꢮꢸ ꢱꢸꢭ꣄ꢒꣁ,उच्लावु सुल्का॑,உச்லாவுஸுல்கொ,uchlaavu sulko',uclAvu sulkO,uclāvu sulkŏ,ut͡ʃlɑːʋu s̪ulko,income tax,வருமான வரி,,,,Politics,words
+ꢆꢗ꣄ꢭꢵꢮꢸ ꢒꢬꣁ,उच्लावु करा॑,உச்லாவு கரொ,uchlaavu karo',uclAvu karO,uclāvu karŏ,ut͡ʃlɑːʋu kəɾo,income tax,வருமான வரி,,,,Politics,words
+ꢬꢵꢙ꣄ꢫ ꢃꢣꢵꢫꢸ,राज्य आदायु,ராஜ்ய ஆதா3யு,raajya aadaayu,rAjya AdAyu,rājya ādāyu,ɾɑːd͡ʒjə ɑːd̪ɑːju,revenue,வருவாய்,,,,Politics,words
+ꢥ꣄ꢫꢥ꣄ꢡ꣄ꢬꢠꣁ,न्यन्त्रणा॑,ந்யந்த்ரணொ,nyantrano',nyantraNO,nyantraṇŏ,n̪jən̪t̪ɾəɳo,restrictions,வரையறை,,,,Politics,words
+ꢦ꣄ꢬꢡꢶꢨꢥ꣄ꢤꢸ,प्रतिबन्धु,ப்ரதிப3ந்து4,pratibandhu,pratibandhu,pratibandhu,pɾət̪ɪbən̪d̪ʰu,restrictions,வரையறை,,,,Politics,words
+ꢮꢔꣁꢡꣁꢔꣁ,वगा॑ता॑गा॑,வகொ3தொகொ3,vago'to'go',vagOtOgO,vagŏtŏgŏ,ʋəgot̪ogo,restrictions,வரையறை,,,,Politics,words
+ꢮꢶꢡ꣄ꢡ ꢭꢿꢓꢸ,वित्त लेखु,வித்த லேகு2,vitta lekhu,vitta lekhu,vitta lekhu,ʋɪt̪t̪ə leːkʰu,draft,வரைவோலை/ வரைவு,,,,Politics,words
+ꢦ꣄ꢬꢵꢒ꣄ ꢭꢾꢓꢥꣁ,प्राक लेखना॑,ப்ராக் லேக2னொ,praak le'khano',prAk lEkhanO,prāk lĕkhanŏ,pɾɑːk lekʰən̪o,draft,வரைவோலை/ வரைவு,,,,Politics,words
+ꢥꢶꢦꢸꢠꣁ,निपुणा॑,நிபுணொ,nipuno',nipuNO,nipuṇŏ,n̪ɪpuɳo,expert,வல்லுநர்,,,,Politics,words
+ꢙꣀꢥ ꢧꢶꢬ꣄ꢥꢶ,जैन फिर्नि,ஜைன பி2ர்னி,jaina phirni,jaina phirni,jaina phirni,d͡ʒəɪn̪ə pʰɪɾn̪ɪ,clockwise turn,வலஞ்சுழி,,,,Politics,words
+ꢦ꣄ꢬꢣꢒ꣄ꢰꢥꣁ,प्रदक्षना॑,ப்ரத3க்ஷனொ,pradakshano',pradakSanO,pradakṣanŏ,pɾəd̪əkʂən̪o,clockwise turn,வலஞ்சுழி,,,,Politics,words
+ꢮꢒ꣄ꢒꢷꢭ꣄,वक्कील्,வக்கீல்,vakkeel,vakkIl,vakkīl,ʋəkkiːl,lawyer,வழக்கறிஞர்,,,,Politics,words
+ꢬꢹꢟꢶ,रूढि,ரூடி4,rood'hi,rUDhi,rūḍhi,ɾuːɖʰɪ,usage,வழக்காறு,,,,Politics,words
+ꢪꢵꢬ꣄ꢒꢣꢬ꣄ꢱꢶ,मार्ग दर्सि,மார்க3த3ர்ஸி,maarkadarsi,mArkadarsi,mārkadarsi,mɑːɾkəd̪əɾs̪ɪ,guide,வழிகாட்டி,,,,Politics,words
+ꢮꢵꢜ꣄ ꢣꢾꢒ꣄ꢒꢞ꣄ꢠꢵꢬ꣄,वाट देक्कड्णार,வாட்தெ3க்கட்3ணார்,vaat' de'kkad'naar,vAT dEkkaDNAr,vāṭ dĕkkaḍṇār,ʋɑːʈ d̪ekkəɖɳɑːɾ,guide,வழிகாட்டி,,,,Politics,words
+ꢒꢾꢬꢥ꣄ꢮꢵꢜ꣄,क॑रन्वाट्,கெரன்வாட்,ke'ranvaat',kEranvAT,kĕranvāṭ,keɾən̪ʋɑːʈ,process,வழிமுறை,,,,Politics,words
+ꢡꢸꢔꢵꢳ꣄,तुगाळ,து3கா3ள்,tugaal',tugAL,tugāl̤,t̪ugɑːɭ,drought,வறட்சி,,,,Politics,words
+ꢣꢬꢶꢣ꣄ꢬꢡꣁ,दरिद्रता॑,த3ரித்3ரதொ,daridrato',daridratO,daridratŏ,d̪əɾɪd̪ɾət̪o,poverty,வறுமை,,,,Politics,words
+ꢣꢾꢭ꣄ꢞꢶꢬꢶꢦꢥ꣄,द॑ल्डिरिपन,தெ3ள்டி3ரிபன்,de'ld'iripan,dElDiripan,dĕlḍiripan,d̪elɖɪɾɪpən̪,poverty,வறுமை,,,,Politics,words
+ꢆꢔ꣄ꢬꢦꢥ꣄,उग्रपन,உக்3ரபன்,ugrapan,ugrapan,ugrapan,ugɾəpən̪,violence,வன்முறை,,,,Politics,words
+ꢮꢵꢒ꣄ ꢣꢾꢥꢵꢬ꣄,वाक् द॑नार,வாக் தெ3னார்,vaak de'naar,vAk dEnAr,vāk dĕnār,ʋɑːk d̪en̪ɑːɾ,voter,வாக்காளர்,,,,Politics,words
+ꢪꢡꢣꢵꢡꣁ,मतदाता॑,மத தா3தொ,matadaato',matadAtO,matadātŏ,mət̪əd̪ɑːt̪o,voter,வாக்காளர்,,,,Politics,words
+ꢮꣂꢜ꣄,वोट,வோட்,vot',voT,voṭ,ʋoːʈ,vote,வாக்கு,,,,Politics,words
+ꢮꢵꢒꢸ ꢦꢡ꣄ꢬꢸ,वाकु पत्रु,வாகு பத்ரு,vaaku patru,vAku patru,vāku patru,ʋɑːku pət̪ɾu,ballot paper,வாக்குச்சீட்டு,,,,Politics,words
+ꢨꢜ꣄ꢒꢾ,बट्क॑,ப3ட்கெ,bat'ke',baTkE,baṭkĕ,bəʈke,house rent,வாடகை,,,,Politics,words
+ꢮꢵꢡꢶ,वाति,வாதி,vaati,vAti,vāti,ʋɑːt̪ɪ,plaintiff,வாதி,,,,Politics,words
+ꢮꢵꢬ꣄ꢱꢸ,वार्सु,வார்ஸு,vaarsu,vArsu,vārsu,ʋɑːɾs̪u,heir,வாரிசு,,,,Politics,words
+ꢆꢡ꣄ꢬꢵꢤꢶꢒꢵꢬꢶ,उत्राधिकारि,உத்ராதி4காரி,utraadhikaari,utrAdhikAri,utrādhikāri,ut̪ɾɑːd̪ʰɪkɑːɾɪ,heir,வாரிசு,,,,Politics,words
+ꢱꢪꢶꢡꢶ,समिति,ஸமிதி,samiti,samiti,samiti,s̪əmɪt̪ɪ,board/ corporation,வாரியம்,,,,Politics,words
+ꢂꢥꢸꢦꢵꢡ꣄,अनुपात,அனுபாத்,anupaat,anupAt,anupāt,ən̪upɑːt̪,ratio,விகிதம்,,,,Politics,words
+ꢸꢮꢶꢗꢵꢬꢠꣁ,विचारणा॑,விசாரணொ,uvichaarano',uvicAraNO,uvicāraṇŏ,uʋɪt͡ʃɑːɾəɳo,enquiry,விசாரணை,,,,Politics,words
+ꢱ꣄ꢮꢵꢡꢥ꣄ꢡ꣄ꢬꢸ,स्वातन्त्रु,ஸ்வாதந்த்ரு,svaatantru,svAtantru,svātantru,s̪ʋɑːt̪ən̪t̪ɾu,independence,விடுதலை,,,,Politics,words
+ꢱꣁꢞ꣄ꢥꢶ,सा॑ड्नि,ஸொட்3னி,so'd'ni,sODni,sŏḍni,s̪oɖn̪ɪ,leave,விடுப்பு,,,,Politics,words
+ꢱꣁꢞ꣄ꢮꢵꢬ꣄,सा॑ड्वार,ஸொட்3வார்,so'd'vaar,sODvAr,sŏḍvār,s̪oɖʋɑːɾ,leave,விடுப்பு,,,,Politics,words
+ꢱꣂꢞꢶ,सोडि,ஸோடி3,sod'i,soDi,soḍi,s̪oːɖɪ,holiday,விடுமுறை,,,,Politics,words
+ꢮꢶꢦꢡ꣄ꢡꢸ,विपत्तु,விப3த்து,vipattu,vipattu,vipattu,ʋɪpət̪t̪u,accident,விபத்து,,,,Politics,words
+ꢮꢵꢫꢸꢱꢾꢥꣁ,वायुसेना॑,வாயுஸேனொ,vaayuse'no',vAyusEnO,vāyusĕnŏ,ʋɑːjus̪en̪o,air force,விமானப்படை,,,,Politics,words
+ꢧꢵꢞ꣄,फाड्,பா2ட்3,phaad',phAD,phāḍ,pʰɑːɖ,crack,விரிசல்,,,,Politics,words
+ꢨꢶꢭ꣄ꢭꣁ,बिल्ला॑,பி3ல்லொ,billo',billO,billŏ,bɪllo,badge,வில்லை,,,,Politics,words
+ꢪꣁꢭꢸ ꢙꢦ꣄ꢡꣁ,मोलुजप्ता॑,மோலுஜப்தொ,mo'lu japto',mOlu japtO,mŏlu japtŏ,molu d͡ʒəpt̪o,price index,விலைபட்டியல்,,,,Politics,words
+ꢪꣁꢭꢸ ꢂꢜ꣄ꢜꢮꢥꣁ,मोलु अट्टवना॑,மோலு அட்டவனொ,mo'lu at't'avano',mOlu aTTavanO,mŏlu aṭṭavanŏ,molu əʈʈəʋən̪o,price index,விலைபட்டியல்,,,,Politics,words
+ꢮꢶꢮꢵꢣ꣄,विवाद,விவாத்3,vivaad,vivAd,vivād,ʋɪʋɑːd̪,"discussion, debate",விவாதம் `,,,,Politics,words
+ꢮꢵꢔ꣄ꢮꢶꢮꢵꢣ꣄,वाग्विवाद,வாக்3விவாத்3,vaagvivaad,vAgvivAd,vāgvivād,ʋɑːgʋɪʋɑːd̪,"discussion, debate",விவாதம் `,,,,Politics,words
+ꢆꢡ꣄ꢱꢮ꣄,उत्सव,உத்ஸவ்,utsav,utsav,utsav,ut̪s̪əʋ,function,விழா,,,,Politics,words
+ꢮꣀꢩꢮ꣄,वैभव,வைப4வ்,vaibhav,vaibhav,vaibhav,ʋəɪbʰəʋ,function,விழா,,,,Politics,words
+ꢦ꣄ꢬꢡꢶꢯꢡ꣄,प्रतिशत,ப்ரதிஶத்,pratishat,pratizat,pratiśat,pɾət̪ɪʃət̪,percent,விழுக்காடு,,,,Politics,words
+ꢦ꣄ꢬꢡꢶꢯꣁꢡꢸ,प्रतिशा॑तु,ப்ரதிஶோது,pratisho'tu,pratizOtu,pratiśŏtu,pɾət̪ɪʃot̪u,percent,விழுக்காடு,,,,Politics,words
+ꢮꢶꢙ꣄ꢛꢵꢦꢥꣁ,विजञापना॑,விஜ்ஞாபனொ,vijnyaapano',vijJApanO,vijñāpanŏ,ʋɪd͡ʒɲɑːpən̪o,advertisement,விளம்பரம்,,,,Politics,words
+ꢦ꣄ꢬꢒꢵꢬꢰꢥꣁ,प्रकाषना॑,ப்ரகாஷனொ,prakaarashano',prakAraSanO,prakāraṣanŏ,pɾəkɑːɾəʂən̪o,advertisement,விளம்பரம்,,,,Politics,words
+ꢮꢶꢒ꣄ꢒꢶꢥꢶ ꢒꢬꣁ,विक्किनि करा॑,விக்கினி கரொ,vikkini karo',vikkini karO,vikkini karŏ,ʋɪkkɪn̪ɪ kəɾo,sales tax,விற்பனை வரி,,,,Politics,words
+ꢣꢬꣁ,दरा॑,த3ரொ,daro',darO,darŏ,d̪əɾo,rate,விகிதம்,,,,Politics,words
+ꢂꢩꢾꢒ꣄ꢯꢒꣁ,अभेक्षका॑,அபே4க்ஷகொ,abhe'kshako',abhEkzakO,abhĕkśakŏ,əbʰekʃəko,candidate,வேட்பாளர்,,,,Politics,words
+ꢂꢩꢾꢒ꣄ꢰꢸ,अभेक्षु,அபே4க்ஷு,abhe'kshu,abhEkSu,abhĕkṣu,əbʰekʂu,candidature,வேட்பு,,,,Politics,words
+ꢒꢵꢪ꣄ ꢲꢶꢨ꣄ꢨꢜ꣄ꢠꢶ,काम्हिब्ट्णि,காம்ஹிப்3ப3ட்3ணி,kaam hibbat'ni,kAm hibbaTNi,kām hibbaṭṇi,kɑːm ɦɪbbəʈɳɪ,strike,வேலை நிறுத்தம்,,,,Politics,words
+ꢒ꣄ꢬꢸꢰꢶ,क्रुषि,க்ருஷி,krushi,kruSi,kruṣi,kɾuʂɪ,agriculture,வேளாண்மை,,,,Politics,words
+ꢮꢶꢥ꣄ꢫꢵꢱ꣄,विन्यास,வின்யாஸ்,vinyaas,vinyAs,vinyās,ʋɪn̪jɑːs̪,fixed deposit,வைப்புத்தொகை,,,,Politics,words
+ꢭꣁꢒ ꢡꢥ꣄ꢡ꣄ꢬꢸ,लोक तन्त्रु,லோக தந்த்ரு,lo'ka tantru,lOka tantru,lŏka tantru,lokə t̪ən̪t̪ɾu,democracy,ஜனநாயகம்,,,,Politics,words
+ꢦ꣄ꢬꢙꢵ ꢡꢥ꣄ꢡ꣄ꢬꢸ,प्रजा तन्त्रु,ப்ரஜா தந்த்ரு,prajaa tantru,prajA tantru,prajā tantru,pɾəd͡ʒɑː t̪ən̪t̪ɾu,democracy,ஜனநாயகம்,,,,Politics,words
+ꢙꢥ ꢡꢥ꣄ꢡ꣄ꢬꢸ,जन तन्त्रु,ஜன தந்த்ரு,jana tantru,jana tantru,jana tantru,d͡ʒən̪ə t̪ən̪t̪ɾu,democracy,ஜனநாயகம்,,,,Politics,words
+ꢙꢥꢵꢣꢶꢦꢡꢶ,जनादिपति,ஜனாதி4பதி,janaadipati,janAdipati,janādipati,d͡ʒən̪ɑːd̪ɪpət̪ɪ,president,ஜனாதிபதி,,,,Politics,words

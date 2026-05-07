@@ -1,0 +1,718 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,ஹாத் ஸோட் / ஸொடு3வொ,haat sOT / soDuvo,,,,Abandon,கைவிடு,,,,verb,corpus_sourashtradictionary
+,,அனுஸரணொ கேர் / கெருவொ,anusaraNo kEr / keruvo,,,,Abide,பின்பற்று,,,,verb,corpus_sourashtradictionary
+,,"கி3ரகி3ஞ்சி, கி3ரகி3ஞ்சுவொ","giraginjci, giraginjcuvo",,,,Absorb,உறிஞ்சு,,,,verb,corpus_sourashtradictionary
+,,"ஜு2ர், ஜு2ருவொ","jhur, jhuruvo",,,,Absorb,உறிஞ்சு,,,,verb,corpus_sourashtradictionary
+,,து3ஷ்ப்ரயோக்3 கேர் / கெருவொ,dushprayOg kEr / keruvo,,,,Abuse,தவறாக பயன்படுத்து,,,,verb,corpus_sourashtradictionary
+,,"ஒப்பிளெ, ஒப்புளுவொ","oppiLe, oppuLuvo",,,,"Accept, Confess","ஏற்றுக்கொள், ஒப்புக்கொள்",,,,verb,corpus_sourashtradictionary
+,,ஸெங்கொ3 ஜா / ஜவொ,senggo jaa / javo,,,,Accompany,உடன் செல்,,,,verb,corpus_sourashtradictionary
+,,ஸாத்4யகெரி தெ3க்காட் / தெ3க்கடு3வொ,saadhyakeri dekkaaT / dekkaDuvo,,,,Achieve,சாதித்து காட்டு,,,,verb,corpus_sourashtradictionary
+,,"மீள், மிளுவொ","meeL, miLuvo",,,,Add,கூட்டு,,,,verb,corpus_sourashtradictionary
+,,அனுஸரணொ கேர் / கெருவொ,anusaraNo kEr / keruvo,,,,Adhere,பின்பற்று,,,,verb,corpus_sourashtradictionary
+,,"தெ3ஸில்லெ, தெ3ஸுல்லுவொ","desille, desulluvo",,,,Adhere,ஒட்டிக்கொள்,,,,verb,corpus_sourashtradictionary
+,,ஸெர்க்க கேர் / கெருவொ,serkka kEr / keruvo,,,,Adjust,சரி செய்,,,,verb,corpus_sourashtradictionary
+,,"சேட், செடு3வொ","cET, ceDuvo",,,,Advance,முன்னேறு,,,,verb,corpus_sourashtradictionary
+,,"ஒப்பிளெ, ஒப்புளுவொ","oppiLe, oppuLuvo",,,,"Agree, Confess","உடன்படு, ஒப்புக்கொள்",,,,verb,corpus_sourashtradictionary
+,,"ஹுத்திர், ஹுத்துருவொ","huttir, hutturuvo",,,,Alight,இறங்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹள்சி, ஹள்சுவொ","haLci, haLcuvo",,,,Analyze,அலசு,,,,verb,corpus_sourashtradictionary
+,,"லாவ், லவொ","laav, lavo",,,,Apply,"இடு, போடு, பூசு",,,,verb,corpus_sourashtradictionary
+,,விஞ்ஞாபனொ கேர் / கெருவொ,vinjnjaapaneaa kEr / keruvo,,,,Apply,விண்ணப்பி,,,,verb,corpus_sourashtradictionary
+,,தா3வொ கேர் / கெருவொ,daavo kEr / keruvo,,,,Argue,வாதிடு,,,,verb,corpus_sourashtradictionary
+,,"ஸெந்தி3, ஸெந்து3வொ","sendi, senduvo",,,,Arrange,ஒழுங்காய் வை,,,,verb,corpus_sourashtradictionary
+,,பஜெந்தய காம் கேர் / கெருவொ,pajentaya kaam kEr / keruvo,,,,Arrange,ஏற்பாடு செய்,,,,verb,corpus_sourashtradictionary
+,,அவி சேர் / செருவொ,avi cEr / ceruvo,,,,Arrive,வந்துசேர்,,,,verb,corpus_sourashtradictionary
+,,"மாய், மகொ3","maay, mago",,,,Ask,கேள்,,,,verb,corpus_sourashtradictionary
+,,"பூஸ், புஸுவொ","poos, pusuvo",,,,Ask,கேள்,,,,verb,corpus_sourashtradictionary
+,,"ஒர்கி3, ஒர்கு3வொ","orgi, orguvo",,,,Askew,சாய்ந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,பெ3து3ராட் / பெ3து3ரடு3வொ,beduraaT / beduraDuvo,,,,Astonish,பிரமிக்கச் செய்,,,,verb,corpus_sourashtradictionary
+,,"தெ3வ்ஸி, தெ3வ்ஸுவொ","devsi, devsuvo",,,,Attach,ஒட்டு,,,,verb,corpus_sourashtradictionary
+,,"திர்ச்சி, திர்ச்சுவொ","tircci, tirccuvo",,,,Bargain,பேரம் பேசு,,,,verb,corpus_sourashtradictionary
+,,"உஸ்கி, உஸ்குவொ","uski, uskuvo",,,,Bark,குரை,,,,verb,corpus_sourashtradictionary
+,,"ர்ஹா, ர்ஹவொ","rhaa, rhavo",,,,Be,இரு,,,,verb,corpus_sourashtradictionary
+,,"ஹான், ஹனுவொ","haan, hanuvo",,,,"Beat, Attack","அடி, தாக்கு",,,,verb,corpus_sourashtradictionary
+,,"ஶிங்கா3ர், ஶிங்க3ருவொ","ssinggaar, ssinggaruvo",,,,Beautify,அழகுபடுத்து,,,,verb,corpus_sourashtradictionary
+,,"பீ4க் மாய், பீ4க் மகொ3","bheek maay, bheek mago",,,,Beg,பிச்சை எடு,,,,verb,corpus_sourashtradictionary
+,,"ஜேன், ஜெனுவொ","jEn, jenuvo",,,,Beget,"பெறு, பெற்றெடு",,,,verb,corpus_sourashtradictionary
+,,ஹர்ம்பம் கேர் / கெருவொ,harmpam kEr / keruvo,,,,Begin,"தொடங்கு, ஆரம்பி",,,,verb,corpus_sourashtradictionary
+,,"சல்லெ, சல்லுவொ","calle, calluvo",,,,Behave,நடந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,"சல்தகெர்லெ, சல்தகெர்லுவொ","caltakerle, caltakerluvo",,,,Behave,நடந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,"நொம்மி, நொம்முவொ","nommi, nommuvo",,,,Believe,நம்பு,,,,verb,corpus_sourashtradictionary
+,,வகுண்டொ கேர் / கெருவொ,vakuNTo kEr / keruvo,,,,Bend,வளை,,,,verb,corpus_sourashtradictionary
+,,"லிவ்வி, லிவ்வுவொ","livvi, livvuvo",,,,Bend backwardly,பின்புறமாக வளை,,,,verb,corpus_sourashtradictionary
+,,"சாவ், சவொ","caav, cavo",,,,Bite,கடி,,,,verb,corpus_sourashtradictionary
+,,சூக் ஸங்கி3 / ஸங்கு3வொ,cook sanggi / sangguvo,,,,Blame,குறை கூறு,,,,verb,corpus_sourashtradictionary
+,,"மிஸ்கி, மிஸ்குவொ","miski, miskuvo",,,,Blink,சிமிட்டு,,,,verb,corpus_sourashtradictionary
+,,"பூ2லி, பு2லுவொ","phooli, phuluvo",,,,Blossom,மலரு,,,,verb,corpus_sourashtradictionary
+,,"பூ2வ், பு2வொ","phoov, phuvo",,,,Blow,ஊது,,,,verb,corpus_sourashtradictionary
+,,"தப்பாட், தப்படு3வொ","tappaaT, tappaDuvo",,,,Boil,கொதிக்கவை,,,,verb,corpus_sourashtradictionary
+,,"ஸிஜ்ஜா2ட், ஸிஜ்ஜடு3வொ","sijjhaaT, sijjaDuvo",,,,Boil it,வேகவை,,,,verb,corpus_sourashtradictionary
+,,ஸிவ்ஜி / ஸிவ்ஜுவொ,sivji / sivjuvo,,,,Boil it,வேகவை,,,,verb,corpus_sourashtradictionary
+,,புட்டொ ம்ஹொடொ3 கேர் / கெருவொ,puTTo mhoDo kEr / keruvo,,,,Bore,துளையை பெரிதாக்கு,,,,verb,corpus_sourashtradictionary
+,,"உஷில், உஷுலுவொ","ushil, ushuluvo",,,,Bounce,"எகிறு, துள்ளிக் குதி",,,,verb,corpus_sourashtradictionary
+,,"கு3ம்பி, கு3ம்புவொ","gumpi, gumpuvo",,,,Braid,பின்னு,,,,verb,corpus_sourashtradictionary
+,,"மோட், மொடு3வொ","mOT, moDuvo",,,,Break,"முறி, துண்டாக்கு",,,,verb,corpus_sourashtradictionary
+,,"போ2ட்3, பொ2டு3வொ","phOD, phoDuvo",,,,"Break, Demolish, Perish",(இரண்டாக) உடை,,,,verb,corpus_sourashtradictionary
+,,ஸுவாஸம் கேர் / கெருவொ,suvaasam kEr / keruvo,,,,Breathe,மூச்சு விடு,,,,verb,corpus_sourashtradictionary
+,,"ஆன், அனொ, அனுவொ","aan, ano, anuvo",,,,Bring,கொண்டு வா,,,,verb,corpus_sourashtradictionary
+,,"லேத் ஆன், லேத் அனுவொ","lEt aan, lEt anuvo",,,,Bring,கொண்டு வா,,,,verb,corpus_sourashtradictionary
+,,"மஞ்ஜி, மஞ்ஜுவொ","manjji, manjjuvo",,,,Brush,"துலக்கு, தேய்",,,,verb,corpus_sourashtradictionary
+,,"ஸொவ்ண்டாட், ஸொவ்ண்ட3டு3வொ","sovNTaaT, sovNDaDuvo",,,,Buckle,மாட்டு,,,,verb,corpus_sourashtradictionary
+,,"ப4ந்தி3, ப4ந்து3வொ","bhandi, bhanduvo",,,,Build,கட்டு,,,,verb,corpus_sourashtradictionary
+,,"பு2க்3கி3, பு2க்3கு3வொ","phuggi, phugguvo",,,,Bulge,"உப்பு, வீங்கு.",,,,verb,corpus_sourashtradictionary
+,,"தி4க்கி, தி4க்குவொ","dhikki, dhikkuvo",,,,Bump,"முட்டு, மோது",,,,verb,corpus_sourashtradictionary
+,,"ஜேள், ஜெளுவொ","jEL, jeLuvo",,,,Burn,எரி,,,,verb,corpus_sourashtradictionary
+,,தெ3கா3ர் தே3 / தெ3வொ,degaar dE / devo,,,,Burp,ஏப்பம் விடு,,,,verb,corpus_sourashtradictionary
+,,ஹுடு3ஞ்ஜி போட் / பொடு3வொ,huDunjji pOT / poDuvo,,,,Burst with irritation,எரிந்து விழு,,,,verb,corpus_sourashtradictionary
+,,"விஸி போட், விஸி பொடு3வொ","visi pOT, visi poDuvo",,,,Burst with irritation,எரிந்து விழு,,,,verb,corpus_sourashtradictionary
+,,"கா3ட், க3டு3வொ","gaaT, gaDuvo",,,,Bury,புதை,,,,verb,corpus_sourashtradictionary
+,,"கா2ட், க2டு3வொ","khaaT, khaDuvo",,,,Buy,வாங்கு,,,,verb,corpus_sourashtradictionary
+,,"ஜீலி ஆவ், ஜீலி அவொ","jeeli aav, jeeli avo",,,,Bye-Bye,சென்று வா,,,,verb,corpus_sourashtradictionary
+,,ல்ஹெக்கொ தாய் / தவொ,lhekko taay / tavo,,,,"Calculate, Estimate","கணக்கிடு, மதிப்பிடு",,,,verb,corpus_sourashtradictionary
+,,"போ3வ், பொ3வொ","bOv, bovo",,,,"Call, Invite","அழை, கூப்பிடு",,,,verb,corpus_sourashtradictionary
+,,முஸை,musai,,,,"Can, Could",முடியும்,,,,verb,corpus_sourashtradictionary
+,,ரத்3து3 கேர் / கெருவொ,raddu kEr / keruvo,,,,Cancel,ரத்து செய்,,,,verb,corpus_sourashtradictionary
+,,முஸுனா,musunaa,,,,"Cannot, Can not, Can't, Couldn't, Could not",முடியாது,,,,verb,corpus_sourashtradictionary
+,,தெவ்டி3 தே3 / தெ3வொ,tevDi dE / devo,,,,"Caress, Stroke gently","அன்புடன் தடவிக்கொடு, வருடு",,,,verb,corpus_sourashtradictionary
+,,"க2ல்லி ஜா, க2ல்லி ஜவொ","khalli jaa, khalli javo",,,,Carry,எடுத்துச் செல்,,,,verb,corpus_sourashtradictionary
+,,பில்லாக் பொ3ல்லெ / பொ3ல்லுவொ,pillaak bolle / bolluvo,,,,Carry,குழந்தையை தூக்கு,,,,verb,corpus_sourashtradictionary
+,,"டங்கி, டங்குவொ","Tangki, Tangkuvo",,,,Carve,செதுக்கு,,,,verb,corpus_sourashtradictionary
+,,"தேர், தெ4ருவொ","tEr, dheruvo",,,,Catch,பிடி,,,,verb,corpus_sourashtradictionary
+,,ஹிப்பி3 ர்ஹவாட் / ர்ஹவடு3வொ,hipbi rhavaaT / rhavaDuvo,,,,Cease,நிறுத்து,,,,verb,corpus_sourashtradictionary
+,,"மாட், மடு3வொ","maaT, maDuvo",,,,Celebrate,கொண்டாடு,,,,verb,corpus_sourashtradictionary
+,,"மர்ச்சி, மர்ச்சுவொ","marcci, marccuvo",,,,"Change, Replace, Switch on",மாற்று,,,,verb,corpus_sourashtradictionary
+,,"தெர்மி, தெர்முவொ","termi, termuvo",,,,Chase,விரட்டு,,,,verb,corpus_sourashtradictionary
+,,"எச்சாட், எச்சடு3வொ","eccaaT, eccaDuvo",,,,Cheat,ஏமாற்று,,,,verb,corpus_sourashtradictionary
+,,"சொம்சி, சொம்சுவொ","comci, comcuvo",,,,Chew,மெல்லு,,,,verb,corpus_sourashtradictionary
+,,"சூவ், சுவொ","coov, cuvo",,,,Chew,மெல்லு,,,,verb,corpus_sourashtradictionary
+,,"சொவுஞ்சி, சொவுஞ்சுவொ","covunjci, covunjcuvo",,,,Chew,மெல்லு,,,,verb,corpus_sourashtradictionary
+,,"செக்கி, செக்குவொ","cekki, cekkuvo",,,,Chop,வெட்டு,,,,verb,corpus_sourashtradictionary
+,,"கு3ஸில், கு3ஸுலுவொ","gusil, gusuluvo",,,,Churn (curd),(தயிர்) கடை,,,,verb,corpus_sourashtradictionary
+,,"கா4ட், க4டு3வொ","ghaaT, ghaDuvo",,,,Churn (dhal),(பருப்பு) கடை,,,,verb,corpus_sourashtradictionary
+,,ஸுத்3த4ம் கேர் / கெருவொ,suddham kEr / keruvo,,,,Clean,சுத்தம் செய்,,,,verb,corpus_sourashtradictionary
+,,"ஹிங்கி3, ஹிங்கு3வொ","hinggi, hingguvo",,,,Climb,ஏறு,,,,verb,corpus_sourashtradictionary
+,,"ஜா2ய், ஜ2வொ","jhaay, jhavo",,,,Close,மூடு,,,,verb,corpus_sourashtradictionary
+,,"அடாட், அடடு3வொ","aTaaT, aTaDuvo",,,,Coagulate,"சுண்டச்செய், கெட்டியாக்கு",,,,verb,corpus_sourashtradictionary
+,,தொஸ்கொ ஒர்ப்பி / ஒர்ப்புவொ,tosko orppi / orppuvo,,,,Comb,தலை வாரு,,,,verb,corpus_sourashtradictionary
+,,"ஆவ், அவொ","aav, avo",,,,Come,வா,,,,verb,corpus_sourashtradictionary
+,,ஹர்ம்பம் கேர் / கெருவொ,harmpam kEr / keruvo,,,,Commence,"தொடங்கு, ஆரம்பி",,,,verb,corpus_sourashtradictionary
+,,"ஜோவ், ஜொவொ","jOv, jovo",,,,Compare,"ஒப்பிடு, எடைபோடு",,,,verb,corpus_sourashtradictionary
+,,ஸொடி3 தே4ர் / தெ4ருவொ,soDi dhEr / dheruvo,,,,Compromise,விட்டுக்கொடு,,,,verb,corpus_sourashtradictionary
+,,"யோக்3 கேர், யோக்3 கெருவொ","yOg kEr, yOg keruvo",,,,Concentrate,ஒருநிலைப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,சல்தொ கேர் / கெருவொ,calto kEr / keruvo,,,,Conduct,நடத்து,,,,verb,corpus_sourashtradictionary
+,,"ஜெவுஞ்சி, ஜெவுஞ்சுவொ","jevunjci, jevunjcuvo",,,,Conquer,வெற்றிகொள்,,,,verb,corpus_sourashtradictionary
+,,"மிள்வி, மிள்வுவொ","miLvi, miLvuvo",,,,Consolidate,ஒன்றுசேர்,,,,verb,corpus_sourashtradictionary
+,,"ஸெராட், ஸெரடு3வொ","seraaT, seraDuvo",,,,Consume,செலவழி,,,,verb,corpus_sourashtradictionary
+,,வடொ தே3 / தெ3வொ,vaTo dE / devo,,,,Contribute,பங்கைக் கொடு,,,,verb,corpus_sourashtradictionary
+,,"அண்சி, அண்சுவொ","aNci, aNcuvo",,,,Control,"அடக்கு, கட்டுப்படுத்து",,,,verb,corpus_sourashtradictionary
+,,"ஹந்தி3, ஹந்து3வொ","handi, handuvo",,,,Cook,சமை,,,,verb,corpus_sourashtradictionary
+,,"நிவாட், நிவடு3வொ","nivaaT, nivaDuvo",,,,Cool,"ஆற்று, சூடாற்று",,,,verb,corpus_sourashtradictionary
+,,"கொ2வ்லி, கொ2வ்லுவொ","khovli, khovluvo",,,,Cough,இருமு,,,,verb,corpus_sourashtradictionary
+,,"மொவ்ஜி, மொவ்ஜுவொ","movji, movjuvo",,,,"Count, Measure","எண்ணு, அள",,,,verb,corpus_sourashtradictionary
+,,"ஜா2ய், ஜ2வொ","jhaay, jhavo",,,,Cover,மூடு,,,,verb,corpus_sourashtradictionary
+,,"தி4க்கி, தி4க்குவொ","dhikki, dhikkuvo",,,,Crash,"மோது, இடி",,,,verb,corpus_sourashtradictionary
+,,கொ4ணங்கொ4ணாய் கா2ள் / க2ளுவொ,ghoNangghoNaay khaaL / khaLuvo,,,,Crawl,தவழ்,,,,verb,corpus_sourashtradictionary
+,,ஸ்ருஷ்டி கேர் / கெருவொ,srushTi kEr / keruvo,,,,Create,உருவாக்கு,,,,verb,corpus_sourashtradictionary
+,,"தா4ரொ கா4ல், தா4ரொ க4லுவொ","dhaaro ghaal, dhaaro ghaluvo",,,,Cremate,தகனம் செய்,,,,verb,corpus_sourashtradictionary
+,,"லங்கி3, லங்கு3வொ","langgi, langguvo",,,,Cross over,"தாண்டு, கட",,,,verb,corpus_sourashtradictionary
+,,"தா3ட், த3டு3வொ","daaT, daDuvo",,,,Cross over,"தாண்டு, கட",,,,verb,corpus_sourashtradictionary
+,,"பிஸ்கி, பிஸ்குவொ","piski, piskuvo",,,,Crush,கசக்கு,,,,verb,corpus_sourashtradictionary
+,,"நெஸ்கி, நெஸ்குவொ","neski, neskuvo",,,,Crush,நசுக்கு,,,,verb,corpus_sourashtradictionary
+,,"ரோட், ரொடு3வொ","rOT, roDuvo",,,,Cry,அழு,,,,verb,corpus_sourashtradictionary
+,,பீகு கா4ல் / க4லுவொ,peeku ghaal / ghaluvo,,,,Cultivate,"பயிரிடு, விதையிடு",,,,verb,corpus_sourashtradictionary
+,,"காட், கடு3வொ","kaaT, kaDuvo",,,,Cut,அறு,,,,verb,corpus_sourashtradictionary
+,,"நாஸ், நஸுவொ","naas, nasuvo",,,,Dance,ஆடு,,,,verb,corpus_sourashtradictionary
+,,"எச்சாட், எச்சடு3வொ","eccaaT, eccaDuvo",,,,Deceive,ஏமாற்று,,,,verb,corpus_sourashtradictionary
+,,நிஸ்கணொ கேர் / கெருவொ,niskaNo kEr / keruvo,,,,Decide,முடிவெடு,,,,verb,corpus_sourashtradictionary
+,,முருக3ன் தாய் / தவொ,murugan taay / tavo,,,,Decompose,அழுகச் செய்,,,,verb,corpus_sourashtradictionary
+,,தொ3ப்3பி3 தோ2வ் / தொ2வொ,dobbi thOv / thovo,,,,Defer,ஒத்திவை,,,,verb,corpus_sourashtradictionary
+,,"நாஸ், நஸுவொ","naas, nasuvo",,,,Delete,அழி,,,,verb,corpus_sourashtradictionary
+,,ஆஸ்தொ போட் / பொடு3வொ,aasto pOT / poDuvo,,,,Desire,ஆசைப்படு,,,,verb,corpus_sourashtradictionary
+,,ரோஸ் / ரொஸுவொ,rOs / rosuvo,,,,Despise,ஒருவரை வெறு,,,,verb,corpus_sourashtradictionary
+,,"நாஸ், நஸுவொ","naas, nasuvo",,,,"Destroy, Demolish, Perish",அழி,,,,verb,corpus_sourashtradictionary
+,,"மோர், மொருவொ","mOr, moruvo",,,,Die,சாகு,,,,verb,corpus_sourashtradictionary
+,,"கா2ன், க2னுவொ","khaan, khanuvo",,,,Dig,குழி வெட்டு,,,,verb,corpus_sourashtradictionary
+,,"கொவ்ரி, கொவ்ருவொ","kovri, keaavruvo",,,,Dig,தோண்டு,,,,verb,corpus_sourashtradictionary
+,,"பூ3ட், பு3டு3வொ","booT, buDuvo",,,,Dip (Head),(தலை) முழுகு,,,,verb,corpus_sourashtradictionary
+,,"பு3வ்டி3, பு3வ்டு3வொ","buvDi, buvDuvo",,,,Dip,"நனை, அமிழ்த்து, நீரில் அமிழ்த்து, தோய்",,,,verb,corpus_sourashtradictionary
+,,"சொல்லி, சொல்லுவொ","colli, colluvo",,,,Disperse,தெளி,,,,verb,corpus_sourashtradictionary
+,,"லூன், லுனுவொ","loon, lunuvo",,,,Dissipate,வீணாக்கு,,,,verb,corpus_sourashtradictionary
+,,செவ்டி3 ஸோட் / ஸொடு3வொ,cevDi sOT / soDuvo,,,,Dissuade,விரோதமாக புத்தி கூறு,,,,verb,corpus_sourashtradictionary
+,,"நிவ்ரி, நிவ்ருவொ","nivri, nivruvo",,,,Distribute equally,சமமாக விநியோகி,,,,verb,corpus_sourashtradictionary
+,,ஹிம்ஸ கேர் / கெருவொ,himsa kEr / keruvo,,,,Disturb,தொந்தரவு செய்,,,,verb,corpus_sourashtradictionary
+,,"கேர், கெருவொ","kEr, keruvo",,,,Do,செய்,,,,verb,corpus_sourashtradictionary
+,,"மாட், மடு3வொ","maaT, maDuvo",,,,Do,நடத்து / செய்,,,,verb,corpus_sourashtradictionary
+,,தா3ன் தே3 / தெ3வொ,daan dE / devo,,,,Donate,நன்கொடையளி,,,,verb,corpus_sourashtradictionary
+,,"ம்ஹொவ்லி, ம்ஹொவ்லுவொ","mhovli, mhovluvo",,,,Douse,அணை,,,,verb,corpus_sourashtradictionary
+,,"ஒட்சி, ஒட்சுவொ","oTci, oTcuvo",,,,Drain,வடிகட்டு,,,,verb,corpus_sourashtradictionary
+,,"நித்ராட்3, நித்ரடு3வொ","nitraaD, nitraDuvo",,,,Drain water,தண்ணீரை வடிகட்டு,,,,verb,corpus_sourashtradictionary
+,,"கீ3ர், கி3ருவொ","geer, giruvo",,,,Draw,வரை,,,,verb,corpus_sourashtradictionary
+,,முக்3கு3 தாய் / தவொ,muggu taay / tavo,,,,Draw Kolam,கோலம் போடு,,,,verb,corpus_sourashtradictionary
+,,பனி செந்தி3 / செந்து3வொ,pani cendi / cenduvo,,,,Draw water,தண்ணீர் இறை,,,,verb,corpus_sourashtradictionary
+,,"பி3ஜ்ஜி, பி3ஜ்ஜுவொ","bijji, bijjuvo",,,,Drench,நனை,,,,verb,corpus_sourashtradictionary
+,,"பி2ல்லெ, பி2ல்லுவொ","phille, philluvo",,,,Dress,உடுத்து,,,,verb,corpus_sourashtradictionary
+,,புட்டொ தாய் / தவொ,puTTo taay / tavo,,,,Drill,துளையிடு,,,,verb,corpus_sourashtradictionary
+,,"பே, பெவொ","pE, pevo",,,,Drink,"பருகு, குடி",,,,verb,corpus_sourashtradictionary
+,,"தொ3வ்டி3, தொ3வ்டு3வொ","dovDi, dovDuvo",,,,Drive,"ஓட்டு, விரட்டு",,,,verb,corpus_sourashtradictionary
+,,கா2ல் தாய் / தவொ,khaal taay / tavo,,,,Drop,கீழே போடு,,,,verb,corpus_sourashtradictionary
+,,"ஸுக்காட், ஸுக்கடு3வொ","sukkaaT, sukkaDuvo",,,,Drop,உலர்த்து,,,,verb,corpus_sourashtradictionary
+,,ஹுங்கி3 தூ4ள் / து4ளுவொ,hunggi dhooL / dhuLuvo,,,,Drowse,தூங்கி வழி,,,,verb,corpus_sourashtradictionary
+,,"தொ3டு3ஞ்ஜி, தொ3டு3ஞ்ஜுவொ","doDunjji, doDunjjuvo",,,,Earn,சம்பாதி,,,,verb,corpus_sourashtradictionary
+,,"ஜுட்3டி3, ஜுட்3டு3வொ","juDDi, juDDuvo",,,,Earn,சம்பாதி,,,,verb,corpus_sourashtradictionary
+,,"கா2, க2வொ","khaa, khavo",,,,Eat,"சாப்பிடு, உண்ணு",,,,verb,corpus_sourashtradictionary
+,,"ஜேம், ஜெமுவொ","jEm, jemuvo",,,,Eat,"சாப்பிடு, உண்ணு",,,,verb,corpus_sourashtradictionary
+,,விஸ்தார்கன் ஸங்கி3 / ஸங்கு3வொ,vistaarkan sanggi / sangguvo,,,,Elaborate,விரிவாக கூறு,,,,verb,corpus_sourashtradictionary
+,,ஹர்ம்ப3ம் கேர் / கெருவொ,harmbam kEr / keruvo,,,,Embark,தொடங்கு,,,,verb,corpus_sourashtradictionary
+,,உத்ஸாஹ் கேர் / கெருவொ,utsaah kEr / keruvo,,,,"Encourage, Motivate",ஊக்குவி,,,,verb,corpus_sourashtradictionary
+,,"ஆக்ரமிஞ்சி, ஆக்ரமிஞ்சுவொ","aakraminjci, aakraminjcuvo",,,,Encroach,அத்துமீறி பயன்படுத்து,,,,verb,corpus_sourashtradictionary
+,,"பொந்தி3, பொந்து3வொ","pondi, ponduvo",,,,Endure,அனுபவி,,,,verb,corpus_sourashtradictionary
+,,"ஸெகு3ஞ்சிலெ, ஸெகு3ஞ்சுலுவொ","segunjcile, segunjculuvo",,,,Endure,தாங்கிக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"ஸுக்குளிஞ்ஜி, ஸுக்குளிஞ்ஜுவொ","sukkuLinjji, sukkuLinjjuvo",,,,Enjoy,உல்லாசமாய் இரு,,,,verb,corpus_sourashtradictionary
+,,ம்ஹொடொ3 கேர் / கெருவொ,mhoDo kEr / keruvo,,,,Enlarge,பெரிதாக்கு,,,,verb,corpus_sourashtradictionary
+,,"தூர், துருவொ","toor, turuvo",,,,Enter,நுழை,,,,verb,corpus_sourashtradictionary
+,,"நாஸ், நஸுவொ","naas, nasuvo",,,,Erase,அழி,,,,verb,corpus_sourashtradictionary
+,,"தொவுஞ்சி, தொவுஞ்சுவொ","tovunjci, tovunjcuvo",,,,Escape,"தப்பு, விலகி ஓடு",,,,verb,corpus_sourashtradictionary
+,,"ப்ரதி3ஸ், ப்ரதி3ஸுவொ","pradis, pradisuvo",,,,Establish,நிறுவு,,,,verb,corpus_sourashtradictionary
+,,"ஸ்தா2பிஞ்சி, ஸ்தா2பிஞ்சுவொ","sthaapinjci, sthaapinjcuvo",,,,Establish,நிறுவு,,,,verb,corpus_sourashtradictionary
+,,"க3ணிஞ்சி, க3ணிஞ்சுவொ","gaNinjci, gaNinjcuvo",,,,Estimate,மதிப்பிடு,,,,verb,corpus_sourashtradictionary
+,,அப்4யாஸ் கேர் / கெருவொ,abhyaas kEr / keruvo,,,,Exercise,பழக்கு,,,,verb,corpus_sourashtradictionary
+,,"வெது3ர்ஸா, வெது3ர்ஸவொ","vedursaa, vedursavo",,,,Expect,எதிர்பார்,,,,verb,corpus_sourashtradictionary
+,,"செட்3வி, செட்3வொ","ceDvi, ceDvo",,,,Export,ஏற்றுமதி செய்,,,,verb,corpus_sourashtradictionary
+,,ஹிங்கா3டு3 கேர் / கெருவொ,hinggaaDu kEr / keruvo,,,,Export,ஏற்றுமதி செய்,,,,verb,corpus_sourashtradictionary
+,,லம்ப3 கேர் / கெருவொ,lamba kEr / keruvo,,,,Extend,நீட்டு,,,,verb,corpus_sourashtradictionary
+,,"ம்ஹொவ்லி, ம்ஹொவ்லுவொ","mhovli, mhovluvo",,,,Extinguish,அணை,,,,verb,corpus_sourashtradictionary
+,,"போட்3, பொடு3வொ","pOD, poDuvo",,,,Fall,விழு,,,,verb,corpus_sourashtradictionary
+,,"வவ்ரி, வவ்ருவொ","vavri, vavruvo",,,,Fan,விசிறு,,,,verb,corpus_sourashtradictionary
+,,"ப4ந்தி3, ப4ந்து3வொ","bhandi, bhanduvo",,,,Fasten,கட்டு,,,,verb,corpus_sourashtradictionary
+,,க2வ்னம் தே3 / தெ3வொ,khavnam dE / devo,,,,Feed,உணவளி,,,,verb,corpus_sourashtradictionary
+,,"க2வாட், கவடு3வொ","khavaaT, kavaDuvo",,,,Feed,ஊட்டு,,,,verb,corpus_sourashtradictionary
+,,"மல்லெ, மல்லுவொ","malle, malluvo",,,,Fight,சண்டையிடு,,,,verb,corpus_sourashtradictionary
+,,"பொ4ர்வி, பொ4ருவொ","bhorvi, bhoruvo",,,,Fill,நிரப்பு,,,,verb,corpus_sourashtradictionary
+,,"பொ4வ்ரி, பொ4வ்ருவொ","bhovri, bhovruvo",,,,Fill,நிரப்பு,,,,verb,corpus_sourashtradictionary
+,,"ருப்பி, ருப்புவொ","ruppi, ruppuvo",,,,Fill,நிரப்பு,,,,verb,corpus_sourashtradictionary
+,,"ஒட்சி, ஒட்சுவொ","oTci, oTcuvo",,,,Filter,வடிகட்டு,,,,verb,corpus_sourashtradictionary
+,,"வேள், வெளுவொ","vEL, veLuvo",,,,"Filter, Strain",வடி,,,,verb,corpus_sourashtradictionary
+,,தெ3க்கி தே3ர் / தெ4ருவொ,dekki dEr / dheruvo,,,,"Find, Discover",கண்டுபிடி,,,,verb,corpus_sourashtradictionary
+,,"முஸாட், முஸடு3வொ","musaaT, musaDuvo",,,,Finish,முடி,,,,verb,corpus_sourashtradictionary
+,,ஸெர்க்க கேர் / கெருவொ,serkka kEr / keruvo,,,,Fix,சரி செய்,,,,verb,corpus_sourashtradictionary
+,,"பூல், புலுவொ","pool, puluvo",,,,Float,மிதத்தல்,,,,verb,corpus_sourashtradictionary
+,,"ஹூட்3, ஹுடு3வொ","hooD, huDuvo",,,,Fly,பற,,,,verb,corpus_sourashtradictionary
+,,"கி4டி3ல்லெ, கி4டு3ல்லுவொ","ghiDille, ghiDulluvo",,,,Fold,மடக்கிக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"மொன்ட்சி, மொன்ட்சுவொ","monTci, monTcuvo",,,,Fold,"மடி, மடக்கு",,,,verb,corpus_sourashtradictionary
+,,அனுஸரணொ கேர் / கெருவொ,anusaraNo kEr / keruvo,,,,Follow,பின்பற்று,,,,verb,corpus_sourashtradictionary
+,,ஹவ்ட3ன் ஜவள்ளெ / ஜவள்ளுவொ,havDan javaLLe / javaLLuvo,,,,Forget,மறந்துவிடு,,,,verb,corpus_sourashtradictionary
+,,"விஸ்ரட்3லெ, விஸ்ரட்3லுவொ","visraDle, visraDluvo",,,,Forget,மறந்துவிடு,,,,verb,corpus_sourashtradictionary
+,,"த4க்காட், த4க்கடு3வொ","dhakkaaT, dhakkaDuvo",,,,"Frighten, Scare, Terrify, Horrify","பயமுறுத்து, அச்சுறுத்து, திகிலூட்டு",,,,verb,corpus_sourashtradictionary
+,,"பு4ஞ்ஜி, பு4ஞ்ஜுவொ","bhunjji, bhunjjuvo",,,,Fry,வறுத்தல்,,,,verb,corpus_sourashtradictionary
+,,"இந்து3வி, இந்து3வொ","induvi, induvo",,,,Fry,பொரி,,,,verb,corpus_sourashtradictionary
+,,"பொள்டி, பொள்டுவொ","poLTi, poLTuvo",,,,Fry,பொறி,,,,verb,corpus_sourashtradictionary
+,,அங்க்ரொ பு2ட்டி,angkro phuTTi,,,,Germinate,முளைவிடு,,,,verb,corpus_sourashtradictionary
+,,"க2ல்லெ, க2ல்லுவொ","khalle, khalluvo",,,,Get,பெறு,,,,verb,corpus_sourashtradictionary
+,,ப்ராப்த கேர் / கெருவொ,praapta kEr / keruvo,,,,"Get, Acquire, Receive, Obtain",பெறு,,,,verb,corpus_sourashtradictionary
+,,"ஹூட்3, ஹுடு3வொ","hooD, huDuvo",,,,Get up,எழுந்திரு,,,,verb,corpus_sourashtradictionary
+,,"தே3, தெ3வொ","dE, devo",,,,"Give, Pay",கொடு,,,,verb,corpus_sourashtradictionary
+,,"ஜி2ர்க்கி, ஜி2ர்க்குவொ","jhirkki, jhirkkuvo",,,,Glide,"சறுக்கு, வழுக்கு",,,,verb,corpus_sourashtradictionary
+,,சவி குட்கொ கேர் / கெருவொ,cavi kuTko kEr / keruvo,,,,Gnaw,கடித்துத் துண்டாக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஜா, ஜவொ","jaa, javo",,,,Go,"செல், போ",,,,verb,corpus_sourashtradictionary
+,,"கோஸ், கொஸுவொ","kOs, kosuvo",,,,Gore,(கொம்பினால்) முட்டு,,,,verb,corpus_sourashtradictionary
+,,"தே4ர், தெ4ருவொ","dhEr, dheruvo",,,,Grab,பிடி,,,,verb,corpus_sourashtradictionary
+,,அனுதா3ன் கேர் / கெருவொ,anudaan kEr / keruvo,,,,Grant,வழங்கு,,,,verb,corpus_sourashtradictionary
+,,அபி4வாத3ன் கேர் / கெருவொ,abhivaadan kEr / keruvo,,,,Greet,வரவேற்பளி,,,,verb,corpus_sourashtradictionary
+,,நமஸ்கார் கேர் / கெருவொ,namaskaar kEr / keruvo,,,,Greet,வணக்கம் செலுத்து,,,,verb,corpus_sourashtradictionary
+,,விசார் போட் / பொடு3வொ,vicaar pOT / poDuvo,,,,Grieve,வருந்து,,,,verb,corpus_sourashtradictionary
+,,தா3த் தெ3க்கடி3 ஆஸ் / அஸுவொ,daat dekkaDi aas / asuvo,,,,Grin,பல்லைக் காட்டிச் சிரி,,,,verb,corpus_sourashtradictionary
+,,"லுப்3பி3, லுப்3பு3வொ","lubbi, lubbuvo",,,,"Grind, Mill",அரை,,,,verb,corpus_sourashtradictionary
+,,"வாட், வடு3வொ","vaaT, vaDuvo",,,,"Grind, Mill",அரை,,,,verb,corpus_sourashtradictionary
+,,"லொஸ்கி, லொஸ்குவொ","loski, loskuvo",,,,Grind (in mouth),அரை,,,,verb,corpus_sourashtradictionary
+,,தெவ்டி3 ஸா / ஸவொ,tevDi saa / savo,,,,Grope,தடவித் தேடிப் பார்,,,,verb,corpus_sourashtradictionary
+,,"ஹோட், ஹொடு3வொ","hOT, hoDuvo",,,,Grow,வளரு,,,,verb,corpus_sourashtradictionary
+,,"ஹொவ்டி3, ஹொவ்டு3வொ","hovDi, hovDuvo",,,,"Grow, Develop",வளர்,,,,verb,corpus_sourashtradictionary
+,,அனுமான் கேர் / கெருவொ,anumaan kEr / keruvo,,,,Guess,யூகி,,,,verb,corpus_sourashtradictionary
+,,தீ3 வட கேர் / கெருவொ,dee vaTa kEr / keruvo,,,,Halve,இரண்டு துண்டாக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹாஜ்ஜால், ஹாஜ்ஜலுவொ","haajjaal, haajjaluvo",,,,Handle,கையாளு,,,,verb,corpus_sourashtradictionary
+,,"ஸொவ்ண்டாட், ஸொவ்ண்ட3டு3வொ","sovNTaaT, sovNDaDuvo",,,,Hang,மாட்டு,,,,verb,corpus_sourashtradictionary
+,,லொம்ப3ன் ஸோட் / ஸொடு3வொ,lomban sOT / soDuvo,,,,Hang it,தொங்க விடு,,,,verb,corpus_sourashtradictionary
+,,"லொம்பி3, லொம்பு3வொ","lombi, lombuvo",,,,Hang on,தொங்கு,,,,verb,corpus_sourashtradictionary
+,,ஹீன் கேர் / கெருவொ,heen kEr / keruvo,,,,Harm,தீங்கிழை,,,,verb,corpus_sourashtradictionary
+,,பீகு காட் / கடு3வொ,peeku kaaT / kaDuvo,,,,Harvest,அறுவடை செய்,,,,verb,corpus_sourashtradictionary
+,,"ரோஸ், ரொஸுவொ","rOs, rosuvo",,,,Hate,வெறு,,,,verb,corpus_sourashtradictionary
+,,"ந்ஹவ்லெ, ந்ஹவ்லுவொ","nhavle, nhavluvo",,,,Head bath,தலைக்குளி,,,,verb,corpus_sourashtradictionary
+,,ஐகி / ஐகுவொ,aiki / aikuvo,,,,Hear,கேள்,,,,verb,corpus_sourashtradictionary
+,,ஹுன்னொ கேர் / கெருவொ,hunno kEr / keruvo,,,,"Heat it, Toast it","சுடு, சூடாக்கு, வாட்டு",,,,verb,corpus_sourashtradictionary
+,,ஸஹாவ் கேர் / கெருவொ,sahaav kEr / keruvo,,,,Help,உதவி செய்,,,,verb,corpus_sourashtradictionary
+,,"மல்சி, மல்சுவொ","malci, malcuvo",,,,Hesitate,தயங்கு,,,,verb,corpus_sourashtradictionary
+,,"லிக்காட், லிக்கடு3வொ","likkaaT, likkaDuvo",,,,"Hide, Conceal",ஒளித்து வை,,,,verb,corpus_sourashtradictionary
+,,"லிக்கில்லெ, லிக்குல்லுவொ","likkille, likkulluvo",,,,Hide,ஒளிந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,ப3ட்க்யாக் கா2ட் / க2டு3வொ,baTkyaak khaaT / khaDuvo,,,,Hire,வாடகைக்கு எடு,,,,verb,corpus_sourashtradictionary
+,,"ஹான், ஹனுவொ","haan, hanuvo",,,,Hit,அடி,,,,verb,corpus_sourashtradictionary
+,,உன்சொ ஹிங்கா3ட் / ஹிங்க3டுவொ,unco hinggaaT / hinggaTuvo,,,,Hoist,மேலேற்று,,,,verb,corpus_sourashtradictionary
+,,"தெ4ர்லொ, தெ4ர்லுவொ","dherlo, dherluvo",,,,Hold,பிடித்துக் கொள்,,,,verb,corpus_sourashtradictionary
+,,ந்ஹன்னகொ3 து4ங்கி3 / து4ங்கு3வொ,nhannago dhunggi / dhungguvo,,,,Hop,தத்தி தாண்டு,,,,verb,corpus_sourashtradictionary
+,,"கபி3ல்லெ, கபு3லுவொ","kabille, kabuluvo",,,,"Hug, Embrace",கட்டிப்பிடி,,,,verb,corpus_sourashtradictionary
+,,"காண், கணுவொ","kaaN, kaNuvo",,,,Hull,"இடி, கைக்குத்து",,,,verb,corpus_sourashtradictionary
+,,கிராத் ஹான் / ஹனுவொ,kiraat haan / hanuvo,,,,Hunt,வேட்டையாடு,,,,verb,corpus_sourashtradictionary
+,,"அல்லாட், அல்லடு3வொ","allaaT, allaDuvo",,,,Hurry,அவசரப்படு,,,,verb,corpus_sourashtradictionary
+,,"ஜெலாட், ஜெலடு3வொ","jelaaT, jelaDuvo",,,,Ignite,"எரி, தீப்பிடிக்க வை",,,,verb,corpus_sourashtradictionary
+,,பேட் லாவ் / லவொ,pET laav / lavo,,,,Ignite,பற்றவை,,,,verb,corpus_sourashtradictionary
+,,அலக்ஷ்யம் கேர் / கெருவொ,alakshyam kEr / keruvo,,,,Ignore,புறக்கணி,,,,verb,corpus_sourashtradictionary
+,,தி3வொ பொ4வ்ரி / பொ4வ்ருவொ,divo bhovri / bhovruvo,,,,Illuminate,விளக்கேற்று,,,,verb,corpus_sourashtradictionary
+,,உதா3ஹரண் தீ3 இவர் கேர் / கெருவொ,udaaharaN dee ivar kEr / keruvo,,,,Illustrate,எடுத்துக் காட்டுடன் விளக்கு,,,,verb,corpus_sourashtradictionary
+,,கல்பனொ கேர் / கெருவொ,kalpano kEr / keruvo,,,,Imagine,கற்பனை செய்,,,,verb,corpus_sourashtradictionary
+,,ஸொகன் சால் / சலுவொ,sokan caal / caluvo,,,,Imitate,போன்று நட,,,,verb,corpus_sourashtradictionary
+,,ப்ரதா3ன் கேர் / கெருவொ,pradaan kEr / keruvo,,,,Impart,வழங்கு,,,,verb,corpus_sourashtradictionary
+,,அம்லாத் கேர் / கெருவொ,amlaat kEr / keruvo,,,,Implement,செயல்படுத்து,,,,verb,corpus_sourashtradictionary
+,,ஹுத்ராடு3 கேர் / கெருவொ,hutraaDu kEr / keruvo,,,,Import,இறக்குமதி செய்,,,,verb,corpus_sourashtradictionary
+,,"திவுஞ்சி, திவுஞ்சுவொ","tivunjci, tivunjcuvo",,,,Impose,திணி,,,,verb,corpus_sourashtradictionary
+,,த்4யான் உட்சி / உட்சுவொ,dhyaan uTci / uTcuvo,,,,"Impress, Attract",கவனத்தை ஈரு,,,,verb,corpus_sourashtradictionary
+,,பி4ள்ளொ கேர் / கெருவொ,bhiLLo kEr / keruvo,,,,Improve,மேம்படுத்து,,,,verb,corpus_sourashtradictionary
+,,ஹுடி3 தோ2வ் / தொ2வொ,huDi thOv / thovo,,,,Inaugurate,துவக்கு,,,,verb,corpus_sourashtradictionary
+,,"களாட், களடு3வொ","kaLaaT, kaLaDuvo",,,,"Inform, Convey",தெரியப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,ஸுவாஸம் கேர் / கெருவொ,suvaasam kEr / keruvo,,,,Inhale,மூச்சை உள்ளிழு,,,,verb,corpus_sourashtradictionary
+,,நொவ்வொ கேர் / கெருவொ,novvo kEr / keruvo,,,,Innovate,புதுமையாக்கு,,,,verb,corpus_sourashtradictionary
+,,"துராட், துரடு3வொ","turaaT, turaDuvo",,,,Insert,"சொருகு, நுழைய வை",,,,verb,corpus_sourashtradictionary
+,,நிர்ப3ந்த4ம் கேர் / கெருவொ,nirbandham kEr / keruvo,,,,Insist,வலியுறுத்து,,,,verb,corpus_sourashtradictionary
+,,பரிஶோத4னொ கேர் / கெருவொ,parissOdhano kEr / keruvo,,,,"Inspect, Explore",ஆய்வு செய்,,,,verb,corpus_sourashtradictionary
+,,ஸ்தாபிதம் கேர் / கெருவொ,staapitam kEr / keruvo,,,,Install,நிறுவு,,,,verb,corpus_sourashtradictionary
+,,அபமான் கேர் / கெருவொ,apamaan kEr / keruvo,,,,Insult,அவமரியாதை செய்யு,,,,verb,corpus_sourashtradictionary
+,,அட்3ட3ம் போட் / பொடு3வொ,aDDam pOT / poDuvo,,,,Interfere,குறுக்கிடு,,,,verb,corpus_sourashtradictionary
+,,ஸீமொ த3டி3 தூர் / துருவொ,seemo daDi toor / turuvo,,,,Invade,எல்லைமீறி நுழை,,,,verb,corpus_sourashtradictionary
+,,"கெ2டி3 அவாட், கெ2டி3 அவடு3வொ","kheDi avaaT, kheDi avaDuvo",,,,Irritate,எரிச்சலூட்டு,,,,verb,corpus_sourashtradictionary
+,,"க2வ்ஜி, க3ஜுவொ","khavji, gajuvo",,,,Itch,"அரி, சொறிந்துவிடு",,,,verb,corpus_sourashtradictionary
+,,துண்டவத்தொ கேர் / கெருவொ,tuNTavatto kEr / keruvo,,,,jabber,உளறு,,,,verb,corpus_sourashtradictionary
+,,ஆபத்3து3ம் ஹுத்ராட் / ஹுத்ரடு3வொ,aapaddum hutraaT / hutraDuvo,,,,jeopardize,இடருக்குள்ளாக்கு,,,,verb,corpus_sourashtradictionary
+,,கே2ல் வத்தொ கேர் / கெருவொ,khEl vatto kEr / keruvo,,,,jest,வேடிக்கைப் பேச்சு பேசு,,,,verb,corpus_sourashtradictionary
+,,"ஒண்ட்கி, ஒண்ட்குவொ","oNTki, oNTkuvo",,,,jitter,நடுங்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹவ்லி, ஹவ்லுவொ","havli, havluvo",,,,Joggle,ஆட்டு / குலுக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹுல்பி, ஹுல்புவொ","hulpi, hulpuvo",,,,Joggle,ஆட்டு / குலுக்கு,,,,verb,corpus_sourashtradictionary
+,,"சேர், செருவொ","cEr, ceruvo",,,,Join,"சேரு, இணை",,,,verb,corpus_sourashtradictionary
+,,"செர்ச்சி, செர்ச்சுவொ","cercci, cerccuvo",,,,"Join, Annex, Connect","சேரு, இணை",,,,verb,corpus_sourashtradictionary
+,,ஹாஸ்யமுக் ஸங்கி3 / ஸங்கு3வொ,haasyamuk sanggi / sangguvo,,,,joke,நகைச்சுவைக்காக சொல்லு,,,,verb,corpus_sourashtradictionary
+,,"து4ங்கி, து4ங்கு3வொ","dhungki, dhungguvo",,,,Jump,குதி,,,,verb,corpus_sourashtradictionary
+,,ந்யாவ் கேர் / கெருவொ,nyaav kEr / keruvo,,,,Justify,நியாயப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,லொகு3த்தொ லொகு3த்தொ தோ2வ் / தொ2வொ,logutto logutto thOv / thovo,,,,Juxtapose,அடுத்தடுத்து வையு,,,,verb,corpus_sourashtradictionary
+,,"தொ2வ்லெ, தொ2வ்லுவொ","thovle, thovluvo",,,,"Keep it, Have it",வைத்துக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"லாத், லது3வொ","laat, laduvo",,,,Kick,எத்து,,,,verb,corpus_sourashtradictionary
+,,"அபஹரன் கேர், கெருவொ","apaharan kEr, keruvo",,,,Kidnap,கடத்து,,,,verb,corpus_sourashtradictionary
+,,"மார், மருவொ","maar, maruvo",,,,Kill,கொல்,,,,verb,corpus_sourashtradictionary
+,,"மொராட், மொரடு3வொ","moraaT, moraDuvo",,,,Kill,கொல்,,,,verb,corpus_sourashtradictionary
+,,பு3ச்சி தே3 / தெ3வொ,bucci dE / devo,,,,Kiss,முத்தம் கொடு,,,,verb,corpus_sourashtradictionary
+,,"குஸிர், குஸுருவொ","kusir, kusuruvo",,,,Knead,பிசை,,,,verb,corpus_sourashtradictionary
+,,கு3ட்3க்யால் தாய் / தவொ,guDkyaal taay / tavo,,,,Kneel,"முட்டியிடு, மண்டியிடு",,,,verb,corpus_sourashtradictionary
+,,பங்கி3 பீ3ஸ் / பி3ஸுவொ,panggi bees / bisuvo,,,,Kneel,"முட்டியிடு, மண்டியிடு",,,,verb,corpus_sourashtradictionary
+,,"வீன், வினுவொ","veen, vinuvo",,,,Knit,பின்னு,,,,verb,corpus_sourashtradictionary
+,,"தெட்டி, தெட்டுவொ","teTTi, teTTuvo",,,,Knock,தட்டு,,,,verb,corpus_sourashtradictionary
+,,"களள்ளெ, களள்ளுவொ","kaLaLLe, kaLaLLuvo",,,,Know,தெரிந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,"ஆஸ், அஸுவொ","aas, asuvo",,,,Laugh,சிரி,,,,verb,corpus_sourashtradictionary
+,,"கா4ல், க4லுவொ","ghaal, ghaluvo",,,,Lay,இடு / போடு,,,,verb,corpus_sourashtradictionary
+,,"தாய், தவொ","taay, tavo",,,,Lay,இடு / போடு,,,,verb,corpus_sourashtradictionary
+,,கேட் லம்பொ3 கேர் / கெருவொ,kET lambo kEr / keruvo,,,,Lay down,படு,,,,verb,corpus_sourashtradictionary
+,,"கெ3ளாட், கெ3ளடு3வொ","geLaaT, geLaDuvo",,,,Leak,கசிய வை,,,,verb,corpus_sourashtradictionary
+,,"ஒளாட், ஒளடு3வொ","oLaaT, oLaDuvo",,,,Leak,கசிய வை,,,,verb,corpus_sourashtradictionary
+,,"ஒர்கி3, ஒர்கு3வொ","orgi, orguvo",,,,Lean,சாய்ந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,பஸ்கட் ஒர்கி3 / ஒர்கு3வொ,paskaT orgi / orguvo,,,,Lean back,பின்னால் சாய்,,,,verb,corpus_sourashtradictionary
+,,ப4ராட் ஒங்கி3 / ஒங்கு3வொ,bharaaT onggi / ongguvo,,,,Lean out,வெளியே குனி,,,,verb,corpus_sourashtradictionary
+,,"ஸிக்கி, ஸிக்குவொ","sikki, sikkuvo",,,,Learn,"கற்றுக்கொள், அறிந்துகொள்",,,,verb,corpus_sourashtradictionary
+,,"நிகி3ள், நிகு3ளுவொ","nigiL, niguLuvo",,,,Leave,விட்டுச்செல்,,,,verb,corpus_sourashtradictionary
+,,ஸோட் / ஸொடு3வொ தெல்லெ,sOT / soDuvo telle,,,,Leave it,விடு அதை,,,,verb,corpus_sourashtradictionary
+,,"ஸோட், ஸொடு3வொ","sOT, soDuvo",,,,"Let go, Give up","விடு, விட்டுவிடு",,,,verb,corpus_sourashtradictionary
+,,ஜான் ஸோட் / ஸொடு3வொ,jaan sOT / soDuvo,,,,Let it go,போக விடு,,,,verb,corpus_sourashtradictionary
+,,தி4ல்லொ ஸோட் / ஸொடுவொ,dhillo sOT / soTuvo,,,,Let loose,அவிழ்த்து விடு,,,,verb,corpus_sourashtradictionary
+,,ஸொவ்டி3 ஸோட் / ஸொடு3வொ,sovDi sOT / soDuvo,,,,Let loose,அவிழ்த்து விடு,,,,verb,corpus_sourashtradictionary
+,,"சாட், சடு3வொ","caaT, caDuvo",,,,Lick,நக்கு,,,,verb,corpus_sourashtradictionary
+,,சொட்3டொ3 வத்தொ கேர் / கெருவொ,coDDo vatto kEr / keruvo,,,,Lie,பொய் சொல்,,,,verb,corpus_sourashtradictionary
+,,"ஒர்கி3, ஒர்கு3வொ","orgi, orguvo",,,,Lie back,சாய்ந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,"நிஞ்ஜி, நிஞ்ஜுவொ","ninjji, ninjjuvo",,,,Lie down,படுத்துக் கொள்,,,,verb,corpus_sourashtradictionary
+,,பாட் கா2ல் தாய் / தவொ,paaT khaal taay / tavo,,,,Lie down,படுத்துக் கொள்,,,,verb,corpus_sourashtradictionary
+,,"துக்கி, துக்குவொ","tukki, tukkuvo",,,,Lift,தூக்கு,,,,verb,corpus_sourashtradictionary
+,,"வாவ், வவொ","vaav, vavo",,,,Lift up,"உயர்த்து, தூக்கு",,,,verb,corpus_sourashtradictionary
+,,பில்லாக் பொ3ல்லெ / பொ3ல்லுவொ,pillaak bolle / bolluvo,,,,Lift the baby,குழந்தையை தூக்கு,,,,verb,corpus_sourashtradictionary
+,,தி3வொ பொ4வ்ரி / பொ4வ்ருவொ,divo bhovri / bhovruvo,,,,Light it,விளக்கேற்று,,,,verb,corpus_sourashtradictionary
+,,பிரேவ் போட் / பொடு3வொ,pirEv pOT / poDuvo,,,,Like,விரும்பு,,,,verb,corpus_sourashtradictionary
+,,"அய்கி, அய்குவொ","ayki, aykuvo",,,,Listen,கேள்,,,,verb,corpus_sourashtradictionary
+,,"கௌ3ஞ்சி, கௌ3ஞ்சுவொ","gaunjci, gaunjcuvo",,,,Listen,கவனி,,,,verb,corpus_sourashtradictionary
+,,"ஜாள், ஜளுவொ","jaaL, jaLuvo",,,,Lit,எரி,,,,verb,corpus_sourashtradictionary
+,,"ஜீவ், ஜிவொ","jeev, jivo",,,,Live,வாழு,,,,verb,corpus_sourashtradictionary
+,,"பீ3க் கா4ல், பீ3க் க4லுவொ","beek ghaal, beek ghaluvo",,,,Lock,"தாழிடு, பூட்டு",,,,verb,corpus_sourashtradictionary
+,,"ஸா, ஸவொ","saa, savo",,,,Look,பார்,,,,verb,corpus_sourashtradictionary
+,,"ஶா, ஶவொ","ssaa, ssavo",,,,Look,பார்,,,,verb,corpus_sourashtradictionary
+,,"ஓட், ஒடு3வொ","OT, oDuvo",,,,Lose out,தோற்றுவிடு,,,,verb,corpus_sourashtradictionary
+,,பிராமொ போட் / பொடு3வொ,piraamo pOT / poDuvo,,,,Love,"காதலி, காதல் செய்",,,,verb,corpus_sourashtradictionary
+,,ம்ஹொடொ3 கேர் / கெருவொ,mhoDo kEr / keruvo,,,,Magnify,பெரிதாக்கு,,,,verb,corpus_sourashtradictionary
+,,ஸனித3னி கேர் / கெருவொ,sanidani kEr / keruvo,,,,Maintain,பராமரி,,,,verb,corpus_sourashtradictionary
+,,உரு கேர் / கெருவொ,uru kEr / keruvo,,,,Make,உருவாக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹொவாட், ஹொவடு3வொ","hovaaT, hovaDuvo",,,,Make,ஆக்கு,,,,verb,corpus_sourashtradictionary
+,,நிர்வாஹ் கேர் / கெருவொ,nirvaah kEr / keruvo,,,,Manage,நிர்வகி,,,,verb,corpus_sourashtradictionary
+,,"ஹாஜ்ஜால், ஹாஜ்ஜலுவொ","haajjaal, haajjaluvo",,,,Manipulate,கையாளு,,,,verb,corpus_sourashtradictionary
+,,உத்பத்தி கேர் / கெருவொ,utpatti kEr / keruvo,,,,Manufacture,உற்பத்தி செய்,,,,verb,corpus_sourashtradictionary
+,,"நாஸ், நஸுவொ","naas, nasuvo",,,,Mar,அழி,,,,verb,corpus_sourashtradictionary
+,,நிக்கு லகா3ட் / லக3டு3வொ,nikku lagaaT / lagaDuvo,,,,Mark,குறி இடு,,,,verb,corpus_sourashtradictionary
+,,ஹொராட் கெர்லெ / கெர்லுவொ,horaaT kerle / kerluvo,,,,Marry,திருமணம் செய்துகொள்,,,,verb,corpus_sourashtradictionary
+,,சுவ்ரி ஸோட் / சுவ்ரி ஸொடு3வொ,cuvri sOT / cuvri soDuvo,,,,Massage,"நீவி விடு, சுளுக்கெடு",,,,verb,corpus_sourashtradictionary
+,,"ஜோவ், ஜொவொ","jOv, jovo",,,,Measure,"அளவெடு, எடைபோடு",,,,verb,corpus_sourashtradictionary
+,,"மோவ், மொவொ","mOv, movo",,,,Measure,அளவெடு,,,,verb,corpus_sourashtradictionary
+,,"பொஞ்சி கேர், கெருவொ","ponjci kEr, keruvo",,,,Mediate,மத்தியஸ்தம் செய்,,,,verb,corpus_sourashtradictionary
+,,"தெ3க்கி, தெ3க்குவொ","dekki, dekkuvo",,,,Meet,சந்தி,,,,verb,corpus_sourashtradictionary
+,,"மீள், மிளுவொ","meeL, miLuvo",,,,Meet,சந்தி,,,,verb,corpus_sourashtradictionary
+,,"விஜ்ஜி, விஜ்ஜுவொ","vijji, vijjuvo",,,,Melt,உருகு,,,,verb,corpus_sourashtradictionary
+,,மனனம் கேர் / கெருவொ,mananam kEr / keruvo,,,,"Memorize, Memorise",மனப்பாடம் செய்,,,,verb,corpus_sourashtradictionary
+,,ஒண்டேஸ் கேர் / கெருவொ,oNTEs kEr / keruvo,,,,Merge,ஒன்றிணை,,,,verb,corpus_sourashtradictionary
+,,"கொ3வ்ன்டா3ட், கொ3வ்ன்ட3டு3வொ","govnDaaT, govnDaDuvo",,,,Mislay,தொலை,,,,verb,corpus_sourashtradictionary
+,,தொ2வ்தி3 ஹவ்ட3ன் ஜவள்ளெ / ஜவள்ளுவொ,thovdi havDan javaLLe / javaLLuvo,,,,Mislay,வைத்து மறந்து போ,,,,verb,corpus_sourashtradictionary
+,,தெ4ர்னாத்தொ ஸோட் / ஸொடு3வொ,dhernaatto sOT / soDuvo,,,,Miss,தவற விடு,,,,verb,corpus_sourashtradictionary
+,,"கவ்லி, கவ்லுவொ","kavli, kavluvo",,,,Mix,கலக்கு,,,,verb,corpus_sourashtradictionary
+,,"லொல்பி, லொல்புவொ","lolpi, lolpuvo",,,,Mix (excessively),பிறட்டு,,,,verb,corpus_sourashtradictionary
+,,"கல்வி, கல்வுவொ","kalvi, kalvuvo",,,,Mix,கலக்கு,,,,verb,corpus_sourashtradictionary
+,,"மர்ச்சி, மர்ச்சுவொ","marcci, marccuvo",,,,Modify,மாற்று,,,,verb,corpus_sourashtradictionary
+,,"ஹல்லி, ஹல்லுவொ","halli, halluvo",,,,Move,"அசை, நகரு",,,,verb,corpus_sourashtradictionary
+,,"ஒத்தாட், ஒத்தடு3வொ","ottaaT, ottaDuvo",,,,"Move, Move aside","நகர்த்து, தள்ளி வை",,,,verb,corpus_sourashtradictionary
+,,"ஒத்தி, ஒத்துவொ","otti, ottuvo",,,,"Move, Move away","தள்ளு, தள்ளி நில்",,,,verb,corpus_sourashtradictionary
+,,(சொட்3டா3க்) தே4ர் / தெ4ருவொ,(coDDaak) dhEr / dheruvo,,,,Nab,(திருடனை) பிடி,,,,verb,corpus_sourashtradictionary
+,,பாட் கொவ்ரி / கொவ்ருவொ,paaT kovri / kovruvo,,,,Nag,நச்சரி,,,,verb,corpus_sourashtradictionary
+,,இவர் கேர் / கெருவொ,ivar kEr / keruvo,,,,Narrate,விளக்கு,,,,verb,corpus_sourashtradictionary
+,,ஸுந்துர் பெய்னொ ஜா / ஜவொ,suntur peyno jaa / javo,,,,Navigate,கடற்பயணம் செல்,,,,verb,corpus_sourashtradictionary
+,,உதா3ஸீனம் கேர் / கெருவொ,udaaseenam kEr / keruvo,,,,Neglect,புறக்கணி,,,,verb,corpus_sourashtradictionary
+,,வத்தொபோ3ல் கேர் / கெருவொ,vattobOl kEr / keruvo,,,,Negotiate,பேச்சுவார்த்தை நடத்து,,,,verb,corpus_sourashtradictionary
+,,கு2டி3 கா2 / க2வொ,khuDi khaa / khavo,,,,Nibble,கொறித்து உண்ணு,,,,verb,corpus_sourashtradictionary
+,,"கூ2ட், கு2டு3வொ","khooT, khuDuvo",,,,Nip,கிள்ளியெடு,,,,verb,corpus_sourashtradictionary
+,,"நாவ்மேன், நாவ்மெனுவொ","naavmEn, naavmenuvo",,,,Nominate,நியமி,,,,verb,corpus_sourashtradictionary
+,,ஸௌக்3ஞ ஹேட் / ஹெடு3வொ,saugnja hET / heDuvo,,,,Note,குறிப்பெடு,,,,verb,corpus_sourashtradictionary
+,,"க3வுஞ்சி, க3வுஞ்சுவொ","gavunjci, gavunjcuvo",,,,Notice,கவனி,,,,verb,corpus_sourashtradictionary
+,,"களாட், களடு3வொ","kaLaaT, kaLaDuvo",,,,"Notify, Convey",தெரியப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,புஷ்டி கேர் / கெருவொ,pushTi kEr / keruvo,,,,Nourish,ஊட்டமளி,,,,verb,corpus_sourashtradictionary
+,,"என்ட்3கி3, என்ட்3கு3வொ","enDgi, enDguvo",,,,Obey,அடங்கு,,,,verb,corpus_sourashtradictionary
+,,க3வுஞ்சி ஸா / ஸவொ,gavunjci saa / savo,,,,Observe,உற்று நோக்கு,,,,verb,corpus_sourashtradictionary
+,,அட்3ட3ம் கேர் / கெருவொ,aDDam kEr / keruvo,,,,Obstruct,தடை உண்டாக்கு,,,,verb,corpus_sourashtradictionary
+,,"ரூண், ருணுவொ","rooN, ruNuvo",,,,Obstruct,தடை உண்டாக்கு,,,,verb,corpus_sourashtradictionary
+,,ப்ராப்த கேர் / கெருவொ,praapta kEr / keruvo,,,,Obtain,பெறு,,,,verb,corpus_sourashtradictionary
+,,தா2ம் பொ4வ்ரி / பொ4வ்ருவொ,thaam bhovri / bhovruvo,,,,Occupy,இடத்தை நிரப்பு,,,,verb,corpus_sourashtradictionary
+,,மொன்னு கெஷ்டம் கேர் / கெருவொ,monnu keshTam kEr / keruvo,,,,Offend,உள்ளத்தை புண்படுத்து,,,,verb,corpus_sourashtradictionary
+,,நிவேத3ன் கேர் / கெருவொ,nivEdan kEr / keruvo,,,,Offer,படையல் செய்,,,,verb,corpus_sourashtradictionary
+,,"ஸொட்3டெ3, ஸொட்3டு3வொ","soDDe, soDDuvo",,,,Omit,விட்டு விடு,,,,verb,corpus_sourashtradictionary
+,,"ஹூட், ஹுடு3வொ","hooT, huDuvo",,,,Open,திற,,,,verb,corpus_sourashtradictionary
+,,சல்தொ கேர் / கெருவொ,calto kEr / keruvo,,,,Operate,இயக்கு,,,,verb,corpus_sourashtradictionary
+,,"வெது3ர்ஞ்சி, வெது3ர்ஞ்சுவொ","vedurnjci, vedurnjcuvo",,,,Oppose,எதிர்ப்பு காட்டு,,,,verb,corpus_sourashtradictionary
+,,ஆஞொ தே3 / தெ3வொ,aanjo dE / devo,,,,Order,கட்டளை இடு,,,,verb,corpus_sourashtradictionary
+,,காம்தா4ம் கேர் / கெருவொ,kaamdhaam kEr / keruvo,,,,Organize,ஏற்பாடு செய்,,,,verb,corpus_sourashtradictionary
+,,வேன்கன் கேர் / கெருவொ,vEnkan kEr / keruvo,,,,Overact,மிதமிஞ்சி செய்,,,,verb,corpus_sourashtradictionary
+,,த3டி3 ஆவ் / அவொ,daDi aav / avo,,,,Overcome,கடந்து வா,,,,verb,corpus_sourashtradictionary
+,,விஸிரி ஹான் / ஹனுவொ,visiri haan / hanuvo,,,,Overthrow,தூக்கி எறி,,,,verb,corpus_sourashtradictionary
+,,"ஒங்கா3ட், ஒங்க3டு3வொ","onggaaT, onggaDuvo",,,,Overturn,கவிழ்த்து,,,,verb,corpus_sourashtradictionary
+,,"கி4ந்தி3, கி4ந்து3வொ","ghindi, ghinduvo",,,,Pack,கட்டு,,,,verb,corpus_sourashtradictionary
+,,வனி லாவ் / லவொ,vani laav / lavo,,,,Paint,வர்ணம் பூசு,,,,verb,corpus_sourashtradictionary
+,,"உட்3கா3ட், உட்3க3டு3வொ","uDgaaT, uDgaDuvo",,,,Paralyze,முடக்கு,,,,verb,corpus_sourashtradictionary
+,,வாஹனொ ஒண்டெதேட் ஹிப்3பி3 ர்ஹவாட் / ர்ஹவடு3வொ,vaahano oNTetET hibbi rhavaaT / rhavaDuvo,,,,Park,வண்டியை ஓரிடத்தில் நிறுத்து,,,,verb,corpus_sourashtradictionary
+,,"அட்கி, அட்குவொ","aTki, aTkuvo",,,,Partly Close,"சாத்து (கதவை, ஜன்னலை)",,,,verb,corpus_sourashtradictionary
+,,"லங்கி3, லங்கு3வொ","langgi, langguvo",,,,Pass,தேர்ச்சி பெறு,,,,verb,corpus_sourashtradictionary
+,,"தெ3வ்ஸி, தெ3வ்ஸுவொ","devsi, devsuvo",,,,Paste,ஒட்டு,,,,verb,corpus_sourashtradictionary
+,,புட்டா வாட் ஸா / ஸவொ,puTTaa vaaT saa / savo,,,,Peek,பிளவு வழியாக பார்,,,,verb,corpus_sourashtradictionary
+,,"தொங்கி3ஸா, தொங்கி3ஸவொ","tonggisaa, tonggisavo",,,,Peek,எட்டிப்பார்,,,,verb,corpus_sourashtradictionary
+,,ஸோல் / ஸொலுவொ,sOl / soluvo,,,,Peel,உரி,,,,verb,corpus_sourashtradictionary
+,,"குஸ்கி, குஸ்குவொ","kuski, kuskuvo",,,,"Pierce, Insert","குத்து, துளையிடு, செருகு",,,,verb,corpus_sourashtradictionary
+,,"மிந்தி3, மிந்து3வொ","mindi, minduvo",,,,Pierce,"குத்து, துளையிடு",,,,verb,corpus_sourashtradictionary
+,,"சுண்டி, சுண்டுவொ","cuNTi, cuNTuvo",,,,Pinch,கிள்ளு,,,,verb,corpus_sourashtradictionary
+,,"தோ2வ், தொ2வொ","thOv, thovo",,,,Place,வை,,,,verb,corpus_sourashtradictionary
+,,"கு3ம்பி, கு3ம்புவொ","gumpi, gumpuvo",,,,Plait,பின்னு,,,,verb,corpus_sourashtradictionary
+,,"கா2ள், க2ளுவொ","khaaL, khaLuvo",,,,Play,விளையாடு,,,,verb,corpus_sourashtradictionary
+,,"வவ்ஜி, வவ்ஜுவொ","vavji, vavjuvo",,,,Play,வாசி,,,,verb,corpus_sourashtradictionary
+,,க்ருபொ கேர் / கெருவொ,krupo kEr / keruvo,,,,Please,தயவு செய்,,,,verb,corpus_sourashtradictionary
+,,ஸொந்தோஷ் கேர் / கெருவொ,sontOsh kEr / keruvo,,,,Please,மகிழ்வி,,,,verb,corpus_sourashtradictionary
+,,"ஜுன், ஜுனுவொ","jun, junuvo",,,,Plough,உழு,,,,verb,corpus_sourashtradictionary
+,,"நங்கி3, நங்கு3வொ","nanggi, nangguvo",,,,Plough,உழு,,,,verb,corpus_sourashtradictionary
+,,"கிரட், கிரடு3வொ","kiraT, kiraDuvo",,,,Plough,உழு,,,,verb,corpus_sourashtradictionary
+,,"தோட், தொடு3வொ","tOT, toDuvo",,,,"Pluck, Pick","பறி, பிடுங்கு",,,,verb,corpus_sourashtradictionary
+,,"உக்கி, உக்குவொ","ukki, ukkuvo",,,,"Pluck, Pick","பறி, பிடுங்கு",,,,verb,corpus_sourashtradictionary
+,,"உவ்வி, உவ்வுவொ","uvvi, uvvuvo",,,,Pluck,"பறி, பிடுங்கு",,,,verb,corpus_sourashtradictionary
+,,"கா4ல், க4லுவொ","ghaal, ghaluvo",,,,Post,இடு / போடு,,,,verb,corpus_sourashtradictionary
+,,"தாய், தவொ","taay, tavo",,,,Post,இடு / போடு,,,,verb,corpus_sourashtradictionary
+,,"லுச்சி, லுச்சுவொ","lucci, luccuvo",,,,Pour,"ஊற்று, கொட்டு",,,,verb,corpus_sourashtradictionary
+,,பு4ர்கொ கேர் / கெருவொ,bhurko kEr / keruvo,,,,"Powder, Crush","தூளாக்கு, பொடியாக்கு",,,,verb,corpus_sourashtradictionary
+,,"காண், கணுவொ","kaaN, kaNuvo",,,,"Powder, Crush","தூளாக்கு, பொடியாக்கு",,,,verb,corpus_sourashtradictionary
+,,து3மாட்3 / து3மடு3வொ,dumaaD / dumaDuvo,,,,Practice,பழக்கு,,,,verb,corpus_sourashtradictionary
+,,"நூவ், நுவொ","noov, nuvo",,,,"Praise, Greet, Compliment, Appreciate","புகழு, வாழ்த்து, பாராட்டு",,,,verb,corpus_sourashtradictionary
+,,பிரார்த2னொ கேர் / கெருவொ,piraarthano kEr / keruvo,,,,Pray,கும்பிடு,,,,verb,corpus_sourashtradictionary
+,,"அவ்ங்கி, அவ்ங்குவொ","avngki, avngkuvo",,,,Press,அழுத்து,,,,verb,corpus_sourashtradictionary
+,,"நிம்பி, நிம்புவொ","nimpi, nimpuvo",,,,Print,அச்சிடு,,,,verb,corpus_sourashtradictionary
+,,"கபா3ட்3, கப3டு3வொ","kabaaD, kabaDuvo",,,,Protect,காப்பாற்று,,,,verb,corpus_sourashtradictionary
+,,"ப்ரஸுர், ப்ரஸுருவொ","prasur, prasuruvo",,,,Publish,வெளியிடு,,,,verb,corpus_sourashtradictionary
+,,"உட்சி, உட்சுவொ","uTci, uTcuvo",,,,Pull,இழு,,,,verb,corpus_sourashtradictionary
+,,"கி2ஞ்சி, கி2ஞ்சுவொ","khinjci, khinjcuvo",,,,Pull,இழு,,,,verb,corpus_sourashtradictionary
+,,"தூ3ஸ், துஸுவொ","doos, tusuvo",,,,Pull out,உருவு,,,,verb,corpus_sourashtradictionary
+,,"ஹவ்ளி, ஹவ்ளுவொ","havLi, havLuvo",,,,Pump,வெளிக்கொணர்,,,,verb,corpus_sourashtradictionary
+,,"உஸ்பி, உஸ்புவொ","uspi, uspuvo",,,,Pump,வெளிக்கொணர்,,,,verb,corpus_sourashtradictionary
+,,"கு3த்3தி3, கு3த்து3வொ","guddi, gutduvo",,,,Punch,குத்து,,,,verb,corpus_sourashtradictionary
+,,"தொ3ப்3பி3, தொ3ப்3பு3வொ","dobbi, dobbuvo",,,,Push,தள்ளு,,,,verb,corpus_sourashtradictionary
+,,"கா4ல், க4லுவொ","ghaal, ghaluvo",,,,Put,இடு,,,,verb,corpus_sourashtradictionary
+,,"தாய், தவொ","taay, tavo",,,,Put,இடு,,,,verb,corpus_sourashtradictionary
+,,கா2ல் தாய் / தவொ,khaal taay / tavo,,,,Put down,கீழே போடு,,,,verb,corpus_sourashtradictionary
+,,பவ்ட3ர் லாவ் / லவொ,pavDar laav / lavo,,,,Put powder,பவுடர் பூசு,,,,verb,corpus_sourashtradictionary
+,,"கீ2ல் தாய், கீ2ல் தவொ","kheel taay, kheel tavo",,,,Put the latch,தாழ்ப்பாளை போடு,,,,verb,corpus_sourashtradictionary
+,,"மோவ், மொவொ","mOv, movo",,,,Quantify,அளவிடு,,,,verb,corpus_sourashtradictionary
+,,அலக்3கொ3 கேர் / கெருவொ,alaggo kEr / keruvo,,,,Quarantine,தனிமைப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,ஜெ2டொ3 மல்லெ / மல்லுவொ,jheDo malle / malluvo,,,,Quarrel,சண்டையிடு,,,,verb,corpus_sourashtradictionary
+,,"தொ3ப்3பி3 தோ2வ், தொ2வொ","dobbi thOv, thovo",,,,Quash,விலக்கி வை,,,,verb,corpus_sourashtradictionary
+,,"ஶமுல்லெ, ஶமுல்லுவொ","ssamulle, ssamulluvo",,,,Quench,தணித்துக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"பூஸ், புஸுவொ","poos, pusuvo",,,,Query,வினவு,,,,verb,corpus_sourashtradictionary
+,,வெக்கிலி ஜா / ஜவொ,vekkili jaa / javo,,,,Quest,நாடிச்செல்,,,,verb,corpus_sourashtradictionary
+,,புஸினி பூஸ் / புஸுவொ,pusini poos / pusuvo,,,,Question,கேள்வி கேளு,,,,verb,corpus_sourashtradictionary
+,,பி3ஸ்ஸொ கேர் / கெருவொ,bisso kEr / keruvo,,,,Quicken,விரைவுபடுத்து,,,,verb,corpus_sourashtradictionary
+,,ஸொட்3டி3 ஜா / ஜவொ,soDDi jaa / javo,,,,Quit,விட்டுச்செல்,,,,verb,corpus_sourashtradictionary
+,,"ஒண்ட்கி, ஒண்ட்குவொ","oNTki, oNTkuvo",,,,Quiver,நடுங்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹிங்காட், ஹிங்கடு3வொ","hingkaaT, hingkaDuvo",,,,Raise,உயர்த்து,,,,verb,corpus_sourashtradictionary
+,,"மிட்டி, மிட்டுவொ","miTTi, miTTuvo",,,,Rap,சுண்டு,,,,verb,corpus_sourashtradictionary
+,,"அந்தி3, அந்து3வொ","andi, anduvo",,,,Reach,எட்டு,,,,verb,corpus_sourashtradictionary
+,,"ஜீ சேர், ஜீ செருவொ","jee cEr, jee ceruvo",,,,Reach,சென்றடை,,,,verb,corpus_sourashtradictionary
+,,"சொவ்தி3, சொவ்து3வொ","covdi, ceaavduvo",,,,Read,படி,,,,verb,corpus_sourashtradictionary
+,,"இகி3, இகு3வொ","igi, iguvo",,,,Read,படி,,,,verb,corpus_sourashtradictionary
+,,"ஜன்லெ, ஜன்லுவொ","janle, janluvo",,,,"Realize, Realise","அறிந்துகொள், உணர்ந்துகொள்",,,,verb,corpus_sourashtradictionary
+,,கா3ய் சொவ்ரி / சொவ்ருவொ,gaay ceaavri / covruvo,,,,Rear cattle,மாடு மேய்,,,,verb,corpus_sourashtradictionary
+,,"ஹவ்டன் கேர், ஹவ்டன் கெருவொ","havTan kEr, havTan keruvo",,,,Recall,நினைவு கூர்,,,,verb,corpus_sourashtradictionary
+,,ஹவ்ட3ன் தொ2வ்லெ / தொ2வ்லுவொ,havDan thovle / thovluvo,,,,Remember,நினைவில் கொள்,,,,verb,corpus_sourashtradictionary
+,,"ஹேட், ஹெடு3வொ","hET, heDuvo",,,,Remove,நீக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஸொவ்டி3, ஸொவ்டு3வொ","sovDi, sovDuvo",,,,Remove,கழட்டு,,,,verb,corpus_sourashtradictionary
+,,பி2ரி தெர்மி / தெர்முவொ,phiri termi / termuvo,,,,Repel,"திரும்பித் துரத்து, விரட்டியடி",,,,verb,corpus_sourashtradictionary
+,,ஜவாப் தே3 / தெ3வொ,javaap dE / devo,,,,Reply,பதில் கொடு,,,,verb,corpus_sourashtradictionary
+,,"கபா3ட், கப3டு3வொ","kabaaT, kabaDuvo",,,,Rescue,காப்பாற்று,,,,verb,corpus_sourashtradictionary
+,,வஸன் கேர் / கெருவொ,vasan kEr / keruvo,,,,Reside,தங்கி இரு,,,,verb,corpus_sourashtradictionary
+,,ஶீன் ஶமுல்லெ / ஶமுல்லுவொ,sseen ssamulle / ssamulluvo,,,,"Rest, Relax",இளைப்பாறு,,,,verb,corpus_sourashtradictionary
+,,"ஹள்சி, ஹள்ச்சுவொ","haLci, haLccuvo",,,,Rinse,அலசு,,,,verb,corpus_sourashtradictionary
+,,"பிக்காட், பிக்கடு3வொ","pikkaaT, pikkaDuvo",,,,Ripen,பழுக்க வை,,,,verb,corpus_sourashtradictionary
+,,"சேட், செடு3வொ","cET, ceDuvo",,,,Rise,உயரு,,,,verb,corpus_sourashtradictionary
+,,"ஹூட், ஹுடு3வொ","hooT, huDuvo",,,,Rise,எழுந்திரு,,,,verb,corpus_sourashtradictionary
+,,நிகி3ள்,nigiL,,,,Rise,உதயமாகு,,,,verb,corpus_sourashtradictionary
+,,"ஹிண்டி3, ஹிண்டு3வொ","hiNDi, hiNDuvo",,,,Roam,திரி,,,,verb,corpus_sourashtradictionary
+,,"பு4ஞ்ஜி, பு4ஞ்ஜுவொ","bhunjji, bhunjjuvo",,,,Roast,வறு,,,,verb,corpus_sourashtradictionary
+,,"தூ4ள், து3ளுவொ","dhooL, duLuvo",,,,Roll,உருளு,,,,verb,corpus_sourashtradictionary
+,,"கு3வ்னி, கு3வ்னுவொ","guvni, guvnuvo",,,,Roll,சுருட்டு,,,,verb,corpus_sourashtradictionary
+,,கொ3ளி கேர் / கெருவொ,goLi kEr / keruvo,,,,Roll it like a ball,உருண்டை பிடி,,,,verb,corpus_sourashtradictionary
+,,சுட்டு பி2ராட் / பி2ரடு3வொ,cuTTu phiraaT / phiraDuvo,,,,Rotate,சுழற்று,,,,verb,corpus_sourashtradictionary
+,,கொ3ளொ கேர் / கெருவொ,goLo kEr / keruvo,,,,Round,வட்டமாக சுருட்டு,,,,verb,corpus_sourashtradictionary
+,,"கே3ஸ், கெ3ஸுவொ","gEs, gesuvo",,,,Rub,தேய்,,,,verb,corpus_sourashtradictionary
+,,"ஹூல், ஹுலுவொ","hool, huluvo",,,,Rub,தேய்,,,,verb,corpus_sourashtradictionary
+,,"மோஸ், மொஸுவொ","mOs, mosuvo",,,,Rub,தேய்,,,,verb,corpus_sourashtradictionary
+,,"ரெகு3டி3, ரெகு3டு3வொ","reguDi, reguDuvo",,,,Rub hard,அழுத்தி தேய்,,,,verb,corpus_sourashtradictionary
+,,"தா4ம், த4முவொ","dhaam, dhamuvo",,,,Run,ஓடு,,,,verb,corpus_sourashtradictionary
+,,மர்மரி / மர்மருவொ,marmari / marmaruvo,,,,Rustle,சரசர ஒலி செய்,,,,verb,corpus_sourashtradictionary
+,,"செர்ச்சி, செர்ச்சுவொ","cercci, cerccuvo",,,,Save,"சேமி, சேர்த்து வை",,,,verb,corpus_sourashtradictionary
+,,"கபா3ட், கப3டு3வொ","kabaaT, kabaDuvo",,,,Save,காப்பாற்று,,,,verb,corpus_sourashtradictionary
+,,"ஸங்கி3, ஸங்கு3வொ","sanggi, sangguvo",,,,Say,சொல்லு,,,,verb,corpus_sourashtradictionary
+,,"செது3ராட், செது3ரடு3வொ","ceduraaT, ceduraDuvo",,,,Scatter,"சிதற விடு, தெறிக்கச்செய்",,,,verb,corpus_sourashtradictionary
+,,"கா3ள்டெ, காள்டு3வொ","gaaLTe, kaaLDuvo",,,,Scold,திட்டு,,,,verb,corpus_sourashtradictionary
+,,"பொஸ்கி, பொஸ்குவொ","poski, poskuvo",,,,Scorch,"தீயினால் சுடு, பொசுக்கு",,,,verb,corpus_sourashtradictionary
+,,"ஒர்பி, ஒர்ப்புவொ","orpi, orppuvo",,,,Scrape,சுரண்டு,,,,verb,corpus_sourashtradictionary
+,,"பொ3ஸ்கி, பொ3ஸ்குவொ","boski, boskuvo",,,,Scratch,"சொறி, பிறாண்டு",,,,verb,corpus_sourashtradictionary
+,,"க2வ்ஜி, க2வ்ஜுவொ","khavji, khavjuvo",,,,Scratch,"சொறி, பிறாண்டு",,,,verb,corpus_sourashtradictionary
+,,"முவ்ரி, முவ்ருவொ","muvri, muvruvo",,,,Screw,"கசக்கு, திருகு",,,,verb,corpus_sourashtradictionary
+,,"பி2வ்ரி, பி2வ்ருவொ","phivri, phivruvo",,,,screw,"கசக்கு, திருகு",,,,verb,corpus_sourashtradictionary
+,,கெ3ஸிகின் தூ4வ் / து4வொ,gesikin dhoov / dhuvo,,,,Scrub,தேய்த்துக் கழுவு,,,,verb,corpus_sourashtradictionary
+,,"ஹுகில், ஹுகிலுவொ","hukil, hukiluvo",,,,Scrub,"தேய், இழை",,,,verb,corpus_sourashtradictionary
+,,"ஹூல், ஹுலுவொ","hool, huluvo",,,,Scrub,"தேய், இழை",,,,verb,corpus_sourashtradictionary
+,,"வெக்கி, வெக்குவொ","vekki, vekkuvo",,,,Search,தேடு,,,,verb,corpus_sourashtradictionary
+,,"மூக்3, முகு3வோ","moog, muguvO",,,,Search,தேடு,,,,verb,corpus_sourashtradictionary
+,,"தெ3க்கி, தெ3க்குவொ","dekki, dekkuvo",,,,See,பார்,,,,verb,corpus_sourashtradictionary
+,,"ஸா, ஸவொ","saa, savo",,,,See,பார் / காண்,,,,verb,corpus_sourashtradictionary
+,,"லிந்தி3, லிந்து3வொ","lindi, linduvo",,,,Sell,விற்பனை செய்,,,,verb,corpus_sourashtradictionary
+,,"விக்கி, விக்குவொ","vikki, vikkuvo",,,,Sell,விற்பனை செய்,,,,verb,corpus_sourashtradictionary
+,,"த4ட்3டெ3, த4ட்3டு3வொ","dhaDDe, dhaDDuvo",,,,Send,அனுப்பு,,,,verb,corpus_sourashtradictionary
+,,அலக்3கொ3 கேர் / கெருவொ,alaggo kEr / keruvo,,,,Separate,பிரித்தெடு,,,,verb,corpus_sourashtradictionary
+,,"ஹொவ்டி3, ஹொவ்டு3வொ","hovDi, hovDuvo",,,,Serve,பரிமாறு,,,,verb,corpus_sourashtradictionary
+,,"திராட், திரடு3வொ","tiraaT, tiraDuvo",,,,Settle,தீர்த்து வை,,,,verb,corpus_sourashtradictionary
+,,"காட், கடு3வொ","kaaT, kaDuvo",,,,Sever,"அறு, நறுக்கு",,,,verb,corpus_sourashtradictionary
+,,"குட்கொ கேர், கெருவொ","kuTko kEr, keruvo",,,,Sever,துண்டாக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஸீவ், ஸிவொ","seev, sivo",,,,Sew,தை,,,,verb,corpus_sourashtradictionary
+,,"ஹவ்ளி, ஹவ்ளுவொ","havLi, havLuvo",,,,"Shake, Pump",ஆட்டு / குலுக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஹுல்பி, ஹுல்புவொ","hulpi, hulpuvo",,,,Shake,ஆட்டு / குலுக்கு,,,,verb,corpus_sourashtradictionary
+,,"விலிஞ்சி, விலிஞ்சுவொ","vilinjci, vilinjcuvo",,,,Shake out,உதறு,,,,verb,corpus_sourashtradictionary
+,,(ஜுட்டி தெ4ரி) கு4ம்மி / கு4ம்முவொ,(juTTi dheri) ghummi / ghummuvo,,,,Shake violently (by holding the tuft),(குடுமியை பிடித்து) உலுக்கு,,,,verb,corpus_sourashtradictionary
+,,"போ2ட்3, பொ2டு3வொ","phOD, phoDuvo",,,,"Shatter, Demolish, Perish","நொறுக்கு, உடை",,,,verb,corpus_sourashtradictionary
+,,"உத்3கி3ர், உத்3கி3ருவொ","udgir, udgiruvo",,,,Shine,பிரகாசி,,,,verb,corpus_sourashtradictionary
+,,"ஜூல், ஜுலுவொ","jool, juluvo",,,,Shine,"பிரகாசி, மின்னு, ஒளிவீசு",,,,verb,corpus_sourashtradictionary
+,,"ஒண்ட்கி, ஒண்ட்குவொ","oNTki, oNTkuvo",,,,Shiver,நடுங்கு,,,,verb,corpus_sourashtradictionary
+,,ஹத்தெ லகா3ட் / லக3டு3வொ,hatte lagaaT / lagaDuvo,,,,(give) Shock,அதிர்ச்சியூட்டு,,,,verb,corpus_sourashtradictionary
+,,"பெதி3ர், பெது3ருவொ","pedir, peduruvo",,,,(be) Shocked,அதிர்ச்சியடை,,,,verb,corpus_sourashtradictionary
+,,"விந்தி3, விந்து3வொ","vindi, vinduvo",,,,Shoot,அம்பு எய்,,,,verb,corpus_sourashtradictionary
+,,"லாவ், லவொ","laav, lavo",,,,Shoot,சுடு,,,,verb,corpus_sourashtradictionary
+,,"கீ3ட்3, கி3டு3வொ","geeD, giDuvo",,,,Shorten,சுருக்கு,,,,verb,corpus_sourashtradictionary
+,,பா4ட் தாய் / தவொ,bhaaT taay / tavo,,,,Shout,"கத்து, கூச்சலிடு",,,,verb,corpus_sourashtradictionary
+,,"கத்தி, கத்துவொ","katti, kattuvo",,,,Shout,"கத்து, கூச்சலிடு",,,,verb,corpus_sourashtradictionary
+,,ரெச்செ தாய் / தவொ,recce taay / tavo,,,,Shout,"கத்து, கூச்சலிடு",,,,verb,corpus_sourashtradictionary
+,,"தெ3க்காட், தெ3க்கடு3வொ","dekkaaT, dekkaDuvo",,,,Show,காட்டு,,,,verb,corpus_sourashtradictionary
+,,"ஜா2ய், ஜ2வொ","jhaay, jhavo",,,,Shut,மூடு,,,,verb,corpus_sourashtradictionary
+,,ஹெட்3டெ3 அஸொ ஆஸ் / அஸுவொ,heDDe aso aas / asuvo,,,,Simper,அசட்டுச் சிரிப்பு சிரி,,,,verb,corpus_sourashtradictionary
+,,"கா3வ், க3வொ","gaav, gavo",,,,Sing,பாடு,,,,verb,corpus_sourashtradictionary
+,,"ஜூ2ர், ஜு2ருவொ","jhoor, jhuruvo",,,,Sip,உறிஞ்சு,,,,verb,corpus_sourashtradictionary
+,,"பீ3ஸ், பி3ஸுவொ","bees, bisuvo",,,,Sit,உட்கார்,,,,verb,corpus_sourashtradictionary
+,,செக்கி தாய் / தவொ,cekki taay / tavo,,,,Slash,சீவு / வெட்டிச்சாய்,,,,verb,corpus_sourashtradictionary
+,,"சீவ், சிவொ","ceev, civo",,,,Slash,சீவு / வெட்டிச்சாய்,,,,verb,corpus_sourashtradictionary
+,,"நிஞ்ஜி, நிஞ்ஜுவொ","ninjji, ninjjuvo",,,,Sleep,"உறங்கு, தூங்கு",,,,verb,corpus_sourashtradictionary
+,,"ஜி2ர்க்கி, ஜி2ர்க்குவொ","jhirkki, jhirkkuvo",,,,Slide,"சறுக்கு, வழுக்கு",,,,verb,corpus_sourashtradictionary
+,,"ஜி2ர்க்கி, ஜி2ர்க்குவொ","jhirkki, jhirkkuvo",,,,Slip,வழுக்கு,,,,verb,corpus_sourashtradictionary
+,,ஹனி போ2ட் / பொடு3வொ,hani phOT / poDuvo,,,,Smash,அடித்து நொறுக்கு,,,,verb,corpus_sourashtradictionary
+,,"லாவ், லவொ","laav, lavo",,,,Smear,மொழுகு / பூசு,,,,verb,corpus_sourashtradictionary
+,,"ஸவ்ரி, ஸவ்ருவொ","savri, savruvo",,,,Smear,மொழுகு / பூசு,,,,verb,corpus_sourashtradictionary
+,,ஹுங்கி3 ஸா / ஸவொ,hunggi saa / savo,,,,Smell,முகர்ந்து பார்,,,,verb,corpus_sourashtradictionary
+,,"ஆஸ், அஸுவொ","aas, asuvo",,,,Smile,சிரி,,,,verb,corpus_sourashtradictionary
+,,"தோட், தொடு3வொ","tOT, toDuvo",,,,Snatch,வெடுக்கென பறி,,,,verb,corpus_sourashtradictionary
+,,"உக்கி, உக்குவொ","ukki, ukkuvo",,,,Snatch,வெடுக்கென பறி,,,,verb,corpus_sourashtradictionary
+,,"ஸிகி3ர், ஸிகு3ருவொ","sigir, siguruvo",,,,Sneeze,தும்மு,,,,verb,corpus_sourashtradictionary
+,,"பி3ஜ்ஜாட், பி3ஜ்ஜடு3வொ","bijjaaT, bijjaDuvo",,,,Soak,ஊறவை,,,,verb,corpus_sourashtradictionary
+,,பு3ஸ்கிட்டி ரோட் / ரொடு3வொ,buskiTTi rOT / roDuvo,,,,Sob,குலுங்கி அழு,,,,verb,corpus_sourashtradictionary
+,,"பொள்கி3, பொள்கு3வொ","poLgi, poLguvo",,,,Socialize,பழகு,,,,verb,corpus_sourashtradictionary
+,,"அடாட், அடடு3வொ","aTaaT, aTaDuvo",,,,Solidify,"சுண்டச்செய், கெட்டியாக்கு",,,,verb,corpus_sourashtradictionary
+,,"திராட், திரடு3வொ","tiraaT, tiraDuvo",,,,Solve,தீர்த்து வை,,,,verb,corpus_sourashtradictionary
+,,பீகு கா4ல் / க4லுவொ,peeku ghaal / ghaluvo,,,,Sow,"பயிரிடு, விதையிடு",,,,verb,corpus_sourashtradictionary
+,,வத்தொ கேர் / கெருவொ,vatto kEr / keruvo,,,,Speak,பேசு,,,,verb,corpus_sourashtradictionary
+,,"ஸார், ஸருவொ","saar, saruvo",,,,Spend,செலவிடு,,,,verb,corpus_sourashtradictionary
+,,"சொல்லாட், சொல்லடு3வொ","collaaT, collaDuvo",,,,Spill,சிந்து,,,,verb,corpus_sourashtradictionary
+,,சுட்டு பி2ராட் / பி2ரடு3வொ,cuTTu phiraaT / phiraDuvo,,,,Spin,சுழற்று,,,,verb,corpus_sourashtradictionary
+,,"மோள், மொளுவொ","mOL, moLuvo",,,,Spin,நூல் திரி,,,,verb,corpus_sourashtradictionary
+,,தாக் கா2ட் / க2டு3வொ,taak khaaT / khaDuvo,,,,Spin,நூல் திரி,,,,verb,corpus_sourashtradictionary
+,,"தூ2வ், து2வொ","thoov, thuvo",,,,Spit,தூ2வ்,,,,verb,corpus_sourashtradictionary
+,,"து3ள்கி, து3ள்குவொ","duLki, duLkuvo",,,,Spit up,வாயிலெடு,,,,verb,corpus_sourashtradictionary
+,,"செது3ராட், செது3ரடு3வொ","ceduraaT, ceduraDuvo",,,,Splash,"சிதற விடு, தெறிக்கச்செய்",,,,verb,corpus_sourashtradictionary
+,,பா2ட்3 கேர் / கெருவொ,phaaD kEr / keruvo,,,,Split,பிள,,,,verb,corpus_sourashtradictionary
+,,"விஸ்தரிஞ்சி, விஸ்தரிஞ்சுவொ","vistarinjci, vistarinjcuvo",,,,Spread,"விரிவாக்கு, பரப்பு",,,,verb,corpus_sourashtradictionary
+,,"சிலிஞ்சி, சிலிஞ்சுவொ","cilinjci, cilinjcuvo",,,,Sprinkle,தெளி,,,,verb,corpus_sourashtradictionary
+,,"ஸிஞ்சி, ஸிஞ்சுவொ","sinjci, sinjcuvo",,,,Sprinkle,தெளி,,,,verb,corpus_sourashtradictionary
+,,"தெ2ள்சி, தெ2ள்சுவொ","theLci, theLcuvo",,,,Sprinkle,தெளி,,,,verb,corpus_sourashtradictionary
+,,ஸொடு3முஞ்ஜொ கேர் / கெருவொ,soDumunjjo kEr / keruvo,,,,Sprinkle the front yard,வாசல் தெளி,,,,verb,corpus_sourashtradictionary
+,,"தேஸ், தெஸுவொ","tEs, tesuvo",,,,Squash,நசுக்கு,,,,verb,corpus_sourashtradictionary
+,,"பிவ்லி, பிவ்லுவொ","pivli, pivluvo",,,,Squeeze,"பிழி, கசக்கு",,,,verb,corpus_sourashtradictionary
+,,"பீள், பிளுவொ","peeL, piLuvo",,,,Squeeze,"பிழி, முறுக்கு",,,,verb,corpus_sourashtradictionary
+,,"குஸ்கி, குஸ்குவொ","kuski, kuskuvo",,,,Stab,குத்து,,,,verb,corpus_sourashtradictionary
+,,சாகு ஹால் கூ2பி3 / கு2பு3வொ,caaku haal khoobi / khubuvo,,,,Stab,கத்தியால் குத்து,,,,verb,corpus_sourashtradictionary
+,,"அட்கி, அட்குவொ","aTki, aTkuvo",,,,Stack,அடுக்கி வை,,,,verb,corpus_sourashtradictionary
+,,ஹிப்3பி3 ர்ஹா / ர்ஹவொ,hibbi rhaa / rhavo,,,,Stand,நில்,,,,verb,corpus_sourashtradictionary
+,,"ஹூட், ஹுடு3வொ","hooT, huDuvo",,,,Stand,எழு,,,,verb,corpus_sourashtradictionary
+,,ஹர்ம்பம் கேர் / கெருவொ,harmpam kEr / keruvo,,,,Start,"தொடங்கு, ஆரம்பி",,,,verb,corpus_sourashtradictionary
+,,"மாட், மடு3வொ","maaT, maDuvo",,,,Start,"தொடங்கு, ஆரம்பி",,,,verb,corpus_sourashtradictionary
+,,"நிகி3ள், நிகு3ளுவொ","nigiL, niguLuvo",,,,Start,"புறப்படு, கிளம்பு",,,,verb,corpus_sourashtradictionary
+,,உல்கி போட் / பொடு3வொ,ulki pOT / poDuvo,,,,Startle,திடுக்கிடு,,,,verb,corpus_sourashtradictionary
+,,வஸன் கேர் / கெருவொ,vasan kEr / keruvo,,,,Stay,தங்கு,,,,verb,corpus_sourashtradictionary
+,,"ஒத்தி, ஒத்துவொ","otti, ottuvo",,,,Stay aside,ஒதுங்கு,,,,verb,corpus_sourashtradictionary
+,,ஒத்தி ஹிப்3பி3 ர்ஹா,otti hibbi rhaa,,,,Stay away,"தள்ளி இரு, தள்ளி நில், விலகி இரு",,,,verb,corpus_sourashtradictionary
+,,"சோர், சொருவொ","cOr, coruvo",,,,Steal,திருடு,,,,verb,corpus_sourashtradictionary
+,,"ஸுவ்ஜி, ஸுவ்ஜுவொ","suvji, suvjuvo",,,,Steam,அவி,,,,verb,corpus_sourashtradictionary
+,,"தே3ஸ், தெ3ஸுவொ","dEs, desuvo",,,,Stick,ஒட்டு,,,,verb,corpus_sourashtradictionary
+,,"(விஞ்சு ஸொகன்) தொஞ்சி, தொஞ்சுவொ","(vinjcu sokan) tonjci, tonjcuvo",,,,Sting,(கொடுக்கால்) கொட்டு,,,,verb,corpus_sourashtradictionary
+,,"ஒங்கி3, ஒங்கு3வொ","onggi, ongguvo",,,,Stoop,குனி,,,,verb,corpus_sourashtradictionary
+,,ஹிப்பி3 ர்ஹவாட் / ர்ஹவடு3வொ,hipbi rhavaaT / rhavaDuvo,,,,"Stop, Prevent",நிறுத்து,,,,verb,corpus_sourashtradictionary
+,,"நித்ராட், நித்ரடு3வொ","nitraaT, nitraDuvo",,,,Strain,வடிகட்டு,,,,verb,corpus_sourashtradictionary
+,,கெ3லொ பிஸ்கி / பிஸ்குவொ,gelo piski / piskuvo,,,,Strangle,கழுத்தை நெரி,,,,verb,corpus_sourashtradictionary
+,,"அந்தி3, அந்து3வொ","andi, anduvo",,,,Stretch out,எட்டு,,,,verb,corpus_sourashtradictionary
+,,திவுஞ்சி தோ2வ் / தொ2வொ,tivunjci thOv / thovo,,,,Stuff it,திணித்து வை,,,,verb,corpus_sourashtradictionary
+,,"பெ3து3ராட், பெ3து3ரடு3வொ","beduraaT, beduraDuvo",,,,Stun,பிரமிக்கச் செய்,,,,verb,corpus_sourashtradictionary
+,,"உட்3கா4ட், உட்3க3டு3வொ","uDghaaT, uDgaDuvo",,,,Subdue,அடக்கு,,,,verb,corpus_sourashtradictionary
+,,"என்கி3, என்கு3வொ","engi, enguvo",,,,Submit,அடங்கு,,,,verb,corpus_sourashtradictionary
+,,ஸமர்ப்பித் கேர் / கெருவொ,samarppit kEr / keruvo,,,,Submit it,சமர்ப்பி,,,,verb,corpus_sourashtradictionary
+,,"ஜூ2ர், ஜு2ருவொ","jhoor, jhuruvo",,,,Suck,உறிஞ்சு,,,,verb,corpus_sourashtradictionary
+,,கெஷ்டம் போட் / பொடு3வொ,keshTam pOT / poDuvo,,,,Suffer,கஷ்டப்படு,,,,verb,corpus_sourashtradictionary
+,,பெ3து3ராட் / பெ3து3ரடு3வொ,beduraaT / beduraDuvo,,,,"Surprise, Amaze",ஆச்சரியப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,"நிள்ச்சி, நிள்ச்சுவொ","niLcci, niLccuvo",,,,Survive,நிலைத்திரு,,,,verb,corpus_sourashtradictionary
+,,"கீ3ல், கி3லுவொ","geel, giluvo",,,,Swallow,முழுங்கு,,,,verb,corpus_sourashtradictionary
+,,"மிங்கி3, மிங்கு3வொ","minggi, mingguvo",,,,Swallow,முழுங்கு,,,,verb,corpus_sourashtradictionary
+,,குப்பொ வார் / வருவொ,kuppo vaar / varuvo,,,,Sweep,"அள்ளு, குப்பை பெருக்கு",,,,verb,corpus_sourashtradictionary
+,,வார் / வருவொ,vaar / varuvo,,,,Sweep,"அள்ளு, வாரி எடு",,,,verb,corpus_sourashtradictionary
+,,"து4ண்டி3, து4ண்டு3வொ","dhuNDi, dhuNDuvo",,,,Swim,நீந்து,,,,verb,corpus_sourashtradictionary
+,,"தீர், திருவொ","teer, tiruvo",,,,Swim,நீந்து,,,,verb,corpus_sourashtradictionary
+,,"ஈதொ கா2ள், ஈதொ களுவொ","eeto khaaL, eeto kaLuvo",,,,Swim,நீந்து,,,,verb,corpus_sourashtradictionary
+,,"ஹிந்தா3ல், ஹிந்த3லுவொ","hindaal, hindaluvo",,,,Swing,ஊஞ்சலாடு,,,,verb,corpus_sourashtradictionary
+,,சுட்டு பி2ராட் / பி2ரடு3வொ,cuTTu phiraaT / phiraDuvo,,,,Swirl,சுழற்று,,,,verb,corpus_sourashtradictionary
+,,"ஹேட், ஹெடு3வொ","hET, heDuvo",,,,"Take, Pick",எடு,,,,verb,corpus_sourashtradictionary
+,,"க2ல்லெ, க2ல்லுவொ","khalle, khalluvo",,,,"Take, Pick",எடு,,,,verb,corpus_sourashtradictionary
+,,"லெஜ்ஜா, லெஜ்ஜவொ","lejjaa, lejjavo",,,,Take away,கொண்டு போ,,,,verb,corpus_sourashtradictionary
+,,"கௌ3ஞ்சிலெ, கௌ3ஞ்சுலுவொ","gaunjcile, gaunjculuvo",,,,Take care,கவனித்துக் கொள்,,,,verb,corpus_sourashtradictionary
+,,வத்தொ கேர் / கெருவொ,vatteaa kEr / keruvo,,,,Talk,பேசு,,,,verb,corpus_sourashtradictionary
+,,"ஶுந்தி3, ஶுந்து3வொ","ssundi, ssunduvo",,,,Tan,பதனிடு,,,,verb,corpus_sourashtradictionary
+,,"மிட்டி, மிட்டுவொ","miTTi, miTTuvo",,,,Tap,"சுண்டு, கொட்டு",,,,verb,corpus_sourashtradictionary
+,,"ருசி ஸா, ருசி ஸவொ","ruci saa, ruci savo",,,,Taste,சுவைத்துப்பார்,,,,verb,corpus_sourashtradictionary
+,,"ஸிக்காட், ஸிக்கடு3வொ","sikkaaT, sikkaDuvo",,,,Teach,கற்றுக் கொடு,,,,verb,corpus_sourashtradictionary
+,,"பா2ட்3, ப2டு3வொ","phaaD, phaDuvo",,,,Tear,கிழி,,,,verb,corpus_sourashtradictionary
+,,"மேன், மெனுவொ","mEn, menuvo",,,,Tell,சொல்,,,,verb,corpus_sourashtradictionary
+,,"ஸங்கி3, ஸங்கு3வொ","sanggi, sangguvo",,,,Tell,சொல்,,,,verb,corpus_sourashtradictionary
+,,ஹவ்டி3 ஸா / ஸவொ,havDi saa / savo,,,,Think,சிந்தி,,,,verb,corpus_sourashtradictionary
+,,யோஜனொ கேர் / கெருவொ,yOjano kEr / keruvo,,,,Think,யோசி,,,,verb,corpus_sourashtradictionary
+,,"போம், பொமுவொ","pOm, pomuvo",,,,Thread (a needle),(ஊசியில் நூல்) கோர்,,,,verb,corpus_sourashtradictionary
+,,"வீஸ், விஸுருவொ","vees, visuruvo",,,,Throw,எறி,,,,verb,corpus_sourashtradictionary
+,,"ப4ந்தி3, ப4ந்து3வொ","bhandi, bhanduvo",,,,Tie,கட்டு,,,,verb,corpus_sourashtradictionary
+,,"பி3கு3ஞ்சி, பி3கு3ஞ்சுவொ","bigunjci, bigunjcuvo",,,,Tighten,இறுக்கு,,,,verb,corpus_sourashtradictionary
+,,ஹோட்3 கேர் / கெருவொ,hOD kEr / keruvo,,,,Tighten,இறுக்கு,,,,verb,corpus_sourashtradictionary
+,,ஓர்ப்பு கெர்லெ / கெர்லுவொ,Orppu kerle / kerluvo,,,,Tolerate,பொறுத்துக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"ஸெகு3ஞ்சிலெ, ஸெகு3ஞ்சுலுவொ","segunjcile, segunjculuvo",,,,Tolerate,சகித்துக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"தே4ர், தெ4ருவொ","dhEr, dheruvo",,,,Touch,தொடு,,,,verb,corpus_sourashtradictionary
+,,"து3மாட், து3மடு3வொ","dumaaT, dumaDuvo",,,,Train,பழக்கு,,,,verb,corpus_sourashtradictionary
+,,"ஶிக்காட், ஶிக்கடு3வொ","ssikkaaT, ssikkaDuvo",,,,Train,பழக்கு,,,,verb,corpus_sourashtradictionary
+,,"தொக்கி, தொக்குவொ","teaakki, tokkuvo",,,,Trample,காலால் மிதி,,,,verb,corpus_sourashtradictionary
+,,உபசார் கேர் / கெருவொ,upacaar kEr / keruvo,,,,Treat,உபசரி,,,,verb,corpus_sourashtradictionary
+,,"எத்தன் கேர், எத்தன் கெருவொ","ettan kEr, ettan keruvo",,,,Try,முயற்சி செய்,,,,verb,corpus_sourashtradictionary
+,,"பி2வ்ரி, பி2வ்ருவொ","phivri, phivruvo",,,,Turn,திருப்பு,,,,verb,corpus_sourashtradictionary
+,,"பீ2ர், பி2ருவொ","pheer, phiruvo",,,,Turn around,திரும்பு,,,,verb,corpus_sourashtradictionary
+,,"ம்ஹொவ்லி, ம்ஹொவ்லுவொ","mhovli, mhovluvo",,,,"Turn off, Switch off",அணை,,,,verb,corpus_sourashtradictionary
+,,"மெர்ஸி, மெர்ஸுவொ","mersi, mersuvo",,,,"Twinkle, Glitter",மின்னு,,,,verb,corpus_sourashtradictionary
+,,"முவ்ரி, முவ்ருவொ","muvri, muvruvo",,,,Twist,"திருகு, முறுக்கு",,,,verb,corpus_sourashtradictionary
+,,பீள் கா4ல் / க4லுவொ,peeL ghaal / ghaluvo,,,,Twist,"திருகு, முறுக்கு",,,,verb,corpus_sourashtradictionary
+,,"ஊள், உளுவொ","uuL, uLuvo",,,,Twist,"திருகு, முறுக்கு",,,,verb,corpus_sourashtradictionary
+,,ப4ராட் அவாட் / அவடு3வொ,bharaaT avaaT / avaDuvo,,,,Uncover,வெளிப்படுத்து,,,,verb,corpus_sourashtradictionary
+,,உன்னொகெரி க3ணிஞ்சி / க3ணிஞ்சுவொ,unnokeri gaNinjci / gaNinjcuvo,,,,Underestimate,குறைத்து மதிப்பிடு,,,,verb,corpus_sourashtradictionary
+,,ஜனி போட் / பொடு3வொ,jani pOT / poDuvo,,,,Undergo,உட்படு,,,,verb,corpus_sourashtradictionary
+,,இவர் கெர்லெ / கெர்லுவொ,ivar kerle / kerluvo,,,,Understand,புரிந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,இவர் பொட3ள்ளெ / பொட3ள்ளுவொ,ivar poDaLLe / poDaLLuvo,,,,Understand,புரிந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,க2ல்லி கேர் / கெருவொ,khalli kEr / keruvo,,,,Undertake,மேற்கொள்,,,,verb,corpus_sourashtradictionary
+,,"ஸொவ்டி3, ஸொவ்டு3வொ","sovDi, sovDuvo",,,,Undress,கழட்டு,,,,verb,corpus_sourashtradictionary
+,,"ஹூட், ஹுடு3வொ","hooT, huDuvo",,,,Unfold,பிரி,,,,verb,corpus_sourashtradictionary
+,,தொ3ரி ஸொவ்டி3 ஸோட் / ஸொடு3வொ,dori sovDi sOT / soDuvo,,,,Unleash,கட்டவிழ்த்து விடு,,,,verb,corpus_sourashtradictionary
+,,க4ந்த்ரொ ஸொவ்டி3 / ஸொவ்டு3வொ,ghantro sovDi / sovDuvo,,,,Unpack,கட்டைப் பிரி,,,,verb,corpus_sourashtradictionary
+,,"ஸொவ்டி3, ஸொவ்டு3வொ","sovDi, sovDuvo",,,,Untie,"அவிழ், கழட்டு",,,,verb,corpus_sourashtradictionary
+,,"ஸொவ்டி3, ஸொவ்டு3வொ","sovDi, sovDuvo",,,,Unwrap,அவிழ்த்து விடு,,,,verb,corpus_sourashtradictionary
+,,நொவ்வொ கேர் / கெருவொ,novvo kEr / keruvo,,,,Update,புதுப்பி,,,,verb,corpus_sourashtradictionary
+,,பி4ள்ளொ கேர் / கெருவொ,bhiLLo kEr / keruvo,,,,Upgrade,மேம்படுத்தல்,,,,verb,corpus_sourashtradictionary
+,,ஆத3ரொ தே3 / தெவொ,aadaro dE / tevo,,,,Uphold,ஆதரி,,,,verb,corpus_sourashtradictionary
+,,இவர் ஹிங்கா3ட் / ஹிங்க3டு3வொ,ivar hinggaaT / hinggaDuvo,,,,Upload,பதிவேற்றவும்,,,,verb,corpus_sourashtradictionary
+,,மூள் ஸெரொ உக்கி / உக்குவொ,mooL sero ukki / ukkuvo,,,,Uproot,வேரோடு பிடுங்கு,,,,verb,corpus_sourashtradictionary
+,,"அல்லாட், அல்லடு3வொ","allaaT, allaDuvo",,,,Urge,அவசரப்படு,,,,verb,corpus_sourashtradictionary
+,,உபயோக்3 கேர் / கெருவொ,upayOg kEr / keruvo,,,,Use,பயன்படுத்து,,,,verb,corpus_sourashtradictionary
+,,"உபயுகி3, உபயுகு3வொ","upayugi, upayuguvo",,,,Use,பயன்படுத்து,,,,verb,corpus_sourashtradictionary
+,,"வௌரி, வௌவ்ருவொ","vauri, vauvruvo",,,,Use,பயன்படுத்து,,,,verb,corpus_sourashtradictionary
+,,உபயோக்3 கேர் / கெருவொ,upayOg kEr / keruvo,,,,Utilize,உபயோகி,,,,verb,corpus_sourashtradictionary
+,,வெதுர்ஞ்ஸிவி தோ2வ் / தொ2வொ,veturnjsivi thOv / thovo,,,,Vaccinate,தடுப்பூசி போடு,,,,verb,corpus_sourashtradictionary
+,,ஸெர்க்கொ ஸா / ஸவொ,serkko saa / savo,,,,Validate,சரி பார்,,,,verb,corpus_sourashtradictionary
+,,ஸெர்க்கொ ஸா / ஸவொ,serkko saa / savo,,,,Verify,சரி பார்,,,,verb,corpus_sourashtradictionary
+,,"ஸா, ஸவொ","saa, savo",,,,View,பார்,,,,verb,corpus_sourashtradictionary
+,,"தா3ட், த3டு3வொ","daaT, daDuvo",,,,Violate,மீறு,,,,verb,corpus_sourashtradictionary
+,,"லுண்டி3, லுண்டு3வொ","luNDi, luNDuvo",,,,Violate,மீறு,,,,verb,corpus_sourashtradictionary
+,,ப்ரவேஶ் கேர் / கெருவொ,pravEss kEr / keruvo,,,,Visit,வருகை தா,,,,verb,corpus_sourashtradictionary
+,,விஜயம் கேர் / கெருவொ,vijayam kEr / keruvo,,,,Visit,வருகை தா,,,,verb,corpus_sourashtradictionary
+,,கல்பனொ கெரி ஸா / ஸவொ,kalpano keri saa / savo,,,,Visualize,கற்பனை செய்துபார்,,,,verb,corpus_sourashtradictionary
+,,ஒக3ரி கேர் / கெருவொ,ogari kEr / keruvo,,,,Vomit,வாந்தி எடு,,,,verb,corpus_sourashtradictionary
+,,வம்னி கேர் / கெருவொ,vamni kEr / keruvo,,,,Vomit,வாந்தி எடு,,,,verb,corpus_sourashtradictionary
+,,"ஓடு தாய், ஓடு தவொ","OTu taay, OTu tavo",,,,Vote,வாக்களி,,,,verb,corpus_sourashtradictionary
+,,"ர்ஹக்கி, ர்ஹக்குவொ","rhakki, rhakkuvo",,,,Wait,காத்திரு,,,,verb,corpus_sourashtradictionary
+,,"ர்ஹா, ர்ஹவொ","rhaa, rhavo",,,,Wait,"இரு, தங்கு",,,,verb,corpus_sourashtradictionary
+,,"நோஸ், நொஸுவொ","nOs, nosuvo",,,,Wait,பொறு,,,,verb,corpus_sourashtradictionary
+,,"ஜாய், ஜவொ","jaay, javo",,,,Wake,விழித்தெழு,,,,verb,corpus_sourashtradictionary
+,,"சால், சலுவொ","caal, caluvo",,,,Walk,நட,,,,verb,corpus_sourashtradictionary
+,,"ஹிண்டி3, ஹிண்டு3வொ","hiNDi, hiNDuvo",,,,Wander,சுற்றித்திரி,,,,verb,corpus_sourashtradictionary
+,,இஷ்டம் போட் / பொடு3வொ,ishTam pOT / poDuvo,,,,Want,விருப்பம் கொள்,,,,verb,corpus_sourashtradictionary
+,,"தூ4வ், து4வொ","dhoov, dhuvo",,,,Wash,கழுவு,,,,verb,corpus_sourashtradictionary
+,,"மஞ்ஜி, மஞ்ஜுவொ","manjji, manjjuvo",,,,Wash,துலக்கு,,,,verb,corpus_sourashtradictionary
+,,"மோஸ், மொஸுவொ","mOs, mosuvo",,,,Wash,அலம்பு,,,,verb,corpus_sourashtradictionary
+,,"கு4ஞ்ஜி, கு4ஞ்ஜுவொ","ghunjji, ghunjjuvo",,,,Wash (Clothes),துவை,,,,verb,corpus_sourashtradictionary
+,,"நிங்கி, நிங்குவொ","ningki, ningkuvo",,,,Wash clothes,துவை,,,,verb,corpus_sourashtradictionary
+,,க3வுஞ்சி ஸா / ஸவொ,gavunjci saa / savo,,,,Watch,கூர்ந்து நோக்கு,,,,verb,corpus_sourashtradictionary
+,,"க4ல்லெ, க4ல்லுவொ","ghalle, ghalluvo",,,,Wear,அணிந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,"பி2ல்லெ, பி2ல்லுவொ","phille, philluvo",,,,Wear,அணிந்துகொள்,,,,verb,corpus_sourashtradictionary
+,,"தி3ஜாட், தி3ஜடு3வொ,","dijaaT, dijaDuvo,",,,,Wear it away,தேய்ந்து போக வை,,,,verb,corpus_sourashtradictionary
+,,"வீன், வினுவொ","veen, vinuvo",,,,Weave,நெய்,,,,verb,corpus_sourashtradictionary
+,,"ரோட், ரொடு3வொ","rOT, roDuvo",,,,Weep,அழு,,,,verb,corpus_sourashtradictionary
+,,"பா4ர் தாய், பா4ர் தவொ","bhaar taay, bhaar tavo",,,,Weigh,எடை போடு,,,,verb,corpus_sourashtradictionary
+,,ஜோக்3 / ஜொகு3வொ,jOg / joguvo,,,,Weigh,எடையிடு,,,,verb,corpus_sourashtradictionary
+,,"பொள்ளிபோட், பொள்ளிபொடு3வொ","poLLipOT, poLLipoDuvo",,,,Welter,புரளு,,,,verb,corpus_sourashtradictionary
+,,ஒல்லொ கேர் / கெருவொ,ollo kEr / keruvo,,,,Wet,ஈரமாக்கு,,,,verb,corpus_sourashtradictionary
+,,"பி3வ்ஜி, பி3வ்ஜுவொ","bivji, bivjuvo",,,,Wet,நனை,,,,verb,corpus_sourashtradictionary
+,,"ப2ங்கி3ட், ப2ங்கி3டு3வொ","phanggiT, phanggiDuvo",,,,Winnow,(முறத்தால்) புடை,,,,verb,corpus_sourashtradictionary
+,,"போஸ், பொஸுவொ","pOs, posuvo",,,,Wipe,துடை,,,,verb,corpus_sourashtradictionary
+,,ஆஸ்தொ போட் / பொடு3வொ,aasto pOT / poDuvo,,,,Wish,ஆசைப்படு,,,,verb,corpus_sourashtradictionary
+,,"பாய்ஞ்போட், பாய்ஞ்பொடு3வொ","paaynjpOT, paaynjpoDuvo",,,,Worship,வழிபடு,,,,verb,corpus_sourashtradictionary
+,,"ப2ங்கி3ல்லெ, ப2ங்கு3ல்லுவொ","phanggille, phanggulluvo",,,,Wrap up,போர்த்திக்கொள்,,,,verb,corpus_sourashtradictionary
+,,"முவ்ரி, முவ்ருவொ","muvri, muvruvo",,,,Wring,முறுக்கு,,,,verb,corpus_sourashtradictionary
+,,"லிக்கி, லிக்குவொ","likki, likkuvo",,,,Write,எழுது,,,,verb,corpus_sourashtradictionary
+,,தொ4ம்ப்3ளாய் தே3 / தெ3வொ,dhombLaay dE / devo,,,,Yawn,கொட்டாவி விடு,,,,verb,corpus_sourashtradictionary
+,,ஸொடி3 தே4ர் / தெ4ருவொ,soDi dhEr / dheruvo,,,,Yield,விட்டுக்கொடு,,,,verb,corpus_sourashtradictionary

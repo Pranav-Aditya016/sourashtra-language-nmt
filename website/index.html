@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sourashtra Translator</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500&display=swap"
+        rel="stylesheet">
+</head>
+
+<body>
+
+    <!-- ════════════════ HEADER ════════════════ -->
+    <header class="header">
+        <div class="header-inner">
+            <div class="logo">
+                <span class="logo-icon">ꢱꢾ</span>
+                <div>
+                    <h1>Sourashtra Translator</h1>
+                    <p class="subtitle">English / Tamil → Sourashtra Script</p>
+                </div>
+            </div>
+            <nav class="nav-tabs">
+                <button class="nav-tab active" data-tab="translate">Translate</button>
+                <button class="nav-tab" data-tab="dictionary">Dictionary</button>
+                <button class="nav-tab" data-tab="about">About</button>
+            </nav>
+        </div>
+    </header>
+
+    <!-- ════════════════ TRANSLATE ════════════════ -->
+    <main class="container">
+        <section id="tab-translate" class="tab-content active">
+
+            <!-- Input Card -->
+            <div class="input-card">
+                <div class="input-header">
+                    <div class="lang-toggle">
+                        <button class="lang-btn active" data-lang="english">English <span
+                                class="ai-badge-sm">AI</span></button>
+                        <button class="lang-btn" data-lang="tamil">தமிழ் <span class="ai-badge-sm">AI</span></button>
+                        <button class="lang-btn lang-btn-ai" data-lang="sourashtra">Sourashtra → EN <span
+                                class="ai-badge-sm">AI</span></button>
+                    </div>
+                    <button class="clear-btn" id="clearBtn" title="Clear">✕</button>
+                </div>
+                <div class="input-body">
+                    <input type="text" id="sourceInput" placeholder="Type an English word (e.g. milk, water, mother)..."
+                        spellcheck="false" autocomplete="off">
+                    <button class="translate-btn" id="translateBtn">
+                        <span class="btn-text">Translate</span>
+                        <span class="btn-loader" style="display:none;"></span>
+                    </button>
+                </div>
+                <div class="quick-examples" id="quickExamples">
+                    <span class="examples-label">Try:</span>
+                    <button class="example-chip" data-word="milk">milk</button>
+                    <button class="example-chip" data-word="water">water</button>
+                    <button class="example-chip" data-word="mother">mother</button>
+                    <button class="example-chip" data-word="house">house</button>
+                    <button class="example-chip" data-word="food">food</button>
+                    <button class="example-chip" data-word="sun">sun</button>
+                    <button class="example-chip" data-word="fish">fish</button>
+                    <button class="example-chip" data-word="red">red</button>
+                </div>
+            </div>
+
+            <!-- Results -->
+            <div class="results-area" id="resultsArea" style="display:none;">
+                <!-- Primary Result -->
+                <div class="primary-result" id="primaryResult">
+                    <div class="result-label">Sourashtra</div>
+                    <div class="sourashtra-script" id="mainScript">—</div>
+                    <div class="result-roman" id="mainRoman"></div>
+                    <div class="result-aliases">
+                        <div class="alias">
+                            <span class="alias-label">English</span>
+                            <span class="alias-value" id="mainEnglish"></span>
+                        </div>
+                        <div class="alias">
+                            <span class="alias-label">Tamil</span>
+                            <span class="alias-value" id="mainTamil"></span>
+                        </div>
+                    </div>
+                    <div class="result-footer">
+                        <span class="result-category" id="mainCategory"></span>
+                        <span class="result-confidence" id="mainConfidence"></span>
+                        <span class="result-time" id="mainTime"></span>
+                    </div>
+                </div>
+
+                <!-- More Matches -->
+                <div class="more-matches" id="moreMatches" style="display:none;">
+                    <h3 class="section-title">More Matches</h3>
+                    <div class="matches-grid" id="matchesGrid"></div>
+                </div>
+            </div>
+
+            <!-- Neural AI Result -->
+            <div class="neural-result-area" id="neuralResultArea" style="display:none;">
+                <div class="neural-result-card">
+                    <div class="neural-badge">🧠 AI Translation (V5 ByT5-small)</div>
+                    <div class="neural-input-label">Sourashtra Input:</div>
+                    <div class="neural-input-text" id="neuralInput"></div>
+                    <div class="neural-arrow">↓</div>
+                    <div class="neural-output-label">English Translation:</div>
+                    <div class="neural-output-text" id="neuralOutput"></div>
+                    <div class="neural-meta">
+                        <span class="neural-model" id="neuralModel"></span>
+                        <span class="neural-time" id="neuralTime"></span>
+                    </div>
+                </div>
+                <!-- Dictionary cross-references -->
+                <div class="neural-dict-matches" id="neuralDictMatches" style="display:none;">
+                    <h3 class="section-title">📖 Dictionary Cross-References</h3>
+                    <div class="matches-grid" id="neuralMatchesGrid"></div>
+                </div>
+            </div>
+
+            <!-- Empty State -->
+            <div class="empty-state" id="emptyState">
+                <div class="empty-icon">ꢱꢾ</div>
+                <p>Enter an English or Tamil word to find its Sourashtra translation</p>
+                <p class="empty-sub">Results appear in native Sourashtra script (ꢱꣂꢬꢵꢰ꣄ꢜ꣄ꢬ)</p>
+            </div>
+        </section>
+
+        <!-- ════════════════ DICTIONARY ════════════════ -->
+        <section id="tab-dictionary" class="tab-content" style="display:none;">
+            <div class="dict-card">
+                <div class="dict-controls">
+                    <div class="search-box">
+                        <svg class="search-icon" width="18" height="18" viewBox="0 0 24 24" fill="none"
+                            stroke="currentColor" stroke-width="2">
+                            <circle cx="11" cy="11" r="8" />
+                            <path d="M21 21l-4.35-4.35" />
+                        </svg>
+                        <input type="text" id="dictSearch" placeholder="Search English, Tamil, or Sourashtra...">
+                    </div>
+                    <select id="dictCategory" class="cat-select">
+                        <option value="">All Categories</option>
+                    </select>
+                    <span class="dict-count" id="dictCount">Loading...</span>
+                </div>
+                <div class="dict-table-wrap">
+                    <table class="dict-table">
+                        <thead>
+                            <tr>
+                                <th>Sourashtra Script</th>
+                                <th>Roman</th>
+                                <th>English</th>
+                                <th>Tamil</th>
+                                <th>Category</th>
+                            </tr>
+                        </thead>
+                        <tbody id="dictBody"></tbody>
+                    </table>
+                </div>
+                <div class="dict-pagination" id="dictPagination"></div>
+            </div>
+        </section>
+
+        <!-- ════════════════ ABOUT ════════════════ -->
+        <section id="tab-about" class="tab-content" style="display:none;">
+            <div class="about-card">
+                <h2>About This Project</h2>
+                <p class="about-intro">
+                    An AI-powered translation system for <strong>Sourashtra</strong> (ꢱꣂꢬꢵꢰ꣄ꢜ꣄ꢬ),
+                    an endangered Indo-Aryan language spoken by ~500,000 people in Tamil Nadu, India.
+                    This website lets you look up English or Tamil words and see them in the
+                    <strong>native Sourashtra script</strong> (Unicode Saurashtra block U+A880–U+A8DF),
+                    rendered with the Noto Sans Saurashtra font.
+                </p>
+
+                <div class="about-grid">
+                    <div class="about-section">
+                        <h3>📝 Sourashtra Script</h3>
+                        <p>
+                            The Saurashtra script is an abugida writing system derived from
+                            the Grantha script. It was encoded in Unicode 5.1 (2008) in the block
+                            U+A880–U+A8DF. This website uses the
+                            <strong>Noto Sans Saurashtra</strong> font by Google to render native script.
+                        </p>
+                        <div class="script-sample">
+                            <span class="script-large">ꢱꣂꢬꢵꢰ꣄ꢜ꣄ꢬ ꢩꢵꢯꢵ</span>
+                            <span class="script-sub">Sourashtra Bhaashaa — "Sourashtra Language"</span>
+                        </div>
+                    </div>
+
+                    <div class="about-section">
+                        <h3>📊 Model Evolution</h3>
+                        <div class="version-timeline" id="versionTimeline"></div>
+                    </div>
+
+                    <div class="about-section">
+                        <h3>🏗️ Architecture</h3>
+                        <ul>
+                            <li><strong>ByT5-small</strong> — 300M param byte-level Transformer (best neural: 9.25% EM)
+                            </li>
+                            <li><strong>Enhanced Retrieval</strong> — Levenshtein + Jaccard + Prefix matching</li>
+                            <li><strong>Tamil Cross-lingual Transfer</strong> — Leveraging Tamil-English pairs</li>
+                            <li><strong>Hybrid System</strong> — Neural + Retrieval ensemble (best: 9.61% EM)</li>
+                        </ul>
+                    </div>
+
+                    <div class="about-section">
+                        <h3>📚 Dataset</h3>
+                        <p>
+                            <strong id="dictSize">—</strong> word entries from the Sourashtra Dictionary
+                            project, covering <strong id="catCount">—</strong> categories including
+                            body parts, colors, animals, food, relationships, and more.
+                            Each entry includes: Sourashtra script, romanized form, English meaning,
+                            Tamil meaning, and category.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </main>
+
+    <!-- ════════════════ FOOTER ════════════════ -->
+    <footer class="footer">
+        <p>Sourashtra-English Neural Machine Translation • Research Project</p>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

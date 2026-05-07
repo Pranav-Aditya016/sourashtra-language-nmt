@@ -1,0 +1,19 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,நைதொ,naito,,,,Justice,"நீதி, நியாயம்",,,,court,corpus_sourashtradictionary
+,,நைதாஸபொ4,naitaasabho,,,,Court,நீதிமன்றம்,,,,court,corpus_sourashtradictionary
+,,கா2லு நைதாஸபொ4,khaalu naitaasabho,,,,Lower Court,கீழ்நீதிமன்றம்,,,,court,corpus_sourashtradictionary
+,,உஞ்சா நைதாஸபொ4,unjcaa naitaasabho,,,,"High court, Highcourt",உயர் நீதிமன்றம்,,,,court,corpus_sourashtradictionary
+,,ஸர்வோச்சொ,sarvOcco,,,,"Supreme, Apex",உச்சம்,,,,court,corpus_sourashtradictionary
+,,ஸர்வோச்சொ நைதாஸபொ4,sarvOcco naitaasabho,,,,Supreme court,உச்ச நீதிமன்றம்,,,,court,corpus_sourashtradictionary
+,,த3ண்டொ3 அர்க்யாரி,daNDo arkyaari,,,,Magistrate,குற்றவியல் நடுவர்,,,,court,corpus_sourashtradictionary
+,,வகீல்,vakeel,,,,Lawyer,வழக்கறிஞர்,,,,court,corpus_sourashtradictionary
+,,நியம்,niyam,,,,"Law, Rule, Convention","சட்டம், விதி, வழக்கம்",,,,court,corpus_sourashtradictionary
+,,நியாவ்,niyaav,,,,"Just, Fair, Sentence, Judgement, Vedict",நியாயம்,,,,court,corpus_sourashtradictionary
+,,தா3வொ,daaveaa,,,,"Argument, Debate, Case, Litigation","வாதம், வழக்கு",,,,court,corpus_sourashtradictionary
+,,பொரொ,poro,,,,Crime,குற்றம்,,,,court,corpus_sourashtradictionary
+,,தோ3ஷி,dOshi,,,,Guilty,"குற்ற உணர்வு, குற்றமுடைய",,,,court,corpus_sourashtradictionary
+,,தோ3ஷிபன்,dOshipan,,,,"Guilt, Crime, Offence",குற்றம்,,,,court,corpus_sourashtradictionary
+,,"ஸாக்ஷிதா3ர், ஸியெத்தெனொ","saakshidaar, siyetteno",,,,Witness,சாட்சி,,,,court,corpus_sourashtradictionary
+,,ஸாக்ஷ்யம்,saakshyam,,,,Testimony,சாட்சியம்,,,,court,corpus_sourashtradictionary
+,,ஆதா4ர்,aadhaar,,,,"Testimony, Base, Basis, Evidence, Proof",அடிப்படை,,,,court,corpus_sourashtradictionary
+,,நிர்ணயொ,nirNayo,,,,"Verdict, Judgment, Settlement, Sentence",தீர்ப்பு,,,,court,corpus_sourashtradictionary

@@ -1,0 +1,17 @@
+{
+  "task_en_sr": 9568,
+  "task_ta_sr": 9568,
+  "sent_augment_en_sr": 1724,
+  "sent_augment_ta_sr": 1725,
+  "total_train": 22585,
+  "val_size": 1276,
+  "test_size": 1914,
+  "augmentation_ratio": 2.36,
+  "languages": [
+    "english",
+    "tamil",
+    "sourashtra"
+  ],
+  "direction": "English/Tamil \u2192 Sourashtra",
+  "model": "byt5-small"
+}

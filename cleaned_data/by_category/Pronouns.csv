@@ -1,0 +1,25 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+ꢪꢷ,मी,மீ,mee,mI,mī,miː,I,நான்,,,,Pronouns,words
+ꢂꢪꢶ,अमि,அமி,ami,ami,ami,əmɪ,we,நாம்,,,,Pronouns,words
+ꢡꢹ,तू,தூ,too,tU,tū,t̪uː,you,நீ,,,,Pronouns,words
+ꢡꢸꢪꢶ,तुमि,துமி,tumi,tumi,tumi,t̪umɪ,you,நீர்,,,,Pronouns,words
+ꢌꢥꣁ,ए॑ना॑,எனொ,e'no',EnO,ĕnŏ,en̪o,he,இவன்,,,,Pronouns,words
+ꢄꢥꣁ,इना॑,இனொ,ino',inO,inŏ,ɪn̪o,she,இவள்,,,,Pronouns,words
+ꢌꢥꢸ,एनु,எனு,e'nu,Enu,ĕnu,en̪u,he,இவர்,,,,Pronouns,words
+ꢌꢥꢸ,एनु,எனு,e'nu,Enu,ĕnu,en̪u,they,இவர்கள்,,,,Pronouns,words
+ꢌꢭ꣄ꢫꣁ,एल्या॑,எல்யொ,e'lyo',ElyO,ĕlyŏ,eljo,it,இது,,,,Pronouns,words
+ꢌꢭ꣄ꢫꢾ,एल्ये,எல்யெ,e'lye',ElyE,ĕlyĕ,elje,they,இவை,,,,Pronouns,words
+ꢡꢾꢥꣁ,त॑ना॑,தெனொ,te'no',tEnO,tĕnŏ,t̪en̪o,he,அவன்,,,,Pronouns,words
+ꢡꢶꢥꣁ,तिना॑,தினொ,tino',tinO,tinŏ,t̪ɪn̪o,she,அவள்,,,,Pronouns,words
+ꢡ꣄ꢫꣁ,त्या॑,த்யொ,tyo',tyO,tyŏ,t̪jo,it,அது,,,,Pronouns,words
+ꢡ꣄ꢫꢾ,त्य॑,த்யெ,tye',tyE,tyĕ,t̪je,they,அவை,,,,Pronouns,words
+ꢂꢦꢸꢭ꣄,अपुल,அபுல்,apul,apul,apul,əpul,reflexive,தான்,,,,Pronouns,words
+ꢂꢦ꣄ꢭꢵꢥ꣄,अप्लान्,அப்லான்,aplaan,aplAn,aplān,əplɑːn̪,reflexive,தாம்,,,,Pronouns,words
+ꢡꢸꢪꢶ,तुमि,துமி,tumi,tumi,tumi,t̪umɪ,reflexive you,தாங்கள்,,,,Pronouns,words
+ꢒꣂꢥ꣄,कोन्,கோன்,kon,kon,kon,koːn̪,he,எவன்,,,,Pronouns,words
+ꢒꣂꢥ꣄,कोन्,கோன்,kon,kon,kon,koːn̪,she,எவள்,,,,Pronouns,words
+ꢒꣂꢥ꣄ꢒꣂꢥ꣄,कोन् कोन्,கோன்கோன்,konkon,konkon,konkon,koːn̪koːn̪,they,எவர்கள்,,,,Pronouns,words
+ꢒꣂꢥꢾ,कोन॑,கோனெ,kone',konE,konĕ,koːn̪e,which,எது,,,,Pronouns,words
+ꢒꣂꢥ꣄ꢫꢾ,कोन्य॑,கோன்யெ,konye',konyE,konyĕ,koːn̪je,which,எது,,,,Pronouns,words
+ꢒꣂꢥ꣄ꢫꣁ,कोन्या॑,கோன்யொ,konyo',konyO,konyŏ,koːn̪jo,which,எவை,,,,Pronouns,words
+ꢒꣂꢥ꣄,कोन्,கோன்,kon,kon,kon,koːn̪,who,யார்,,,,Pronouns,words

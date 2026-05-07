@@ -1,0 +1,502 @@
+[
+  {
+    "source": "pirEv pOT / poDuvo",
+    "reference": "Like",
+    "prediction": "resite"
+  },
+  {
+    "source": "mhaLi",
+    "reference": "Fish",
+    "prediction": "fill"
+  },
+  {
+    "source": "hubbas pot'",
+    "reference": "suffocate",
+    "prediction": "be sough"
+  },
+  {
+    "source": "angam",
+    "reference": "organ",
+    "prediction": "gonder"
+  },
+  {
+    "source": "chunt'ul",
+    "reference": "dandruff",
+    "prediction": "poin"
+  },
+  {
+    "source": "paTTi",
+    "reference": "List",
+    "prediction": "recation"
+  },
+  {
+    "source": "poshaan",
+    "reference": "Corridor, Eave, Sidewalk",
+    "prediction": "tample"
+  },
+  {
+    "source": "paskat' ho't'aar",
+    "reference": "backyard",
+    "prediction": "back"
+  },
+  {
+    "source": "vidEss",
+    "reference": "Foreign country, Abroad",
+    "prediction": "foreetion"
+  },
+  {
+    "source": "bestaar",
+    "reference": "Thursday",
+    "prediction": "sarder"
+  },
+  {
+    "source": "yuvan",
+    "reference": "young man",
+    "prediction": "young rice"
+  },
+  {
+    "source": "lohu",
+    "reference": "metal",
+    "prediction": "anion"
+  },
+  {
+    "source": "satlo'",
+    "reference": "seventh",
+    "prediction": "beat"
+  },
+  {
+    "source": "tyaagi",
+    "reference": "Relinquisher/ martyr",
+    "prediction": "coconut sece"
+  },
+  {
+    "source": "naayanmaar",
+    "reference": "saiva saints",
+    "prediction": "destrument"
+  },
+  {
+    "source": "theenvo vibhakti - haali, sara, saro, sero, senggo, sento, sOru",
+    "reference": "3rd case maker - haali, sara, saro, sero, sengo, sento, sOru",
+    "prediction": "heat"
+  },
+  {
+    "source": "kakko'",
+    "reference": "sickle",
+    "prediction": "to the tow"
+  },
+  {
+    "source": "kimvadanti",
+    "reference": "rumour",
+    "prediction": "record compose"
+  },
+  {
+    "source": "roppo",
+    "reference": "Eyelid",
+    "prediction": "stain"
+  },
+  {
+    "source": "ottaDi thovni",
+    "reference": "Postpone, Debarment",
+    "prediction": "fore the sourd"
+  },
+  {
+    "source": "daan",
+    "reference": "donation",
+    "prediction": "faner"
+  },
+  {
+    "source": "chailatte'",
+    "reference": "side dish, curry",
+    "prediction": "solling"
+  },
+  {
+    "source": "panchal",
+    "reference": "boat",
+    "prediction": "patch"
+  },
+  {
+    "source": "aasto",
+    "reference": "Desire, Longing",
+    "prediction": "little"
+  },
+  {
+    "source": "alankaar ker",
+    "reference": "beautify /decorate",
+    "prediction": "decord"
+  },
+  {
+    "source": "pal'l'o'",
+    "reference": "fruit",
+    "prediction": "care"
+  },
+  {
+    "source": "beek",
+    "reference": "nut",
+    "prediction": "seed"
+  },
+  {
+    "source": "mhoortu",
+    "reference": "the auspicious time",
+    "prediction": "mondle"
+  },
+  {
+    "source": "bandaa",
+    "reference": "pomp",
+    "prediction": "kin"
+  },
+  {
+    "source": "chaandu",
+    "reference": "Moon",
+    "prediction": "monn"
+  },
+  {
+    "source": "bhirud'ayi jaa",
+    "reference": "be crushed",
+    "prediction": "be sooled"
+  },
+  {
+    "source": "jaaNa beDki",
+    "reference": "Lass, Young Woman",
+    "prediction": "good pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot pot"
+  },
+  {
+    "source": "utsav, vaibhav",
+    "reference": "Festival",
+    "prediction": "fisch"
+  },
+  {
+    "source": "o'd'd'e'",
+    "reference": "scavenger",
+    "prediction": "bear"
+  },
+  {
+    "source": "aassa",
+    "reference": "Desire, Longing",
+    "prediction": "sare"
+  },
+  {
+    "source": "banaalu ve'd'ik",
+    "reference": "pyrotechnics/fire display",
+    "prediction": "panal lamp"
+  },
+  {
+    "source": "acaar",
+    "reference": "Discipline, Conduct",
+    "prediction": "threation"
+  },
+  {
+    "source": "divapurushu",
+    "reference": "second person",
+    "prediction": "pole seep"
+  },
+  {
+    "source": "kichchir",
+    "reference": "Orange",
+    "prediction": "poin"
+  },
+  {
+    "source": "orodoLo",
+    "reference": "Squint Eye",
+    "prediction": "ene eye be cause"
+  },
+  {
+    "source": "lhekko taay / tavo",
+    "reference": "Calculate, Estimate",
+    "prediction": "sout"
+  },
+  {
+    "source": "hutturastiso'",
+    "reference": "downwardly",
+    "prediction": "indignance"
+  },
+  {
+    "source": "nyaan de'",
+    "reference": "Impart knowledge",
+    "prediction": "goods"
+  },
+  {
+    "source": "ghendal",
+    "reference": "Beetle",
+    "prediction": "sound tine"
+  },
+  {
+    "source": "bhunji",
+    "reference": "fry",
+    "prediction": "rool"
+  },
+  {
+    "source": "did'd'u",
+    "reference": "gum",
+    "prediction": "boil"
+  },
+  {
+    "source": "bhaat",
+    "reference": "Cooked rice",
+    "prediction": "ear brother"
+  },
+  {
+    "source": "uggur",
+    "reference": "Extreme anger, Ferocious",
+    "prediction": "forter"
+  },
+  {
+    "source": "mo'chcho'",
+    "reference": "mole",
+    "prediction": "brint"
+  },
+  {
+    "source": "mov",
+    "reference": "measure",
+    "prediction": "mont"
+  },
+  {
+    "source": "peek nheetta thaam",
+    "reference": "barren land",
+    "prediction": "lot the because"
+  },
+  {
+    "source": "hut't'o'",
+    "reference": "saliva",
+    "prediction": "boil"
+  },
+  {
+    "source": "viyardhakani",
+    "reference": "wastely, vainly",
+    "prediction": "confuringly"
+  },
+  {
+    "source": "aLTaasaTo",
+    "reference": "Attic ladder, Loft ladder",
+    "prediction": "selite"
+  },
+  {
+    "source": "aTkul",
+    "reference": "Flattened Rice",
+    "prediction": "herder"
+  },
+  {
+    "source": "valko'",
+    "reference": "cucumber",
+    "prediction": "coar"
+  },
+  {
+    "source": "phalti phaar",
+    "reference": "morning",
+    "prediction": "marring"
+  },
+  {
+    "source": "banaal lagud'o'",
+    "reference": "big stick",
+    "prediction": "palance"
+  },
+  {
+    "source": "ghe'd'i pot'",
+    "reference": "become hard",
+    "prediction": "soll hand"
+  },
+  {
+    "source": "khudaa",
+    "reference": "Hypothecate, Pawn, Pledge, Mortgage",
+    "prediction": "poot"
+  },
+  {
+    "source": "kaspo'",
+    "reference": "tortoise",
+    "prediction": "long"
+  },
+  {
+    "source": "allaad'um rhaa",
+    "reference": "be in a hurry",
+    "prediction": "be sour"
+  },
+  {
+    "source": "piraarthano",
+    "reference": "Prayer",
+    "prediction": "pression"
+  },
+  {
+    "source": "poggu",
+    "reference": "Rein",
+    "prediction": "forger"
+  },
+  {
+    "source": "raajyam",
+    "reference": "State, Kingdom",
+    "prediction": "gooder"
+  },
+  {
+    "source": "ujyaattenu",
+    "reference": "Born",
+    "prediction": "treating"
+  },
+  {
+    "source": "ne'ma so'd'ini",
+    "reference": "incongruence",
+    "prediction": "be prose"
+  },
+  {
+    "source": "cho'kdaan",
+    "reference": "village temple festival",
+    "prediction": "theft"
+  },
+  {
+    "source": "sombuLO",
+    "reference": "Salary",
+    "prediction": "panant"
+  },
+  {
+    "source": "koTni",
+    "reference": "Slate-pencil",
+    "prediction": "bonger"
+  },
+  {
+    "source": "vanggus, vamsso",
+    "reference": "Ancestry",
+    "prediction": "volite"
+  },
+  {
+    "source": "poosu miri",
+    "reference": "tail pepper",
+    "prediction": "sarrow man"
+  },
+  {
+    "source": "pre'miko'",
+    "reference": "lover",
+    "prediction": "prover"
+  },
+  {
+    "source": "samrppaNo",
+    "reference": "Dedication",
+    "prediction": "contition"
+  },
+  {
+    "source": "ghaaru",
+    "reference": "kite",
+    "prediction": "house"
+  },
+  {
+    "source": "dhaDDe, dhaDDuvo",
+    "reference": "Send",
+    "prediction": "stark"
+  },
+  {
+    "source": "mejo'",
+    "reference": "table",
+    "prediction": "pan"
+  },
+  {
+    "source": "maarkadarsi",
+    "reference": "guide",
+    "prediction": "serior"
+  },
+  {
+    "source": "badulo",
+    "reference": "Pit dug out in the ground for keeping sacrificial fire",
+    "prediction": "bundle"
+  },
+  {
+    "source": "kerunggini",
+    "reference": "Dissolve. Dissolution, Melt",
+    "prediction": "sollection"
+  },
+  {
+    "source": "eeshpuru",
+    "reference": "Lord Shiva",
+    "prediction": "sod dish"
+  },
+  {
+    "source": "divvo vibhakti - ku, ko, dheri",
+    "reference": "2nd case maker - ku, ko, dheri",
+    "prediction": "4ho  hat, a mather, a mather, a mather, a mother, anch, a have, a mather, a mother, anch, a have, a mather, a mother, an"
+  },
+  {
+    "source": "chorupan",
+    "reference": "stealing",
+    "prediction": "thith stude"
+  },
+  {
+    "source": "jaagrati",
+    "reference": "warning",
+    "prediction": "with see"
+  },
+  {
+    "source": "vyatirEkakriyo",
+    "reference": "Negative Verb",
+    "prediction": "individuality"
+  },
+  {
+    "source": "dikkul",
+    "reference": "Inattention",
+    "prediction": "discound"
+  },
+  {
+    "source": "purEtu",
+    "reference": "Priest",
+    "prediction": "bood"
+  },
+  {
+    "source": "gaaygorun",
+    "reference": "Cattle, Livestock",
+    "prediction": "coconut lease"
+  },
+  {
+    "source": "saykano'",
+    "reference": "signal",
+    "prediction": "confully"
+  },
+  {
+    "source": "mhad'i",
+    "reference": "storey",
+    "prediction": "fing"
+  },
+  {
+    "source": "ayDin",
+    "reference": "Female who speaks Tamil",
+    "prediction": "offer"
+  },
+  {
+    "source": "ssilam",
+    "reference": "Moong gram, Moong dal",
+    "prediction": "sail"
+  },
+  {
+    "source": "samt'aat'",
+    "reference": "hook",
+    "prediction": "concust"
+  },
+  {
+    "source": "bolam hoye",
+    "reference": "Strong, Forceful, Powerful",
+    "prediction": "anter and and and and and and and and and and and and and and and and and and and and and and and and and and and and an"
+  },
+  {
+    "source": "hat'van",
+    "reference": "thought",
+    "prediction": "monnow"
+  },
+  {
+    "source": "donggargaamkeri",
+    "reference": "One who speaks Malayalam",
+    "prediction": "somal of a marriage"
+  },
+  {
+    "source": "vedur siye",
+    "reference": "Expected",
+    "prediction": "eneven"
+  },
+  {
+    "source": "dhuNDi, dhuNDuvo",
+    "reference": "Swim",
+    "prediction": "roo"
+  },
+  {
+    "source": "koDu veeT",
+    "reference": "Bitter citron",
+    "prediction": "ball a tee"
+  },
+  {
+    "source": "chunno'",
+    "reference": "lime",
+    "prediction": "hoise"
+  }
+]

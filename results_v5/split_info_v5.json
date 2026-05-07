@@ -1,0 +1,16 @@
+{
+  "task_sr_en": 9568,
+  "task_ta_en": 9568,
+  "sent_augment_en": 1724,
+  "sent_augment_ta": 1725,
+  "total_train": 22585,
+  "val_size": 1276,
+  "test_size": 1914,
+  "augmentation_ratio": 2.36,
+  "languages": [
+    "sourashtra",
+    "english",
+    "tamil"
+  ],
+  "model": "byt5-small"
+}

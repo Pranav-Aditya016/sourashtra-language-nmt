@@ -1,0 +1,145 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,பாட2ஶாலொ,paaThassaalo,,,,School,பள்ளிக்கூடம்,,,,school,corpus_sourashtradictionary
+,,ஹுரி,huri,,,,School,பள்ளிக்கூடம்,,,,school,corpus_sourashtradictionary
+,,இந்து3,indu,,,,School,பள்ளி,,,,school,corpus_sourashtradictionary
+,,பொள்டம்,poLTam,,,,School,பள்ளிக்கூடம்,,,,school,corpus_sourashtradictionary
+,,ஹொள்டா ஹுரி,hoLTaa huri,,,,Veranda School,திண்ணைப் பள்ளி,,,,school,corpus_sourashtradictionary
+,,பா3லஹுரி,baalahuri,,,,Play / Pre Nursery School,பாலர் பள்ளி,,,,school,corpus_sourashtradictionary
+,,பில்லல்னு ஹுரி,pillalnu huri,,,,Kindergarten / Nursery School,மழலையர் பள்ளி,,,,school,corpus_sourashtradictionary
+,,ஹர்ம்ப3 ஸ்தர் ஹுரி,harmba star huri,,,,Elementary / Primary School,ஆரம்பநிலைப் பள்ளி,,,,school,corpus_sourashtradictionary
+,,மத்3ய ஸ்தர் ஹுரி,madya star huri,,,,High School,நடுநிலைப் பள்ளி,,,,school,corpus_sourashtradictionary
+,,உஞ்சா ஸ்தர் ஹுரி,unjcaa star huri,,,,Higher Secondary School,மேல்நிலைப் பள்ளி,,,,school,corpus_sourashtradictionary
+,,தந்த்ரஞான் வித்3யாலயொ,tantranjaan vidyaalayo,,,,Polytechnique,தொழில்நுட்பக் கல்லூரி,,,,school,corpus_sourashtradictionary
+,,மஹா வித்3யாலயொ,mahaa vidyaalayo,,,,College,கல்லூரி,,,,school,corpus_sourashtradictionary
+,,அபி4யாந்த்ரிக் வித்3யாலயொ,abhiyaantrik vidyaalayo,,,,Engineering College,பொறியியல் கல்லூரி,,,,school,corpus_sourashtradictionary
+,,கலா & விஞான் வித்3யாலயொ,kalaa & vinjaan vidyaalayo,,,,Arts & Science College,கலை & அறிவியல் கல்லூரி,,,,school,corpus_sourashtradictionary
+,,ஸர்வகலா வித்3யாலயொ,sarvakalaa vidyaalayo,,,,University,பல்கலைக்கழகம்,,,,school,corpus_sourashtradictionary
+,,விஶ்வ வித்3யாலயொ,vissva vidyaalayo,,,,University,பல்கலைக்கழகம்,,,,school,corpus_sourashtradictionary
+,,புஸ்தகஶாலொ,pustakassaalo,,,,Library,நூலகம்,,,,school,corpus_sourashtradictionary
+,,வாசகஶாலொ,vaacakassaalo,,,,Library,நூலகம்,,,,school,corpus_sourashtradictionary
+,,ஶிக்ஷகொ,ssikshako,,,,Teacher,ஆசிரியர்,,,,school,corpus_sourashtradictionary
+,,ஒத்3தி3,oddi,,,,Teacher,ஆசிரியர்,,,,school,corpus_sourashtradictionary
+,,வத்3தி3,vaddi,,,,Teacher,ஆசிரியர்,,,,school,corpus_sourashtradictionary
+,,உபாத்4யாயொ,upaadhyaayo,,,,Male teacher,ஆசிரியர்,,,,school,corpus_sourashtradictionary
+,,உபாத்4யாயி,upaadhyaayi,,,,Female teacher,ஆசிரியை,,,,school,corpus_sourashtradictionary
+,,மஹா ஒத்3தி3,mahaa oddi,,,,Professor,பேராசிரியர்,,,,school,corpus_sourashtradictionary
+,,ஶிக்ஷணொ,ssikshaNo,,,,Tuition,தனிப்போதனை,,,,school,corpus_sourashtradictionary
+,,ஶிக்கட்3னி,ssikkaDni,,,,"Teaching, Instruction",கற்பித்தல்,,,,school,corpus_sourashtradictionary
+,,அலக்3கொ3 ஶிக்கட்3னி,alaggo ssikkaDni,,,,Tuition,தனியாக கற்பித்தல்,,,,school,corpus_sourashtradictionary
+,,ஶிக்3டொ3,ssigDo,,,,"Learner, Student",கற்பவர்,,,,school,corpus_sourashtradictionary
+,,இக்லொ,iklo,,,,Student,மாணவர்,,,,school,corpus_sourashtradictionary
+,,ஶிகார்,ssikaar,,,,Student,மாணவர்,,,,school,corpus_sourashtradictionary
+,,மாணவ்,maaNav,,,,Student,மாணவர்,,,,school,corpus_sourashtradictionary
+,,ஸுடபொ3ட்டொ,suTaboTTo,,,,Uniform,சீருடை,,,,school,corpus_sourashtradictionary
+,,ஒண்ட்டே தா4னு,oNTTE dhaanu,,,,Uniform,ஒரேவிதமான,,,,school,corpus_sourashtradictionary
+,,அவாரு,avaaru,,,,Hostel,தங்கும் விடுதி,,,,school,corpus_sourashtradictionary
+,,ஈகு3,eegu,,,,"Education, Study","கல்வி, படிப்பு",,,,school,corpus_sourashtradictionary
+,,இக3த்தெ,igatte,,,,"Learning, Reading","கற்றல், படித்தல்",,,,school,corpus_sourashtradictionary
+,,இக3த்தெனு,igattenu,,,,"Learner, Reader","கற்பவர், படிப்பவர்",,,,school,corpus_sourashtradictionary
+,,ஈவி,eevi,,,,Study,"பயிலு, படி",,,,school,corpus_sourashtradictionary
+,,இக்லொ,iklo,,,,"Learner, Student","கற்பவர், மாணவன், மாணவி",,,,school,corpus_sourashtradictionary
+,,சொவ்து3னாருன்,covdunaarun,,,,Students,மாணவர்கள்,,,,school,corpus_sourashtradictionary
+,,வித்3யொ,vidyo,,,,Education,கல்வி,,,,school,corpus_sourashtradictionary
+,,சொவ்து3,ceaavdu,,,,"Education, Study","கல்வி, படிப்பு",,,,school,corpus_sourashtradictionary
+,,சொவ்து3தெ4ரெ,covdudhere,,,,Educational,கல்விசார்,,,,school,corpus_sourashtradictionary
+,,ஞான்,njaan,,,,Knowledge,அறிவு,,,,school,corpus_sourashtradictionary
+,,ஹொட்3வினி,hoDvini,,,,Development,வளர்த்தல் (அறிவு),,,,school,corpus_sourashtradictionary
+,,ஒர்கு3,orgu,,,,"Class, Grade",வகுப்பு,,,,school,corpus_sourashtradictionary
+,,வர்கு3,vargu,,,,"Class, Grade",வகுப்பு,,,,school,corpus_sourashtradictionary
+,,வர்கு3 ஸிங்க3ய்த்,vargu singgayt,,,,"Classmate, Class mate",வகுப்புத் தோழன்,,,,school,corpus_sourashtradictionary
+,,பட2ன்,paThan,,,,Lesson,பாடம்,,,,school,corpus_sourashtradictionary
+,,க3த்3யொ,gadyo,,,,Prose,உரை நடை,,,,school,corpus_sourashtradictionary
+,,பத்3யம்,padyam,,,,Poetry,செய்யுள்,,,,school,corpus_sourashtradictionary
+,,கவிதொ,kavito,,,,Poem,கவிதை,,,,school,corpus_sourashtradictionary
+,,படி2னி,paThini,,,,Reading,"படித்தல், வாசித்தல்",,,,school,corpus_sourashtradictionary
+,,அர்த்து,arttu,,,,Meaning,பொருள்,,,,school,corpus_sourashtradictionary
+,,அர்து2,arthu,,,,Means,பொருள்,,,,school,corpus_sourashtradictionary
+,,அர்த்துந்ஹாத்த,arttunhaatta,,,,Meaningless,பொருளற்ற,,,,school,corpus_sourashtradictionary
+,,குண்டு,kuNTu,,,,Error,பிழை,,,,school,corpus_sourashtradictionary
+,,மொந்து,montu,,,,Error,பிழை,,,,school,corpus_sourashtradictionary
+,,மித்தம,mittama,,,,With Error,பிழையுள்ள,,,,school,corpus_sourashtradictionary
+,,திரிதம்,tiritam,,,,"Correction, Debugging",திருத்தம்,,,,school,corpus_sourashtradictionary
+,,புஸாவ் / புஸ்னி,pusaav / pusni,,,,Question,கேள்வி,,,,school,corpus_sourashtradictionary
+,,ஜவாப்3 / ஜவ்நி,javaab / javni,,,,Answer,பதில்,,,,school,corpus_sourashtradictionary
+,,ஒங்கு,ongku,,,,Number,எண்,,,,school,corpus_sourashtradictionary
+,,லிக்கினி,likkini,,,,Letter,எழுத்து,,,,school,corpus_sourashtradictionary
+,,அக்ஷர்,akshar,,,,Letter,எழுத்து,,,,school,corpus_sourashtradictionary
+,,ஜுடி3,juDi,,,,Word,சொல்,,,,school,corpus_sourashtradictionary
+,,வத்தொ,vatto,,,,Word,சொல்,,,,school,corpus_sourashtradictionary
+,,பங்தி,pangti,,,,Line,வரி,,,,school,corpus_sourashtradictionary
+,,புடொ,puTo,,,,Page,பக்கம்,,,,school,corpus_sourashtradictionary
+,,ஒஸொ,oso,,,,Page,பக்கம்,,,,school,corpus_sourashtradictionary
+,,புஸ்தகு,pustaku,,,,Book,புத்தகம்,,,,school,corpus_sourashtradictionary
+,,பொ3க்3கு,bogku,,,,Book,புத்தகம்,,,,school,corpus_sourashtradictionary
+,,பொதி,poti,,,,"Book, Booklet","புத்தகம், சிறு புத்தகம்",,,,school,corpus_sourashtradictionary
+,,பாட2க்ரமொ,paaThakramo,,,,Syllabus,பாடத்திட்டங்கள்,,,,school,corpus_sourashtradictionary
+,,க்3ரந்து,grantu,,,,"Book, Article","நூல், கட்டுரை",,,,school,corpus_sourashtradictionary
+,,பீடி2கொ,peeThiko,,,,"Preface, Preamble","முன்னுரை, முகவுரை",,,,school,corpus_sourashtradictionary
+,,ஸூசிகொ,soociko,,,,Index,அட்டவணை,,,,school,corpus_sourashtradictionary
+,,விஷய ஸூசிகொ,vishaya soociko,,,,Index,பொருளடக்கம்,,,,school,corpus_sourashtradictionary
+,,விஷயம்,vishayam,,,,Topic,தலைப்பு,,,,school,corpus_sourashtradictionary
+,,ஶீர்ஷக்,sseershak,,,,"Title, Heading, Header",தலைப்பு,,,,school,corpus_sourashtradictionary
+,,அத்4யாயம்,adhyaayam,,,,Chapter,அத்தியாயம்,,,,school,corpus_sourashtradictionary
+,,ரசனொ கெரத்தெ,racano keratte,,,,Composing,இயற்றுதல்,,,,school,corpus_sourashtradictionary
+,,லேகு2,lEkhu,,,,Letter,கடிதம்,,,,school,corpus_sourashtradictionary
+,,வத்தா ப4ந்தி3னி,vattaa bhandini,,,,Composition,கட்டுரை,,,,school,corpus_sourashtradictionary
+,,அக்ஷர்ஸங்கி3,aksharsanggi,,,,Spell,எழுத்தைச் சொல்,,,,school,corpus_sourashtradictionary
+,,வத்தாக்ஷர்னு,vattaaksharnu,,,,Spelling,வார்த்தையின் எழுத்துக்கள்,,,,school,corpus_sourashtradictionary
+,,நிரஸ்து,nirastu,,,,Pronounced hurriedly,விரைவுமொழி,,,,school,corpus_sourashtradictionary
+,,ஶிலா பொல்கொ,ssilaa polko,,,,Slate,சிலேட்டுப் பலகை,,,,school,corpus_sourashtradictionary
+,,ஶிலா க2ட்டி,ssilaa khaTTi,,,,Slate Pencil,"கல்குச்சி, பல்பம்",,,,school,corpus_sourashtradictionary
+,,கொட்னி,koTni,,,,Slate-pencil,பல்பம்,,,,school,corpus_sourashtradictionary
+,,பௌ3லம்,baulam,,,,"Slate rock, Slate pencil","மாக்கல், பலப்பம், சிலேட்டுக் குச்சி",,,,school,corpus_sourashtradictionary
+,,ஸை,sai,,,,Ink,மை,,,,school,corpus_sourashtradictionary
+,,ஸைநிடி,sainiTi,,,,Ink bottle,மைக்கூடு,,,,school,corpus_sourashtradictionary
+,,லிக்லாணி,liklaaNi,,,,Iron Stylus,எழுத்தாணி,,,,school,corpus_sourashtradictionary
+,,ஸுரி,suri,,,,Iron Stylus,எழுத்தாணி,,,,school,corpus_sourashtradictionary
+,,தாளு பான்,taaLu paan,,,,Palm leaf (used for writing),பனை ஓலை,,,,school,corpus_sourashtradictionary
+,,தி3ன்சரி,dincari,,,,Notebook,குறிப்பேடு,,,,school,corpus_sourashtradictionary
+,,ஸௌக்3ஞ,saugnja,,,,Note,குறிப்பு,,,,school,corpus_sourashtradictionary
+,,லிக்லொ,liklo,,,,Pen,பேனா,,,,school,corpus_sourashtradictionary
+,,பெய்னொ,peyno,,,,Pen,பேனா,,,,school,corpus_sourashtradictionary
+,,சக3ரால்,cagaraal,,,,Signature,கையெழுத்து,,,,school,corpus_sourashtradictionary
+,,ஹாதக்ஷர்,haatakshar,,,,Signature,கையெழுத்து,,,,school,corpus_sourashtradictionary
+,,பெ3த்தம்,bettam,,,,"Cane, Rattan",பிரம்பு,,,,school,corpus_sourashtradictionary
+,,து3மட்3,dumaD,,,,"Exercise, Training, Practice",பயிற்சி,,,,school,corpus_sourashtradictionary
+,,அப்4யாஸ்,abhyaas,,,,"Exercise, Training, Practice",பயிற்சி,,,,school,corpus_sourashtradictionary
+,,கெரிஸனி,kerisani,,,,"Practical, Recipe",செய்முறை,,,,school,corpus_sourashtradictionary
+,,கெரிஸனி வர்ணனொ,kerisani varNano,,,,Practical description,செய்முறை விளக்கம்,,,,school,corpus_sourashtradictionary
+,,கே4ரப்4யாஸ்,ghErabhyaas,,,,Homework,வீட்டு பாடம்,,,,school,corpus_sourashtradictionary
+,,ஶேக்,ssEk,,,,Class work,வகுப்பு வேலை,,,,school,corpus_sourashtradictionary
+,,மனனொ,manano,,,,Memorization,மனப்பாடம்,,,,school,corpus_sourashtradictionary
+,,மனன கெரத்தெ,manana keratte,,,,Memorising,மனப்பாடம் செய்தல்,,,,school,corpus_sourashtradictionary
+,,பன்து,pantu,,,,Competition,போட்டி,,,,school,corpus_sourashtradictionary
+,,மந்து,mantu,,,,Competition,போட்டி,,,,school,corpus_sourashtradictionary
+,,புரஸ்கார்,puraskaar,,,,Award,விருது,,,,school,corpus_sourashtradictionary
+,,மம்பு,mampu,,,,Stipend,உதவித்தொகை,,,,school,corpus_sourashtradictionary
+,,பரீக்ஷொ,pareeksho,,,,Examination,பரிட்சை,,,,school,corpus_sourashtradictionary
+,,ஒத்தடி3 தொ2வ்னி,ottaDi thovni,,,,"Postpone, Debarment","தள்ளி வைத்தல், விலக்கி வைத்தல்",,,,school,corpus_sourashtradictionary
+,,தொ3ப்3பி3 தொ2வ்னி,dobbi thovni,,,,"Postpone, Debarment","தள்ளி வைத்தல், விலக்கி வைத்தல்",,,,school,corpus_sourashtradictionary
+,,லங்க3த்தெ,langgatte,,,,"Pass, Cross","தேர்ச்சி பெறுதல், கடத்தல்",,,,school,corpus_sourashtradictionary
+,,ப்ரமாண்பத்ரொ,pramaaNpatro,,,,Certificate,சான்றிதழ்,,,,school,corpus_sourashtradictionary
+,,ஜேமு,jEmu,,,,"Gift, Reward, Prize",பரிசு,,,,school,corpus_sourashtradictionary
+,,த3ஸ்து,dastu,,,,Fee,கட்டணம்,,,,school,corpus_sourashtradictionary
+,,வித்3யாவி,vidyaavi,,,,Educated,"படித்தவர், நாவலர்",,,,school,corpus_sourashtradictionary
+,,கி3ரிடி3,giriDi,,,,"Game, Sports, Play",விளையாட்டு,,,,school,corpus_sourashtradictionary
+,,கே2ள்,khEL,,,,"Game, Sports, Play",விளையாட்டு,,,,school,corpus_sourashtradictionary
+,,ஸூத்ரம்,sootram,,,,Formula,விதிமுறை,,,,school,corpus_sourashtradictionary
+,,சாலு,caalu,,,,History,வரலாறு,,,,school,corpus_sourashtradictionary
+,,சரிதம்,caritam,,,,History,வரலாறு,,,,school,corpus_sourashtradictionary
+,,சரித்ரு,caritru,,,,History,வரலாறு,,,,school,corpus_sourashtradictionary
+,,ஶஸ்த்ர வித்3யொ,ssastra vidyo,,,,"Study of Arms, Weapons and Tools",ஆயுதப் படிப்பு,,,,school,corpus_sourashtradictionary
+,,ஶாஸ்த்ர வித்3யொ,ssaastra vidyo,,,,Study of Science,விஞ்ஞான படிப்பு,,,,school,corpus_sourashtradictionary
+,,ஸாஹித்யொ,saahityo,,,,Literature,இலக்கியம்,,,,school,corpus_sourashtradictionary
+,,ரஸாயனொ,rasaayano,,,,Chemicals,வேதியியல் பொருள்கள்,,,,school,corpus_sourashtradictionary
+,,ரஸஶாலொ,rasassaalo,,,,Laboratory,ஆய்வகம்,,,,school,corpus_sourashtradictionary
+,,கலொ,kalo,,,,"Art, Arts","கலை, கலைகள்",,,,school,corpus_sourashtradictionary
+,,விஞான்,vinjaan,,,,Science,அறிவியல்,,,,school,corpus_sourashtradictionary
+,,க3ணித ஶாஸ்த்ரொ,gaNita ssaastro,,,,"Maths, Mathematics","கணக்கியல், கணிதம்",,,,school,corpus_sourashtradictionary
+,,பௌ4திக ஶாஸ்த்ரொ,bhautika ssaastro,,,,Physics,இயற்பியல்,,,,school,corpus_sourashtradictionary
+,,ரஸாயன ஶாஸ்த்ரொ,rasaayana ssaastro,,,,Chemistry,வேதியியல்,,,,school,corpus_sourashtradictionary
+,,வனஸ்பதினு ஶாஸ்த்ரொ,vanaspatinu ssaastro,,,,Botony,தாவரவியல்,,,,school,corpus_sourashtradictionary
+,,மூகு3னு ஶாஸ்த்ரொ,moogunu ssaastro,,,,Zoology,விலங்கியல்,,,,school,corpus_sourashtradictionary
+,,ஜீவுனு ஶாஸ்த்ரொ,jeevunu ssaastro,,,,Biology,உயிரியல்,,,,school,corpus_sourashtradictionary
+,,விவருனு ஶாஸ்த்ரொ,vivarunu ssaastro,,,,Informatics,தகவலியல்,,,,school,corpus_sourashtradictionary
+,,ஜீவு விவருனு ஶாஸ்த்ரொ,jeevu vivarunu ssaastro,,,,Bioinformatics,உயிர் தகவலியல்,,,,school,corpus_sourashtradictionary

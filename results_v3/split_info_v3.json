@@ -1,0 +1,9 @@
+{
+  "primary_train": 9568,
+  "hk_augmented": 0,
+  "sentence_augmented": 1724,
+  "total_train": 11292,
+  "val_size": 1276,
+  "test_size": 1914,
+  "augmentation_ratio": 1.18
+}

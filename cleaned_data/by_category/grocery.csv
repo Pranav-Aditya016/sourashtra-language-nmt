@@ -1,0 +1,113 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,ப3த்3து3,baddu,,,,Grocery,மளிகை,,,,grocery,corpus_sourashtradictionary
+,,அங்கி3டி3,anggiDi,,,,"Shop, Store",கடை,,,,grocery,corpus_sourashtradictionary
+,,பொந்து,pontu,,,,"Shop, Store",கடை,,,,grocery,corpus_sourashtradictionary
+,,ப4ண்டா3ர்,bhaNDaar,,,,"Store, Godown",பொருள்கள் சேர்த்து வைக்கும் இடம்,,,,grocery,corpus_sourashtradictionary
+,,பணொ,paNo,,,,Commodity,வியாபார சரக்கு,,,,grocery,corpus_sourashtradictionary
+,,பணாயி,paNaayi,,,,"Market, Bazaar",சந்தை,,,,grocery,corpus_sourashtradictionary
+,,ஹடொ,haTo,,,,"Market, Bazaar",சந்தை,,,,grocery,corpus_sourashtradictionary
+,,ஹாடி,haaTi,,,,"Market, Bazaar",சந்தை,,,,grocery,corpus_sourashtradictionary
+,,ஸாத்,saat,,,,"Market, Bazaar",சந்தை,,,,grocery,corpus_sourashtradictionary
+,,விபணி,vipaNi,,,,Market street,கடைத்தெரு,,,,grocery,corpus_sourashtradictionary
+,,தோ3வு,dOvu,,,,"Big market, Mall, Store",பேரங்காடி,,,,grocery,corpus_sourashtradictionary
+,,தெ4டொ / தெ4டொ3,dheTo / dheDo,,,,"Scale, Balance, Weighing Machine",தராசு,,,,grocery,corpus_sourashtradictionary
+,,நரசி / நராஜி,naraci / naraaji,,,,"Scale, Balance, Weighing Machine",தராசு,,,,grocery,corpus_sourashtradictionary
+,,ஜோக்,jOk,,,,"Scale, Balance, Weighing Machine","நிறுவை, தராசு",,,,grocery,corpus_sourashtradictionary
+,,ஹள்வொ,haLvo,,,,Light (in weight),லேசான,,,,grocery,corpus_sourashtradictionary
+,,சிஸ்லொ / சி2ஸ்லொ,cislo / chislo,,,,Grocery,"பலசரக்கு, மளிகை பொருட்கள்",,,,grocery,corpus_sourashtradictionary
+,,ரஸ்து,rastu,,,,Materials,பொருள்,,,,grocery,corpus_sourashtradictionary
+,,தஸ்துன்,tastun,,,,Goods,சரக்கு,,,,grocery,corpus_sourashtradictionary
+,,லிந்து3,lindu,,,,Account,பற்றுவரவு,,,,grocery,corpus_sourashtradictionary
+,,ஸாள்,saaL,,,,Paddy,நெல்,,,,grocery,corpus_sourashtradictionary
+,,தந்து3,tandu,,,,Rice,அரிசி,,,,grocery,corpus_sourashtradictionary
+,,கஸ்தந்து3,kastandu,,,,Raw Rice,பச்சரிசி,,,,grocery,corpus_sourashtradictionary
+,,ஹுடொதந்து3,huTotandu,,,,Boiled Rice,புழுங்கரிசி,,,,grocery,corpus_sourashtradictionary
+,,ஹுஸ்தந்து3,hustandu,,,,Boiled rice,புழுங்கலரிசி,,,,grocery,corpus_sourashtradictionary
+,,நிப்3ப3ரி,nibbari,,,,Rye Grain,புல்லரிசி,,,,grocery,corpus_sourashtradictionary
+,,ஸாபு3தா3னொ,saabudaano,,,,Sago,ஜவ்வரிசி,,,,grocery,corpus_sourashtradictionary
+,,கென்னி,kenni,,,,Rice Granule,குருணை,,,,grocery,corpus_sourashtradictionary
+,,பெரால்,peraal,,,,Puffed rice,பொரி,,,,grocery,corpus_sourashtradictionary
+,,லஸ்னி,lasni,,,,Puffed rice,பொரி,,,,grocery,corpus_sourashtradictionary
+,,பொ3ர்க்குல்,borkkul,,,,Puffed rice,பொரி,,,,grocery,corpus_sourashtradictionary
+,,அட்குல்,aTkul,,,,Flattened Rice,அவல்,,,,grocery,corpus_sourashtradictionary
+,,சிப்டொ,cipTo,,,,Flattened Rice,அவல்,,,,grocery,corpus_sourashtradictionary
+,,கொண்டொ3,koNDo,,,,Bran,தவிடு,,,,grocery,corpus_sourashtradictionary
+,,உங்கொ3,unggo,,,,Husk,உமி,,,,grocery,corpus_sourashtradictionary
+,,து3ஸொ,duso,,,,Husk,உமி,,,,grocery,corpus_sourashtradictionary
+,,கோ4ம தந்து3,ghOma tandu,,,,Wheat,கோதுமை,,,,grocery,corpus_sourashtradictionary
+,,கோ4மு,ghOmu,,,,Wheat,கோதுமை,,,,grocery,corpus_sourashtradictionary
+,,போ2மு,phOmu,,,,Semolina,ரவை (அரைத்த கோதுமை),,,,grocery,corpus_sourashtradictionary
+,,ஶெவ்யொ,ssevyo,,,,Vermicelli,சேமியா,,,,grocery,corpus_sourashtradictionary
+,,பொ2ன்னிஞ்சென்னொ,phonninjcenno,,,,"Maise, Maize, Corn","சோளம், மக்காச்சோளம்",,,,grocery,corpus_sourashtradictionary
+,,ஜொ2ள்ளொ,jhoLLo,,,,Millet,கம்பு,,,,grocery,corpus_sourashtradictionary
+,,ர்ஹகி,rhaki,,,,Finger millet,"கேழ்வரகு, கேப்பை, ராகி",,,,grocery,corpus_sourashtradictionary
+,,தா3ல்,daal,,,,Lentil,பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,பெ3ளொ,beLo,,,,Lentils,பருப்பு வகைகள்,,,,grocery,corpus_sourashtradictionary
+,,சென்னொ,cenno,,,,"Pulses such as Chickpeas, Peas, Beans","கொண்டைக்கடலை, பட்டாணி, பீன்ஸ் போன்ற பருப்பு வகைகள்",,,,grocery,corpus_sourashtradictionary
+,,கென்னுன்,kennun,,,,"Grains, Cereals",தானியங்கள்,,,,grocery,corpus_sourashtradictionary
+,,ஶிம்பு3,ssimbu,,,,"Grains, Cereals",தானியங்கள்,,,,grocery,corpus_sourashtradictionary
+,,ஸஸ்யொ,sasyo,,,,"Grains, Cereals",தானியங்கள்,,,,grocery,corpus_sourashtradictionary
+,,தோ2ரு பெ3ளொ,thOru beLo,,,,Red Gram,துவரம் பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,உடி3த்,uDit,,,,Black gram (with skin),கருப்பு உளுந்து,,,,grocery,corpus_sourashtradictionary
+,,உடி3து3 பெ3ளொ,uDidu beLo,,,,Black Gram,உளுத்தம் பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,நிளமு பெ3ளொ,niLamu beLo,,,,Green Gram,பச்சைப்பயறு,,,,grocery,corpus_sourashtradictionary
+,,ஶிலம்,ssilam,,,,"Moong gram, Moong dal",பாசி பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,கச்சென்னா பெ3ளொ,kaccennaa beLo,,,,Bengal Gram,கடலை பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,தோ4ரு,dhOru,,,,Bengal gram,கடலை பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,வடாணி,vaTaaNi,,,,Pea,பட்டாணி,,,,grocery,corpus_sourashtradictionary
+,,சென்னொ,cenno,,,,Fried Gram,பொட்டுக்கடலை,,,,grocery,corpus_sourashtradictionary
+,,ஹுஜால் கச்சென்னொ,hujaal kaccenno,,,,Chickpeas,"கொண்டைக்கடலை, கொண்டக்கடலை",,,,grocery,corpus_sourashtradictionary
+,,களொ கச்சென்னொ,kaLo kaccenno,,,,Black Chickpeas,கருப்பு கொண்டைக்கடலை,,,,grocery,corpus_sourashtradictionary
+,,பு4ய்ஞ்சென்னொ,bhuynjcenno,,,,"Groundnut, Ground Nut, Peanut","நிலக்கடலை, வேர்க்கடலை",,,,grocery,corpus_sourashtradictionary
+,,கென்னு,kennu,,,,White Lima Beans,மொச்சை பயறு,,,,grocery,corpus_sourashtradictionary
+,,சொவ்ளொ,covLo,,,,"Red cowpea, Black-eyed pea","தட்டாம் பயறு, சிவப்பு காராமணி",,,,grocery,corpus_sourashtradictionary
+,,தெ3ளி / தெ3ளெ பீட்,deLi / deLe peeT,,,,Gram flour,கடலை மாவு,,,,grocery,corpus_sourashtradictionary
+,,கச்சென்னா பீட்,kaccennaa peeT,,,,Gram flour,கடலை மாவு,,,,grocery,corpus_sourashtradictionary
+,,தேல்,tEl,,,,Oil,எண்ணெய்,,,,grocery,corpus_sourashtradictionary
+,,சோட்தேல்,cOTtEl,,,,Gingerly Oil,நல்லெண்ணை,,,,grocery,corpus_sourashtradictionary
+,,கட3லதேல்,kaDalatEl,,,,Groundnut Oil,கடலெண்ணெய்,,,,grocery,corpus_sourashtradictionary
+,,நரெலுதூப்,narelutoop,,,,Coconut oil,தேங்காய் எண்ணெய்,,,,grocery,corpus_sourashtradictionary
+,,நலர்தேல்,nalartEl,,,,Coconut Oil,தேங்காய் எண்ணெய்,,,,grocery,corpus_sourashtradictionary
+,,அந்தெ3ம்,andem,,,,Castor Oil,விளக்கெண்ணெய்,,,,grocery,corpus_sourashtradictionary
+,,கெஷன்,keshan,,,,Oil cake,புண்ணாக்கு,,,,grocery,corpus_sourashtradictionary
+,,பேண்,pEN,,,,Oil cake,புண்ணாக்கு,,,,grocery,corpus_sourashtradictionary
+,,க4னொ,ghano,,,,Oil Expeller,எண்ணெய்ச் செக்கு,,,,grocery,corpus_sourashtradictionary
+,,பெண்க4னொ,peNghano,,,,Oil Expeller,எண்ணெய்ச் செக்கு,,,,grocery,corpus_sourashtradictionary
+,,மீட்,meeT,,,,Salt,உப்பு,,,,grocery,corpus_sourashtradictionary
+,,சீஸ்,cees,,,,Tamarind,புளி,,,,grocery,corpus_sourashtradictionary
+,,ஸெக்கர்,sekkar,,,,Sugar,சர்க்கரை,,,,grocery,corpus_sourashtradictionary
+,,ஸுரொ,suro,,,,White candy sugar,கற்கண்டு,,,,grocery,corpus_sourashtradictionary
+,,கு3ள்ளு,guLLu,,,,"Coconut palm sugar, Jaggery","கருப்பட்டி, வெல்லம்",,,,grocery,corpus_sourashtradictionary
+,,அச்சு கு3ள்ளு,accu guLLu,,,,Boxed Jaggery,அச்சு வெல்லம்,,,,grocery,corpus_sourashtradictionary
+,,தாடி3 கு3ள்ளு,taaDi guLLu,,,,Palm Jaggery,பனை வெல்லம்,,,,grocery,corpus_sourashtradictionary
+,,ஹிங்கு3,hinggu,,,,Asafoetida,பெருங்காயம்,,,,grocery,corpus_sourashtradictionary
+,,ஜிரொ,jiro,,,,Cumin,சீரகம்,,,,grocery,corpus_sourashtradictionary
+,,ம்ஹொடொ3ஜிரொ,mhoDojiro,,,,Fennel,பெருஞ்சீரகம்,,,,grocery,corpus_sourashtradictionary
+,,ஈரு,eeru,,,,Fennel,பெருஞ்சீரகம்,,,,grocery,corpus_sourashtradictionary
+,,பு2ம்பு,phumpu,,,,Anise,சோம்பு,,,,grocery,corpus_sourashtradictionary
+,,மித்தி,mitti,,,,Fenugreek,வெந்தயம்,,,,grocery,corpus_sourashtradictionary
+,,தீக்,teek,,,,Red chilli,சிவப்பு மிளகாய்,,,,grocery,corpus_sourashtradictionary
+,,திக்னொ,tikno,,,,Red chilli,சிவப்பு மிளகாய்,,,,grocery,corpus_sourashtradictionary
+,,தீள்,teeL,,,,Black sesame,கருப்பு எள்ளு,,,,grocery,corpus_sourashtradictionary
+,,பீ2ள்,pheeL,,,,White sesame seed,வெள்ளை எள்ளு,,,,grocery,corpus_sourashtradictionary
+,,குளித்,kuLit,,,,Horse gram,கொள்ளு,,,,grocery,corpus_sourashtradictionary
+,,ம்ஹுரி,mhuri,,,,Mustard,கடுகு,,,,grocery,corpus_sourashtradictionary
+,,மிரி,miri,,,,Pepper,மிளகு,,,,grocery,corpus_sourashtradictionary
+,,ஹலத்,halat,,,,Turmeric,மஞ்சள்,,,,grocery,corpus_sourashtradictionary
+,,தா4யி,dhaayi,,,,Coriander seed,"மல்லி, தனியா",,,,grocery,corpus_sourashtradictionary
+,,த4னெ,dhane,,,,Coriander seed,"மல்லி, தனியா",,,,grocery,corpus_sourashtradictionary
+,,சிங்க்3ளொ,cinggLo,,,,Cashew nut,முந்திரிப்பருப்பு,,,,grocery,corpus_sourashtradictionary
+,,கிஸ்மிஸ்,kismis,,,,Raisin,உலர் திராட்சை,,,,grocery,corpus_sourashtradictionary
+,,எளொ,eLo,,,,Cardamom,ஏலக்காய்,,,,grocery,corpus_sourashtradictionary
+,,லொம்பூ2ல்,lomphool,,,,Clove,கிராம்பு,,,,grocery,corpus_sourashtradictionary
+,,லவங்கொ3,lavanggo,,,,Cinnamon,லவங்கம்,,,,grocery,corpus_sourashtradictionary
+,,ஸிகா3ய்,sigaay,,,,Shikakai Acacia,சீயக்காய்,,,,grocery,corpus_sourashtradictionary
+,,ஶெர்கி,sserki,,,,Cotton seed,பருத்திக்கொட்டை,,,,grocery,corpus_sourashtradictionary
+,,கு3லுகு3ஞ்ஜி,gulugunjji,,,,Rosary Pea,குன்றிமணி,,,,grocery,corpus_sourashtradictionary
+,,ஸொண்டி / ஸொம்டி,soNTi / somTi,,,,Dried Ginger,சுக்கு,,,,grocery,corpus_sourashtradictionary
+,,பிம்பள்,pimpaL,,,,Long pepper,திப்பிலி,,,,grocery,corpus_sourashtradictionary
+,,ஜெஷ்டிமது,jeshTimatu,,,,Licorice,அதிமதுரம்,,,,grocery,corpus_sourashtradictionary
+,,ராஸ்னு,raasnu,,,,Lesser Galangal,சித்தரத்தை,,,,grocery,corpus_sourashtradictionary
+,,து3ம்ப3ராஷ்டு,dumbaraashTu,,,,Greater Galangal,பேரரத்தை,,,,grocery,corpus_sourashtradictionary
+,,ஹெக3ண்,hegaN,,,,"Calamus, Sweet flag",வசம்பு,,,,grocery,corpus_sourashtradictionary
+,,அக்ரார்,akraar,,,,Akarkara Root,அக்கரகாரம்,,,,grocery,corpus_sourashtradictionary

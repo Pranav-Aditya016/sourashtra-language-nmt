@@ -1,0 +1,69 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,கா2ள்,khaaL,,,,"Game, Sports, Play",விளையாட்டு,,,,sports,corpus_sourashtradictionary
+,,க2ளத்தெனொ,khaLatteno,,,,Player,விளையாடுபவர்,,,,sports,corpus_sourashtradictionary
+,,கெ2ளாடு3,kheLaaDu,,,,Sportsman,விளையாட்டு வீரர்,,,,sports,corpus_sourashtradictionary
+,,கி3ரிடு3,giriDu,,,,Sportsman,விளையாட்டு வீரர்,,,,sports,corpus_sourashtradictionary
+,,கே2ளு பூய்ஞ்,khELu pooynj,,,,"Playground, Stadium","திடல், மைதானம், விளையாட்டு அரங்கம்",,,,sports,corpus_sourashtradictionary
+,,பொயல்,poyal,,,,Ground,"திடல், மைதானம்",,,,sports,corpus_sourashtradictionary
+,,பன்து மைதா3ன்,pantu maidaan,,,,Race course,பந்தய மைதானம்,,,,sports,corpus_sourashtradictionary
+,,பன்து,pantu,,,,"Competition, Contest, Race, Match",போட்டி,,,,sports,corpus_sourashtradictionary
+,,த4மினி கி3ரிடு3,dhamini giriDu,,,,"Athlete, Sprinter, Runner","தடகள வீரர், ஓட்டப்பந்தய வீரர்",,,,sports,corpus_sourashtradictionary
+,,த4மினி பன்து,dhamini pantu,,,,Running race,ஓட்டப்பந்தயம்,,,,sports,corpus_sourashtradictionary
+,,உஞ்சொ தரத்தெ,unjco taratte,,,,High jump,உயரம் தாண்டுதல்,,,,sports,corpus_sourashtradictionary
+,,லம்பொ3 தரத்தெ,lambo taratte,,,,Long jump,நீளம் தாண்டுதல்,,,,sports,corpus_sourashtradictionary
+,,ஶூல் விஸிர்னி,ssool visirni,,,,Javelin throw,ஈட்டி எறிதல்,,,,sports,corpus_sourashtradictionary
+,,செக்குர் விஸிர்னி,cekkur visirni,,,,Discus throw,வட்டு எறிதல்,,,,sports,corpus_sourashtradictionary
+,,திர்னி பன்து,tirni pantu,,,,Swimming Competion,நீச்சல் போட்டி,,,,sports,corpus_sourashtradictionary
+,,மல்லயுத்3தொ4,mallayuddho,,,,Wrestling,மல்யுத்தம்,,,,sports,corpus_sourashtradictionary
+,,முஷ்டியுத்3தொ4,mushTiyuddho,,,,Boxsing,குத்துச்சண்டை,,,,sports,corpus_sourashtradictionary
+,,செண்டு3,ceNDu,,,,Ball,பந்து,,,,sports,corpus_sourashtradictionary
+,,பாய்ஞ்செண்டு3,paaynjceNDu,,,,Football,கால்பந்து,,,,sports,corpus_sourashtradictionary
+,,ஹாதுசெண்டு3,haatuceNDu,,,,Volleyball,கைப்பந்து,,,,sports,corpus_sourashtradictionary
+,,புட்3கிசெண்டு3,puDkiceNDu,,,,Basketball,கூடைப்பந்து,,,,sports,corpus_sourashtradictionary
+,,புட்3கிசெண்டு3 மைதா3ன்,puDkiceNDu maidaan,,,,Basketball court,கூடைப்பந்து மைதானம்,,,,sports,corpus_sourashtradictionary
+,,பாய்ஞ்செண்டு3 மைதா3ன்,paaynjceNDu maidaan,,,,Football court,கால்பந்து மைதானம்,,,,sports,corpus_sourashtradictionary
+,,பூ2லுசெண்டு3,phooluceNDu,,,,Ball Badminton,பூப்பந்து,,,,sports,corpus_sourashtradictionary
+,,பிஞ்செ2செண்டு3,pinjcheceNDu,,,,Shuttlecock,இறகுப்பந்து,,,,sports,corpus_sourashtradictionary
+,,மொட்டொசெண்டு3,moTToceNDu,,,,Cricket,மட்டைப்பந்து,,,,sports,corpus_sourashtradictionary
+,,மொட்டொ,moTTo,,,,Cricket Bat,மட்டை,,,,sports,corpus_sourashtradictionary
+,,மொட்டொசெண்டு3 மைதா3ன்,moTToceNDu maidaan,,,,Cricket Ground,மட்டைப்பந்து மைதானம்,,,,sports,corpus_sourashtradictionary
+,,பூ4ய்ஞ்க2ட்டி,bhooynjkhaTTi,,,,Stump,அடிக்கட்டை,,,,sports,corpus_sourashtradictionary
+,,சதுரங்கொ3,caturanggo,,,,Chess,சதுரங்கம்,,,,sports,corpus_sourashtradictionary
+,,சதுரங்கொ3 பட்டொ,caturanggo paTTo,,,,Chess board,சதுரங்க பலகை,,,,sports,corpus_sourashtradictionary
+,,க்ரிஸ்து பைடி3,kristu paiDi,,,,Bishop,பிஷப்,,,,sports,corpus_sourashtradictionary
+,,ஶிப்பாய்,ssippaay,,,,Pawn,சிப்பாய்,,,,sports,corpus_sourashtradictionary
+,,கொ4டா3 ஶிப்பாய்,ghoDaa ssippaay,,,,Knight,குதிரை வீரர்,,,,sports,corpus_sourashtradictionary
+,,வகுண்டொ லைடொ3,vakuNTo laiDo,,,,Hockey,வளைதடி,,,,sports,corpus_sourashtradictionary
+,,லைடொ3செண்டு3,laiDoceNDu,,,,Baseball,கழிபந்து,,,,sports,corpus_sourashtradictionary
+,,சீடு3 கா2ள்,ceeDu khaaL,,,,Card game,சீட்டாட்டம்,,,,sports,corpus_sourashtradictionary
+,,ஒலாசெண்டு3,olaaceNDu,,,,Tennis,வலைப்பந்து,,,,sports,corpus_sourashtradictionary
+,,மேஜொசெண்டு3,mEjoceNDu,,,,Table tennis,மேசைபந்து,,,,sports,corpus_sourashtradictionary
+,,மிட்டினி கா2ள்,miTTini khaaL,,,,Carrom,கேரம்,,,,sports,corpus_sourashtradictionary
+,,மிட்டினி பொல்கொ,miTTini polko,,,,Carrom Board,கேரம் ஆட்டப்பலகை,,,,sports,corpus_sourashtradictionary
+,,கலொ கைலொ,kalo kailo,,,,Black coin,கறுப்புக்காய்,,,,sports,corpus_sourashtradictionary
+,,ஹுஜால் கைலொ,hujaal kailo,,,,White coin,வெள்ளைக்காய்,,,,sports,corpus_sourashtradictionary
+,,ரணி கைலொ,raNi kailo,,,,"Red coin, Queen coin",சிவப்புக்காய்,,,,sports,corpus_sourashtradictionary
+,,மிட்டி கைலொ,miTTi kailo,,,,Striker,தளவட்டம்,,,,sports,corpus_sourashtradictionary
+,,பொல்கா கொ2ள்டி,polkaa khoLTi,,,,Carrom board pocket,பலகைப்பை,,,,sports,corpus_sourashtradictionary
+,,ஹின்னொ ஜி2ர்க்கினி,hinno jhirkkini,,,,Skating,பனிச்சறுக்கு,,,,sports,corpus_sourashtradictionary
+,,கெளி ஜி2ர்க்கினி,keLi jhirkkini,,,,Roller Skating,உருளைச்சறுக்கு,,,,sports,corpus_sourashtradictionary
+,,கப3டி3,kabaDi,,,,Kabadi,"சடுகுடு, கபடி",,,,sports,corpus_sourashtradictionary
+,,த4மி த4மி,dhami dhami,,,,Kho kho,கோ கோ,,,,sports,corpus_sourashtradictionary
+,,பரமபதம்,paramapatam,,,,Snakes and Ladders,பரமபதம்,,,,sports,corpus_sourashtradictionary
+,,சார்பதொ3,caarpado,,,,Ludo,பகடை விளையாட்டு,,,,sports,corpus_sourashtradictionary
+,,பா2ஸொ,phaaso,,,,Dice,பகடை,,,,sports,corpus_sourashtradictionary
+,,கொவ்டொ3,kovDo,,,,Cowry Shell,சோழி,,,,sports,corpus_sourashtradictionary
+,,த4ன ப4ந்தி3னி,dhana bhandini,,,,Betting,சூதாடுதல்,,,,sports,corpus_sourashtradictionary
+,,பணொ,paNo,,,,Bet,பந்தயம்,,,,sports,corpus_sourashtradictionary
+,,ஸூது3 கா2ள்,soodu khaaL,,,,Playing Cards,சீட்டாடுதல்,,,,sports,corpus_sourashtradictionary
+,,ஸஸ்னி,sasni,,,,Adventure,சாகசம்,,,,sports,corpus_sourashtradictionary
+,,ஜெயம்,jeyam,,,,"Success, Victory, Win, Triump, Godspeed",வெற்றி,,,,sports,corpus_sourashtradictionary
+,,ஜீக்3,jeeg,,,,"Success, Victory, Win, Triump, Godspeed",வெற்றி,,,,sports,corpus_sourashtradictionary
+,,ஜிக்3னி,jigni,,,,"Success, Victory, Win, Triump, Godspeed",வெற்றி,,,,sports,corpus_sourashtradictionary
+,,ஜெவுஞ்ஜினி,jevunjjini,,,,"Win, Winning, Conquer, Conquest","ஜெயித்தல், வெல்லுதல்",,,,sports,corpus_sourashtradictionary
+,,ஜெவுஞ்சத்தெ,jevunjcatte,,,,"Win, Winning, Conquer, Conquest","ஜெயித்தல், வெல்லுதல்",,,,sports,corpus_sourashtradictionary
+,,ஜெவுஞ்சத்தெனொ,jevunjcatteno,,,,Winner,வெற்றி பெற்றவர்,,,,sports,corpus_sourashtradictionary
+,,ஒட்னி,oTni,,,,"Failure , Defeat, Beat , Lost","தோல்வி, இழத்தல்",,,,sports,corpus_sourashtradictionary
+,,ஒட3த்தெ,oDatte,,,,"Lose, Defeated, Beat","தோற்று போதல், தோற்றல், இழத்தல்",,,,sports,corpus_sourashtradictionary
+,,ஒட3த்தெனொ,oDatteno,,,,Loser,தோற்றவர்,,,,sports,corpus_sourashtradictionary
+,,தி3வ்வஸ்தானொ,divvastaano,,,,Runner up,இரண்டாம் இடம் பெற்றவர்,,,,sports,corpus_sourashtradictionary

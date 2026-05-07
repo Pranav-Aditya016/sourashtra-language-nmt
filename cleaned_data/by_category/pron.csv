@@ -1,0 +1,333 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,கோன்,kOn,,,,Who,யார்,மொரெ ஸெராடி3 கோன் அவரியொ?,Who are coming with me?,என்னுடன் யார் வருகிறார்கள்?,pron,corpus_sourashtradictionary
+,,மீ,mee,,,,I,நான்,மீ பெ3ஸ்தார்தி3 அவரியொ,I'm coming on Thursday,நான் வியாழக்கிழமை வருகிறேன்,pron,corpus_sourashtradictionary
+,,மீ,mee,,,,Me,நான்,மீ துரெ வத்3தி3,I'm your teacher,நான் உங்கள் ஆசிரியர்,pron,corpus_sourashtradictionary
+,,தூ,too,,,,You,நீ,தூ அவரியொயா?,Are you coming?,நீ வருகிறாயா?,pron,corpus_sourashtradictionary
+,,அமி,ami,,,,We,நாங்கள்,அமி சென்னையும் ஜிவரியொ,We live in Chennai,நாங்கள் சென்னையில் வசிக்கிறோம்,pron,corpus_sourashtradictionary
+,,துமி,tumi,,,,You,நீங்கள்,துமி கோட் ஜிவரியொ?,Where do you live?,நீங்கள் எங்கே வசிக்கிறீர்கள்?,pron,corpus_sourashtradictionary
+,,எனொ,eno,,,,"He, She","இவன், இவள்",எனொ மொரெ ந்ஹன் ப4ய்,He is my younger brother,இவன் என் இளைய சகோதரன்,pron,corpus_sourashtradictionary
+,,தெனொ,teno,,,,"He, She","அவன், அவள்",தெனொ சொவ்து3ம் கெ4டி3கெத்தான்,He is smarter in the study,அவன் படிப்பில் கெட்டிக்காரன்,pron,corpus_sourashtradictionary
+,,தென்தெனு,tentenu,,,,Everyone,அவனவன்,தென்தெனு தெங்கொ3 தெங்கொ3 வாடும் ஜியாஸ்,Everyone went on their own way,அவரவர் அவரவர் வழியில் சென்றனர்,pron,corpus_sourashtradictionary
+,,எனு,enu,,,,"He, They","இவர், இவர்கள்",எனு கோட் காம் கெரரியொ?,Where is he working?,இவர் எங்கே வேலை செய்கிறார்?,pron,corpus_sourashtradictionary
+,,தெனு,tenu,,,,"He, They","அவர், அவர்கள்",தெனு விரதி ப2ராது கோ3ஸ் ஸே,He is idle after retirement,அவர் பணி ஓய்வுக்குப் பிறகு சும்மா இருக்கிறார்,pron,corpus_sourashtradictionary
+,,அஸ்கிதெனு,askitenu,,,,Everyone,எல்லோரும்,அஸ்கிதெனு ஸொந்தோஷ்கன் ஸே,Everyone is happy,எல்லோரும் மகிழ்ச்சியாக இருக்கிறார்கள்,pron,corpus_sourashtradictionary
+,,கொன்னிதெனு,konnitenu,,,,"No one, Nobody","யாரும், யாருமே",காய் கெர்னொ மெனி கொன்னிதெனு ஸங்க்3யானி,No one told us what to do,என்ன செய்வது என்று யாரும் சொல்லவில்லை,pron,corpus_sourashtradictionary
+,,கோன்தி,kOnti,,,,Someone,"யாரோ, யாராவது",கோன்தி பை2லொ ஹர்ம்ப3ம் கெர்னொ,Someone should start first,யாராவது முதலில் தொடங்க வேண்டும்,pron,corpus_sourashtradictionary
+,,ஒக்கொக்கொ,okkokko,,,,Every,ஒவ்வொரு,ஒக்கொக்கொ ஒர்ஸும் ஹுன்னொ வேன் ஹோரஸ்,Every year it gets hotter,ஒவ்வொரு ஆண்டும் வெப்பம் அதிகமாகிறது,pron,corpus_sourashtradictionary
+,,ஸவ,sava,,,,All,அனைத்து,ஸவ ஜீவுனுக் ஜிவத்தக் தீ4னு ஸேத்தெ,All living beings have the right to live,அனைத்து உயிரினங்களுக்கும் வாழ உரிமை உண்டு,pron,corpus_sourashtradictionary
+,,அஸ்கி,aski,,,,"All, Everything","எல்லாம், அனைத்து, அனைத்தும்",அஸ்கி பரீக்ஷானுக் தொ3ப்3பி3 தொ2வ்தியா,All exams were postponed,அனைத்து தேர்வுகளையும் ஒத்திவைத்தனர்,pron,corpus_sourashtradictionary
+,,பூரா,pooraa,,,,"All, Everything","எல்லாம், அனைத்து, அனைத்தும்",தெல்லெ பூரா தூ மென ஹோனா !!,You should not say all that !!,அதை எல்லாம் நீ சொல்லக்கூடாது !!,pron,corpus_sourashtradictionary
+,,அஸ்கியொ,askiyo,,,,Everything,அனைத்தையும்,கெ3ருவ் அஸ்கியொ நஸினம் கெர்த்தை,Arrogance will destroy everything,ஆணவம் அனைத்தையும் அழித்துவிடும்,pron,corpus_sourashtradictionary
+,,இக்கூயொ,ikkooyo,,,,All this,"இவையெல்லாம், இவை அனைத்தும்",இக்கூயொ கோட் ர்ஹீ அவெயொ ?,Where did all this come from?,இவையெல்லாம் எங்கிருந்து வந்தது ?,pron,corpus_sourashtradictionary
+,,அஸ்கொ,asko,,,,"Absolutely, Altogether, Totally, Completely, Entirely","முழுவதும், முற்றிலும்",தெல்லெ அஸ்கொ நஜ்ஜிரஸ்,It was altogether spoiled,அது முழுவதும் கெட்டுவிட்டது,pron,corpus_sourashtradictionary
+,,பூராக்,pooraak,,,,"Absolutely, Altogether, Totally, Completely, Entirely","முழுவதும், முற்றிலும்",பூராக் பிஸத்தனம் ஹொயெ காம் மெனெத் எல்லேஸிஸ்,This is what absolutely crazy work means,முற்றிலும் பைத்தியக்கார வேலை என்றால் இதுதான்,pron,corpus_sourashtradictionary
+,,கொன்னி,konni,,,,"Nobody, Nothing",எதுவும்,ஏட் கொன்னி சோட் ந்ஹீ !,Nothing is good here !,இங்கே எதுவும் நன்றாக இல்லை !,pron,corpus_sourashtradictionary
+,,கொஞி,konji,,,,"Nobody, Nothing",எதுவும்,தேகு ஜா2டு3க் கொஞி மத்தின் கா2னி,Teak wood is not eaten by any soil,தேக்கு மரத்தை எந்த மண்ணும் உண்பதில்லை,pron,corpus_sourashtradictionary
+,,கொன்னி ந்ஹீ,konni nhee,,,,"None, Nothing",எதுவும் இல்லை,தெகொ3ஜொவள் கொன்னி ந்ஹீ,He had none,அவனிடம் எதுவும் இல்லை,pron,corpus_sourashtradictionary
+,,கொன்னி ந்ஹா,konni nhaa,,,,"None, Nothing",ஒன்றும் இல்லை,"கொன்னி ந்ஹா, அஸ்கி ஸெர்க்கொ ஸேயா மெனி ஸாரியோ","Nothing, I am just checking everything is fine","ஒன்றுமில்லை, எல்லாம் சரியாக இருக்கிறதா என்று பார்க்கிறேன்",pron,corpus_sourashtradictionary
+,,து3ஸ,dusa,,,,Any other,வேறு,து3ஸ காய்தி வாட் ஸேயா?,Is there any other way?,வேறு ஏதாவது வழி இருக்கிறதா?,pron,corpus_sourashtradictionary
+,,து3ஸுரெ,dusure,,,,"Other, Else, Some other","பிற, அல்லது, வேறு சில",து3ஸுரெ ராஜ்யமு மென்க்யான் மெல்லொ செரரியொ,People from other states are also joining,பிற மாநில மக்களும் இணைகின்றனர்,pron,corpus_sourashtradictionary
+,,து3ஸ்ரொ,dusro,,,,"Other, Else, Some other","பிற, அல்லது, வேறு சில",து3ஸ்ரொ காய் பஜெ?,What else is needed?,வேறென்ன வேண்டும்?,pron,corpus_sourashtradictionary
+,,ஸேத்தெ,sEtte,,,,Am,இருக்கிறேன்,மீ பொருங்கி3டி3ம் ஸேத்தெ,I am in Paramakudi,நான் பரமக்குடியில் இருக்கிறேன்,pron,corpus_sourashtradictionary
+,,ஸே,sE,,,,Are,"இருக்கின்றன, உள்ளன",ஜு2கு3 வனினுன் ஸே,There are lot of colors,நிறைய வண்ணங்கள் உள்ளன,pron,corpus_sourashtradictionary
+,,ஸே,sE,,,,"Is, Has, Have","இருக்கிறது, உள்ளது",தெகொ3ஜொவள் ஒண்டெ செடா3வ் ஹொயெ பொ3ண்டி3 ஸே,He has a superior car,அவரிடம் ஒரு உயர்ந்த கார் உள்ளது,pron,corpus_sourashtradictionary
+,,ந்ஹீ,nhee,,,,"Do not have, Does not have, Has no, Have no",இல்லை,மொரெஜொவல் ந்ஹீ. தெகொ3ஜொவள் மெல்லொ ந்ஹீ,I do not have it. She doesn’t have that either,என்னிடம் இல்லை. அவளிடம் கூட இல்லை,pron,corpus_sourashtradictionary
+,,ந்ஹீ,nhee,,,,"Am not, Is not, Was not, Were not",இல்லை,தேட் காய் ந்ஹீ?,What is not there?,அங்கு என்ன இல்லை?,pron,corpus_sourashtradictionary
+,,ந்ஹீ,nhee,,,,"No, Nope",இல்லை,ஹிந்தொ3 பொள்டம் ந்ஹீ,No school today,இன்று பாடசாலை இல்லை,pron,corpus_sourashtradictionary
+,,"ந்ஹா, ந்ஹானா","nhaa, nhaanaa",,,,Not,அல்ல,மீ தெனொ ந்ஹா,I am not him,நான் அவன் இல்லை,pron,corpus_sourashtradictionary
+,,ந்ஹிநாத்தொ,nhinaatto,,,,Without,இல்லாமல்,துமி ந்ஹிநாத்தொ காம் சல் ர்ஹானா,The work would not have happened without you,நீங்கள் இல்லாமல் வேலை நடந்திருக்காது,pron,corpus_sourashtradictionary
+,,"ந்ஹாத்தொ, ந்ஹாத்தக்","nhaatto, nhaattak",,,,Without,இல்லாமல்,அமி ஸில்லொ வரா பெடி ந்ஹாத்தக் கெஷ்டம் பொட்டியா,We suffered without air conditioning,நாங்கள் குளிரூட்டி இல்லாமல் அவதிப்பட்டோம்,pron,corpus_sourashtradictionary
+,,வினா,vinaa,,,,Without,இல்லாமல்,நம்ரதொ வினா ஈகு3 ஹால் காய் பிர்ஜனம்?,What is the use of education without humility?,பணிவு இல்லாமல் கல்வியால் என்ன பயன்?,pron,corpus_sourashtradictionary
+,,ஹொதெ3ஸ்,hodes,,,,"Was, Had",இருந்தது,நெத்3தி3 பூராக் ஸுக்கி ஹொதெ3ஸ்,The river was completely dry,ஆறு முற்றிலும் வறண்டு இருந்தது,pron,corpus_sourashtradictionary
+,,ர்ஹா,rhaa,,,,Be,இரு,கொ2ப்3பி3ம் ஸொந்தோஷ்கன் ர்ஹா,Always be happy,எப்பொழுதும் மகிழ்ச்சியாக இரு,pron,corpus_sourashtradictionary
+,,ர்ஹாத்தெ,rhaatte,,,,Being,இருப்பது,கோ3 பி3ஸி ர்ஹாத்தெ சொக்கட் ந்ஹா,Being idle is not good,சும்மா இருப்பது நல்லதல்ல,pron,corpus_sourashtradictionary
+,,ர்ஹாய்,rhaay,,,,(it) Will be,இருக்கும்,"ஹாய், தெல்லெ தேட் ர்ஹாய்","Yes, it will be there","ஆம், அது அங்கே இருக்கும்",pron,corpus_sourashtradictionary
+,,ர்ஹவு,rhavu,,,,(I) Will be,இருப்பேன்,ஹொல்ல வாரும் மீ அமெரிக்காம் ர்ஹவு,I will be in the US next week,அடுத்த வாரம் நான் அமெரிக்காவில் இருப்பேன்,pron,corpus_sourashtradictionary
+,,ர்ஹான்,rhaan,,,,(They) Will be,இருப்பார்கள்,தெனு கிரிக்கெட் ஸிலேத் ர்ஹான்,They will be watching cricket,அவர்கள் கிரிக்கெட் பார்த்துக் கொண்டிருப்பார்கள்,pron,corpus_sourashtradictionary
+,,ர்ஹவெ,rhave,,,,(We) Will be,இருப்போம்,அமி துங்கொ3 ஆத3ரொகன் ர்ஹவெ,We will be supporting you,நாங்கள் உங்களுக்கு ஆதரவாக இருப்போம்,pron,corpus_sourashtradictionary
+,,ர்ஹவாய்,rhavaay,,,,May be,இருக்கலாம்,துங்கொ3 எல்லெ களயி ர்ஹவாய்,You may be aware of this,நீங்கள் இதை அறிந்திருக்கலாம்,pron,corpus_sourashtradictionary
+,,ர்ஹானா,rhaanaa,,,,"May not be, Will not be",இருக்காது,தெல்லெ அங்கி3டி3ம் பா4த் சோட் ர்ஹானா,The food at that shop may not be good,அந்த கடையில் சாப்பாடு நன்றாக இருக்காது,pron,corpus_sourashtradictionary
+,,ர்ஹவானா,rhavaanaa,,,,Can not be,இருக்க முடியாது,மொரெஹால் ஜு2கு3தி3 ஏட் ர்ஹவானா,I can not be here for long,என்னால் ரொம்ப நாள் இங்கே இருக்க முடியாது,pron,corpus_sourashtradictionary
+,,ர்ஹாத்தக் முஸுனா,rhaattak musunaa,,,,Can not be,இருக்க முடியாது,தெகொ3ஹால் அபுல் பெ3டா3க் ஸொட்3டி3 ர்ஹாத்தக் முஸுனா,She cannot be away from her son,அவளால் தன் மகனை விட்டு விலகி இருக்க முடியாது,pron,corpus_sourashtradictionary
+,,ர்ஹாத்தக்,rhaattak,,,,To be,"இருப்பதற்கு, இருக்க",மீ ஏட் ர்ஹாத்தக் ஜு2கு3 காரணான் ஸே,I have reasons to be here,நான் இங்கு இருப்பதற்கு காரணங்கள் உள்ளன,pron,corpus_sourashtradictionary
+,,ர்ஹாத்தொ,rhaatto,,,,To be,"இருப்பதற்கு, இருக்க",தெனு ஸிங்க3ய்த்கன் ர்ஹாத்தொ யத்னு கெரராஸ்,He is trying to be friend,அவர் நண்பராக இருக்க முயற்சிக்கிறார்,pron,corpus_sourashtradictionary
+,,ர்ஹாந்தொ3,rhaando,,,,Let it be,இருக்கட்டும்,தெல்லெ தேடுஸ் ர்ஹாந்தொ3,Let it be there,அது அங்கேயே இருக்கட்டும்,pron,corpus_sourashtradictionary
+,,ர்ஹதொ,rhato,,,,While being,இருக்கும் போது,மீ ஆங்கு3 து4வ்லேத் ர்ஹதொ தூ3ர்வதி3னி ஹனெஸி,The phone rang while I am taking bath,நான் குளித்துக்கொண்டு இருக்கும் போது தொலைபேசி அடித்தது,pron,corpus_sourashtradictionary
+,,ஹோந்தொ3,hOndo,,,,"So be it, Ok, Okey, Okay","ஆகட்டும், சரி","ஹோந்தோ3, ஸியென்","Okey, Let us see","ஆகட்டும், பார்க்கலாம்",pron,corpus_sourashtradictionary
+,,ஹோய்,hOy,,,,"Will happen, Going to happen, Would happen","நடக்கும், ஆகும்",இஸனி ஹோய் மெனி கோன் ஹவ்டி3 ஸியாஸ்?,Who thought it is going to happen like this?,இப்படி ஆகும் என்று யார் நினைத்தார்கள்?,pron,corpus_sourashtradictionary
+,,ஹோனா,hOnaa,,,,"Should not, Will not","கூடாது, ஆகாது",திஸனி சல ஹோனா,It should not happen like that,அது போல் நடக்கக் கூடாது,pron,corpus_sourashtradictionary
+,,கொல்லெ,kolle,,,,Which,எது,தொகொ3 கொல்லெ ஒப்பாரஸ்?,Which one you like?,உனக்கு எது பிடித்துள்ளது?,pron,corpus_sourashtradictionary
+,,எல்லெ,elle,,,,"This, These","இது, இந்த, இவை",துங்கொ3 எல்லெ ஒப்பாரஸ்யா?,Do you like this?,உங்களுக்கு இது பிடிக்கிறதா?,pron,corpus_sourashtradictionary
+,,தெல்லெ,telle,,,,"It, That, Those","அது, அந்த, அவை",தொகொ3 தெல்லெ ஒப்பாரஸ்யா?,Do you like that?,உனக்கு அது பிடிக்கிறதா?,pron,corpus_sourashtradictionary
+,,மொரெ,more,,,,My,என்னுடைய,தெனு மொரெ ப4ய்,He is my brother,அவர் என் சகோதரன்,pron,corpus_sourashtradictionary
+,,தொரெ,tore,,,,Your,உன்னுடைய,தொரெ நாவ் காயொ?,What is your name?,உன் பெயர் என்ன?,pron,corpus_sourashtradictionary
+,,தொரொ,toro,,,,Your,உன்னுடைய,தெனொ தொரொ ஸொகன் ஸே,He looks like you,அவன் உன்னைப் போலவே இருக்கிறான்,pron,corpus_sourashtradictionary
+,,அவ்ரெ,avre,,,,Our,எங்களுடைய,அவ்ரெ கே4ர் அவொ,Come to our house,எங்கள் வீட்டிற்கு வாருங்கள்,pron,corpus_sourashtradictionary
+,,துரெ,ture,,,,Your,உங்களுடைய,துரெ போ3 பொ3வராஸ்,Your father is calling,உங்கள் தந்தை அழைக்கிறார்,pron,corpus_sourashtradictionary
+,,அம்ரெ,amre,,,,Our,நமது,பா4ரத் அம்ரெ தே3ஶு,Our country is India,இந்தியா நமது நாடு,pron,corpus_sourashtradictionary
+,,ஔரொ,auro,,,,Our,நம்முடைய,ஔரொ கொல்லெ?,Which is our?,எது நம்முடையது?,pron,corpus_sourashtradictionary
+,,"அபுல், அபுல்யொ","apul, apulyo",,,,Own,"சொந்தம், சொந்தமான",தெனு அபுல் பொ3ண்டிக் விக்யாஸ்,He sold his own car,அவர் தன் சொந்த காரை விற்றார்,pron,corpus_sourashtradictionary
+,,அபுல்,apul,,,,"His / Her, One's own, Own","தன்னுடைய, தம்முடைய",அமி அபுல் தே3ஶுக் ப்ராமொ கெர்னொ,We must love our country,நாம் நம் நாட்டை நேசிக்க வேண்டும்,pron,corpus_sourashtradictionary
+,,அபுலான்,apulaan,,,,"Their, Their own",தங்களுடைய,தெனு அபுலான் கா3முக் நிகி3ள்டியா,They left for their town,அவர்கள் தங்கள் ஊருக்குப் புறப்பட்டனர்,pron,corpus_sourashtradictionary
+,,அப்லானும்,aplaanum,,,,"By itself, Within itself / themselves","தன்னால், தன்னில், தமக்குள்",தெனு ஆஸ்திக் அபுலானும் விக்கராஸ்,They sell the properties among themselves,அவர்கள் சொத்துக்களை தங்களுக்குள் விற்கிறார்கள்,pron,corpus_sourashtradictionary
+,,கொங்கொ3(க்),konggo(k),,,,"To Who(m), Whom","யாருக்கு, யாரை, எவரை, எவனை",துமி கொங்கொ3 ஸாத்தக் ஜாரியொ?,Whom are you going to see?,நீங்கள் யாரை பார்க்கப்போகிறீர்கள்?,pron,corpus_sourashtradictionary
+,,மொகொ3,mogo,,,,Me,"எனக்கு, என்னை",மொகொ3 எல்லெ ஒண்டெ ஸமாசார்,This is news to me,இது எனக்கு ஒரு செய்தி,pron,corpus_sourashtradictionary
+,,தொகொ3,togo,,,,To you,"உனக்கு, உன்னை",தொகொ3 காய் பஜெ மெனெத்தெ பை2லாம் ஸங்கி3,Tell me first what you want,உனக்கு என்ன வேண்டும் என்பதை முதலில் சொல்லு,pron,corpus_sourashtradictionary
+,,அவ்ங்கொ3,avnggo,,,,Us,"எங்களுக்கு, நமக்கு",அவ்ரெ மமொ அவ்ங்கொ3 ஜேமு தி3யாஸ்,Our uncle gave us a gift,எங்கள் மாமா எங்களுக்கு பரிசு கொடுத்தார்,pron,corpus_sourashtradictionary
+,,துங்கொ3,tunggo,,,,To you,உங்களுக்கு,எல்லெ துங்கொ3 கோன் ஸங்கெ3யொ?,Who told you this?,இதை உங்களுக்கு யார் சொன்னது?,pron,corpus_sourashtradictionary
+,,எகொ3,ego,,,,"To him, To her, Him, Her","இவனுக்கு, இவளுக்கு, இவனை, இவளை",எகொ3 இஸனி ஹோய் மெனி கொங்கொ3க் களாய்,Who knew this would happen to her,இவளுக்கு இப்படி நடக்கும் என்று யாருக்குத் தெரியும்,pron,corpus_sourashtradictionary
+,,தெகொ3,tego,,,,"To him, To her, Him, Her","அவனுக்கு, அவளுக்கு, அவனை, அவளை",தெல்லெ தெகொ3 சல்ர்ஹியெத் களய் ர்ஹாய்,It would have made sense if it had happened to him,அது அவனுக்கு நடந்திருந்தால் புரிந்திருக்கும்,pron,corpus_sourashtradictionary
+,,எங்கொ3,enggo,,,,To them,இவர்களுக்கு,துமி எங்கொ3 லிக்யாஸ்யா?,Did you write to them?,நீங்கள் இவர்களுக்கு எழுதினீர்களா?,pron,corpus_sourashtradictionary
+,,தெங்கொ3,tenggo,,,,To those,அவர்களுக்கு,துமி மிளரியொ தெங்கொ3 நமஸ்கார் மெல்லுவொ,Say hello to those you meet,நீங்கள் சந்திப்பவர்களுக்கு வணக்கம் சொல்லுங்கள்,pron,corpus_sourashtradictionary
+,,ஒண்டெதெங்கொ3,oNTetenggo,,,,To someone,ஒருவருக்கு,ஒண்டெதெங்கொ3 ஹிதௌ ஸங்க3த்தே ஸுல்ப்3யமு,It is easy to give advice to someone,ஒருவருக்கு அறிவுரை கூறுவது எளிது,pron,corpus_sourashtradictionary
+,,அஸ்கிதெங்கொ3,askitenggo,,,,To everyone,அனைவருக்கும்,மொரெ போ3 அஸ்கிதெங்கொ3 களயாத்தெனு,My father is known to everyone,என் அப்பா அனைவருக்கும் தெரிந்தவர்,pron,corpus_sourashtradictionary
+,,கொங்கிகு,kongkiku,,,,"Nobody, To Nobody",யாருக்கும்,துமி கோன் மெனி கொங்கிகு களாரனி,Nobody knows who you are,நீங்கள் யாரென்று யாருக்கும் தெரியவில்லை,pron,corpus_sourashtradictionary
+,,கொல்லெகொ3,kollego,,,,Which one,எந்த ஒன்று,கொல்லெகொ3 அமி நாவ் க4ல்னொ ஹோரியொ?,Which one should we name?,எந்த ஒன்றுக்கு நாம் பெயரிட வேண்டும்?,pron,corpus_sourashtradictionary
+,,எல்லெகொ3,ellego,,,,For this one,இதற்கு,எல்லெகொ3 தெ3ஸ்ஸு லெக்கு ருபாய் வேன்,Ten lakhs rupees is more for this one,இதற்கு பத்து லட்சம் ரூபாய் அதிகம்,pron,corpus_sourashtradictionary
+,,தெல்லெகொ3,tellego,,,,For that one,அதற்கு,தெல்லெகொ3 தெனொ ஒப்பிள்யனி,He did not agree to that one,அதற்கு அவன் சம்மதிக்கவில்லை,pron,corpus_sourashtradictionary
+,,தெகொ3வுச்சி,tegovucci,,,,For that,"அதற்காக, அதனால்",தெகொ3வுச்சி மீ தெல்லெ ப்ராமோ பொட3ரியொ,I love it for that,அதற்காக நான் அதை விரும்புகிறேன்,pron,corpus_sourashtradictionary
+,,கொங்கொ3 தெ4ரி,konggo dheri,,,,About whom,யாரைப்பற்றி,துமி கொங்கொ3 தெ4ரி விசார் பொட3ரியொ?,Whom you are worried about?,நீங்கள் யாரைப் பற்றி கவலைப்படுகிறீர்கள்?,pron,corpus_sourashtradictionary
+,,மொகொ3 தெ4ரி,mogo dheri,,,,About me,என்னைப்பற்றி,மொகொ3 தெ4ரி மீ ஸங்க3 ஹோனா,I should not say about myself,என்னைப் பற்றி நான் சொல்லக் கூடாது,pron,corpus_sourashtradictionary
+,,தொகொ3 தெ4ரி,togo dheri,,,,About you,உன்னைப்பற்றி,தொரெ ப4ய் தொகொ3 தெ4ரி புஸெஸ்,Your brother asked about you,உன் தம்பி உன்னைப் பற்றிக் கேட்டான்,pron,corpus_sourashtradictionary
+,,அவ்ங்கொ3 தெ4ரி,avnggo dheri,,,,About us,"எங்களுக்காக, நமக்காக, நம்மைப்பற்றி",அவ்ங்கொ3 தெ4ரி மெல்லொ லிக்கராஸ்,They also write about us,நம்மைப் பற்றியும் எழுதுகிறார்கள்,pron,corpus_sourashtradictionary
+,,துங்கொ3 தெ4ரி,tunggo dheri,,,,About you,உங்களைப்பற்றி,துங்கொ3 தெ4ரி அய்கினி பொட்3ராஸ்,We have heard about you,உங்களைப் பற்றி கேள்விப்பட்டிருக்கிறோம்,pron,corpus_sourashtradictionary
+,,எகொ3 தெ4ரி,ego dheri,,,,About him / her,இவனை(ளை)ப்பற்றி,எகொ3 தெ4ரி விசார் பொட்3னகொ3,Don't worry about her,அவளைப் பற்றி கவலைப்படாதே,pron,corpus_sourashtradictionary
+,,தெகொ3 தெ4ரி,tego dheri,,,,About him / her,அவனை(ளை)ப்பற்றி,தெகொ3 தெ4ரி புஸி களள்ளெ,Inquire about him,அவனைப் பற்றி விசாரிக்கவும்,pron,corpus_sourashtradictionary
+,,எங்கொ3 தெ4ரி,enggo dheri,,,,About them,இவர்களைப்பற்றி,எங்கொ3 தெ4ரி ஒண்டெ புஸ்தவ் லிக்குவொ,Write a book about him,இவரைப் பற்றி ஒரு புத்தகம் எழுதுங்கள்,pron,corpus_sourashtradictionary
+,,தெங்கொ3 தெ4ரி,tenggo dheri,,,,About those,அவர்களைப்பற்றி,தெங்கொ3 தெ4ரி காய்தி களயத் ஸங்கு3வொ,Tell me if you know anything about him,அவரை பற்றி ஏதாவது தெரிந்தால் சொல்லுங்கள்,pron,corpus_sourashtradictionary
+,,ஒண்டெதெங்கொ3 தெ4ரி,oNTetenggo dheri,,,,About someone,ஒருவரைப்பற்றி,ஒண்டெதெங்கொ3 தெ4ரி களானாத்தக் கொன்னி மென ஹோனா,Do not say anything without knowing about someone,ஒருவரைப் பற்றித் தெரியாமல் எதையும் சொல்லக் கூடாது,pron,corpus_sourashtradictionary
+,,அஸ்கிதெங்கொ3 தெ4ரி,askitenggo dheri,,,,About everyone,அனைவரைப்பற்றி,தெனு அஸ்கிதெங்கொ3 தெ4ரி வத்தொ கெரராஸ்,He talks about everyone,அவர் அனைவரைப்பற்றி பேசுகிறார்,pron,corpus_sourashtradictionary
+,,கொல்லெகொ3 தெ4ரி,kollego dheri,,,,About what,எதைப்பற்றி,துமி கொல்லெகொ3 தெ4ரி விசார் பொட3ரியொ?,What are you worried about?,நீங்கள் எதைப் பற்றி கவலைப்படுகிறீர்கள்?,pron,corpus_sourashtradictionary
+,,எல்லெகொ3 தெ4ரி,ellego dheri,,,,About this,இதைப் பற்றி,மீ பை2லோஸ் எல்லெகொ3 தெ4ரி யோஜனொ கெரெஸ்,I have already thought about this,நான் ஏற்கனவே இதைப் பற்றி யோசித்தேன்,pron,corpus_sourashtradictionary
+,,தெல்லெகொ3 தெ4ரி,tellego dheri,,,,About that,அதைப் பற்றி,தெல்லெகொ3 தெ4ரி மொகொ3 கொன்னி களானா,I have no idea about that,அதைப் பற்றி எனக்கு எதுவும் தெரியாது,pron,corpus_sourashtradictionary
+,,கொங்க3யொ,konggayo,,,,Whose,யாருடையது,எல்லெ புஸ்தவ் கொங்க3யொ?,Whose book is this?,இது யாருடைய புத்தகம்?,pron,corpus_sourashtradictionary
+,,மொரயொ,morayo,,,,Mine,என்னுடையது,எல்லெ தி3ய்யொ மொரயொ,Both of these are mine,இவை இரண்டும் என்னுடையவை,pron,corpus_sourashtradictionary
+,,தொரயொ,torayo,,,,Yours,உன்னுடையது,எல்லெ தௌ3ணொ தொரயொயா?,Is this glass yours?,இந்த கண்ணாடி உன்னுடையதா?,pron,corpus_sourashtradictionary
+,,அவ்ரயொ,avrayo,,,,Ours,"எங்களுடையது, நம்முடையது",எல்லெ கே4ர் அவ்ரயொ,This house is ours,இந்த வீடு எங்களுடையது,pron,corpus_sourashtradictionary
+,,துரயொ,turayo,,,,Yours,உங்களுடையது,எல்லெ தி2னூ சொக்காயின் துரயொ,All three shirts are yours,அந்த மூன்று சட்டைகளும் உங்களுடையது,pron,corpus_sourashtradictionary
+,,எக3யொ,egayo,,,,"His, Hers",இவனு(ளு)டையது,எல்லெ ஸௌக்3ஞ எக3யொ,This note is hers,இந்தக் குறிப்பு இவளுடையது,pron,corpus_sourashtradictionary
+,,தெக3யொ,tegayo,,,,"His, Hers",அவனு(ளு)டையது,தெல்லெ அலாஸ்கன் ஸுனான தெக3யொ,Those Alaskan dogs are his,அந்த அலாஸ்கன் நாய்கள் அவனுடையவை,pron,corpus_sourashtradictionary
+,,எங்கொ3யொ,enggoyo,,,,Theirs,இவர்களுடையது,எல்லெ ஹொராடு3 மஹால் எங்கொ3யொ,This wedding hall is theirs,இந்த திருமண மண்டபம் இவர்களுடையது,pron,corpus_sourashtradictionary
+,,தெங்கொ3யொ,tenggoyo,,,,Theirs,அவர்களுடையது,தெல்லெ கச்சம்பா3 ஜா2டு3ன் தெங்கொ3யொ,Those mango trees are theirs,அந்த மா மரங்கள் அவர்களுடையது,pron,corpus_sourashtradictionary
+,,அஸ்கிதெங்கொ3யொ,askitenggoyo,,,,Everybody's,எல்லோருடையது,எல்லெ ஹொடா3ர் அஸ்கிதெங்கொ3யொ,This yard is everyone's,இந்த முற்றம் எல்லோருடையது,pron,corpus_sourashtradictionary
+,,கொல்லெகொ3யொ,kollegoyo,,,,Whose,எதனுடையது,எல்லெ தா3ண் கொல்லெகொ3யொ?,Whose handle is this?,இந்த கைப்பிடி எதனுடையது?,pron,corpus_sourashtradictionary
+,,எல்லெகொ3யொ,ellegoyo,,,,Its,இதனுடையது,தெல்லெ ஜை2னா தெட்டொ எல்லெகொ3யொ,That lid belongs to this,அந்த மூடி இதனுடையது,pron,corpus_sourashtradictionary
+,,தெல்லகொ3யொ,tellagoyo,,,,Its,அதனுடையது,எல்லெ பி3யாத் தெல்லெகொ3யொ,This key belongs to that,இந்த சாவி அதனுடையது,pron,corpus_sourashtradictionary
+,,கொங்கொ3ஹால்,konggohaal,,,,"By Whom, Because of whom",யாரால்,எல்லெ கொங்கொ3ஹால் கெரத்தக் முஸை?,By whom can this be done?,இதை யாரால் செய்ய முடியும்?,pron,corpus_sourashtradictionary
+,,மொரெஹால்,morehaal,,,,"By Me, Because of me",என்னால்,"ந்ஹா, தெல்லெ மொரெஹால் ந்ஹா","No, it was not by me","இல்லை, அது என்னால் அல்ல",pron,corpus_sourashtradictionary
+,,தொரெஹால்,torehaal,,,,"By you, Because of you",உன்னால்,தொரெஹால் தெல்லெ முஸட3த்தக் முஸுனா,It can not be finished by you,உன்னால் அதை முடிக்க முடியாது,pron,corpus_sourashtradictionary
+,,அவ்ரெஹால்,avrehaal,,,,"By Us, Because of us","எங்களால், நம்மால்",அவ்ரெஹால் முஸை மெனி அமி ஸங்க்3யாஸ்,We told it can be done by us,எங்களால் முடியும் என்று நாங்கள் சொன்னோம்,pron,corpus_sourashtradictionary
+,,துரெஹால்,turehaal,,,,"By you, Because of you",உங்களால்,துரெஹால் தெனு அவ்யானி,He did not come because of you,உங்களால் அவர் வரவில்லை,pron,corpus_sourashtradictionary
+,,எகொ3ஹால்,egohaal,,,,"By Him / Her, Because of Him / Her",இவனா(ளா)ல்,தெல்லெ எகொ3ஹால் மெனானா,It can not be told by him,அதை இவனால் சொல்ல முடியாது,pron,corpus_sourashtradictionary
+,,தெகொ3ஹால்,tegohaal,,,,"By Him / Her, Because of Him / Her",அவனா(ளா)ல்,தெகொ3ஹால் அஸ்கிதெனு ஸொந்து ஹொத்3யாஸ்,Everyone was happy because of her,அவளால் எல்லோரும் மகிழ்ச்சியாக இருந்தனர்,pron,corpus_sourashtradictionary
+,,எங்கொ3ஹால்,enggohaal,,,,"By Them, Because of them",இவர்களால்,தெல்லெ எங்கொ3ஹால் கெரத்த முஸி ர்ஹானா,It could not have been done by them,அதை அவர்களால் செய்திருக்க முடியாது,pron,corpus_sourashtradictionary
+,,தெங்கொ3ஹால்,tenggohaal,,,,"By Them, Because of them",அவர்களால்,தெங்கொ3ஹால் கொன்னி த4க்கட்3னி ந்ஹீ,There is no threat because of them,அவர்களால் எந்த அச்சுறுத்தலும் இல்லை,pron,corpus_sourashtradictionary
+,,அஸ்கிதெங்க3ஹால்,askitenggahaal,,,,"By Everyone / All, Because of Everyone / All",எல்லோராலும்,தெல்லெ அஸ்கிதெங்க3ஹால் ஒப்பிள்னி பொடெ3ஸ்,It was accepted by all,அது அனைவராலும் ஏற்றுக்கொள்ளப்பட்டது,pron,corpus_sourashtradictionary
+,,கொல்லெகொ3ஹால்,kollegohaal,,,,"By Which, Because of which",எதனால்,எல்லெ கொல்லெகொ3ஹால் ஶுத்3த4ம் கெரெயொ?,By which you cleaned this?,இதை எதன் மூலம் சுத்தம் செய்தீர்கள்?,pron,corpus_sourashtradictionary
+,,எல்லெகொ3ஹால்,ellegohaal,,,,"By This, Because of this",இதனால்,எல்லெகொ3ஹால் தெனொ தேட் ர்ஹீ ஜேடி3,She went away because of this,இதனால் அவள் அங்கிருந்து சென்றுவிட்டாள்,pron,corpus_sourashtradictionary
+,,தெல்லெகொ3ஹால்,tellegohaal,,,,"By That, Because of that",அதனால்,தெல்லெகொ3ஹால் அமி நெஷ்டி பொட்3யாஸ்,We suffered loss because of it,அதனால் நாங்கள் நஷ்டம் அடைந்தோம்,pron,corpus_sourashtradictionary
+,,தேகன்,tEkan,,,,By itself,அதுவாக,தெல்லெ தேகன் த4மன் நிகி3லெஸ்,It started running by itself,அது தானே இயங்க ஆரம்பித்தது,pron,corpus_sourashtradictionary
+,,காய்,kaay,,,,What,என்ன,தெகொ3 காய் பஜெ?,What does she want?,அவளுக்கு என்ன வேண்டும்?,pron,corpus_sourashtradictionary
+,,காயோ,kaayO,,,,What,என்ன,தெல்லெ காயொ மெனி ஸங்கு3வொ,Tell me what it is,அது என்னவென்று சொல்லுங்கள்,pron,corpus_sourashtradictionary
+,,ககொ3,kago,,,,Why,ஏன்,தெனொ ககொ3 அவெயொ களாய்யா?,You know why he has come?,அவன் எதற்காக வந்தான் தெரியுமா?,pron,corpus_sourashtradictionary
+,,எல்யொ,elyo,,,,This one,இது,எல்யொ அவ்ரெ கரொ,This is our gift,இது எங்கள் பரிசு,pron,corpus_sourashtradictionary
+,,இஸனி,isani,,,,Like this,இப்படி,தொகொ3 இஸனி கோன் ஸிக்கடி3 தி3யெயொ?,Who taught you like this?,உனக்கு யார் இப்படிக் கற்றுக் கொடுத்தது?,pron,corpus_sourashtradictionary
+,,திஸனி,tisani,,,,Like that,அப்படி,அமி திஸனி கெருவாய்,We can do like that,நாம் அப்படி செய்யலாம்,pron,corpus_sourashtradictionary
+,,கிஸனி,kisani,,,,How,எப்படி,எல்லெ ஸாத4னாக் கிஸனி வவ்ஜத்தெ?,How to play this instrument?,இந்த கருவியை எப்படி வாசிப்பது?,pron,corpus_sourashtradictionary
+,,அஸொ,aso,,,,Like that,அப்படி,அஸொகி வத்தொ கெரன்ஹோனா,Should not talk like that,அப்படியெல்லாம் பேசக்கூடாது,pron,corpus_sourashtradictionary
+,,இஸொ,iso,,,,"Like this, Thus","இப்படி, இவ்வாறு",கொ2ப்3ப3தி3 இஸொ சலய்யா?,Will it ever happen like this?,எப்போதாவது இப்படி நடக்குமா?,pron,corpus_sourashtradictionary
+,,திஸொ,tiso,,,,Like that,அப்படி,திஸொ கோன் மெனெயொ?,Who told like that?,அப்படி யார் சொன்னது?,pron,corpus_sourashtradictionary
+,,கிஸொ,kiso,,,,How,எப்படி,மீ கிஸொ கே4ர் அவெஸ் மெனி களாரனி,I do not know how I reached home,நான் எப்படி வீட்டுக்கு வந்தேன் என்று தெரியவில்லை,pron,corpus_sourashtradictionary
+,,"கோனொ, கோனக்","kOno, kOnak",,,,How,"எப்படி, எவ்வாறு",எல்லெ கோனொ காம் கெரரஸ் மெனி இவர் கெருவொ,Explain how it works,இது எவ்வாறு செயல்படுகிறது என்பதை விளக்குங்கள்,pron,corpus_sourashtradictionary
+,,இக்கொ,ikko,,,,This much,இவ்வளவு,இக்கொ மந்து பி2ஜ்ஜாய்,This much manure is enough,இவ்வளவு உரம் போதும்,pron,corpus_sourashtradictionary
+,,திக்கொ,tikko,,,,That much,அவ்வளவு,தெல்லெகொ3 திக்கொ பஜெஹோனா,It does not need that much,அதற்கு அவ்வளவு தேவைப்படாது,pron,corpus_sourashtradictionary
+,,கிக்கொ,kikko,,,,How much,எவ்வளவு,எல்லெ கிக்கொ?,How much is it?,இது எவ்வளவு?,pron,corpus_sourashtradictionary
+,,இத்கவ் / இக்கவ்,itkav / ikkav,,,,This much / So much,இவ்வளவு,இத்கவ் மீட் பி2ஜ்ஜாய்,This much salt is enough,இந்த அளவு உப்பு போதும்,pron,corpus_sourashtradictionary
+,,தித்கவ் / திக்கவ்,titkav / tikkav,,,,That much / More,அவ்வளவு,மொரெஹால் தித்கவ் தே3த்தக் முஸுனா,I can not give that much,என்னால் அவ்வளவு கொடுக்க முடியாது,pron,corpus_sourashtradictionary
+,,கித்கவ் / கிக்கவ்,kitkav / kikkav,,,,How much,எவ்வளவு,கித்கவ் தெனு அவன் ஜாரியொ?,How many persons are going to come?,எத்தனை பேர் வரப் போகிறார்கள்?,pron,corpus_sourashtradictionary
+,,இத்கயெ / இக்கயெ,itkaye / ikkaye,,,,"This many, So much",இத்தனை,இத்கயெ பொள்ளான் கோன் கா2ட் மெனெயொ?,Who asked to buy this many fruit?,இத்தனை பழங்களை யார் வாங்கச் சொன்னார்கள்?,pron,corpus_sourashtradictionary
+,,தித்கயெ / திக்கயெ,titkaye / tikkaye,,,,That many,அத்தனை,தித்கயெ தெனு கோட் ஜியாஸ்?,Where did that many people go?,அத்தனை பேர் எங்கே போனார்கள்?,pron,corpus_sourashtradictionary
+,,கித்கயெ / கிக்கயெ,kitkaye / kikkaye,,,,How many,எத்தனை,தெல்லெ கித்கயெ ர்ஹாய் மெனி ஸங்கு3வொ,Tell me how many it will be,அது எத்தனை இருக்கும் என்று சொல்லுங்கள்,pron,corpus_sourashtradictionary
+,,எல்லெட்,elleT,,,,Here,இங்கே,எல்லெட் பொவ்ஸ் பொட3ரஸ்,It is raining here,இங்கு மழை பெய்கிறது,pron,corpus_sourashtradictionary
+,,தெல்லெட்,telleT,,,,There,அங்கே,தெல்லெட் பு4ய்ஞ் காய் மோல்?,How much is the land price there?,அங்கு நிலத்தின் விலை எவ்வளவு?,pron,corpus_sourashtradictionary
+,,கொல்லெட்,kolleT,,,,Where,எங்கே,மேட்ஹொயெ கெட்3ஸனு கொ2ள்டி கொல்லெட் அப்3ப3ய்?,Where to get the best leather bag?,சிறந்த தோல் பை எங்கே கிடைக்கும்?,pron,corpus_sourashtradictionary
+,,ஏட்,ET,,,,Here,இங்கே,ஏட் ஹூன் வேன் ஸே,It's too hot here,இங்கே வெயில் அதிகமாக இருக்கிறது,pron,corpus_sourashtradictionary
+,,தேட்,tET,,,,There,அங்கே,தேட் எலா மோல் உன்னொ,Cardamom price is low there,அங்கே ஏலக்காய் விலை குறைவு,pron,corpus_sourashtradictionary
+,,கோட்,kOT,,,,Where,எங்கே,பி3யாத் கோட் தொ2வெயொ மெனி ஹவ்ட3ன் ந்ஹீ,I do not remember where I put the keys,சாவியை எங்கே வைத்தேன் என்று ஞாபகம் இல்லை,pron,corpus_sourashtradictionary
+,,கோட்தேட்,kOTtET,,,,Everywhere,எங்கெங்கும்,கோட்தேட் மோதி3 மெனத்தேஸ் வத்தொ,Modi is the talk everywhere,எங்கெங்கும் மோடி என்பதே பேச்சு,pron,corpus_sourashtradictionary
+,,கொட்டி,koTTi,,,,"Nowhere, Anywhere",எங்கும் (இல்லாத),ஸுனொ கொட்டி தெ3க்கிணி பொடெ3னி,The dog was nowhere to be seen,நாய் எங்கும் தென்படவில்லை,pron,corpus_sourashtradictionary
+,,கொட்டிம்,koTTim,,,,"Nowhere, Anywhere",எங்குமே,இக்கெ தரொ ஹொயெ காப்பி கொட்டிம் அப்3பு3னா,Nowhere you will get such a good quality coffee,இவ்வளவு தரமான காபி எங்கும் கிடைக்காது,pron,corpus_sourashtradictionary
+,,"கோட்டி, கோட்தி3","kOTTi, kOTdi",,,,"Somewhere, Elsewhere",எங்காவது,தெனு கோட்டி ஜீ ர்ஹவாய்,He may have gone somewhere,அவர் எங்காவது போயிருக்கலாம்,pron,corpus_sourashtradictionary
+,,து3ஸுரொ கோட்,dusuro kOT,,,,Where else,வேறெங்கு,து3ஸுரொ கோட் அப்3ப3ய்?,Where else to get it?,வேறு எங்கு கிடைக்கும்?,pron,corpus_sourashtradictionary
+,,து3ஸுர கொட்டி,dusura koTTi,,,,Nowhere else,எங்குமே,தெல்லெ அங்கி3டி3 ஜதொ து3ஸுர கொட்டி அப்3பு3னா,Nowhere else you get it other than that Store,அந்த கடையைத் தவிர வேறு எங்கும் கிடைக்காது,pron,corpus_sourashtradictionary
+,,து3ஸுரொ கோட்தி3,dusuro kOTdi,,,,"Somewhere else, Elsewhere",வேறெங்காவது,து3ஸுரொ கோட்தி3 யத்னு கேர்,Try somewhere else,வேறு எங்காவது முயற்சிக்கவும்,pron,corpus_sourashtradictionary
+,,அஸ்கிதேட்,askitET,,,,Everywhere,எல்லா இடங்களிலும்,அஸ்கிதேட் ஒண்டே மோலுஸ்,The price is the same everywhere,எல்லா இடங்களிலும் ஒரே விலைதான்,pron,corpus_sourashtradictionary
+,,தெத்தேட்,tettET,,,,"Sporadic, Here and there",ஆங்காங்கே,தெத்தேட் த2ணைதுன் ஹிப்3பி3 ஹொத்3யாஸி,Police were standing sporadic,ஆங்காங்கே போலீசார் நின்று கொண்டிருந்தனர்,pron,corpus_sourashtradictionary
+,,எங்கு3ட்,engguT,,,,That side,இந்தப் பக்கம்,நெத்3தி3க் எங்கு3ட் பொகட் ஹரளிகன் ஸே,This side of the river is green,ஆற்றின் இந்தப் பக்கம் பசுமையாக இருக்கிறது,pron,corpus_sourashtradictionary
+,,தெங்கு3ட்,tengguT,,,,This side,அந்தப் பக்கம்,தெங்கு3ட் பொகட் கோன் ஜிவன்?,Who will live on that side?,அந்தப் பக்கம் யார் வாழ்வார்கள்?,pron,corpus_sourashtradictionary
+,,கொங்கு3ட்,kongguT,,,,Which side,எந்தப் பக்கம்,கௌ2னஸ் கொங்கு3ட் பொகட்?,Which side is east?,கிழக்கு எந்தப் பக்கம்?,pron,corpus_sourashtradictionary
+,,எமாம்,emaam,,,,In this,இதில்,எமாம் ஹண்டி3க் தீ2ன் தி3 பி3ஜ்ஜன் தொ2வொ,Soak the pan in this for three days,இதில் கடாயை மூன்று நாட்கள் ஊற வைக்கவும்,pron,corpus_sourashtradictionary
+,,தெமாம்,temaam,,,,In that,அதில்,தெமாம் காய் ஸேத்தெ,What is it in that?,அதில் என்ன இருக்கிறது?,pron,corpus_sourashtradictionary
+,,கொமாம்,komaam,,,,In Which,எதில்,கொமாம் லாப் வேன் ஸே?,Which is more profitable?,எதில் லாபம் அதிகம் உள்ளது?,pron,corpus_sourashtradictionary
+,,கய்கி,kayki,,,,Something,ஏதோ,தெனு கய்கி மெனராஸ்,He is saying something,அவர் ஏதோ சொல்கிறார்,pron,corpus_sourashtradictionary
+,,கய்கி ஒண்டெ,kayki oNTe,,,,Something,ஏதோ ஒன்று,தெனொ கய்கி ஒண்டெ ஸங்க3த்தக் யதுலரஸ்,He is trying to tell something,அவன் ஏதோ ஒன்றை சொல்ல முயல்கிறான்,pron,corpus_sourashtradictionary
+,,கய்தி,kayti,,,,"Something, Anything, Any","ஏதாவது, எதையாவது",கய்தி ர்ஹியெத் ஸங்கு3வொ,Tell me if any,ஏதேனும் இருந்தால் சொல்லுங்கள்,pron,corpus_sourashtradictionary
+,,கய்தி ஒண்டெ,kayti oNTe,,,,Something,ஏதாவது ஒன்றை,கய்தி ஒண்டெ மெல்லேத் ர்ஹானகொ3,Don’t keep saying something,ஏதாவது ஒன்றை சொல்லிக் கொண்டிருக்காதே,pron,corpus_sourashtradictionary
+,,காய்தி,kaayti,,,,"Something, Anything, Any","ஏதாவது, எதையாவது",கொ2ப்3பி3ம் காய்தி சொவ்தி3லேத் ர்ஹான்,Always reads something,எப்போதும் எதையாவது படித்துக் கொண்டிருப்பார்,pron,corpus_sourashtradictionary
+,,"காய்தி ஒண்டெ, கோனெ ஒண்டெ","kaayti oNTe, kOne oNTe",,,,"Something, Anything",ஏதாவது ஒன்றை,தெகொ3ஜொவள் காய்தி ஒண்டெ ஸங்கி3 வெது3ர் கெர்லெ,Deal with telling him something,அவனிடம் ஏதாவது ஒன்றை சொல்லி சமாளி,pron,corpus_sourashtradictionary
+,,கோனதி3,kOnadi,,,,"By any means, Anyways, Somehow","எப்படியாவது, எப்படியோ",மொரெ பில்லாக் கோனதி3 தெல்லெ ஹுரிம் செர்ச்சி ஸொடு3வொ,Get my child enrolled in that school somehow,என் பிள்ளையை எப்படியாவது அந்தப் பள்ளியில் சேர்த்து விடுங்கள்,pron,corpus_sourashtradictionary
+,,கொனக்கி,konakki,,,,Somehow,எப்படியோ,தெனொ கொனக்கி பரீக்ஷாம் லங்கி3தி3,Somehow she passed the exam,அவள் எப்படியோ தேர்வில் தேர்ச்சி பெற்றாள்,pron,corpus_sourashtradictionary
+,,"காய் பயெத், காய் ந்ஹா","kaay payet, kaay nhaa",,,,"Whatever, Anything","எதுவாகிலும், என்ன வேண்டுமானாலும்","தூ காய்பயெத் ஸங்கி3, மீ ஐகத்திஸொ ந்ஹீ","Say whatever you want, I'm not listening","நீ என்ன வேண்டுமானாலும் சொல், நான் கேட்பதாக இல்லை",pron,corpus_sourashtradictionary
+,,"கோட் பயெத், கோட் ந்ஹா","kOT payet, kOT nhaa",,,,"Wherever, Anywhere",எங்கு வேண்டுமானாலும்,கோட் பயெத் ஜா,Go anywhere,எங்கு வேண்டுமானாலும் செல்,pron,corpus_sourashtradictionary
+,,கோன ந்ஹா,kOna nhaa,,,,However,எப்படி வேண்டுமானாலும்,துமி கோன ந்ஹா ஜவாய்,You can go however you want,நீங்கள் எப்படி வேண்டுமானாலும் போகலாம்,pron,corpus_sourashtradictionary
+,,"கோன் பயெத், கோன் ந்ஹா","kOn payet, kOn nhaa",,,,"Anyone, Anybody, Whomever, Whoever",யார் வேண்டுமானாலும்,கோன் பயெத் துக்குவாய்,Anyone can lift,யார் வேண்டுமானாலும் தூக்கலாம்,pron,corpus_sourashtradictionary
+,,கோன்தி3,kOndi,,,,"Someone, Somebody, Anyone",யாராவது,கோன்தி3 காய்தி மெனந்தொ3,Let someone say something,யாராவது ஏதாவது சொல்லட்டும்,pron,corpus_sourashtradictionary
+,,"கொங்கொ3 பயெத், கொங்கொ3 ந்ஹா","konggo payet, konggo nhaa",,,,"Whomever, Whoever",யாரை வேண்டுமானாலும்,கொங்கொ3 பயெத் பொ3வொ,Call whomever,யாரை வேண்டுமானாலும் அழையுங்கள்,pron,corpus_sourashtradictionary
+,,"கொல்லெ பயெத், கோனெ பயெத்","kolle payet, kOne payet",,,,"Whichever, Anything","எதை வேண்டுமானாலும், எது வேண்டுமானாலும்",துமி கொல்லெ பயெத் க2ல்லுவொ,Take whichever you want,நீங்கள் எதை வேண்டுமானாலும் எடுத்துக் கொள்ளுங்கள்,pron,corpus_sourashtradictionary
+,,"கொ2ப்3பொ3 பயெத், கொ2ப்3பொ3 ந்ஹா","khobbo payet, khobbo nhaa",,,,"Whenever, Anytime","எப்பொழுதெல்லாம், எப்போது வேண்டுமானாலும்",மீ கொ2ப்3பொ3 ந்ஹா ஜவு,I will go whenever I want,நான் எப்போது வேண்டுமானாலும் செல்வேன்,pron,corpus_sourashtradictionary
+,,கொங்கொதி3,kongkodi,,,,"Somebody, Someone, To Someone, For Somebody","யாருக்காவது, யாரையாவது",தெல்லெ கொங்கொதி3க் விக்குவொ,Sell ​​it to someone,அதை யாருக்காவது விற்கவும்,pron,corpus_sourashtradictionary
+,,கொக்கொதி3,kokkodi,,,,"To Something, For Something","எதற்காவது, எதற்கும்",எல்லெ கொக்கொதி3 பிர்ஜனம் பொடு3வாய்,This may be useful for something,இது எதற்காவது பயனுள்ளதாக இருக்கலாம்,pron,corpus_sourashtradictionary
+,,கொன்கீ,konkee,,,,Someone,யாரோ,ப4ராட் ர்ஹீ கொன்கீ பொ3வராஸ்,Someone is calling from outside,வெளியில் இருந்து யாரோ அழைக்கிறார்கள்,pron,corpus_sourashtradictionary
+,,கொட்கீ,koTkee,,,,Somewhere,"எங்கேயோ, எங்கோ",கொட்கீ மிர்க்கைலொ பு4ஞ்ஜராஸ்,Somewhere they are roasting chili,எங்கேயோ மிளகாய் வறுக்கிறார்கள்,pron,corpus_sourashtradictionary
+,,லெந்தொ,lento,,,,Due to,காரணமாக,ஜ2ஞ்ஜு லெந்தொ அஸ்கி ஹுடா3ன் ரத்3து3 ஹொய்யொ,All flights were canceled due to heavy rain,கனமழை காரணமாக அனைத்து விமானங்களும் ரத்து செய்யப்பட்டன,pron,corpus_sourashtradictionary
+,,லெங்கொ3,lenggo,,,,Due to,காரணமாக,ஜ2ஞ்ஜு லெங்கொ3 அஸ்கி ஹுரினுன் ஜ2ய்தியா,All schools were closed due to heavy rain,கனமழை காரணமாக அனைத்து பள்ளிகளும் மூடப்பட்டன,pron,corpus_sourashtradictionary
+,,தெ2வ்டொ3,thevDo,,,,Some,சில,தெ2வ்டொ3 ஜா2டு3ன் ஒர்ஸுக் தீ3 வால் பானுன் லலஸு,Some trees shed their leaves twice a year,சில மரங்கள் வருடத்திற்கு இரண்டு முறை இலைகளை உதிர்கின்றன,pron,corpus_sourashtradictionary
+,,தெ2வ்டெ3,thevDe,,,,"Some, Few",சில,தெ2வ்டெ3 பொள்ளான் பி3ஸ்ஸொ ஹொட3யி,Some fruits grow fast,சில பழங்கள் வேகமாக வளரும்,pron,corpus_sourashtradictionary
+,,குர்சி,kurci,,,,For,க்காக,மீ எல்லெ துரெ குர்சி க2ட3யொ,I bought this for you,நான் இதை உங்களுக்காக வாங்கினேன்,pron,corpus_sourashtradictionary
+,,கின்,kin,,,,And,மற்றும்,ஸுனொகின் மஞ்ஜிரினுக் ஹொவ்ட3ராஸ்,He raises dogs and cats,நாய் மற்றும் பூனைகளை வளர்க்கிறார்,pron,corpus_sourashtradictionary
+,,எல்லெ மெல்லொ ந்ஹா,elle mello nhaa,,,,Nor,இதுவுமல்ல,மொகொ3 பஜெ ஹோரியொ எல்லெ மெல்லொ ந்ஹா,I want nor this,எனக்கு வேண்டியது இதுவுமல்ல,pron,corpus_sourashtradictionary
+,,மெகி,meki,,,,But,ஆனால்,மொகொ3 தெகொ3 ஒப்பாய் மெகி தெகொ3 ஸுனாக் ஒப்பானா,I like him but do not like his dog,எனக்கு அவனை பிடிக்கும் ஆனால் அவனுடைய நாயை பிடிக்கவில்லை,pron,corpus_sourashtradictionary
+,,ந்ஹீஜியெத்,nheejiyet,,,,Or,அல்லது,து4வாரி ந்ஹீஜியெத் வீள்டாக் அவன்,Will come in the afternoon or evening,மதியம் அல்லது மாலையில் வருவார்,pron,corpus_sourashtradictionary
+,,அங்கு3,anggu,,,,"Yet, Still",இன்னும்,துமி அங்கு3 ஜீரியொ ந்ஹீயா?,Have not you gone yet?,நீங்கள் இன்னும் செல்லவில்லையா?,pron,corpus_sourashtradictionary
+,,ஹாலி,haali,,,,So,ஆகையினால்,"அவ்ரெ ஜொவள் ஜு2க்கு கெ4டி ஸே. ஹாலி, காய் அவ்ஸர்?","We have plenty of time. So, why hurry?","எங்களிடம் நிறைய நேரம் இருக்கிறது. எனவே, ஏன் அவசரம்?",pron,corpus_sourashtradictionary
+,,மெனி,meni,,,,"So, That",என்று,மீ அவ்னா மெனி கோன் மெனெயொ?,Who said that I would not come?,நான் வரமாட்டேன் என்று யார் சொன்னது?,pron,corpus_sourashtradictionary
+,,"மெந்தி, மெந்தின்","menti, mentin",,,,"That, For, Just because","என்று, என்பதற்காக",ஸொங்கொ3 மெந்தி க2டெ3த் ஹன்னவ் வித்தாக் ஹோய்,Buying because it is cheap is a waste of money,மலிவு என்பதால் வாங்குவது பண விரயம் ஆகும்,pron,corpus_sourashtradictionary
+,,தீ3 தெமாம் ஒண்டெ,dee temaam oNTe,,,,Either,இரண்டில் ஒன்று,தீ3 தெமாம் ஒண்டெ காம் கெரய்,Either of the two will work,இரண்டில் ஏதேனும் ஒன்று வேலை செய்யும்,pron,corpus_sourashtradictionary
+,,தி3ய்யொ,diyyo,,,,Neither,இரண்டுமே,தி3ய்யொ சொக்கட் கீது3ன் ந்ஹா,Neither of them are good songs,இரண்டுமே நல்ல பாடல்கள் இல்லை,pron,corpus_sourashtradictionary
+,,ஹொயத்,hoyat,,,,"If, But","இருந்தால், ஆனால்",ஹந்தா3ர்கன் ஹொதெ3ஸ். ஹொயெத் மொரெஹால் ஸாத்தக் முஸெஸ்,It was dark but I could see,இருட்டாக இருந்தது ஆனால் என்னால் பார்க்க முடிந்தது,pron,corpus_sourashtradictionary
+,,மெனெத்,menet,,,,If,என்றால்,துங்கொ3 ஒப்பாரஸ் மெனெத் க2டெ3ன்,"Let us buy it, if you like it",உங்களுக்கு பிடித்திருக்கிறது என்றால் வாங்குவோம்,pron,corpus_sourashtradictionary
+,,ஒண்டெ,oNTe,,,,"One, Only","ஒரு, ஒன்று, மட்டும்",தெனு ஹிந்தொ3 ஒண்டெதி3 ஒண்டெ அவ்காஸும் ஸேத்தெ,He is on vacation for only one day today,அவர் இன்று ஒரு நாள் மட்டும் விடுமுறையில் இருக்கிறார்,pron,corpus_sourashtradictionary
+,,நிஸ்தொ,nisto,,,,"Only, Just, Mere",வெறும்,நிஸ்தொ வத்தொ ஹால் காய் பிர்ஜனம்?,What is the use of mere talk?,வெறும் பேச்சால் என்ன பயன்?,pron,corpus_sourashtradictionary
+,,ஹொயெத் / ர்ஹியெத் ஒண்டெ,hoyet / rhiyet oNTe,,,,Only if,இருந்தால் மட்டுமே,தெனு ர்ஹியெத் ஒண்டேஸ் ஸங்கு3வொ,Tell me only if he is present,அவர் இருந்தால் மட்டும் சொல்லுங்கள்,pron,corpus_sourashtradictionary
+,,"ஒண்டேஸ், ஸீ","oNTEs, see",,,,Only,"மட்டுமே, தான்",மொகொ3 ஒண்டேஸ் களாய்,Only I know,எனக்கு மட்டுமே தெரியும்,pron,corpus_sourashtradictionary
+,,மாத்ரம்,maatram,,,,Only,மட்டுமே,தீ3 தி3ன்னுன் மாத்ரமூஸ் அவ்காஸ் தி3ன்னு,Holidays for only two days,இரண்டு நாட்கள் மட்டுமே விடுமுறை,pron,corpus_sourashtradictionary
+,,கெத்3தி3,keddi,,,,Only,மட்டும்,எல்லெ கொ3ளி தீ2ன் தி3ன்னுக் கெத்3தி3,This pill is for three days only,இந்த மாத்திரை மூன்று தினங்களுக்கு மட்டுமே,pron,corpus_sourashtradictionary
+,,கொத்3தி3,koddi,,,,Only,மட்டும்,துமி துரெ கொத்3தி3 ஸீலுவொ,You look after yourself only,நீங்கள் உங்களை மட்டும் பார்த்துக் கொள்ளுங்கள்,pron,corpus_sourashtradictionary
+,,ஸெங்கா3டி3,senggaaDi,,,,"With, By","உடன், கூட",தொரெ ஸெங்கா3டி3 கோன் அவரியொ?,Who is coming with you?,உன்னுடன் யார் வருகிறார்கள்?,pron,corpus_sourashtradictionary
+,,ஸெங்கொ3,senggo,,,,Along,"கூட, உடன்",தெனு மொரெ ஸெங்கொ3 பொள்க3ராஸ்,He is getting along with me,அவர் என்னுடன் பழகுகிறார்,pron,corpus_sourashtradictionary
+,,ஶென்தொ,ssento,,,,With,"கூட, உடன்",தெனு மொரெ ஸெங்கொ3 உஜ்யாத்தெனு,He was born with me,அவர் என்னுடன் பிறந்தவர்,pron,corpus_sourashtradictionary
+,,ஸெர்மாட்,sermaaT,,,,With,"கூட, உடன்",தெகொ3 ஸெர்மாட் கோன் ஸேத்தெ?,Who is with her?,அவளுடன் யார் இருக்கிறார்கள்?,pron,corpus_sourashtradictionary
+,,ஸெராட்,seraaT,,,,With,"கூட, உடன்",தெனொ மெல்லொ தொரெ ஸெராட் ஸேத்தெயா?,Is he with you too?,அவனும் உன்னுடன் இருக்கிறானா?,pron,corpus_sourashtradictionary
+,,ஸெரொ,sero,,,,With,"கூட, உடன்",தெனு மொரெ ஸெரொ வத்தொ கெரரியொ ந்ஹீ,He is not talking with me,அவர் என்னுடன் பேசுவதில்லை,pron,corpus_sourashtradictionary
+,,மெல்லொ,mello,,,,"Also, Even, Too","மேலும், கூட",தெங்கொ3 போ3 மெல்லொ அவ்ங்கொ பொ3வ்யாஸ்,His father also called us,அவருடைய தந்தையும் எங்களை அழைத்தார்,pron,corpus_sourashtradictionary
+,,மெள்ளி,meLLi,,,,"Also, Even, Too","மேலும், கூட",எல்லெ தெங்கொ3 பெ3ய்லுக் மெள்ளி களானா,Even his wife did not know this,இது அவரது மனைவிக்கு கூட தெரியாது,pron,corpus_sourashtradictionary
+,,மெளாதுகு,meLaatuku,,,,"Also, Even, Too","மேலும், கூட",கா3யினுக் மெளாதுகு கோ2ருன் ஸே,Cows also have hoof,பசுக்களுக்கும் குளம்புகள் உண்டு,pron,corpus_sourashtradictionary
+,,மெளொ,meLo,,,,"Also, Even, Too","மேலும், கூட",தெனு மெளொ காம் ஸொட்3டி3யா,He also quit his job,அவரும் வேலையை விட்டுவிட்டார்,pron,corpus_sourashtradictionary
+,,மென்தொ,mento,,,,means,என்றால்,ப்ராமொ மென்தொ கொன்னி வெது3ர் ஸனாத்தொ து3ஸுரெ தெங்கொ3 ஸஹாவ் கெரத்தெ,Love means helping others without any expectation,அன்பு என்பது எந்தவித எதிர்பார்ப்பும் இல்லாமல் பிறருக்கு உதவுவது,pron,corpus_sourashtradictionary
+,,ஹொயெத் மெல்லொ,hoyet mello,,,,"Even though, Although, Still","இருந்தும் கூட, ஆனாலும்",தெங்கொ3 ஆதா4ர்கெரின் கொன்னி ந்ஹீ. ஹொயெத் மெல்லொ தெனு ஜெவுஞ்சிதியா,There was no supporters to him. Still he won,அவருக்கு ஆதரவாளர்கள் யாரும் இல்லை. ஆனாலும் அவர் வெற்றி பெற்றார்,pron,corpus_sourashtradictionary
+,,ர்ஹியெத் மெல்லொ,rhiyet mello,,,,Though,இருந்தாலும்,மூகொ3 வேன் ர்ஹியெத் மெல்லொ சுரும் க2டத்தக் முஸெஸ்,"Though the crowd was high, I was able to buy quickly",கூட்டம் அதிகமாக இருந்தாலும் சீக்கிரம் வாங்க முடிந்தது,pron,corpus_sourashtradictionary
+,,எத்மெள்ளி,etmeLLi,,,,But still,ஆனாலும்,எத்மெள்ளி துமி மொரெஜொவள் ஸங்கி3 ர்ஹனொ,But still you should have told me,ஆனாலும் நீங்கள் என்னிடம் சொல்லியிருக்க வேண்டும்,pron,corpus_sourashtradictionary
+,,வேங்கு3,vEnggu,,,,"Right away, Straight away, As Soon as, Immediately","உடன், உடனே",துங்கொ3 பஜெமெனெ வேங்கு3 தெல்லெ அப்3பு3னா,You can't get it as soon as you want it,நீங்கள் விரும்பிய உடனே அதைப் பெற முடியாது,pron,corpus_sourashtradictionary
+,,திக்காம்,tikkaam,,,,"By then, Straight away, Immediately","அதற்குள், உடன், உடனே",திக்காம் கோட் ஜியெயொ?,Where did you go by then?,அதற்குள் எங்கு சென்றாய்?,pron,corpus_sourashtradictionary
+,,ககொ3 மெனெத்,kago menet,,,,Because,ஏனென்றால்,"தெல்லெ பனி பே ஹோனா. ககொ3 மெனெத், தெல்லெ விக்கு",Do not drink that water because it is poisonous,"அந்தத் தண்ணீரைக் குடிக்கக் கூடாது, ஏனென்றால் அது விஷம்",pron,corpus_sourashtradictionary
+,,ஸேத்தெ ஹால்,sEtte haal,,,,Because,இருப்பதால்,பு2ரொ ஹொயெ ஹன்னவ் ஸேத்தெ ஹால் தா3ன் கெரராஸ்,He donates because he has enough money,போதிய பணம் இருப்பதால் தானம் செய்கிறார்,pron,corpus_sourashtradictionary
+,,தெகொ3ஹால்,tegohaal,,,,"Therefore, So","அதனால், ஆகையால், எனவே",தெகொ3ஹால் தெனு சுரும் ஜியாஸ்,So he went quickly,அதனால் அவர் சீக்கிரம் சென்றார்,pron,corpus_sourashtradictionary
+,,தெக ஹால்,teka haal,,,,With it,அதைக் கொண்டு,தெக ஹால் அமி அவ்ங்கொ ரக்ஷுல்னொ,We should protect ourselves with it,அதைக் கொண்டு நாம் நம்மைப் பாதுகாத்துக் கொள்ள வேண்டும்,pron,corpus_sourashtradictionary
+,,ஹால்,haal,,,,"By, Because of","மூலமாக, ஆல்",தெனு அபுல் பெ4ய்ன் ஹால் பரீக்ஷொ லிக்யாஸ்,He took the exam because of his sister,அவர் தனது சகோதரியால் தேர்வெழுதினார்,pron,corpus_sourashtradictionary
+,,லொகு3த்தொ,logutto,,,,Near,அருகில்,தெனு மொரெ கே4ர் லொகு3த்து வஸராஸ்,He lives near my house,அவர் என் வீட்டிற்கு அருகில் வசிக்கிறார்,pron,corpus_sourashtradictionary
+,,ஸொவடு,sovaTu,,,,Near,அருகில்,ஸுந்து3ரு ஸொவடு நரளு ஜா2டு3ன் ஜு2க்கு ஹொட3யி,Coconut trees grow abundantly near the sea,கடலுக்கு அருகில் தென்னை மரங்கள் அதிகமாக வளரும்,pron,corpus_sourashtradictionary
+,,அனுஸார்,anusaar,,,,According to,"படி, அதன்படி, இசைய","ரூடி4 அனுஸார், தெனு வேட் பி3ல்லி ஹொத்3யாஸ்","According to tradion, he was wearing Dhoti","பாரம்பரியத்தின் படி, அவர் வேட்டி அணிந்திருந்தார்",pron,corpus_sourashtradictionary
+,,நொம்மி,nommi,,,,Depend,சார்ந்து,மீ தொகொ3 நொம்மி ந்ஹீ,I do not depend on you,நான் உன்னை சார்ந்து இல்லை,pron,corpus_sourashtradictionary
+,,தயெ தா4னுக்,taye dhaanuk,,,,Depending on,"பொறுத்து, ஏற்ப, ஏற்றபடி",உத்பத்திக் தயெ தா4னுக் மோல் மர்ச்சாயி,Price vary depending on the production,உற்பத்தியைப் பொறுத்து விலை மாறுபடும்,pron,corpus_sourashtradictionary
+,,தா4னுக்,dhaanuk,,,,"Like that, As per, Accordingly","அதுபோல, அதன்படி",ஸுனொ ஸங்கெ3 தா4னுக் கெரரஸ்,The dog does as it is told,நாய் சொன்னபடி செய்கிறது,pron,corpus_sourashtradictionary
+,,ஹோனுக்,hOnuk,,,,"As, That, Viz., That is","என, என்று, என்பதாக","அம்ப3ட், கெ2ருட், ஒகு3ர், கொடு3, கு3ல்லெ, திக்கெ ஹோனுக் ருசின் ஸோயோ","Tastes are six viz., Sour, Salty, Astringent, Bitter, Sweet, Pungent","புளிப்பு, உப்பு, துவர்ப்பு, கசப்பு, இனிப்பு, காரம் என சுவைகள் ஆறு",pron,corpus_sourashtradictionary
+,,ஸோன்,sOn,,,,Like that,"போன்ற, போல",தொரொ ஸொகன் மீ கொங்கி3க் ஸீரனி,I have never seen anyone like you,உன்னைப்போல் நான் யாரையும் பார்த்ததில்லை,pron,corpus_sourashtradictionary
+,,தெல்லெ தா4னுக்,telle dhaanuk,,,,"Similarly, Likewise","அதேபோல், அவ்வாறே",தெங்கொ3 பொண்டி3 தொ3வ்ட3த்தக் ஒப்பாய். தெல்லே தா4னுக் தெங்கொ3 சலத்தக் ஒப்பாய்,"He likes to drive a car. Likewise, he likes to walk","அவருக்கு கார் ஓட்ட பிடிக்கும். அதேபோல், அவருக்கு நடக்க பிடிக்கும்",pron,corpus_sourashtradictionary
+,,ஹோர்செடி3,hOrceDi,,,,"Further, Above","மேற்கொண்டு, மேலே","ஜா2ட்3 ஹோர்செடி3 ஹொட்3தொ, ஹொட்3தொ ஜு2க்கு ஸைலொ தி3யெஸ்",The tree gave a lot of shade as it grow and grow further,"மரம் மேற்கொண்டு வளர, வளர நிறைய நிழல் கொடுத்தது",pron,corpus_sourashtradictionary
+,,ஹொல்லொ,hollo,,,,"Further, Besides, Additional, Extra","மேலும், மேற்கொண்டு",ஹொல்லொ காய் கெரத்திஸொ யோஜனொ கெர்ராஸ்?,What are you planning to do further?,மேலும் என்ன செய்ய திட்டமிட்டுள்ளீர்கள்?,pron,corpus_sourashtradictionary
+,,ஜுக்3கு3,juggu,,,,Plenty,"மிகுதியாக, அதிகம்",பனி ஜுக்3கு3 ஸேத்தேட் நரள் ஜா2ட்3 ஹொட3யி,Coconut trees grow where there is plenty of water,தண்ணீர் அதிகம் உள்ள இடத்தில் தென்னை மரங்கள் வளரும்,pron,corpus_sourashtradictionary
+,,வேன்,vEn,,,,"Much, A lot","நிரம்ப, நிறைய",தெனு வேன் மக3ராஸ்,He is asking a lot,அவர் நிறைய கேட்கிறார்,pron,corpus_sourashtradictionary
+,,ஜு2கு3,jhugu,,,,"Many, Much, More","பல, அதிகம், மிகுதி",ஹூனு ஹால் ஜு2கு3 தெனு தா4ம் தெ4ர்த்தியா,Many ran away because of the heat,வெயிலின் காரணமாக பல பேர் ஓட்டம் பிடித்தனர்,pron,corpus_sourashtradictionary
+,,ஜு2க்கு,jhukku,,,,"Most, A lot","நிறைய, அதிகமான, பெரும்பாலான",ஜு2க்கு மூகு3ன் ராணும் ஜிவஸு,Most animals live in the wild,பெரும்பாலான விலங்குகள் காடுகளில் வாழ்கின்றன,pron,corpus_sourashtradictionary
+,,ஜு2கு3வேன்,jhuguvEn,,,,Too much,மிக அதிகம்,"ஹித்3தி3 ந்ஹன்ன கொ2ட்டாக் ரூ 10,000 ஜு2கு3வேன்","Rs 10,000 is too much for such a small room","இவ்வளவு சிறிய அறைக்கு ரூ.10,000 மிக அதிகம்",pron,corpus_sourashtradictionary
+,,வேன்ஜு2க்கு,vEnjhukku,,,,Too much,மிக அதிகம்,ஏட் பொ3ண்டி3 தரொ வேன்ஜு2க்கு மெனி லக3ரஸ்,I think car fares are too much here,இங்கு கார் கட்டணம் மிக அதிகம் என்று நினைக்கிறேன்,pron,corpus_sourashtradictionary
+,,ஜு2க்குகன்,jhukkukan,,,,Mostly,பெரும்பாலும்,ஜு2க்குகன் ஒள்டு3ன் ஹூனுஹால் பா3தொ3 பொட3ராஸ்,Mostly the elderly suffer from hot sun,பெரும்பாலும் வயதானவர்கள் வெயிலால் பாதிக்கப்படுகின்றனர்,pron,corpus_sourashtradictionary
+,,ரமாரமி,ramaarami,,,,"Almost, Approximately, Average","கிட்டத்தட்ட, ஏறக்குறைய, தோராயமாக, ஏறத்தாழ",எல்லெ கே4ர் ப4ந்தி3 ரமாரமி 50 ஒர்ஸுன் ர்ஹாய்,It will be approximately 50 years since the house was built,இந்த வீடு கட்டி ஏறக்குறைய 50 வருடங்கள் இருக்கும்,pron,corpus_sourashtradictionary
+,,ஹோரு ஹோரு,hOru hOru,,,,"Again and Again, Often, Frequent","மீண்டும் மீண்டும், அடிக்கடி",மொகொ3 ஹோரு ஹோரு மெனட்னகொ3,Do not make me tell again and again,என்னை மீண்டும் மீண்டும் சொல்ல வைக்காதே,pron,corpus_sourashtradictionary
+,,உன்னொஉபி3ர்,unneaaubir,,,,"More or less, Plus or minus",கூடக்குறைய,ஸம்பா3ரும் மீட் ரொவ்வொ உன்னொஉபி3ர் ர்ஹவாய்,The salt in the sambar may be a llittle more or less,சாம்பாரில் உப்பு கொஞ்சம் கூடக்குறைய இருக்கலாம்.,pron,corpus_sourashtradictionary
+,,ஒண்டேஸ்கொ,oNTEsko,,,,"Together, At once","ஒன்றாக, ஒரேயடியாக",ஒண்டேஸ்கொ சொட்3டொ3 வத்தொ கெர்னாங்கொ3,Do not lie at once,ஒரேயடியாக பொய் சொல்லாதீர்கள்,pron,corpus_sourashtradictionary
+,,செரி,ceri,,,,"Together, Along with","ஒன்றாக, உடன்",துமி தீ3தெனு செரி பி3ஸுவொ,You two sit together,நீங்கள் இருவரும் ஒன்றாக உட்காருங்கள்,pron,corpus_sourashtradictionary
+,,ஸதா3கலம்,sadaakalam,,,,Forever,"என்றென்றும், எப்போதும்",தெனொ ஸதா3கலம் தெங்கோ3ஸ் ஹவ்டி3லேத் ஸே,She is thinking of him forever,அவள் என்றென்றும் அவரையே நினைத்துக் கொண்டு இருக்கிறாள்,pron,corpus_sourashtradictionary
+,,"ஒண்டொண்டெ, ஒண்டொண்டொ","oNToNTe, oNToNTo",,,,"Every, Each one","ஒவ்வொரு, ஒவ்வொன்றும்",கூ4ஸுன் ஒண்டொண்டெ காய் ம்ஹொடொ3 ஸே !,How big are each of the bandicoot rats!,பெருச்சாளிகள் ஒவ்வொன்றும் என்ன பெரிதாக இருக்கிறது !,pron,corpus_sourashtradictionary
+,,ஒண்டால்,oNTaal,,,,"One time, Once","ஒரு தடவை, ஒரு முறை",ஒண்டால் தோன் தெ3க்கட்டி ஜா,Show your face once and go,ஒருமுறை முகத்தை காட்டிவிட்டு செல்,pron,corpus_sourashtradictionary
+,,ஒண்டால் தி3,oNTaal di,,,,At least once,"ஒரு தடவையாவது, ஒரு முறையாவது",வாரும் ஒண்டால் தி3 ந்ஹவன் க4ல்லெ,Take an oil bath at least once a week,வாரம் ஒரு முறையாவது எண்ணெய் தேய்த்துக் குளி,pron,corpus_sourashtradictionary
+,,ஒண்ட்டால் மெல்லொ,oNTTaal mello,,,,Never,ஒருபோதும்,மீ ஒண்ட்டால் மெல்லொ ஹுடா3னும் ஜீரனி,I have never been on a plane before,நான் ஒருபோதும் விமானத்தில் சென்றதில்லை,pron,corpus_sourashtradictionary
+,,ஒவேளும்,ovELum,,,,Never,ஒருபோதும்,தெனொ ஒவேளும் சொட்3டொ3 வத்தொ கெர்னா,She will never lie,அவள் ஒருபோதும் பொய் சொல்ல மாட்டாள்,pron,corpus_sourashtradictionary
+,,வாட்கன்,vaaTkan,,,,Through,மூலமாக,மொரெ ஐங்கே4ர்போ3 வாட்கன் மொகொ3 ஸமாசார் அப்3பெ3ஸ்,I got the message through my grandfather,என் தாத்தா மூலம் எனக்கு செய்தி கிடைத்தது,pron,corpus_sourashtradictionary
+,,அதீதம்,ateetam,,,,"Extreme, Intensive",தீவிரம்,தெனு அதீத கரென் ஹெட்3லேத் அவராஸ்,He is taking extreme measures,அவர் தீவிர நடவடிக்கைகளை எடுத்து வருகிறார்,pron,corpus_sourashtradictionary
+,,பரம,parama,,,,Extremely,மிகவும்,வத்3தி3 பரம ஸொந்தோஷ் பொட்3யாஸி,The teacher was extremely happy,ஆசிரியர் மிகவும் மகிழ்ச்சியடைந்தார்,pron,corpus_sourashtradictionary
+,,ஹோத்தக்,hOttak,,,,"To happen, To take place","நிகழ, நடைபெற, நடக்க",திஸனி அஸ்கி ஹோத்தக் முஸுனா,It can not happen like that,அப்படியெல்லாம் நடக்க முடியாது,pron,corpus_sourashtradictionary
+,,தெ4ரி,dheri,,,,"About, Regarding","பற்றி, குறித்து",மாய் ஸதா3 அபுல் பில்லல்னுக் தெ4ரி விசார் பொட3ஸு,Mother is always worried about her children,தாய் எப்போதும் தன் குழந்தைகளைப் பற்றி கவலைப்படுகிறாள்,pron,corpus_sourashtradictionary
+,,தொகன்,tokan,,,,From,இருந்து,தெனு அபுல் ஶில்மொ தொகன் அப்3பெ3 ஹன்னவும் கே4ர் ப4ந்த்3யாஸி,He built the house with the money he got from his labor,அவர் தன் உழைப்பில் இருந்து கிடைத்த பணத்தில் வீடு கட்டினார்,pron,corpus_sourashtradictionary
+,,ர்ஹீ,rhee,,,,"From, Since",இருந்து,மீ 2009 ம் ர்ஹீ அமெரிக்காம் ஸேத்தெ,I have been in the United States since 2009,நான் 2009 முதல் அமெரிக்காவில் இருக்கிறேன்,pron,corpus_sourashtradictionary
+,,வேள் ர்ஹீ,vEL rhee,,,,Since,இருந்து,பொ3ண்டி3 க2டெ3 வேள் ர்ஹீ ஹிம்ஸோஸ்,It's been a nuisance since I bought the vehicle,வாகனம் வாங்கியதில் இருந்தே தொல்லை தான்,pron,corpus_sourashtradictionary
+,,தோன் ர்ஹீ,tOn rhee,,,,For,ஆக,தீ3தி3 தோன் ர்ஹீ ஸுனொ கை2ரனி,The dog has not eaten for two days,இரண்டு நாட்களாக நாய் சாப்பிடவில்லை,pron,corpus_sourashtradictionary
+,,லெந்து,lentu,,,,"To, Till, Until, Upto",வரை,அம்பா3க் ஸா லெந்து பில்லொ ரொட்3லேத் ஹொதெ3ஸி,The kid was crying till he saw his mother,அம்மாவை பார்க்கும் வரை குழந்தை அழுது கொண்டிருந்தது,pron,corpus_sourashtradictionary
+,,எவெள் லெந்து,eveL lentu,,,,"Until, Yet, Still","இது வரை, இன்னும்",த3ரி எவெள் லெந்து அவ்ரினி,The maid has not shown up until now,வேலைக்காரி இது வரை வரவில்லை,pron,corpus_sourashtradictionary
+,,லொவ்லாம்,lovlaam,,,,Within,"உள், உள்ளே",எல்லெ பெய்னொ 3 கெ4ண்ட4யன் லொவ்லாம் ர்ஹாய்,The trip will be within 3 hours,இந்த பயணம் 3 மணி நேரத்திற்குள் இருக்கும்,pron,corpus_sourashtradictionary
+,,ஜதொ ஜதொ,jato jato,,,,Went on,"போகப்போக, செல்ல செல்ல",வேள் ஜதொ ஜதொ தப்பினி ஹிங்கி3லேத் அவெஸி,The temperature kept rising as time went on,நேரம் செல்ல செல்ல வெப்பநிலை உயர்ந்து கொண்டே வந்தது,pron,corpus_sourashtradictionary
+,,அவ்தொ அவ்தொ,avto avto,,,,"Lately, Of late, Recently",வர வர,அவ்தொ அவ்தொ தீ3 செக்குர் பொ3ண்டி3 தொ3வ்ட3த்தக் தா4க் கெரரஸ்,"Of late, it is scary to drive a two-wheeler",வர வர இரு சக்கர வாகனம் ஓட்ட பயமாக இருக்கிறது,pron,corpus_sourashtradictionary
+,,அவ்ராம் அமி,avraam ami,,,,"Among us, Within us",நமக்குள்,"அவ்ராம் அமி மல்லியெத், ப4ராடு3 தெனு பி4த்தர் அவ்ட3ன்","If we fight ourselves, outsiders will infiltrate",நமக்குள் சண்டையிட்டால் வெளியாட்கள் உள்ளே புகுந்து விடுவார்கள்,pron,corpus_sourashtradictionary
+,,ரொவ்வாம் ரொவ்வொ,rovvaam rovvo,,,,"At least, To some extent","கொஞ்சத்திற்கு கொஞ்சமாவது, ஓரளவுக்கு",துமி தெங்கொ3 ரொவ்வாம் ரொவ்வொ கெரத்தக் ஸொட்3னொ,You have to let them do to some extent,நீங்கள் அவர்களை ஓரளவுக்கு செய்ய விட வேண்டும்,pron,corpus_sourashtradictionary
+,,ரொவ்வொ ரொவ்வொ,rovvo rovvo,,,,Little by little,கொஞ்சம் கொஞ்சம்,தெனு ரொவ்வொ ரொவ்வொ கெரி ரீண் ஸர்த்தியா,He paid off the debt little by little,அவர் கொஞ்சம் கொஞ்சமாக கடனை அடைத்தார்,pron,corpus_sourashtradictionary
+,,ஒளொ,oLo,,,,Little,"கொஞ்சம், சிறிது",தெனு ஒளொ ஒர்ஸு ஹொயாத்தெனு,He is a little old,அவர் கொஞ்சம் வயதானவர்,pron,corpus_sourashtradictionary
+,,ஒளொதிளொ,oLotiLo,,,,A little,"கொஞ்சநஞ்சம், சிறிதளவு",தெனொ மொகொ3 கெரெ ஹிம்ஸொ ஒளொதிளொயா?,Is the harassment he gave me a little bit?,அவன் எனக்குக் கொடுத்த தொல்லை கொஞ்சநஞ்சமா?,pron,corpus_sourashtradictionary
+,,ஒளோகு,oLOku,,,,A little,கொஞ்சமாக,ஒளோகு பனி ஸொட்3னொ,Pour a little water,கொஞ்சமாக தண்ணீர் ஊற்றவும்,pron,corpus_sourashtradictionary
+,,ரோம்கொ,rOmko,,,,"Somewhat, A little","கொஞ்சமாக, ஓரளவு",மொகொ3 ரோம்கொ ஹிந்தி3 சொவ்த3த்தக் களாய்,I can read Hindi a little,எனக்கு ஓரளவு ஹிந்தி படிக்கத் தெரியும்,pron,corpus_sourashtradictionary
+,,தோத் பொடெ3த்,tOt poDet,,,,If get a chance,வாய்ப்பு கிடைத்தால்,தோத் பொடெ3த் கே4ர் அவொ,Come home if you get the chance,வாய்ப்பு கிடைத்தால் வீட்டுக்கு வாருங்கள்,pron,corpus_sourashtradictionary
+,,ஒகவேள்,okavEL,,,,"In Case, Suppose",ஒரு வேளை,ஒகவேள் தெனொ ஸானா ஜியெத்?,In case he does not see?,ஒரு வேளை அவர் பார்க்கவில்லை என்றால்?,pron,corpus_sourashtradictionary
+,,முது3ல்லோஸ்,mudullOs,,,,"Already, In advance","ஏற்கனவே, முன்கூட்டியே",மொகொ3 முது3ல்லோஸ் களாய்,I know it already,எனக்கு ஏற்கனவே தெரியும்,pron,corpus_sourashtradictionary
+,,கிங்கெ,kingke,,,,How can,ஏது,காம் ந்ஹீத்தெகொ3 ஹொராட் கிங்கெ?,How marriage for an unemployed?,வேலை இல்லாதவனுக்கு திருமணம் ஏது?,pron,corpus_sourashtradictionary
+,,தொப்பிதொரி,toppitori,,,,"By chance, In case","தவறுதலாக, ஒரு வேளை","தொப்பிதொரி வம்னி அவெத், எல்லெ கொ3ளிக் க2வொ","In case you have vomiting, take this pill","ஒரு வேளை வாந்தி வந்தால், இந்த மாத்திரையை சாப்பிடுங்கள்",pron,corpus_sourashtradictionary
+,,உன்னொ பொட3யொ,unno poDayo,,,,"Minimum, At least",குறைந்தபட்சம்,உன்னொ பொட3யொ தீ2ன் தி3ன்னு லக3ய்,It will take minimum three days,குறைந்தபட்சம் மூன்று நாட்கள் ஆகும்,pron,corpus_sourashtradictionary
+,,பா4ஞ்சன்,bhaanjcan,,,,Exclamatory word,ஆச்சரிய வார்த்தை,"பா4ஞ்சன், காய் ஒண்டெ புஸினி !!!","Wow, what a question !!!","ஆஹா, என்ன ஒரு கேள்வி!!!",pron,corpus_sourashtradictionary
+,,ஹித்3தி3,hiddi,,,,"Very small, Minute, Little bit","மிகச்சிறிய, சிறிதளவு, இவ்வளவு",ஹித்3தி3 ந்ஹன்ன கொ4ம்மொ துமி கோனக் ஜிவராஸ்?,How do you live in such a small house?,இவ்வளவு சிறிய வீட்டில் நீங்கள் எப்படி வசிக்கிறீர்கள்?,pron,corpus_sourashtradictionary
+,,இஸ்னொ,isno,,,,"Very small, Tiny, Little","மிகச்சிறிய, சிறிது","இஸ்னொ அல்லொ செர்ச்செத், குருமா ருசிகன் ர்ஹாய்",Add a little ginger to make the Kuruma tasty,சிறிது இஞ்சி சேர்த்தால் குருமா சுவையாக இருக்கும்,pron,corpus_sourashtradictionary
+,,தீளுக்கொ,teeLukko,,,,"Much little than sesame, Very little, Tiny",சிறிதளவு,கோ3ஸ் தீளுக்கொ ரெங்கு3 பு4ர்கொ தாய்,Just add very little color powder,சும்மா சிறிதளவு சாயப்பொடி போடு,pron,corpus_sourashtradictionary
+,,அவஸ்யம்,avasyam,,,,"Must, Necessary","கட்டாயம், தேவையான",துமி அவஸ்யம் அவ்ரெ கே4ர் அவ்னொ,You must come to our house,நீங்கள் கட்டாயம் எங்கள் வீட்டிற்கு வர வேண்டும்,pron,corpus_sourashtradictionary
+,,அத்3யாவஸ்யம்,adyaavasyam,,,,Essential,இன்றியமையாதது,வாத3ளொ அவரியொஹால் அத்3யாவஸ்யம் ஹொயெ வஸ்துன் க2டி3 தொ3வ்லுவொ,Buy essentials as the storm comes,புயல் வருவதால் இன்றியமையாத பொருட்களை வாங்கவும்,pron,corpus_sourashtradictionary
+,,அனாவஸ்யம்,anaavasyam,,,,"Unwanted, Unnecessary",தேவையற்ற,அஸ்கி அனாவஸ்யம் ஹொயெ வஸ்துனுன் விஸ்தவொ,Throw all unnecessary items,அனைத்து தேவையற்ற பொருட்களையும் தூக்கி எறியவும்,pron,corpus_sourashtradictionary
+,,அத2வா,athavaa,,,,However,"ஆகிலும், எனினும், அல்லது",தெனு த4னவான். அத2வா வேன் ஸாதா4ரணம் ஹொயாத்தெனு,"He is rich. However, he is very simple","அவர் பணக்காரர். எனினும், அவர் மிகவும் எளிமையானவர்",pron,corpus_sourashtradictionary
+,,அத்3தி3கு,addiku,,,,Abundantly,மிகுதியாக,பொள்ளான் அத்3தி3கு அப்3ப3ரஸ்,Fruits are available in abundance,பழங்கள் ஏராளமாக கிடைக்கிறது,pron,corpus_sourashtradictionary
+,,ஏடா2ம்,EThaam,,,,At / In this place,இந்த இடத்தில்,மீ ஏடா2ம் ஹொடெ3யொ,I grew up in this place,நான் இந்த இடத்தில் வளர்ந்தேன்,pron,corpus_sourashtradictionary
+,,கை,kai,,,,Nothing,"எதுவும், ஒன்றும்",தை3வத்தொகின் யத்னு செர்னாத்தக் கை ஹோனா,Nothing happens without the addition of luck and effort,அதிர்ஷ்டமும் முயற்சியும் இல்லாமல் எதுவும் நடக்காது,pron,corpus_sourashtradictionary
+,,கொகொலெந்தொ,kokolento,,,,Why,"எதனால், ஏன்",கொகொலெந்தொ அங்குன் உன்னொ பொட3யொ?,Why are the scores low?,மதிப்பெண்கள் ஏன் குறைந்தது?,pron,corpus_sourashtradictionary
+,,கோன்லெங்கு3,kOnlenggu,,,,How long?,எதுவரை,மீ அங்கு3 கோன்ல்3ங்கு3 ஜனொ ஹோரியொ?,How far should I go still?,நான் இன்னும் எதுவரை செல்ல வேண்டும்?,pron,corpus_sourashtradictionary
+,,தெகலெந்த,tekalenta,,,,"Till then, Until then",அதுவரை,தெகலெந்த மீ கா2ன் ஜாரியொ ந்ஹீ,Until then I am not going to eat,அதுவரை நான் சாப்பிடப் போவதில்லை,pron,corpus_sourashtradictionary
+,,"ஸியென், அவுஸ்","siyen, avus",,,,Bye,"போய் வருகிறேன், பார்ப்போம், விடை பெறு",தெனொ அஸ்கிதெங்கொ3 ஜொவள் ஜீலி அவுஸ் மெனி மென்தி நிகி3ளி ஜீஸ்,She said bye to all and left,அவள் எல்லோரிடமும் விடைபெற்றுச் சென்றாள்,pron,corpus_sourashtradictionary
+,,ஜியென்,jiyen,,,,Let's go,போகலாம்,அமி த4வ்ராக் ஜியென்,Let us go to temple,நாம் கோயிலுக்குப் போவோம்,pron,corpus_sourashtradictionary
+,,ஜியென்யா ?,jiyenyaa ?,,,,Shall we go ?,போகலாமா ?,அமி சல்சித்ராக் ஜியென்யா?,Shall we go to the movies?,நாம் படத்திற்கு போகலாமா?,pron,corpus_sourashtradictionary
+,,த்யெ,tye,,,,That,அந்த,த்யெ ஒய்து3 கோனு?,Who is that doctor?,யார் அந்த மருத்துவர்?,pron,corpus_sourashtradictionary
+,,ப2ல,phala,,,,Later,பிறகு,ப2ல விசார் பொட3 ஹோனா,Should not worry later,பிறகு கவலைப்படக் கூடாது,pron,corpus_sourashtradictionary
+,,பி4ள்ளொ,bhiLLo,,,,"Better, Great",சிறப்பாக,ஸெட்டி பி4ள்ளொகன் சலெஸ்,The naming ceremony went great,பெயர் சூட்டும் விழா சிறப்பாக நடந்தது,pron,corpus_sourashtradictionary
+,,பொ4வெ,bhove,,,,"Many, Numinous","அநேக, பல",ஸெட்டிக் பொ4வெ ஒஸ்துன் அவி ஹொத்3யாஸ்,Many relatives came to the naming ceremony,பெயர் சூட்டும் விழாவிற்கு அநேக உறவினர்கள் வந்திருந்தனர்,pron,corpus_sourashtradictionary
+,,வினேக,vinEka,,,,"Apart, Apart from, Except, Excluding, Other than",தவிர,தெங்கொ3 வினேக கொங்கி ஹால் தெல்லெ கெரத்தக் முஸுனா,"Except him, no one can do that",அவரைத் தவிர யாராலும் அதைச் செய்ய முடியாது,pron,corpus_sourashtradictionary
+,,ஜத,jata,,,,"Apart, Apart from, Except, Excluding, Other than",தவிர,தெல்லெ அங்கி3டி3ம் பூ2ல் ஜத அஸ்கி அப்3ப3ய்,You get everything except flower in that shop,அந்தக் கடையில் பூவைத் தவிர அனைத்தும் கிடைக்கும்,pron,corpus_sourashtradictionary
+,,ஜதொ,jato,,,,"Apart, Apart from, Except, Excluding, Other than",தவிர,அம்பொ3 ஜதொ து3ஸுரெ கொங்கிஹால் ஸீலத்தக் முஸுனா,No one can take care of it except mom,அம்மாவைத் தவிர வேறு யாராலும் பார்த்துக்கொள்ள முடியாது,pron,corpus_sourashtradictionary
+,,உரேகதி,urEkati,,,,"Apart, Apart from, Except, Excluding, Other than",தவிர,பல்லினி ஹிம்ஸொ கெ4ர்பின் உரேகதி கொங்க3க் களாய்?,Who knows about labor pains except pregnant women?,பிரசவ வலி பற்றி கர்ப்பிணிகளை தவிர யாருக்கு தெரியும்?,pron,corpus_sourashtradictionary
+,,வெகுளொ,vekuLo,,,,Different,வேறுபட்ட,தெங்கொ3 ராஸி ஒண்டேஸ் ஹொயெத்மெள்ளி நெட்சத்ருன் வெகுளொ,"Although the zodiac is the same, the stars are different for them",அவர்களுக்கு ராசி ஒன்றுதான் என்றாலும் நட்சத்திரங்கள் வேறு,pron,corpus_sourashtradictionary
+,,ஸன்,san,,,,"Noble, Topnotch, Excellent",உன்னத,தெனு கொ2ப்3பி3ம் ஸன் ஹொயெ காராணாக் தா3ன் தே3ராஸ்,He always donates for a noble cause,அவர் எப்போதும் உன்னத நோக்கத்திற்காக தானம் செய்கிறார்,pron,corpus_sourashtradictionary
+,,ஸு,su,,,,"Nice, Fine, Good, Best, Beauty","நல்ல, அழகிய, சிறந்த",ஒர்ஸு ஹொயெ மாய்பா3புக் ஸீலத்தெனோஸ் ஸு புத்ருனு,Those who care for aging parents are the best sons,வயதான பெற்றோரைப் பராமரிப்பவர்கள் சிறந்த மகன்கள்,pron,corpus_sourashtradictionary
+,,ஸாம்மு,saammu,,,,In front,"எதிரில், முன்னால்",மொரெ ஸாம்மு ஹொதெ3 அங்கி3டி3 ஹுலொ லய்டி3யொ,The shop in front of me caught fire,எனக்கு எதிரே இருந்த கடை தீப்பிடித்தது,pron,corpus_sourashtradictionary
+,,ஸுடம்,suTam,,,,"Consistent, Steady","சீரான, சீராக",ரொகி3 நாடி3 ஸுடம் ஸே,The patient's pulse is steady,நோயாளியின் துடிப்பு சீராக உள்ளது,pron,corpus_sourashtradictionary
+,,ஸுஹாஸ்,suhaas,,,,"Slowness, Soft",மந்தகாசம்,தெனு ஸுஹாஸ்கன் அஸ்யாஸி,He smiled softly,அவர் மந்தகாசமாக சிரித்தார்,pron,corpus_sourashtradictionary
+,,ஊடொ3,uuDo,,,,Between,இடையே,த3ல்லொ பெ3ய்லுக் ஊடொ3 அமி ஜா ஹோனா,We should not interfere between husband and wife,கணவன் மனைவி இடையே நாம் தலையிடக் கூடாது,pron,corpus_sourashtradictionary
+,,அட்3ட3ம்,aDDam,,,,"Across, Interference, Hurdle","குறுக்கே, தடை, இடைஞ்சல், குறுக்கீடு",மொரெ அட்3ட3ம் ஹிப்3பி3 ர்ஹானகொ3,Do not stand across from me,எனக்கு குறுக்கே நிற்காதே,pron,corpus_sourashtradictionary
+,,அட்3ட3மட்3ட3ம்,aDDamaDDam,,,,Intermittantly,இடையிடையே,கெ2னி ஸங்க3த்தவேள் அட்3ட3மட்3ட3ம் ரொடி3ஸி,She cried intermittently while narrating the story,கதை சொல்லும் போது இடையிடையே அழுதாள்,pron,corpus_sourashtradictionary
+,,ம்ஹத்3தி3,mhaddi,,,,Centre,நடுவில்,மது3ராக் ம்ஹத்3தி3 அம்மா த4வ்ரொ ஸே,The Meenakshi Amman Temple is located in the center of Madurai,மதுரையின் மையத்தில் மீனாட்சி அம்மன் கோவில் உள்ளது,pron,corpus_sourashtradictionary
+,,ம்ஹஜார்,mhajaar,,,,Center,"நடு, மையம்",தொப்பலுக் ம்ஹஜார் ஹிரனு த3மர் ஸே,In the center of the pond is the golden lotus,தெப்பக்குளத்தின் மையத்தில் தங்க தாமரை உள்ளது,pron,corpus_sourashtradictionary
+,,ஜஜ்ஜா,jajjaa,,,,Go go,போ போ,"ஜஜ்ஜா, பி2ஜ்ஜாய் தொரெ ஸெரொ","Go, go, enough with you","போ, போ, போதும் உன்னுடன்",pron,corpus_sourashtradictionary
+,,கெரு,keru,,,,"Will do, Will",செய்வேன்,மொகொ3 ஒப்பயத் ஒண்டேஸ் கெரு,I will only do it if I like it,எனக்கு பிடித்தால் மட்டுமே செய்வேன்,pron,corpus_sourashtradictionary
+,,கெர்னா,kernaa,,,,"Won't, Wont, Will not, Will not do",மாட்டேன்,மொகொ3 ஒப்பானாத்த ஹால் மீ கெர்னா,I won't do it because I don't like it,எனக்கு பிடிக்காததால் செய்ய மாட்டேன்,pron,corpus_sourashtradictionary
+,,ஹோ,hO,,,,Hi,ஹேய்,"ஹோ, கோனக் ஸே?","Hi, how are you?","ஹாய், எப்படி இருக்கிறீர்கள்?",pron,corpus_sourashtradictionary
+,,அஹோ,ahO,,,,Hey,ஹே,"அஹோ பில்லல்னுவோ, கோட் ஜாரியொ?","Hey kids, where are heading to?","ஹே குழந்தைகளே, எங்கு செல்கிறீர்கள்?",pron,corpus_sourashtradictionary

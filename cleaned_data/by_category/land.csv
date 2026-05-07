@@ -1,0 +1,134 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,பூ4,bhoo,,,,"Earth, Land","பூமி, நிலம்",,,,land,corpus_sourashtradictionary
+,,பூ4ஞ்,bhoonj,,,,"Earth, Land","பூமி, நிலம்",,,,land,corpus_sourashtradictionary
+,,பு4ஞி,bhunji,,,,"Earth, Land","பூமி, நிலம்",,,,land,corpus_sourashtradictionary
+,,பூ4ய்ஞ்,bhooynj,,,,"Earth, Land","பூமி, நிலம்",,,,land,corpus_sourashtradictionary
+,,பூ4த்,bhoot,,,,"Earth, Land","பூமி, நிலம்",,,,land,corpus_sourashtradictionary
+,,ப்ரித்2வி,prithvi,,,,"Earth, Land","பூமி, நிலம்",,,,land,corpus_sourashtradictionary
+,,பனி,pani,,,,Water,"தண்ணீர், நீர்",,,,land,corpus_sourashtradictionary
+,,ஆபு,aapu,,,,Water,"தண்ணீர், நீர்",,,,land,corpus_sourashtradictionary
+,,த்3ரவொ,dravo,,,,"Fluid, Liquid, Orgasm",திரவம்,,,,land,corpus_sourashtradictionary
+,,அகாஶ்,akaass,,,,Sky,ஆகாயம்,,,,land,corpus_sourashtradictionary
+,,ஹபா3ல்,habaal,,,,Sky,வானம்,,,,land,corpus_sourashtradictionary
+,,க்ஷிதிஜ,kshitija,,,,Horizon,தொடுவானம்,,,,land,corpus_sourashtradictionary
+,,ஹதா3ள்,hadaaL,,,,Boom,பெரும் சப்தம்,,,,land,corpus_sourashtradictionary
+,,ஹுலொ,hulo,,,,Fire,"தீ, நெருப்பு",,,,land,corpus_sourashtradictionary
+,,ஜாள்,jaaL,,,,Fire,"தீ, நெருப்பு",,,,land,corpus_sourashtradictionary
+,,வாயு,vaayu,,,,Gas,வாயு,,,,land,corpus_sourashtradictionary
+,,வரபோக்கன்,varapOkkan,,,,Airy,காற்றோட்டமாக,,,,land,corpus_sourashtradictionary
+,,ப்ராணவாயு,praaNavaayu,,,,Oxygen,உயிர்க்காற்று,,,,land,corpus_sourashtradictionary
+,,ஹீபு,heepu,,,,Ground,தரை,,,,land,corpus_sourashtradictionary
+,,பொ3யல்,boyal,,,,"Barren Land, Ground","தரிசு நிலம், மைதானம்",,,,land,corpus_sourashtradictionary
+,,கொ3ட்3டு3 பூ4ய்ஞ்,goDDu bhooynj,,,,Barren Land,தரிசு நிலம்,,,,land,corpus_sourashtradictionary
+,,வந்த்4யொ பூ4ய்ஞ்,vandhyo bhooynj,,,,Barren Land,தரிசு நிலம்,,,,land,corpus_sourashtradictionary
+,,உத்தொ,utto,,,,Mound,மேடு,,,,land,corpus_sourashtradictionary
+,,ஆளி,aaLi,,,,Pit,பள்ளம்,,,,land,corpus_sourashtradictionary
+,,க3ட்3ஸு,gaDsu,,,,"Rough, Uneven",கரடுமுரடான,,,,land,corpus_sourashtradictionary
+,,ராண்,raaN,,,,Forest,காடு,,,,land,corpus_sourashtradictionary
+,,வளு ராண்,vaLu raaN,,,,Desert,பாலைவனம்,,,,land,corpus_sourashtradictionary
+,,காந்தாரு,kaantaaru,,,,Desert,பாலைவனம்,,,,land,corpus_sourashtradictionary
+,,த்4ருவ்,dhruv,,,,Pole,துருவம்,,,,land,corpus_sourashtradictionary
+,,த்4ருவொ,dhruvo,,,,Polar,துருவ,,,,land,corpus_sourashtradictionary
+,,தெ3க்ஷணு த்4ருவ்,dekshaNu dhruv,,,,South Pole,தென் துருவம்,,,,land,corpus_sourashtradictionary
+,,உத்தரு த்4ருவ்,uttaru dhruv,,,,North Pole,வட துருவம்,,,,land,corpus_sourashtradictionary
+,,மரின்,marin,,,,Mirage,கானல் நீர்,,,,land,corpus_sourashtradictionary
+,,ஸாக3ர்,saagar,,,,Ocean,சமுத்திரம்,,,,land,corpus_sourashtradictionary
+,,ஸுந்து3ர்,sundur,,,,Sea,கடல்,,,,land,corpus_sourashtradictionary
+,,ஸொந்து3ர்,sondur,,,,Sea,கடல்,,,,land,corpus_sourashtradictionary
+,,லாட்,laaT,,,,Wave,அலை,,,,land,corpus_sourashtradictionary
+,,ஸுந்து3ரு கெட்டொ,sunduru keTTo,,,,Beach,கடற்கரை,,,,land,corpus_sourashtradictionary
+,,ஸொந்து3ரு ஸொவடு,sonduru sovaTu,,,,Coastal area,கடலோரப் பகுதி,,,,land,corpus_sourashtradictionary
+,,நெத்3தி3,neddi,,,,River,ஆறு,,,,land,corpus_sourashtradictionary
+,,கௌ2ரி,khauri,,,,Pond,குளம்,,,,land,corpus_sourashtradictionary
+,,ஸொரொ,soro,,,,Pond,குளம்,,,,land,corpus_sourashtradictionary
+,,ஹிரொ,hiro,,,,Pond,குளம்,,,,land,corpus_sourashtradictionary
+,,தடொ,taTo,,,,"Reservoir, Pond, Pool, Tank, Puddle","தடாகம், குளம்",,,,land,corpus_sourashtradictionary
+,,தொப்பல்,toppal,,,,"Tank, Pond",தெப்பக்குளம்,,,,land,corpus_sourashtradictionary
+,,தளொ,taLo,,,,Lake,ஏரி,,,,land,corpus_sourashtradictionary
+,,ஹடொ3,haDo,,,,Deep pool in river,ஆற்றிடைப்பள்ளம்,,,,land,corpus_sourashtradictionary
+,,நின்னொ,ninno,,,,Deep,ஆழம்,,,,land,corpus_sourashtradictionary
+,,நிம்னொ,nimno,,,,Depth,ஆழம்,,,,land,corpus_sourashtradictionary
+,,லோத்,lOt,,,,Deep,ஆழம்,,,,land,corpus_sourashtradictionary
+,,கெட்டொ,keTTo,,,,"Bank, Shoreline",கரை,,,,land,corpus_sourashtradictionary
+,,நெத்3தி3 கெட்டொ,neddi keTTo,,,,River Bank,ஆற்றங்கரை,,,,land,corpus_sourashtradictionary
+,,தீர்,teer,,,,River Bank,ஆற்றங்கரை,,,,land,corpus_sourashtradictionary
+,,தளாதீர்,taLaateer,,,,Lake Bank,ஏரிக்கரை,,,,land,corpus_sourashtradictionary
+,,வெவ்லொ,vevlo,,,,Flood,வெள்ளம்,,,,land,corpus_sourashtradictionary
+,,ஸ்ரோவ்,srOv,,,,Flood,வெள்ளம்,,,,land,corpus_sourashtradictionary
+,,ஜா2ர்,jhaar,,,,Flood,வெள்ளம்,,,,land,corpus_sourashtradictionary
+,,அவ்ரி,avri,,,,"Vortex, Whirlpool","நீர்ச்சுழல், நீர்ச்சுழி",,,,land,corpus_sourashtradictionary
+,,செல்மொ,celmo,,,,Spring,நீரூற்று,,,,land,corpus_sourashtradictionary
+,,கஸு,kasu,,,,"Fountain, Springs",ஊற்று,,,,land,corpus_sourashtradictionary
+,,ஊடொ,uuTo,,,,Spring,ஊற்று,,,,land,corpus_sourashtradictionary
+,,உரய்,uray,,,,Ooze,சுரக்கும்,,,,land,corpus_sourashtradictionary
+,,புல்னொ,pulno,,,,Bridge,பாலம்,,,,land,corpus_sourashtradictionary
+,,லாங்கு3,laanggu,,,,Bridge,பாலம்,,,,land,corpus_sourashtradictionary
+,,ஸேது,sEtu,,,,Bridge,பாலம்,,,,land,corpus_sourashtradictionary
+,,தொ3ங்க3ர்,donggar,,,,"Hill, Mountain",மலை,,,,land,corpus_sourashtradictionary
+,,ஷைலம்,shailam,,,,"Hill, Mountain",மலை,,,,land,corpus_sourashtradictionary
+,,சித்ரகோர்ட்,citrakOrT,,,,"Hill, Mountain",மலை,,,,land,corpus_sourashtradictionary
+,,கி3ரி,giri,,,,"Hill, Mountain",மலை,,,,land,corpus_sourashtradictionary
+,,பொஸ்து,postu,,,,"Top, Vertex, Summit",உச்சி,,,,land,corpus_sourashtradictionary
+,,ஶிங்கு3,ssinggu,,,,Cliff,முகடு,,,,land,corpus_sourashtradictionary
+,,தொ3ங்க3ரு ஶிங்கு3,donggaru ssinggu,,,,Cliff or Summit of a hill,மலை முகடு,,,,land,corpus_sourashtradictionary
+,,கோ4ரு தொ3ங்க3ர்,ghOru donggar,,,,Steep Hill,செங்குத்தான மலை,,,,land,corpus_sourashtradictionary
+,,ஜரி,jari,,,,"Waterfall, Falls","அருவி, நீர்வீழ்ச்சி",,,,land,corpus_sourashtradictionary
+,,ப்ராந்து,praantu,,,,Region,"பிராந்தியம், பகுதி",,,,land,corpus_sourashtradictionary
+,,உஷ்ணொ ப்ராந்து,ushNo praantu,,,,Tropical Region,வெப்பமண்டல பகுதி,,,,land,corpus_sourashtradictionary
+,,ஒல்லொ ப்ராந்து,ollo praantu,,,,Wet Region,ஈரமான பகுதி,,,,land,corpus_sourashtradictionary
+,,ஸுக்கெ ப்ராந்து,sukke praantu,,,,Dry Region,உலர்ந்த பகுதி,,,,land,corpus_sourashtradictionary
+,,ஜக3த்,jagat,,,,World,உலகம்,,,,land,corpus_sourashtradictionary
+,,லோகு,lOku,,,,World,உலகம்,,,,land,corpus_sourashtradictionary
+,,பு4லோக்,bhulOk,,,,World,உலகம்,,,,land,corpus_sourashtradictionary
+,,பூ4லோக்,bhoolOk,,,,World,உலகம்,,,,land,corpus_sourashtradictionary
+,,அக்ஷரேக்,aksharEk,,,,Lattitude,அட்சரேகை,,,,land,corpus_sourashtradictionary
+,,தீ4ர்க்3க3ரேக்,dheerggarEk,,,,Longitude,தீர்க்கரேகை,,,,land,corpus_sourashtradictionary
+,,கா2ண்டு3,khaaNDu,,,,Continent,கண்டம்,,,,land,corpus_sourashtradictionary
+,,உபகா2ண்டு3,upakhaaNDu,,,,Subcontinent,துணைக்கண்டம்,,,,land,corpus_sourashtradictionary
+,,த்3வீப்,dveep,,,,Peninsula,தீபகற்பம்,,,,land,corpus_sourashtradictionary
+,,தீ3வு,deevu,,,,Island,தீவு,,,,land,corpus_sourashtradictionary
+,,தி3ப்3ப3,dibba,,,,Island,தீவு,,,,land,corpus_sourashtradictionary
+,,ராஷ்ட்ரம்,raashTram,,,,Nation,தேசம்,,,,land,corpus_sourashtradictionary
+,,ராஷ்ட்ரீயொ,raashTreeyo,,,,National,தேசிய,,,,land,corpus_sourashtradictionary
+,,ஸர்வதே3ஶு,sarvadEssu,,,,International,சர்வதேச,,,,land,corpus_sourashtradictionary
+,,தே3ஶ்,dEss,,,,Country,நாடு,,,,land,corpus_sourashtradictionary
+,,விதே3ஶ்,vidEss,,,,"Foreign country, Abroad",வெளிநாடு,,,,land,corpus_sourashtradictionary
+,,ஹொஸ்தானு தே3ஶ்,hostaanu dEss,,,,Western country,மேற்கத்திய நாடு,,,,land,corpus_sourashtradictionary
+,,தேஶாந்தர்,tEssaantar,,,,Migration,இடம்பெயர்வு,,,,land,corpus_sourashtradictionary
+,,ராஜ்யம்,raajyam,,,,"State, Kingdom","மாநிலம், இராச்சியம்",,,,land,corpus_sourashtradictionary
+,,ஜில்லா,jillaa,,,,District,மாவட்டம்,,,,land,corpus_sourashtradictionary
+,,கா3ம்,gaam,,,,"Town, City",ஊர்,,,,land,corpus_sourashtradictionary
+,,படன்,paTan,,,,"Town, City","பட்டணம், நகரம்",,,,land,corpus_sourashtradictionary
+,,தா2ம்,thaam,,,,"Place, Location, Station","இடம், நிலையம்",,,,land,corpus_sourashtradictionary
+,,ஸ்த2லொ,sthalo,,,,"Place, Location, Station","இடம், நிலையம்",,,,land,corpus_sourashtradictionary
+,,ஶாலொ,ssaalo,,,,"A large place, Campus","பெரிய இடம், வளாகம்",,,,land,corpus_sourashtradictionary
+,,க3முலொகா3ம்,gamulogaam,,,,Outstation,வெளியூர்,,,,land,corpus_sourashtradictionary
+,,பொர்க்யாட்,porkyaaT,,,,Village,பட்டிக்காடு,,,,land,corpus_sourashtradictionary
+,,ஒட்ச்சனி,oTccani,,,,Drain,வடிகால்,,,,land,corpus_sourashtradictionary
+,,சேகு,cEku,,,,Dirt,அழுக்கு,,,,land,corpus_sourashtradictionary
+,,சேக்பனி,cEkpani,,,,Dirty water,அழுக்கு நீர்,,,,land,corpus_sourashtradictionary
+,,நேக்பனி,nEkpani,,,,Clean water,சுத்தமான நீர்,,,,land,corpus_sourashtradictionary
+,,க2ண்டி3,khaNDi,,,,Pit,"குழி, பள்ளம்",,,,land,corpus_sourashtradictionary
+,,ஆளி,aaLi,,,,"Groove, Pit",பள்ளம்,,,,land,corpus_sourashtradictionary
+,,கூ4வொ,ghoovo,,,,"Cave, Den",குகை,,,,land,corpus_sourashtradictionary
+,,பி3ணுக்3,biNug,,,,"Cave, Den",குகை,,,,land,corpus_sourashtradictionary
+,,ஸுரங்கொ3,suranggo,,,,Tunnel,சுரங்கப்பாதை,,,,land,corpus_sourashtradictionary
+,,பாரொ,paaro,,,,Rock,பாறை,,,,land,corpus_sourashtradictionary
+,,கு3ண்டொ3,guNDo,,,,Pebble,கூழாங்கல்,,,,land,corpus_sourashtradictionary
+,,தெ3கு3டோ3,deguDO,,,,"Rock, Stone","பாறை, கல்",,,,land,corpus_sourashtradictionary
+,,தெ3ய்டொ3,deyDo,,,,Stone,கல்,,,,land,corpus_sourashtradictionary
+,,ப3ளிங்கு3தெ3ய்டொ3,baLinggudeyDo,,,,Marble,சலவைக்கல்,,,,land,corpus_sourashtradictionary
+,,சிடா3ய்தெய்டொ3,ciDaayteyDo,,,,Blue Metal,கருங்கல்,,,,land,corpus_sourashtradictionary
+,,ஶங்கு2,ssangkhu,,,,Conch,சங்கு,,,,land,corpus_sourashtradictionary
+,,வளு,vaLu,,,,Sand,மணல்,,,,land,corpus_sourashtradictionary
+,,மத்தி,matti,,,,Soil,மண்,,,,land,corpus_sourashtradictionary
+,,ரமத்தி,ramatti,,,,Red Sand,செம்மண்,,,,land,corpus_sourashtradictionary
+,,கரம்,karam,,,,Red Sand,காவி,,,,land,corpus_sourashtradictionary
+,,சிட3மத்தி,ciDamatti,,,,Clay,களிமண்,,,,land,corpus_sourashtradictionary
+,,சிகுட3மத்தி,cikuDamatti,,,,Clay,களிமண்,,,,land,corpus_sourashtradictionary
+,,வளுமத்தி,vaLumatti,,,,Alluvial soil,வண்டல் மண்,,,,land,corpus_sourashtradictionary
+,,ஸுபீகு,supeeku,,,,"Fertile, Fertility","வளம், வளமான",,,,land,corpus_sourashtradictionary
+,,பங்கு,pangku,,,,Mud,சேறு,,,,land,corpus_sourashtradictionary
+,,செக்குள்,cekkuL,,,,Mud,சகதி,,,,land,corpus_sourashtradictionary
+,,பு3த்3து3ரொ,budduro,,,,Mud,சகதி,,,,land,corpus_sourashtradictionary
+,,பு3த்3து3ரா பனி,budduraa pani,,,,Sewage,கழிவுநீர்,,,,land,corpus_sourashtradictionary

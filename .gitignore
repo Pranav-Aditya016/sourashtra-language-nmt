@@ -1,0 +1,57 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Model checkpoints (large binary files — store on HuggingFace Hub instead)
+checkpoints/
+checkpoints_v2/
+checkpoints_v3/
+checkpoints_v4/
+checkpoints_v5/
+checkpoints_v5_reverse/
+
+# Training logs
+logs/
+logs_v2/
+logs_v3/
+logs_v4/
+logs_v5/
+logs_v5_reverse/
+
+# Binary model artifacts
+*.pt
+*.pth
+*.safetensors
+*.bin
+*.pkl
+
+# Archive files
+*.zip
+*.tar.gz
+*.tar.bz2
+
+# Environment / secrets
+.env
+*.env
+.env.*
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Distribution / build
+dist/
+build/
+*.egg-info/

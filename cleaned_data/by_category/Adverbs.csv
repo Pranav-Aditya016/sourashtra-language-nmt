@@ -1,0 +1,477 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+ꢕꢾꢬꢸꢮ꣄ꢒꢥꢶ,घ॑रुव्कनि,கெ4ருவ்கனி,ghe'ruvkani,ghEruvkani,ghĕruvkani,gʰeɾuʋkən̪ɪ,proudly,அகங்காரமாக,,,,Adverbs,words
+ꢮꢶꢭꢵꢱ꣄ꢒꢥꢶ,विलास्कनि,விலாஸ்கனி,vilaaskani,vilAskani,vilāskani,ʋɪlɑːs̪kən̪ɪ,broadly,அகலமாக,,,,Adverbs,words
+ꢂꢭꢱꣁꢒꢥꢶ,अलसा॑कनि,அலஸொகனி,alaso'kani,alasOkani,alasŏkani,ələs̪okən̪ɪ,slackly,அசட்டையாக,,,,Adverbs,words
+ꢮꢶꢒꢵꢬ꣄ꢒꢥꢶ,विकार्कनि,விகார்கனி,vikaarkani,vikArkani,vikārkani,ʋɪkɑːɾkən̪ɪ,ugly,அசிங்கமாக,,,,Adverbs,words
+ꢂꢜꢵꢠ꣄ꢒꢒꢥ꣄,अटाण्ककन्,அடஅண்ககன்,at'aankakan,aTANkakan,aṭāṇkakan,əʈɑːɳkəkən̪,obediently,அடக்க ஒடுக்கமாக,,,,Adverbs,words
+ꢩꢮ꣄ꢫꢖ꣄ꢒꢥ꣄,भव्यङ्कन्,ப4வ்யங்கன்,bhavyankan,bhavyaGkan,bhavyaṅkan,bʰəʋjəŋkən̪,obediently,அடக்கமாக,,,,Adverbs,words
+ꢧꢶꢬꢶꢧꢶꢬꢶ,फिरिफिरि,பி2ரிபி2ரி,phiriphiri,phiriphiri,phiriphiri,pʰɪɾɪpʰɪɾɪ,"frequently, often",அடிக்கடி,,,,Adverbs,words
+ꢡꢾꢬ꣄ꢱꢸ,त॑र्सु,தெர்ஸு,te'rsu,tErsu,tĕrsu,t̪eɾs̪u,"frequently, often",அடிக்கடி,,,,Adverbs,words
+ꢭꢾꢔꢸꢡꣁ,ल॑गुता॑,லெகு3தொ,le'guto',lEgutO,lĕgutŏ,legut̪o,next,அடுத்ததாக,,,,Adverbs,words
+ꢧꢬꢡꢸ,फरतु,ப2ராது,pharatu,pharatu,pharatu,pʰəɾət̪u,next,அடுத்ததாக,,,,Adverbs,words
+ꢧꢬꣁ ꢧꢳ꣄ꢗꣁ,फरा॑,ப2ரொ,pharo' phal'cho',pharO phaLcO,pharŏ phal̤cŏ,pʰəɾo pʰəɭt͡ʃo,next,அடுத்ததாக,,,,Adverbs,words
+ꢲꣁꢭ꣄ꢭꣁ,फळ्चा॑,ப2ள்சொ,ho'llo',hOllO,hŏllŏ,ɦollo,next,அடுத்ததாக,,,,Adverbs,words
+ꢧꢭ꣄ꢗꣁ,फल्चा॑,ப2ல்சொ,phalcho',phalcO,phalcŏ,pʰəlt͡ʃo,next,அடுத்து,,,,Adverbs,words
+ꢡꢶꢫꢾꢢꢵꢥꢸꢒ꣄,तिय॑धानुक्,த்யெதா4னு,tiye'thaanuk,tiyEthAnuk,tiyĕthānuk,t̪ɪjet̪ʰɑːn̪uk,accordingly,அதன்படி,,,,Adverbs,words
+ꢡꢶꢫꢾ ꢧꢭ꣄ꢗꣁ,तिय॑फल्चा॑,த்யெப2ல்சொ,tiye' phalcho',tiyE phalcO,tiyĕ phalcŏ,t̪ɪje pʰəlt͡ʃo,after that,அதன் பின்,,,,Adverbs,words
+ꢭꢾꢥ꣄ꢡꣁ,ल॑न्ता॑,லெந்தொ,le'nto',lEntO,lĕntŏ,len̪t̪o,so,அதனால்,,,,Adverbs,words
+ꢡꢾꢭ꣄ꢫꢒꢲꢵꢭ꣄,त॑ल्यकहाल्,தெல்யகஹால்,te'lyakahaal,tElyakahAl,tĕlyakahāl,t̪eljəkəɦɑːl,thereupon,அதன்விளைவாக,,,,Adverbs,words
+ꢂꢬ꣄ꢢꢵꢡ꣄,अर्थात,அர்தா2த்,arthaat,arthAt,arthāt,əɾt̪ʰɑːt̪,That is,அதாவது,,,,Adverbs,words
+ꢂꢡꢶꢬ꣄ꢰ꣄ꢜꢸꢒꢥꢶ,अतिर्ष्टुकनि,அதி3ர்ஷ்டுகனி,atirsht'ukani,atirSTukani,atirṣṭukani,ət̪ɪɾʂʈukən̪ɪ,luckily,அதிர்ஷ்டவசமாக,,,,Adverbs,words
+ꢥꢶꢫꢵꢮ꣄ ꢥꢴꢷꢡꣁ,नियाव न्हीता॑,ந்யாவ் நீ:தொ,niyaav nheeto',niyAv nhItO,niyāv nhītŏ,n̪ɪjɑːʋ n̪ɦiːt̪o,Unjustly,அநியாயமாக,,,,Adverbs,words
+ꢬꢪꢵ ꢬꢪꢶ,रमारमि,ரமாரமி,ramaa rami,ramA rami,ramā rami,ɾəmɑː ɾəmɪ,approximately,அநேகமாக,,,,Adverbs,words
+ꢆꢥ꣄ꢥ ꢆꢦꢶꢬ꣄ꢒꢥꢶ,उन्न उपिर्कनि,உன்ன உபிர்கனி,unna upirkani,unna upirkani,unna upirkani,un̪n̪ə upɪɾkən̪ɪ,approximately,அநேகமாக,,,,Adverbs,words
+ꢡꣂꢬꢫꢪ꣄ꢒꢥꢶ,तोरायम्कनि,தோராயம்கனி,torayamkani,torayamkani,torayamkani,t̪oːɾəjəmkən̪ɪ,approximately,அநேகமாக,,,,Adverbs,words
+ꢡꢾꢒ ꢧꢭ꣄ꢗꣁ,त॑कफल्चा॑,தெகப2ல்சொ,te'ka phalcho',tEka phalcO,tĕka phalcŏ,t̪ekə pʰəlt͡ʃo,"off, away",அப்பால்,,,,Adverbs,words
+ꢣꢸꢣꢹꢬ꣄,दुदूर,து3தூ3ர்,dudoor,dudUr,dudūr,d̪ud̪uːɾ,"off, away",அப்பால்,,,,Adverbs,words
+ꢲꢾꢡꢵꢬ꣄ꢡ꣄ꢡꢸꢒꢥ꣄,ह॑तार्त्तुकन्,ஹெதா3ர்துகன்,he'taarttukan,hEtArttukan,hĕtārttukan,ɦet̪ɑːɾt̪t̪ukən̪,innocently,அப்பாவித்தனமாக,,,,Adverbs,words
+ꢡꢶꢫꢾ ꢦꢭ꣄ꢗꣁ,तिय॑पल्चा॑,த்யெபல்சொ,tiye' palcho',tiyE palcO,tiyĕ palcŏ,t̪ɪje pəlt͡ʃo,after that,அப்புறம்,,,,Adverbs,words
+ꢡꢿ ꢮꢿꢳ꣄,देवेळ त्यवेळ,தேவேள்,te vel',te veL,te vel̤,t̪eː ʋeːɭ,that time,அப்போது,,,,Adverbs,words
+ꢡ꣄ꢫꢮꢿꢳ꣄,देवेळ त्यवेळ,த்யவேள்,tyavel',tyaveL,tyavel̤,t̪jəʋeːɭ,that time,அப்போது,,,,Adverbs,words
+ꢂꢥ꣄ꢫꢵꢮ꣄ꢒꢥꢶ,अन्याव्कनि,அந்யாவ்கனி,anyaavkani,anyAvkani,anyāvkani,ən̪jɑːʋkən̪ɪ,unfairly,அபாண்டமாக,,,,Adverbs,words
+ꢂꢦꢹꢬ꣄ꢦꢸꢒꢥ꣄,अपूर्वुकन्,அபூர்வுகனி,apoorpukan,apUrpukan,apūrpukan,əpuːɾpukən̪,rarely,அபூர்வமாக,,,,Adverbs,words
+ꢤꢵꢪ꣄ ꢤꢹꢪ꣄ꢒꢥ꣄,धाम्धूम्कन्,தா4ம்தூ4ம்கன்,dhaam dhoomkan,dhAm dhUmkan,dhām dhūmkan,d̪ʰɑːm d̪ʰuːmkən̪,with pomp and show,அமர்க்களமாக,,,,Adverbs,words
+ꢯꢵꢥ꣄ꢡꢶꢒꢥ꣄,शान्तिकन्,ஶாந்திகன்,shaantikan,zAntikan,śāntikan,ʃɑːn̪t̪ɪkən̪,"calmly, quietly, patiently",அமைதியாக,,,,Adverbs,words
+ꢭꢾꢔꢸꢡ꣄ꢡ,ल॑गुत्त,லெகு3த்த,le'gutta,lEgutta,lĕgutta,legut̪t̪ə,near,அருகில் /அருகே,,,,Adverbs,words
+ꢡꣁ,ता॑,தொ,to',tO,tŏ,t̪o,near,அருகில் /அருகே,,,,Adverbs,words
+ꢗꣁꢒ꣄ꢒꢜ꣄ꢒꢥ꣄,चा॑क्कट्कन्,சொக்கட்கன்,cho'kkat'kan,cOkkaTkan,cŏkkaṭkan,t͡ʃokkəʈkən̪,nicely,அருமையாக,,,,Adverbs,words
+ꢒꢶꢖ꣄ꢒꢶꢬ꣄ꢥꢶ,किन्किर्नि,கிங்கிர்கனி,kinkirni,kiGkirni,kiṅkirni,kɪŋkɪɾn̪ɪ,awkwardly,அருவருப்பாக,,,,Adverbs,words
+ꢲꢣ꣄ꢣꢵꢪꢸꢣ꣄ꢣꢸ,हद्दामुद्दु म्हद्दिम,ஹத்3தா3முத்3து3,haddaamuddu,haddAmuddu,haddāmuddu,ɦəd̪d̪ɑːmud̪d̪u,Interim/in the middle,அரைகுறையாக,,,,Adverbs,words
+ꢪꢴꢣ꣄ꢣꢶꢪ꣄,हद्दामुद्दु म्हद्दिम,ம:த்3தி3ம்,mhaddim,mhaddim,mhaddim,mɦəd̪d̪ɪm,Interim/in the middle,அரைகுறையாக,,,,Adverbs,words
+ꢂꢱꢶꢖ꣄ꢒꢪ꣄ꢒꢥ꣄,असिङ्कम्कन्,அஸிங்க3ம்கன்,asinkamkan,asiGkamkan,asiṅkamkan,əs̪ɪŋkəmkən̪,gracelessly,அலங்கோலமாக,,,,Adverbs,words
+ꢂꢭꢞ꣄ꢱꢶꢫꢪ꣄ꢒꢥ꣄,अलड्सियम्कन्,அலட்3ஸியம்கன்,alad'siyamkan,alaDsiyamkan,alaḍsiyamkan,ələɖs̪ɪjəmkən̪,carelessly,அலட்சியமாக,,,,Adverbs,words
+ꢡꢶꢒ꣄ꢒꢾ,तिक्क॑,தித்கெ,tikke',tikkE,tikkĕ,t̪ɪkke,that much,அவ்வளவு,,,,Adverbs,words
+ꢡꢶꢱꣁ,तिसा॑,திஸொ,tiso',tisO,tisŏ,t̪ɪs̪o,that way,அவ்வாறு,,,,Adverbs,words
+ꢡꢶꢱꢥꢶ,तिसनि,திஸனி,tisani,tisani,tisani,t̪ɪs̪ən̪ɪ,in that manner,அவ்விதம்,,,,Adverbs,words
+ꢂꢮ꣄ꢱꢬ꣄ꢒꢥ꣄,अव्सर्कन्,அவ்ஸர்கன்,avsarkan,avsarkan,avsarkan,əʋs̪əɾkən̪,"urgently, hastily",அவசரமாக,,,,Adverbs,words
+ꢱꢶꢖ꣄ꢒꢵꢬ꣄ꢒꢥ꣄,सिङ्कार्कन्,ஸிங்கா3ர்கன்,sinkaarkan,siGkArkan,siṅkārkan,s̪ɪŋkɑːɾkən̪,"fairly, beautifully",அழகாக,,,,Adverbs,words
+ꢙꢞꢒꢥ꣄,जडकन्,ஜட3கன்,jad'akan,jaDakan,jaḍakan,d͡ʒəɖəkən̪,emphatically,அழுத்தமாக,,,,Adverbs,words
+ꢤꢶꢣꢮ꣄ꢒꢥ꣄,धिडव्कन,தி4ட3வ்கன்,dhidavkan,dhidavkan,dhidavkan,d̪ʰɪd̪əʋkən̪,emphatically,அழுத்தமாக,,,,Adverbs,words
+ꢣꢾꢛ꣄ꢗꢸꢒꢥ꣄,द॑न्चुकन,தெ3ஞ்சுகன்,de'nchukan,dEJcukan,dĕñcukan,d̪eɲt͡ʃukən̪,emphatically,அழுத்தமாக,,,,Adverbs,words
+ꢦꢶꢬꢿꢒꢥ꣄,पिरेव्कन्,ப்ரேவ்கன்,pirekan,pirekan,pirekan,pɪɾeːkən̪,affectionately,அன்பாக,,,,Adverbs,words
+ꢲꢵꢭꢶꢪ꣄,हालिम्,ஹாலிம்,haalim,hAlim,hālim,ɦɑːlɪm,therefore,ஆகையால்,,,,Adverbs,words
+ꢔꢾꢬꢸꢮ꣄ꢒꢥ꣄,ग॑रुवकन्,கெ3ருவ்கன்,ge'ruvkan,gEruvkan,gĕruvkan,geɾuʋkən̪,arrogantly,ஆங்காரமாக,,,,Adverbs,words
+ꢃꢯ꣄ꢗꢬ꣄ꢫꢸꢒꢥ꣄,आश्चर्युकन्,ஆஶ்சர்யுகன்,aashcharyukan,Azcaryukan,āścaryukan,ɑːʃt͡ʃəɾjukən̪,surprisingly,ஆச்சரியமாக,,,,Adverbs,words
+ꢃꢱ꣄ꢡꢒꢥ꣄,आस्तकन्,ஆஸ்தகன்,aastakan,Astakan,āstakan,ɑːs̪t̪əkən̪,fondly,ஆசையாக,,,,Adverbs,words
+ꢪꣂꢙꢒꢥꢶ,मोजकनि,மோஜகனி,mojakani,mojakani,mojakani,moːd͡ʒəkən̪ɪ,pompously,ஆடம்பரமாக,,,,Adverbs,words
+ꢏꢬ꣄ꢱꣁꢬ꣄ꢱꢸꢒꢥꢶ,आ॑र्सा॑र्सुकनि,ஒர்ஸொர்ஸுகனி,o'rso'rsukani,OrsOrsukani,ŏrsŏrsukani,oɾs̪oɾs̪ukən̪ɪ,annually,ஆண்டுதோறும்,,,,Adverbs,words
+ꢣꢷꢬ꣄ꢕꢸꢒꢥꢶ,दीर्घुकनि,தீ3ர்கு4கனி,deerghukani,dIrghukani,dīrghukani,d̪iːɾgʰukən̪ɪ,emphatically,ஆணித்தரமாக,,,,Adverbs,words
+ꢃꢣꢬꢮ꣄ꢒꢥꢶ,आदरव्कनि,ஆத3ரவ்கனி,aadaravkani,Adaravkani,ādaravkani,ɑːd̪əɾəʋkən̪ɪ,supportively,ஆதரவாக,,,,Adverbs,words
+ꢆꢡ꣄ꢱꢵꢲ꣄ꢒꢥꢶ,उत्सह्कनि,உத்ஸாஹ்கனி,utsaahkani,utsAhkani,utsāhkani,ut̪s̪ɑːɦkən̪ɪ,interestedly,ஆர்வமாக,,,,Adverbs,words
+ꢱꢸꢱ꣄ꢡꢶꢒꢥꢶ,सुस्तिकनि,ஸுஸ்திகனி,sustikani,sustikani,sustikani,s̪us̪t̪ɪkən̪ɪ,healthily,ஆரோக்கியமாக,,,,Adverbs,words
+ꢂꢖ꣄ꢓꢹꢬ꣄ꢒꢥꢶ,अङ्खूरकनि,அங்கூ2ர்கனி,ankhoorkani,aGkhUrkani,aṅkhūrkani,əŋkʰuːɾkən̪ɪ,slap dash,ஆவேசமாக,,,,Adverbs,words
+ꢭꣂꢡ꣄ꢒꢥꢶ,लोत्कनि,லோத்கனி,lotkani,lotkani,lotkani,loːt̪kən̪ɪ,deeply,ஆழமாக,,,,Adverbs,words
+ꢗꢪꢤꢵꢥ꣄ꢒꢥꢶ,समधान्कनि,ஸமதா4ன்கனி,chamadhaankani,camadhAnkani,camadhānkani,t͡ʃəməd̪ʰɑːn̪kən̪ɪ,consolingly,ஆறுதலாக,,,,Adverbs,words
+ꢡꣀꢬꢦꣂꢒ꣄,तैरपोक्,தை3ரபோக்,tairapok,tairapok,tairapok,t̪əɪɾəpoːk,left,இடது பக்கமாக,,,,Adverbs,words
+ꢪꢴꢣ꣄ꢣꢶꢪꢴꢣ꣄ꢣꢶꢪ꣄,म्हद्दिम्हद्दिम्,ம:த்3தி3ம:த்3தி3ம்,mhaddimhaddim,mhaddimhaddim,mhaddimhaddim,mɦəd̪d̪ɪmɦəd̪d̪ɪm,now and then,இடையிடையே,,,,Adverbs,words
+ꢂꢞ꣄ꢜꢪ꣄ꢒꢥꢶ ꢂꢮ꣄ꢞꢒꢥꢶ,अड्टम्कनि अव्डकनि,அட்3ட3ம்கனி,ad't'amkani avd'akani,aDTamkani avDakani,aḍṭamkani avḍakani,əɖʈəmkən̪ɪ əʋɖəkən̪ɪ,as interference,இடையூறாக,,,,Adverbs,words
+ꢱꢪ꣄ꢪꢡ꣄ꢒꢥꢶ,सम्मत्कनि,ஸம்மத்கனி,sammatkani,sammatkani,sammatkani,s̪əmmət̪kən̪ɪ,"agreeably, acceptably",இணக்கமாக,,,,Adverbs,words
+ꢗꢾꢬꢶꢒꢥꢶ,च॑रिकनि,செரிகனி,che'rikani,cErikani,cĕrikani,t͡ʃeɾɪkən̪ɪ,jointly,இணையாக,,,,Adverbs,words
+ꢄꢱꢒꢥ꣄ ꢌꢭ꣄ꢫꢒꢲꢵꢭ꣄,इसकन ए॑ल्यकहाल,இஸகன்,isakan e'lyakahaal,isakan ElyakahAl,isakan ĕlyakahāl,ɪs̪əkən̪ eljəkəɦɑːl,hereby,இதன் மூலமாக/இதனால்,,,,Adverbs,words
+ꢫꢿꢭꢾꢥ꣄ꢡꢸ,येल॑न्तु,யேலெந்து,yele'ntu,yelEntu,yelĕntu,jeːlen̪t̪u,Heretofore,இதுவரை,,,,Adverbs,words
+ꢂꢡ꣄ꢡꣁ,अत्ता॑,அத்தொ,atto',attO,attŏ,ət̪t̪o,now,இப்பொழுது/ இப்போது,,,,Adverbs,words
+ꢦ꣄ꢬꢒ꣄ꢬꢸꢡꢶꢒꢥꢶ,प्रक्रुतिकनि,ப்ரக்ருதிகனி,prakrutikani,prakrutikani,prakrutikani,pɾəkɾut̪ɪkən̪ɪ,naturally,இயற்கையாக,,,,Adverbs,words
+ꢱ꣄ꢮꢩꢵꢮ꣄ꢒꢥꢶ,स्वभाव्कनि,ஸ்வபா4வ்கனி,svabhaavkani,svabhAvkani,svabhāvkani,s̪ʋəbʰɑːʋkən̪ɪ,naturally,இயல்பாக,,,,Adverbs,words
+ꢡꢫꢒꢥꢶ,तयकनि,தயகனி,tayakani,tayakani,tayakani,t̪əjəkən̪ɪ,grace fully,இரக்கமாக,,,,Adverbs,words
+ꢬꢲꢱ꣄ꢫꢸꢪ꣄ꢒꢥꢶ,रहस्युकनि,ரஹஸ்யுகனி,rahasyumkani,rahasyumkani,rahasyumkani,ɾəɦəs̪jumkən̪ɪ,secretly,இரகசியமாக,,,,Adverbs,words
+ꢣꢶꢮꢫꢾ,दिवया॑,தி3வயொ,divaye',divayE,divayĕ,d̪ɪʋəje,secondly,இரண்டாவதாக,,,,Adverbs,words
+ꢣꢷꢮꣂꢜ꣄,दीवोट,தீ3வோட்,deevot',dIvoT,dīvoṭ,d̪iːʋoːʈ,two times,இருமடங்காக,,,,Adverbs,words
+ꢔꣂꢱ꣄ ꢥꢶꢯ꣄ꢯꢸꢭ꣄ꢒꢸꢒꢥꢶ,गोस् निश्शुल्कुकनि,கோ3ஸ்,gos nishshulkukani,gos nizzulkukani,gos niśśulkukani,goːs̪ n̪ɪʃʃulkukən̪ɪ,freely,இலவசமாக,,,,Adverbs,words
+ꢲꢭ꣄ꢒꢒꢥꢶ,हल्ककनि,ஹல்ககனி,halkakani,halkakani,halkakani,ɦəlkəkən̪ɪ,lightly,இலேசாக,,,,Adverbs,words
+ꢲꢮ꣄ꢭꢒꢥꢶ꣄,हव्लकनि,ஹவ்லகனி,havlakani,havlakani,havlakani,ɦəʋləkən̪ɪ,lightly,இலேசாக,,,,Adverbs,words
+ꢄꢒ꣄ꢒ,इत्क,இத்க,ikka,ikka,ikka,ɪkkə,this much,இவ்வளவு,,,,Adverbs,words
+ꢄꢱꣁ,इसा॑,இஸொ,iso',isO,isŏ,ɪs̪o,in this way,இவ்வாறாக,,,,Adverbs,words
+ꢄꢱꢥꢶ,इसनि,இஸனி,isani,isani,isani,ɪs̪ən̪ɪ,in this way,இவ்வாறாக,,,,Adverbs,words
+ꢲꢸꢡ꣄ꢡꢸꢬꢱ꣄ꢡꢶꢱꣁ,हुत्तुरस्तिसा॑,ஹுத்துரஸ்திஸொ,hutturastiso',hutturastisO,hutturastisŏ,ɦut̪t̪uɾəs̪t̪ɪs̪o,downwardly,இறக்கமாக,,,,Adverbs,words
+ꢲꣂꢜ꣄ꢒꢥꢶ,होट्कनि,ஹோட்கனி,hot'kani,hoTkani,hoṭkani,ɦoːʈkən̪ɪ,tightly,இறுக்கமாக/இறுக்கம்,,,,Adverbs,words
+ꢲꣁꢜ꣄,होट,ஹோட்,ho't',hOT,hŏṭ,ɦoʈ,tightly,இறுக்கமாக/இறுக்கம்,,,,Adverbs,words
+ꢔꢸꢳ꣄ꢳꢾꢒꢥꢶ,गुळ्ळ॑कनि,கு3ள்ளெகனி,gul'l'e'kani,guLLEkani,gul̤l̤ĕkani,guɭɭekən̪ɪ,sweetly,இனிமையாக,,,,Adverbs,words
+ꢔꢸꢳ꣄ꢳꢾ,गुळ्ळ॑,கு3ள்ளெ,gul'l'e',guLLE,gul̤l̤ĕ,guɭɭe,sweetly,இனிமையாக,,,,Adverbs,words
+ꢂꢖ꣄ꢔꢸꢥ꣄,अङ्गुन्,அங்கு3ன்,angun,aGgun,aṅgun,əŋgun̪,moreover/still,இன்னும்,,,,Adverbs,words
+ꢗꢾꢬ꣄ꢒꢵ ꢗꢾꢬ꣄ꢒꣁ,स॑र्कास॑र्का॑,ஸெர்காஸெர்கொ,che'rkaa che'rko',cErkA cErkO,cĕrkā cĕrkŏ,t͡ʃeɾkɑː t͡ʃeɾko,equally,ஈடாக,,,,Adverbs,words
+ꢩꢶꢡ꣄ꢡꢬ꣄,भित्तर्,பி4த்தர்,bhittar,bhittar,bhittar,bʰɪt̪t̪əɾ,from inside,உட்பக்கமாக,,,,Adverbs,words
+ꢩꢶꢡ꣄ꢡꢬꢸꢡꣁꢒꢥ꣄,भित्तरुता॑कन,பி4த்தருதொகன்,bhittaruto'kan,bhittarutOkan,bhittarutŏkan,bʰɪt̪t̪əɾut̪okən̪,inwardly,உட்புறத்திலிருந்து,,,,Adverbs,words
+ꢡꢾꢥ꣄ꢥꢮꢾꢖ꣄ꢔꢸꢪ꣄,त॑न्नवेङ्गुम्,தென்னவேங்கு3ம்,te'nnave'ngum,tEnnavEGgum,tĕnnavĕṅgum,t̪en̪n̪əʋeŋgum,immediately,உடனடியாக,,,,Adverbs,words
+ꢡꢡ꣄ꢒ꣄ꢰꢠꢪ꣄,तत्क्षणम्,தத்க்ஷணம்,tatkshanam,tatkSaNam,tatkṣaṇam,t̪ət̪kʂəɳəm,at once/ immediately,உடனடியாக,,,,Adverbs,words
+ꢍꢮꢿꢳ꣄,एवेळ,ஏவேள்,evel',eveL,evel̤,eːʋeːɭ,at once/ immediately,உடனடியாக,,,,Adverbs,words
+ꢥꢶꢙꢪ꣄ꢒꢥꢶ ꢱꢾꢡ꣄ꢡꢸꢒꢥꢶ ꢬꢴꢡ꣄ꢡꢤꢵꢥꢸ,निजम्कनि स॑त्तुकनि र्हत्तधानु,நிஜம்கனி,nijamkani se'ttukani rhattadhaanu,nijamkani sEttukani rhattadhAnu,nijamkani sĕttukani rhattadhānu,n̪ɪd͡ʒəmkən̪ɪ s̪et̪t̪ukən̪ɪ ɾɦət̪t̪əd̪ʰɑːn̪u,"truely, honestly",உண்மையாக,,,,Adverbs,words
+ꢩꢮ ꢮꢱꢒꢥꢶ ꢩꢵꢮ ꢦꢹꢬ꣄ꢠꢒꢥꢶ,भाव वसकनि भाव पूर्णकनि,பா4வ வஶகனி,bhava vasakani bhaava poornakani,bhava vasakani bhAva pUrNakani,bhava vasakani bhāva pūrṇakani,bʰəʋə ʋəs̪əkən̪ɪ bʰɑːʋə puːɾɳəkən̪ɪ,emotionally,உணர்ச்சிவசகமாக,,,,Adverbs,words
+ꢆꢖ꣄ꢗ,उञ्च,உஞ்ச,ungcha,uGca,uṅca,uŋt͡ʃə,tall,உயரமாக,,,,Adverbs,words
+ꢆꢖ꣄ꢗꢒꢥꢶ,उञ्चकनि,உஞ்சகனி,ungchakani,uGcakani,uṅcakani,uŋt͡ʃəkən̪ɪ,tall,உயரமாக,,,,Adverbs,words
+ꢆꢥ꣄ꢥꢡꢸꢒꢥꢶ,उन्नतुकनि,உன்னதுகனி,unnatukani,unnatukani,unnatukani,un̪n̪ət̪ukən̪ɪ,highly,உயர்வாக,,,,Adverbs,words
+ꢕꢾꢜ꣄ꢜꢶ,घ॑ट्टि,கெ4ட்டி,ghe't't'i,ghETTi,ghĕṭṭi,gʰeʈʈɪ,aloud,உரக்க,,,,Adverbs,words
+ꢒꢬꢸꢠꢱꢾꢬꣁ,करुणस॑र॓,கருணஸெரொ,karunase'ro',karuNasErO,karuṇasĕrŏ,kəɾuɳəs̪eɾo,pathetically,உருக்கமாக,,,,Adverbs,words
+ꢂꢜꢸꢒ꣄ꢒꢥꢶ,अडुक्कनि,அடு3கனி,at'ukkani,aTukkani,aṭukkani,əʈukkən̪ɪ,inside,உள்ளாக,,,,Adverbs,words
+ꢩꢶꢡ꣄ꢡꢬ꣄ꢒꢥꢶ,भित्तर्कनि,பி4த்தர்கனி,bhittarkani,bhittarkani,bhittarkani,bʰɪt̪t̪əɾkən̪ɪ,inside,உள்ளாக,,,,Adverbs,words
+ꢩꢶꢱ꣄ꢡꢬ꣄,भिस्तर्,பி4த்தர்,bhistar,bhistar,bhistar,bʰɪs̪t̪əɾ,inside,உள்ளே,,,,Adverbs,words
+ꢒꢸꢱ꣄ꢒꢶꢥꢶꢒꢥꢶ,कुस्किनिकनि,குஸ்கினிகனி,kuskinikani,kuskinikani,kuskinikani,kus̪kɪn̪ɪkən̪ɪ,pinching,உறுத்தலாக,,,,Adverbs,words
+ꢤꢶꢞꢮ꣄ꢒꢥꢶ,धिडव्कनि,தி4ட3வ்கனி,dhid'avkani,dhiDavkani,dhiḍavkani,d̪ʰɪɖəʋkən̪ɪ,strongly,உறுதியாக,,,,Adverbs,words
+ꢯ꣄ꢬꢿꢱ꣄ꢲ꣄ꢝꢸꢒꢥꢶ ꢪꢿꢜꢸꢒꢥꢶ,शिरेष्ठुकनि मेटुकनि,ஶ்ரேஷ்டு2கனி,shresht'hukani met'ukani,zreshThukani meTukani,śreshṭhukani meṭukani,ʃɾeːs̪ɦʈʰukən̪ɪ meːʈukən̪ɪ,magnificently,உன்னதமாக,,,,Adverbs,words
+ꢙꢵꢔ꣄ꢬꢡꢒꢥꢶ,जाग्रतकनि,ஜாக்3ரதகனி,jaagratakani,jAgratakani,jāgratakani,d͡ʒɑːgɾət̪əkən̪ɪ,carefully,உன்னிப்பாக,,,,Adverbs,words
+ꢪꢵꢤ꣄ꢫꢪꢒꢥꢶ,माध्यमकनि,மாத்4யமகனி,maadhyamakani,mAdhyamakani,mādhyamakani,mɑːd̪ʰjəməkən̪ɪ,through,ஊடாக,,,,Adverbs,words
+ꢞꢪ꣄ꢨꢷꢔꢒꢥꢶ,डम्पीगकनि,டா3ம்பீ3க3கனி,d'ambeegakani,DambIgakani,ḍambīgakani,ɖəmbiːgəkən̪ɪ,slavishly,ஊதாரித்தனமாக,,,,Adverbs,words
+ꢙꢵꢒ꣄ꢬꢡꣁ ꢙꢵꢒ꣄ꢬꢡꢒꢥꢶ,जाक्रता॑ जाक्रतकनि,ஜாக்ரதொ,jaakrato' jaakratakani,jAkratO jAkratakani,jākratŏ jākratakani,d͡ʒɑːkɾət̪o d͡ʒɑːkɾət̪əkən̪ɪ,cautious,எச்சரிக்கையாக,,,,Adverbs,words
+ꢱꢵꢮ꣄ꢤꢵꢥ꣄ꢒꢥꢶ,साव्धान्कनि,ஸாவ்தா4ன்கனி,saavdhaankani,sAvdhAnkani,sāvdhānkani,s̪ɑːʋd̪ʰɑːn̪kən̪ɪ,warning,எச்சரிப்பாக,,,,Adverbs,words
+ꢮꢾꢡꢸꢬ꣄ꢱꢵꢥꢵꢡ꣄ꢡꢒ꣄,व॑तुर्सानात्तक्,வெது3ர்ஸானாத்த,ve'tursaanaattak,vEtursAnAttak,vĕtursānāttak,ʋet̪uɾs̪ɑːn̪ɑːt̪t̪ək,unexpectedly,எதிர்பாரதா விதமாக,,,,Adverbs,words
+ꢡꢶꢬꢔ꣄ꢒꢥꢶ,तिरग्कनि,திரக்3கனி,tiragkani,tiragkani,tiragkani,t̪ɪɾəgkən̪ɪ,conversely,எதிர்மாறாக,,,,Adverbs,words
+ꢡꢶꢬꢔ꣄,दिरग्,திரக்3,tirag,tirag,tirag,t̪ɪɾəg,adversely,எதிராக,,,,Adverbs,words
+ꢱꢵꢥꢸꢬ꣄,सामुर,ஸாமுர்,saanur,sAnur,sānur,s̪ɑːn̪uɾ,opposite,எதிரே,,,,Adverbs,words
+ꢒꢶꢱꢒꢷ,किसकी,கிஸகீ,kisakee,kisakI,kisakī,kɪs̪əkiː,somehow,எப்படியோ,,,,Adverbs,words
+ꢒꣂꢥꢒꢷ,कोनकी,கோனகீ,konakee,konakI,konakī,koːn̪əkiː,somehow,எப்படியோ,,,,Adverbs,words
+ꢓꣁꢨ꣄ꢨꢶꢪ꣄,खा॑ब्बिम्,கொ2ப்3பி3ம்,kho'bbim,khObbim,khŏbbim,kʰobbɪm,"for ever, always, every day",எப்பொழுதும் / என்றும்,,,,Adverbs,words
+ꢱꢣꢵ,सदा,ஸதா3,sadaa,sadA,sadā,s̪əd̪ɑː,"for ever, always, every day",எப்பொழுதும் / என்றும்,,,,Adverbs,words
+ꢙꢵꢳ꣄꣄ꢒꢥꢶ,जाळ्कनि,ஜாள்கனி,jaal'kani,jALkani,jāl̤kani,d͡ʒɑːɭkən̪ɪ,irritatingly,எரிச்சலாக,,,,Adverbs,words
+ꢭꢴꢾꢕꢸꢮ꣄ꢒꢥꢶ,ल्ह॑घुव्कनि,லெ:கு4வ்கனி,lhe'ghuvkani,lhEghuvkani,lhĕghuvkani,lɦegʰuʋkən̪ɪ,"lightly, easily",எளிதாக,,,,Adverbs,words
+ꢱꢵꢤꢵꢬꢠ꣄ꢒꢥꢶ,साधारणकनि,ஸாதா4ரணகனி,saadhaarankani,sAdhAraNkani,sādhāraṇkani,s̪ɑːd̪ʰɑːɾəɳkən̪ɪ,simply,எளிமையாக,,,,Adverbs,words
+ꢓꣁꢨ꣄ꢨꣁ,खा॑ब्बा॑,கொ2ப்3பொ3,kho'bbo',khObbO,khŏbbŏ,kʰobbo,When?,என்று,,,,Adverbs,words
+ꢓꣁꢨ꣄ꢨꢵꢒ꣄,खा॑ब्बाक,கொ2ப்3பா3க்,kho'bbaak,khObbAk,khŏbbāk,kʰobbɑːk,When?,என்று,,,,Adverbs,words
+ꢲꣁꢫꢾꢡ꣄ꢥꢪꢾꢳ꣄ꢳꢶ ꢲꣁꢫꢾꢡꢶꢥ꣄,हा॑य॑त्म॑ळ्ळि हा॑य॑तिन,ஹொயெத்மெள்ளி,ho'ye'tname'l'l'i ho'ye'tin,hOyEtnamELLi hOyEtin,hŏyĕtnamĕl̤l̤i hŏyĕtin,ɦojet̪n̪əmeɭɭɪ ɦojet̪ɪn̪,nevertheless,எனினும்,,,,Adverbs,words
+ꢔꣁꢨ꣄ꢨꢶꢪ꣄,खा॑ब्बिम्,கொ2ப்3பி3ம்,go'bbim,gObbim,gŏbbim,gobbɪm,forever,என்றென்றைக்கும்,,,,Adverbs,words
+ꢱꢣꢵ,सदा,ஸதா3,sadaa,sadA,sadā,s̪əd̪ɑː,forever,என்றென்றைக்கும்,,,,Adverbs,words
+ꢚꢸꢒ꣄ꢒꢸ,झुक्कु,ஜு2க்கு,jhukku,jhukku,jhukku,d͡ʒʰukku,enormously,ஏராளமாக,,,,Adverbs,words
+ꢮꢿꢥ꣄ꢒꢥꢶ ꢂꢦꢬꢶꢪꢶꢡ꣄ꢒꢥꢶ,वेन्कनि अपरिमित्कनि,வேன்கனி,venkani aparimitkani,venkani aparimitkani,venkani aparimitkani,ʋeːn̪kən̪ɪ əpəɾɪmɪt̪kən̪ɪ,enormously,ஏராளமாக,,,,Adverbs,words
+ꢧꣀꢭꣂꢱ꣄,फैलोस,பை2லோஸ்,phailos,phailos,phailos,pʰəɪloːs̪,already,ஏற்கனவே,,,,Adverbs,words
+ꢪꢸꢭ꣄ꢭꣂꢱ꣄,मुल्लोस्,முல்லோஸ்,mullos,mullos,mullos,mulloːs̪,already,ஏற்கனவே,,,,Adverbs,words
+ꢬꢪꢵꢬꢪꢶ ꢆꢥ꣄ꢥ ꢆꢦꢶꢬ꣄ꢒꢥꢶ,रमारमि उन्न उपिर्कनि,ரமாரமி,ramaarami unna upirkani,ramArami unna upirkani,ramārami unna upirkani,ɾəmɑːɾəmɪ un̪n̪ə upɪɾkən̪ɪ,almost,எறக்குறைய,,,,Adverbs,words
+ꢱꢾꢥ꣄ꢡꢿꢮ꣄ꢒꢥꢶꢱꣁꢪ꣄ꢱꢒꢥꢶ,स॑न्तेव्कनि सा॑म्सकनि,ஸெந்தே3வ்கனி,se'ntevkaniso'msakani,sEntevkanisOmsakani,sĕntevkanisŏmsakani,s̪en̪t̪eːʋkən̪ɪs̪oms̪əkən̪ɪ,doubtfully,ஐயமாக,,,,Adverbs,words
+ꢂꢭꢔ꣄ꢔ,अलग्ग,அலக்3க3,alagga,alagga,alagga,ələggə,aside,ஒதுக்குப்புறமாக,,,,Adverbs,words
+ꢱꢵꢪꢡꢶ,सामति,ஸாமதி3,saamati,sAmati,sāmati,s̪ɑːmət̪ɪ,comparatively,ஒப்பாக,,,,Adverbs,words
+ꢏꢒ꣄ꢒꢮꢿꢭꢸꢪ꣄,आ॑क्कवेलुम्,ஒக்கவேளும்,o'kkavelum,Okkavelum,ŏkkavelum,okkəʋeːlum,sometimes,ஒருக்கால்,,,,Adverbs,words
+ꢓꣁꢨ꣄ꢨꢶꢪ꣄ꢥꢴꢷ,खा॑ब्बिम्न्हि,கொ2ப்3பி3ம்நீ:,kho'bbimnhee,khObbimnhI,khŏbbimnhī,kʰobbɪmn̪ɦiː,never,ஒருக்காலும்,,,,Adverbs,words
+ꢏꢒ꣄ꢒꢥꢶ,ओक्कनि,ஓக்கனி,o'kkani,Okkani,ŏkkani,okkən̪ɪ,together,ஒருசேர,,,,Adverbs,words
+ꢏꢒꢮꢿꢭ꣄,आ॑कवेल्,ஒகவேள்,o'kavel,Okavel,ŏkavel,okəʋeːl,perhaps,ஒரு வேளை,,,,Adverbs,words
+ꢒꢶꢱꢒꢶ,किसकि,கிஸகீ,kisaki,kisaki,kisaki,kɪs̪əkɪ,however/somehow,ஒருவழியாக,,,,Adverbs,words
+ꢐꢒ꣄ꢒꢥ꣄,ओक्कन्,ஓக்கன்,okkan,okkan,okkan,oːkkən̪,outright,ஒரேயடியாக,,,,Adverbs,words
+ꢂꢭꢔ꣄ꢔ ꢂꢭꢔ꣄ꢔꢒꢥꢶꢐꢒꣂꢒ꣄ꢙꢥꢒꢥꢶ,अलग्गअलग्गकनिओकोक्जनकनि,அலக்3க3அலக்3க3கனி,alagga alaggakaniokokjanakani,alagga alaggakaniokokjanakani,alagga alaggakaniokokjanakani,ələggə ələggəkən̪ɪoːkoːkd͡ʒən̪əkən̪ɪ,individually,ஒவ்வொருவராக,,,,Adverbs,words
+ꢐꢒꣂꢒ꣄ꢒꢥꢶꢐꢒꣂꢒ꣄ꢫꢒꢥꢶ,ओकोक्कनि,ஓகோக்கனி,okokkaniokokyakani,okokkaniokokyakani,okokkaniokokyakani,oːkoːkkən̪ɪoːkoːkjəkən̪ɪ,individually,ஒவ்வொன்றாக,,,,Adverbs,words
+ꢒꢶꢬꢪꢖ꣄ꢒꢥ꣄,किरमङ्कन्,க்ரமகனி,kiramankan,kiramaGkan,kiramaṅkan,kɪɾəməŋkən̪,"systematically, smoothly",ஒழுங்காக,,,,Adverbs,words
+ꢒꢶꢬꢪꢪ꣄,किरमम्,க்ரமகனி,kiramam,kiramam,kiramam,kɪɾəməm,serially,ஒன்றன்பின் ஒன்றாக,,,,Adverbs,words
+ꢮꢶꢱ꣄ꢬꢵꢥ꣄ꢡꢶꢒꢥ꣄,विस्रान्तिकन्,விஶ்ராந்திகனி,visraantikan,visrAntikan,visrāntikan,ʋɪs̪ɾɑːn̪t̪ɪkən̪,leisurely,ஒய்வாக,,,,Adverbs,words
+ꢐꢬ꣄ꢡꢒꢥ꣄,ओर्तकन्,ஓர்தகனி,ortakan,ortakan,ortakan,oːɾt̪əkən̪,along side,ஒரமாக,,,,Adverbs,words
+ꢒꣁꢜꢸꢒ꣄ꢒꢥ꣄,का॑टुक्कन्,கொடுக்கன்,ko't'ukkan,kOTukkan,kŏṭukkan,koʈukkən̪,bitterly,கசப்பாக,,,,Adverbs,words
+ꢡꢶꢗ꣄ꢗꢥ꣄ꢒꢥꢶ,तिच्चन्कनि,திச்சகனி,tichchankani,ticcankani,ticcankani,t̪ɪt͡ʃt͡ʃən̪kən̪ɪ,bitterly,கசப்பாக,,,,Adverbs,words
+ꢭꣂꢩꢶꢒꢥ꣄,लोभिकन्,லோபி4கனி,lobhikan,lobhikan,lobhikan,loːbʰɪkən̪,miserly,கஞ்சத்தனமாக,,,,Adverbs,words
+ꢥꢶꢯ꣄꣄ꢗꢫꢸꢒꢥꢶ,निश्चयुकनि,நிஶ்சயுகனி,nishchayukani,nizcayukani,niścayukani,n̪ɪʃt͡ʃəjukən̪ɪ,surely,கட்டாயமாக,,,,Adverbs,words
+ꢕꢾꢜ꣄ꢜꢶ,घ॑ट्टि,கெ4ட்டி,ghe't't'i,ghETTi,ghĕṭṭi,gʰeʈʈɪ,thickly,கட்டியாக,,,,Adverbs,words
+ꢕꢾꢜ꣄ꢜꢶꢒꢥꢶ,घ॑ट्टिकनि,கெ4ட்டிகனி,ghe't't'ikani,ghETTikani,ghĕṭṭikani,gʰeʈʈɪkən̪ɪ,thickly,கட்டியாக,,,,Adverbs,words
+ꢤꢶꢬꢸꢞꢔꢵꢡ꣄ꢬꢸꢒꢥꢶ,धिरुडगात्रुकनि,த்4ருட3கா3த்ருகனி,dhirud'agaatrukani,dhiruDagAtrukani,dhiruḍagātrukani,d̪ʰɪɾuɖəgɑːt̪ɾukən̪ɪ,fittingly,கட்டுறுதியாக,,,,Adverbs,words
+ꢱꢥꢶꢪ꣄,सनिम्,ஸனிம்,sanim,sanim,sanim,s̪ən̪ɪm,visually,கட்புலனாக,,,,Adverbs,words
+ꢓꢾꢜꢶꢥ꣄,ख॑टिन,கெ2டின்,khe't'in,khETin,khĕṭin,kʰeʈɪn̪,hardly,கடினமாக,,,,Adverbs,words
+ꢓꢾꢜꢶꢥ꣄ꢒꢥꢶ,ख॑टिन्कनि,கெ2டின்கனி,khe't'inkani,khETinkani,khĕṭinkani,kʰeʈɪn̪kən̪ɪ,hardly,கடினமாக,,,,Adverbs,words
+ꢱꢾꢡ꣄ꢭꢒꢥꢶ,स॑त्लकनि,ஸெத்லகனி,se'tlakani,sEtlakani,sĕtlakani,s̪et̪ləkən̪ɪ,"finally, lastly",கடைசியாக,,,,Adverbs,words
+ꢂꢥ꣄ꢡꢶꢪꢒꢥꢶ,अन्तिमकनि,அந்திமகனி,antimakani,antimakani,antimakani,ən̪t̪ɪməkən̪ɪ,"finally, lastly",கடைசியாக,,,,Adverbs,words
+ꢓꢠ꣄ꢞꢶꢦ꣄ꢒꢥꢶ,खण्डिप्कनि,க2ண்டி3ப்கனி,khand'ipkani,khaNDipkani,khaṇḍipkani,kʰəɳɖɪpkən̪ɪ,"strictly, definitely",கண்டிப்பாக,,,,Adverbs,words
+ꢣꣁꢳꣁ ꢚꢫ꣄ꢭꢶ,दा॑ळा॑झय्लि,தொ3ளொஜ2ய்லி,do'l'o' jhayli,dOLO jhayli,dŏl̤ŏ jhayli,d̪oɭo d͡ʒʰəjlɪ,bluntly/blindly,கண்மூடித்தனமாக,,,,Adverbs,words
+ꢔꢵꢪ꣄ꢨꢷꢬ꣄ꢒꢥꢶ,गाम्बीर्कनि,க3ம்பீ3ர்கனி,gaambeerkani,gAmbIrkani,gāmbīrkani,gɑːmbiːɾkən̪ɪ,majestically,கம்பீரமாக,,,,Adverbs,words
+ꢔꢾꢬꢸꢮ꣄,ग॑रुव्,கெ3ருவ்கனி,ge'ruv,gEruv,gĕruv,geɾuʋ,proudly,கர்வமாக,,,,Adverbs,words
+ꢒꢾꢬꢸꢮ꣄ꢒꢥꢶ,ग॑रुव्कनि,கெருவ்கனி,ke'ruvkani,kEruvkani,kĕruvkani,keɾuʋkən̪ɪ,roughly,கரகரப்பாக,,,,Adverbs,words
+ꢒꢵꢳ,काळ,காள,kaal'a,kALa,kāl̤a,kɑːɭə,black,கருமையாக,,,,Adverbs,words
+ꢮꢾꢞꢶꢒ꣄ꢒꢥꢶ,व॑डिक्कनि,வெடி3க்கனி,ve'd'ikkani,vEDikkani,vĕḍikkani,ʋeɖɪkkən̪ɪ,jovially,கலகலப்பாக,,,,Adverbs,words
+ꢃꢒꢬ꣄ꢰꢠꢒꢥꢶ,आकर्षणकनि,ஆகர்ஷணகனி,aakarshanakani,AkarSaNakani,ākarṣaṇakani,ɑːkəɾʂəɳəkən̪ɪ,attractively,கவர்ச்சியாக,,,,Adverbs,words
+ꢮꢶꢗꢵꢬ꣄ꢒꢥꢶ,विचार्कनि,விசார்கனி,vichaarkani,vicArkani,vicārkani,ʋɪt͡ʃɑːɾkən̪ɪ,sorrowfully,கவலையாக,,,,Adverbs,words
+ꢂꢙꢵꢒ꣄ꢬꢡꢒꢥꢶ,अजाक्रतकनि,அஜாக்ரதகனி,ajaakratakani,ajAkratakani,ajākratakani,əd͡ʒɑːkɾət̪əkən̪ɪ,carelessly,கவனக்குறைவாக,,,,Adverbs,words
+ꢙꢵꢒ꣄ꢬꢡꢒꢥꢶ,जाक्रतकनि,ஜாக்ரதகனி,jaakratakani,jAkratakani,jākratakani,d͡ʒɑːkɾət̪əkən̪ɪ,carefully,கவனமாக,,,,Adverbs,words
+ꢩꢵꢬ꣄ꢒꢥꢶ,भार्कनि,பா4ர்கனி,bhaarkani,bhArkani,bhārkani,bʰɑːɾkən̪ɪ,heavily,கனமாக,,,,Adverbs,words
+ꢔꢿꢭꢶꢒꢥꢶ ꢥꢒ꣄ꢒꢭ꣄ꢒꢥꢶ,गेलिकन् नक्कल्कनि,கே3ள்கனி,gelikani nakkalkani,gelikani nakkalkani,gelikani nakkalkani,geːlɪkən̪ɪ n̪əkkəlkən̪ɪ,mockingly,கிண்டலாக,,,,Adverbs,words
+ꢓꢵꢭ꣄,खाल्,கா2ல்,khaal,khAl,khāl,kʰɑːl,"below, beneath",கீழே,,,,Adverbs,words
+ꢂꢞꢸꢒ꣄,अडुक्,அடு3க்,ad'uk,aDuk,aḍuk,əɖuk,"below, beneath",கீழே,,,,Adverbs,words
+ꢱꣂꢥ꣄ꢡꣂꢰ꣄ꢒꢥ꣄,सा॑न्तोष्कनि,ஸொந்தோஷ்கனி,sontoshkan,sontoSkan,sontoṣkan,s̪oːn̪t̪oːʂkən̪,jolly,குதூலகமாக,,,,Adverbs,words
+ꢔꢸꢪ꣄ꢦꢸꢒꢥꢶ,गुम्पुकनि,கு3ம்புகனி,gumpukani,gumpukani,gumpukani,gumpukən̪ɪ,as group,கும்பலாக,,,,Adverbs,words
+ꢱꢖ꣄ꢗꢭꢒꢥꢶ,सन्चलकनि,சஞ்சலகனி,sangchalakani,saGcalakani,saṅcalakani,s̪əŋt͡ʃələkən̪ɪ,confusedly,குழப்பமாக,,,,Adverbs,words
+ꢱ꣄ꢭꢭꢒꢥꢶ,सिल्लकनि,ஸிள்ளகனி,slalakani,slalakani,slalakani,s̪lələkən̪ɪ,cold,குளுமையாக,,,,Adverbs,words
+ꢮꢶꢱꢿꢰ꣄ꢒꢥꢶ,विसेष्कनि,விஸேஷ்கனி,viseshkani,viseSkani,viseṣkani,ʋɪs̪eːʂkən̪ɪ,specifically,குறிப்பாக,,,,Adverbs,words
+ꢂꢞ꣄ꢞꢪ꣄ ꢂꢞ꣄ꢞꢪ꣄ꢒꢥꢶ,अड्डम् अड्डम्कनि,அட்3ட3ம்,ad'd'am ad'd'amkani,aDDam aDDamkani,aḍḍam aḍḍamkani,əɖɖəm əɖɖəmkən̪ɪ,crosswise,குறுக்காக,,,,Adverbs,words
+ꢂꢞ꣄ꢞꢪ꣄ ꢣꢶꢞ꣄ꢞꢪ꣄ꢒꢥꢶ,अड्डम्दिड्डम्कनि,அட்3டம்தி3ட்3ட3ம்கனி,ad'd'am did'd'amkani,aDDam diDDamkani,aḍḍam diḍḍamkani,əɖɖəm d̪ɪɖɖəmkən̪ɪ,criss-cross,குறுக்குமறுக்காக,,,,Adverbs,words
+ꢂꢞ꣄ꢞꢪ꣄,अड्डम्,அட்3ட3ம்,ad'd'am,aDDam,aḍḍam,əɖɖəm,crosswise,குறுக்கே,,,,Adverbs,words
+ꢂꢒ꣄ꢬꢒꢥꢶ,अक्कुरकनि,அக்ரகனி,akrakani,akrakani,akrakani,əkɾəkən̪ɪ,narrow,குறுகலாக,,,,Adverbs,words
+ꢱꢿꢰ꣄ꢜꢒꢥꢶ,सेष्टकनि,ஸேஷ்டகனி,sesht'akani,seSTakani,seṣṭakani,s̪eːʂʈəkən̪ɪ,naughtily,குறும்பாக,,,,Adverbs,words
+ꢮꢶꢰꢪꢖ꣄ꢒꢥꢶ,विषमङ्कनि,விஷமகனி,vishamankani,viSamaGkani,viṣamaṅkani,ʋɪʂəməŋkən̪ɪ,naughtily,குறும்பாக,,,,Adverbs,words
+ꢆꢥ꣄ꢥꢒꢥꢶꢭꢿꢱ꣄ꢒꢥꢶꢏꢳ꣄ꢜꢒꢥꢶ,उन्नकन् लेस्कनिआ॑ळ्टकनि,உன்னகனி,unnakanileskanio'l't'akani,unnakanileskaniOLTakani,unnakanileskaniŏl̤ṭakani,un̪n̪əkən̪ɪleːs̪kən̪ɪoɭʈəkən̪ɪ,"little, less",குறைவாக,,,,Adverbs,words
+ꢗꢾꢬꢶ,च॑रि,செரி,che'ri,cEri,cĕri,t͡ʃeɾɪ,jointly,கூட்டாக,,,,Adverbs,words
+ꢮꢿꢥ꣄ꢒꢥ꣄ꢆꢦꢬꢶꢒꢥꢶꢲꣁꢭ꣄ꢭꢒꢥꢶ,वेन्कन्उपरिकनिहा॑ल्लकनि,வேன்கன்,venkanuparikaniho'llakani,venkanuparikanihOllakani,venkanuparikanihŏllakani,ʋeːn̪kən̪upəɾɪkən̪ɪɦolləkən̪ɪ,additionally,கூடுதலாக,,,,Adverbs,words
+ꢓꢹꢬ꣄ꢒꢥꢶ,खूर्कनि,கூ2ர்கனி,khoorkani,khUrkani,khūrkani,kʰuːɾkən̪ɪ,sharply,கூராக,,,,Adverbs,words
+ꢓꢿꢭ꣄ꢒꢥꢶ,खेल्कनि,கே2ள்கனி,khelkani,khelkani,khelkani,kʰeːlkən̪ɪ,sportively,கேலியாக,,,,Adverbs,words
+ꢥꢷꢗꢒꢥꢶ,नीचकनि,நீசகனி,neechakani,nIcakani,nīcakani,n̪iːt͡ʃəkən̪ɪ,disgustingly,கேவலமாக,,,,Adverbs,words
+ꢒꢸꢬꢹꢬ꣄ꢒꢥꢶ,कुरूर्कनि,க்ரூர்கனி,kuroorkani,kurUrkani,kurūrkani,kuɾuːɾkən̪ɪ,Brutally/cruely,கொடுமையாக/கொடூரமாக,,,,Adverbs,words
+ꢮꢒꢸꢠ꣄ꢜ ꢮꢒꢸꢠ꣄ꢜ꣄ꢒꢥꢶ,वकुण्ट वकुण्टकनि,வகுண்ட,vakunt'a vakunt'kani,vakuNTa vakuNTkani,vakuṇṭa vakuṇṭkani,ʋəkuɳʈə ʋəkuɳʈkən̪ɪ,skew,கோணலாக,,,,Adverbs,words
+ꢬꢵꢒ꣄ꢒꢥꢶ,राक्कनि,ராக்கனி,raakkani,rAkkani,rākkani,ɾɑːkkən̪ɪ,angrily,கோபமாக,,,,Adverbs,words
+ꢱꢲꢙꢪ꣄ꢒꢥꢶ,सहजम्कनि,ஸஹஜம்கனி,sahajamkani,sahajamkani,sahajamkani,s̪əɦəd͡ʒəmkən̪ɪ,naturally,சகஜமாக,,,,Adverbs,words
+ꢱꢖ꣄ꢒꢜꢪ꣄ꢒꢥꢶ,सङ्कटम्कनि,ஸங்கட்கனி,sankat'amkani,saGkaTamkani,saṅkaṭamkani,s̪əŋkəʈəmkən̪ɪ,sorrowfully,சங்கடமாக,,,,Adverbs,words
+ꢬꢾꢗ꣄ꢗꢒꢥꢶ ꢱꢾꢡ꣄ꢣꢸꢒꢥꢶꢩꢮꢜ꣄ꢒꢥꢶ,र॑च्चकनि स॑द्दुकनि भवाट्कनि,ரெச்சகனி,re'chchakani se'tdukanibhavat'kani,rEccakani sEtdukanibhavaTkani,rĕccakani sĕtdukanibhavaṭkani,ɾet͡ʃt͡ʃəkən̪ɪ s̪et̪d̪ukən̪ɪbʰəʋəʈkən̪ɪ,aloud,சத்தமாக,,,,Adverbs,words
+ꢱꢪ꣄ꢦ꣄ꢬꢣꢵꢫꢪ꣄ꢒꢥꢶ ꢬꢹꢟꢶꢒꢥꢶꢮ꣄ꢫꢵꢮꢲꢵꢬꢶꢒ꣄ꢒꢥꢶ,सम्प्रयम्कनि रूढिकनि व्यवहारिक्कनि,ஸம்ப்ரதா3ய்கனி,sampradaayamkani rood'hikanivyaavahaarikkani,sampradAyamkani rUDhikanivyAvahArikkani,sampradāyamkani rūḍhikanivyāvahārikkani,s̪əmpɾəd̪ɑːjəmkən̪ɪ ɾuːɖʰɪkən̪ɪʋjɑːʋəɦɑːɾɪkkən̪ɪ,customarily,சம்பிரதாயமாக,,,,Adverbs,words
+ꢱꢪꢪ꣄ꢒꢥꢶ,समम्कनि,ஸமொகனி,samamkani,samamkani,samamkani,s̪əməmkən̪ɪ,equally,சம அளவாக,,,,Adverbs,words
+ꢱꢾꢬ꣄ꢒꢒꢥꢶ,स॑र्ककनि,ஸெர்ககனி,se'rkakani,sErkakani,sĕrkakani,s̪eɾkəkən̪ɪ,equally,சரிசமமாக,,,,Adverbs,words
+ꢩꢾꢭꢶ,भ॑लि,துல்யகனி,bhe'li,bhEli,bhĕli,bʰelɪ,"accurately, exactly, rightly, properly, duly",சரியாக,,,,Adverbs,words
+ꢗꢾꢬ꣄ꢒꢒꢥꢶ,स॑र्ककनि,ஸெர்ககனி,che'rkakani,cErkakani,cĕrkakani,t͡ʃeɾkəkən̪ɪ,"accurately, exactly, rightly, properly, duly",சரியாக,,,,Adverbs,words
+ꢮꢶꢬꢱꢡꢒꢥꢶ,विरसतकनि,விரஸதகனி,virasatakani,virasatakani,virasatakani,ʋɪɾəs̪ət̪əkən̪ɪ,boredom,சலிப்பாக,,,,Adverbs,words
+ꢙꢵꢞꢪꢵꢞ꣄ꢒꢥꢶ,जाडमाडकनि,ஜாட3மாட3கனி,jaad'amaad'kani,jADamADkani,jāḍamāḍkani,d͡ʒɑːɖəmɑːɖkən̪ɪ,For sadie,சாடையாக,,,,Adverbs,words
+ꢱꢪꢬ꣄꣄ꢡꢸꢒꢥꢶ,समर्तुकनि,ஸமர்துகனி,samartukani,samartukani,samartukani,s̪əməɾt̪ukən̪ɪ,deftly,சாமர்த்தியமாக,,,,Adverbs,words
+ꢙꢶꢬ꣄ꢒꢶ,जिर्कि,ஜி2ர்கி,jirki,jirki,jirki,d͡ʒɪɾkɪ,slanting,சாய்வாக,,,,Adverbs,words
+ꢏꢖ꣄ꢔꢶ,आ॑न्गि,ஒங்கி3,o'ngi,OGgi,ŏṅgi,oŋgɪ,slanting,சாய்வாக,,,,Adverbs,words
+ꢱꢵꢒ꣄ꢰꢶꢒꢥꢶ,साक्षिकनि,ஸாக்ஷிகனி,saakshikani,sAkSikani,sākṣikani,s̪ɑːkʂɪkən̪ɪ,evidently,சான்றாக,,,,Adverbs,words
+ꢆꢥ꣄ꢥꢮꢿꢱ꣄ꢒꢥꢶ,उन्नवेस्कनि,உன்னவேஸ்கனி,unnaveskani,unnaveskani,unnaveskani,un̪n̪əʋeːs̪kən̪ɪ,thriftly,சிக்கனமாக,,,,Adverbs,words
+ꢗꢶꢞꢸꢗꢶꢞꢸꢒꢥꢶ,चिडुचिडुकनि,சிடு3சிடு3கனி,chid'uchid'ukani,ciDuciDukani,ciḍuciḍukani,t͡ʃɪɖut͡ʃɪɖukən̪ɪ,frowningly,சிடுசிடுப்பாக,,,,Adverbs,words
+ꢢꢾꢮ꣄ꢜꢒꢕꢾꢞꢶ,थ॑व्ट्घ॑डि,தெ2வ்டகெ4டி3,the'vt'akaghe'd'i,thEvTakaghEDi,thĕvṭakaghĕḍi,t̪ʰeʋʈəkəgʰeɖɪ,sometimes,சிலநேரம்,,,,Adverbs,words
+ꢢꢾꢮ꣄ꢜꢮꢿꢳ꣄,थ॑व्टवेळ,தெ2வ்டவேள்,the'vt'avel',thEvTaveL,thĕvṭavel̤,t̪ʰeʋʈəʋeːɭ,some times,சில வேளை,,,,Adverbs,words
+ꢮꢶꢯꢿꢰ꣄ꢒꢥꢶ,विशेष्कनि,விஶேஷ்கனி,visheshkani,vizeSkani,viśeṣkani,ʋɪʃeːʂkən̪ɪ,"exellently, especially",சிறப்பாக,,,,Adverbs,words
+ꢥꢴꢥ꣄ꢥꢒꢥꢶ,न्हन्नकनि,ந:ன்னகனி,nhannakani,nhannakani,nhannakani,n̪ɦən̪n̪əkən̪ɪ,little,சிறிதாக,,,,Adverbs,words
+ꢬꢮ꣄ꢬꢮꢒꢥꢶ ꢬꢸꢮ꣄ꢮꢬꢸꢮ꣄ꢮꢒꢥꢶ,रवरवकनि रुव्वरुव्वकनि,ரவரவகனி,ravravakani ruvvaruvvakani,ravravakani ruvvaruvvakani,ravravakani ruvvaruvvakani,ɾəʋɾəʋəkən̪ɪ ɾuʋʋəɾuʋʋəkən̪ɪ,piecemeal,சிறிதுசிறிதாக,,,,Adverbs,words
+ꢭꢵꢕꢮ꣄ꢒꢥꢶ ꢱꢸꢓꢪ꣄ꢒꢥꢶ ꢱꢸꢓꢸꢒꢥꢶ,लाघव्कनि सुखम्कनि सुखुकनि,லாக4வ்கனி,laaghavkani sukhamkani sukhukani,lAghavkani sukhamkani sukhukani,lāghavkani sukhamkani sukhukani,lɑːgʰəʋkən̪ɪ s̪ukʰəmkən̪ɪ s̪ukʰukən̪ɪ,comfortably,சுகமாக,,,,Adverbs,words
+ꢱꢸꢞ꣄ꢤꢶꢒꢥꢶ,सुद्धिकनि,ஸுத்3தி4கனி,sud'dhikani,suDdhikani,suḍdhikani,s̪uɖd̪ʰɪkən̪ɪ,cleanly/clearly,சுத்தமாக,,,,Adverbs,words
+ꢱ꣄ꢮꢡꢥ꣄ꢡ꣄ꢬꢸꢒꢥꢶ,स्वतन्त्रुकनि,ஸ்வதந்த்ருகனி,svatantrukani,svatantrukani,svatantrukani,s̪ʋət̪ən̪t̪ɾukən̪ɪ,independently,சுதந்திரமாக,,,,Adverbs,words
+ꢔꣂꢱ꣄,गोस,கோ3ஸ்,gos,gos,gos,goːs̪,simply,சும்மா,,,,Adverbs,words
+ꢬꢪꢵꢬꢪꢶ,रमारमि,ரமாரமி,ramaarami,ramArami,ramārami,ɾəmɑːɾəmɪ,nearly,சுமார்,,,,Adverbs,words
+ꢦꢬ꣄ꢮꢥꢴꢶꢡ꣄ꢡꣁ,पर्वन्हित्ता॑,பர்வநீ:த்தொ,parvanhitto',parvanhittO,parvanhittŏ,pəɾʋən̪ɦɪt̪t̪o,tolerably,சுமாராக,,,,Adverbs,words
+ꢱꢪ꣄ꢒ꣄ꢰꢾꢦ꣄ꢒꢥꢶ,सम्क्षेप्कनि,ஸம்க்ஷேப்கனி,samkshe'pkani,samkSEpkani,samkṣĕpkani,s̪əmkʂepkən̪ɪ,briefly,சுருக்கமாக,,,,Adverbs,words
+ꢭꢴꢾꢕꢸꢮ꣄ꢒꢥꢶ,ल्हेघुव्कनि,லெ:கு4வ்கனி,lhe'ghuvkani,lhEghuvkani,lhĕghuvkani,lɦegʰuʋkən̪ɪ,easily,சுலபமாக,,,,Adverbs,words
+ꢬꢱꢥꣁꢒ,रसना॑क,ரஸனொக,rasano'ka,rasanOka,rasanŏka,ɾəs̪ən̪okə,interestingly,சுவாரசியமாக,,,,Adverbs,words
+ꢬꢸꢗ꣄ꢗꢶꢒꢥꢶ,रुच्चिकनि,ருச்சிகனி,ruchchikani,ruccikani,ruccikani,ɾut͡ʃt͡ʃɪkən̪ɪ,tastefully,சுவையாக,,,,Adverbs,words
+ꢗꢸꢜ꣄ꢜꢸꢪꢸꢜ꣄ꢜꢸꢒꢥꢶ,चुट्टुमुट्टुकनि,சுட்டுமுட்டுகனி,chut't'umut't'ukani,cuTTumuTTukani,cuṭṭumuṭṭukani,t͡ʃuʈʈumuʈʈukən̪ɪ,around,சுற்றுமுற்றும்,,,,Adverbs,words
+ꢚꢸꢜ꣄ꢜꢶꢒꢥꢶ,झुट्टिकनि,ஜூட்டிகனி,jhut't'ikani,jhuTTikani,jhuṭṭikani,d͡ʒʰuʈʈɪkən̪ɪ,actively,சுறுசுறுப்பாக,,,,Adverbs,words
+ꢲꢸꢥ꣄ꢥꢒꢥꢶ,हुन्नकनि,ஹுன்னகனி,hunnakani,hunnakani,hunnakani,ɦun̪n̪əkən̪ɪ,hot,சூடாக,,,,Adverbs,words
+ꢗꢸꢣ꣄ꢤꢶꢒꢥꢶ ꢗꣁꢒ꣄ꢒꢜ꣄ꢒꢥꢶ,चुद्धिकनि चा॑क्कट्कनि,ஸுத்3தி4கனி,chuddhikani cho'kkat'kani,cuddhikani cOkkaTkani,cuddhikani cŏkkaṭkani,t͡ʃud̪d̪ʰɪkən̪ɪ t͡ʃokkəʈkən̪ɪ,finely,செம்மையாக,,,,Adverbs,words
+ꢂꢦ꣄ꢬꢒ꣄ꢬꢸꢡꢶꢒꢥꢶ ꢒ꣄ꢬꢸꢡꢶꢪꢒꢥꢶ,अप्रकिरुति क्रुतिमकनि,அப்ரக்ருதிகனி,aprakrutikani krutimakani,aprakrutikani krutimakani,aprakrutikani krutimakani,əpɾəkɾut̪ɪkən̪ɪ kɾut̪ɪməkən̪ɪ,artificially,செயற்கையாக,,,,Adverbs,words
+ꢣꢾꢛ꣄ꢗꢸꢒꢥꢶ ꢙꢵꢞꢒꢥꢶ,द॑ञ्चुकनि जाडकनि,தெ3ஞ்சுகனி,de'nchukani jaad'akani,dEJcukani jADakani,dĕñcukani jāḍakani,d̪eɲt͡ʃukən̪ɪ d͡ʒɑːɖəkən̪ɪ,richly,செறிவாக,,,,Adverbs,words
+ꢂꢭꢱꢒꢥꢶ,अलसकनि,அலஸகனி,alasakani,alasakani,alasakani,ələs̪əkən̪ɪ,lazily,சோம்பேறித்தனமாக,,,,Adverbs,words
+ꢯꢷꢥ꣄ꢒꢥꢶ,शीन्कनि,ஶீன்கனி,sheenkani,zInkani,śīnkani,ʃiːn̪kən̪ɪ,slackly,சோர்வாக,,,,Adverbs,words
+ꢱꣃꢬꢶꢫꢪ꣄ꢒꢥꢶ,सौरियम्कनि,ஸௌரியம்கனி,sauriyamkani,sauriyamkani,sauriyamkani,s̪əuɾɪjəmkən̪ɪ,conveniently,சௌகரியமாக,,,,Adverbs,words
+ꢦꢵꢡ꣄ꢬꢡꢒꢥꢶ,पात्रतकनि,பாத்ரதகனி,paatratakani,pAtratakani,pātratakani,pɑːt̪ɾət̪əkən̪ɪ,eligible,தகுதியாக,,,,Adverbs,words
+ꢂꢪ꣄ꢒꢫꢒꢥꢶ ꢱꢪꢣꢳꢒꢥꢶ,अम्कयकनि समदळकनि,அம்கயகனி,amkayakani samadal'akani,amkayakani samadaLakani,amkayakani samadal̤akani,əmkəjəkən̪ɪ s̪əməd̪əɭəkən̪ɪ,flat,தட்டையாக,,,,Adverbs,words
+ꢂꢮ꣄ꢞꢒ ꢂꢞ꣄ꢞꢶꢒꢥꢶ,अव्डक अड्डिकनि,அவ்ட3க,avd'aka ad'd'ikani,avDaka aDDikani,avḍaka aḍḍikani,əʋɖəkə əɖɖɪkən̪ɪ,as obstruction,தடையாக,,,,Adverbs,words
+ꢂꢠ꣄ꢗꢶꢭꢶ,अण्चिलि,அண்சிலி,anchili,aNcili,aṇcili,əɳt͡ʃɪlɪ,soothingly,தணிவாக,,,,Adverbs,words
+ꢂꢥꢸꢒꢹꢭ꣄ꢒ,अनुकूल्क,அனுகூல்க,anukoolka,anukUlka,anukūlka,ən̪ukuːlkə,favourably,தயவாக,,,,Adverbs,words
+ꢡꢫꢵꢬ꣄ꢒꢥꢶ,तयार्कनि,தயார்கனி,tayaarkani,tayArkani,tayārkani,t̪əjɑːɾkən̪ɪ,readily,தயாராக,,,,Adverbs,words
+ꢣꣁꢱ꣄ꢒꢓꢵꢭ꣄,दा॑स्कखाल्,தொ3ஸ்ககா2ல்,do'skakhaal,dOskakhAl,dŏskakhāl,d̪os̪kəkʰɑːl,upside down,தலைகீழாக,,,,Adverbs,words
+ꢭꢸꢒ꣄ꢒꢶꢭꢶ,लुक्किलि,லுக்கிலி,lukkili,lukkili,lukkili,lukkɪlɪ,Hidingly/abscondingly,தலைமறைவாக,,,,Adverbs,words
+ꢗꢹꢒ꣄ꢒꢥꢶ,चूक्कनि,சூக்கனி,chookkani,cUkkani,cūkkani,t͡ʃuːkkən̪ɪ,wrongly,தவறாக,,,,Adverbs,words
+ꢪꢥ꣄ꢡꢸꢒꢥꢶ,मन्तुकनि,மந்துகனி,mantukani,mantukani,mantukani,mən̪t̪ukən̪ɪ,by mistake,தவறுதலாக,,,,Adverbs,words
+ꢤꢶꢭ꣄ꢭꢱꣁꢜ꣄ꢭꢶ ꢤꢶꢭ꣄ꢭꢒꢥꢶ,धिल्लसा॑ट्लि धिल्लकनि,தி4ல்லஸொட்லி,dhillaso't'li dhillakani,dhillasOTli dhillakani,dhillasŏṭli dhillakani,d̪ʰɪlləs̪oʈlɪ d̪ʰɪlləkən̪ɪ,slackly,தளர்வாக,,,,Adverbs,words
+ꢂꢡ꣄ꢡꢵꢒ꣄,अत्ताक्,அத்தாக்,attaak,attAk,attāk,ət̪t̪ɑːk,temporarily,தற்காலிகமாக,,,,Adverbs,words
+ꢂꢡ꣄ꢡꢵꢒ꣄ ꢒꣁꢡ꣄ꢡꢶ,अत्ताक्का॑त्ति,அத்தாக் கொத்3தி3,attaak ko'tti,attAk kOtti,attāk kŏtti,ət̪t̪ɑːk kot̪t̪ɪ,temporarily,தற்காலிகமாக,,,,Adverbs,words
+ꢡꢡ꣄ꢒꢵꢭ꣄ꢒꢥꢶ,तत्कालकनि,தத்கால்கனி,tatkaalkani,tatkAlkani,tatkālkani,t̪ət̪kɑːlkən̪ɪ,temporarily,தற்காலிகமாக,,,,Adverbs,words
+ꢲꢾꢡꢵꢬ꣄ꢡꢸꢒꢥꢶ,ह॑तार्तुकनि,ஹெடார்துகனி,he'taartukani,hEtArtukani,hĕtārtukani,ɦet̪ɑːɾt̪ukən̪ɪ,accidentally,தற்செயலாக,,,,Adverbs,words
+ꢂꢒꢱ꣄ꢪꢵꢡ꣄ꢒꢥꢶ,अकस्मात्कनि,அகஸ்மாத்கனி,akasmaatkani,akasmAtkani,akasmātkani,əkəs̪mɑːt̪kən̪ɪ,accidentally,தற்செயலாக,,,,Adverbs,words
+ꢦꢾꢣ꣄ꢣꢾꢒ,प॑द्द॑क,பெத்3தெ3க,pe'dde'ka,pEddEka,pĕddĕka,ped̪d̪ekə,alone,தன்னந்தனியாக,,,,Adverbs,words
+ꢍꢒꢵꢥ꣄ꢡꢸꢒꣁ,एगान्तुका॑,ஏகாந்துகொ,ekaantuko',ekAntukO,ekāntukŏ,eːkɑːn̪t̪uko,alone,தன்னந்தனியாக,,,,Adverbs,words
+ꢡꢾꢔꢵꢪ꣄ꢡꢾꢥꣁ,त॑गाम्त॑ना॑,தெகா3ம்தெனொ,te'gaamte'no',tEgAmtEnO,tĕgāmtĕnŏ,t̪egɑːmt̪en̪o,inwardly,தனக்குள்ளாக,,,,Adverbs,words
+ꢔꢸꢠ꣄ꢤꢵꢥꢸꢒ꣄,गुण्धानुक्,கு3ண்தா4னுக்,gundhaanuk,guNdhAnuk,guṇdhānuk,guɳd̪ʰɑːn̪uk,characteristically,தனித்தன்மையாக,,,,Adverbs,words
+ꢂꢭꢔ꣄ꢔꢭꢔ꣄ꢔ,अलग्गलग्ग,அலக்3க3லக்3க3,alaggalagga,alaggalagga,alaggalagga,ələggələggə,separately,தனித்தனியாக,,,,Adverbs,words
+ꢍꢒꢵꢥ꣄ꢡꢸꢒꢥ꣄,एकान्तुकन्,ஏகாந்துகன்,ekaantukan,ekAntukan,ekāntukan,eːkɑːn̪t̪ukən̪,solitarily,தனிமையாக,,,,Adverbs,words
+ꢡꢪꢱ꣄ꢒ,तमस्क,தமஸ்க,tamaska,tamaska,tamaska,t̪əməs̪kə,"being late, delay",தாமதமாக,,,,Adverbs,words
+ꢤꢾꢬꢳꢪ꣄ꢒ,ध॑रळम्क,தெ4ரளம்க,dhe'ral'amka,dhEraLamka,dhĕral̤amka,d̪ʰeɾəɭəmkə,richly,தாராளமாக,,,,Adverbs,words
+ꢩꢮ꣄ꢫꢪ꣄ꢒ,भव्यम्क,ப4வ்யம்க,bhavyamka,bhavyamka,bhavyamka,bʰəʋjəmkə,obediently,தாழ்மையாக,,,,Adverbs,words
+ꢓꢵꢭ꣄ꢒ,खाल्क,கா2ல்க,khaalka,khAlka,khālka,kʰɑːlkə,low,தாழ்வாக,,,,Adverbs,words
+ꢂꢨ꣄ꢨꢾꢨ꣄ꢨꢾꢤꢵꢥꢸꢒ꣄,अब्ब॑ब्ब॑धानुक्,அப்3பெ3ப்3பெ3தா4னுக்,abbe'bbe'dhaanuk,abbEbbEdhAnuk,abbĕbbĕdhānuk,əbbebbed̪ʰɑːn̪uk,Oftentimes/helter skelter,தாறுமாறாக,,,,Adverbs,words
+ꢡ꣄ꢫꢿꢒꢵꢥꢶ,त्येकानि,த்யேகனி,tyekaani,tyekAni,tyekāni,t̪jeːkɑːn̪ɪ,automatically,தானாக,,,,Adverbs,words
+ꢔꢸꢪ꣄ꢦꢸꢒꢥꢶ,गुम्पुकनि,கு3ம்புகனி,gumpukani,gumpukani,gumpukani,gumpukən̪ɪ,enmasse,திரளாக,,,,Adverbs,words
+ꢗꣁꢞ꣄ꢞꢦ꣄ꢦꢥ꣄ꢒꢥꢶ,च॓ड्डप्पन्कनि,சொட்3ட3பன்கனி,cho'd'd'appankani,cODDappankani,cŏḍḍappankani,t͡ʃoɖɖəppən̪kən̪ɪ,stealthily,திருட்டுத்தனமாக,,,,Adverbs,words
+ꢡꢶꢬꢸꢦ꣄ꢡꢶꢒꢥꢶ,तिरुप्तिकनि,த்ருப்திகனி,tiruptikani,tiruptikani,tiruptikani,t̪ɪɾupt̪ɪkən̪ɪ,satisfactorily,திருப்தியாக,,,,Adverbs,words
+ꢧꢶꢬꢶ,फिरि,பி2ரி,phiri,phiri,phiri,pʰɪɾɪ,again,திரும்பவும்,,,,Adverbs,words
+ꢱꢪꢬ꣄ꢡꢸꢒꢥꢶ,समर्युकनि,ஸமர்துகனி,samartukani,samartukani,samartukani,s̪əməɾt̪ukən̪ɪ,efficiently,திறமையாக,,,,Adverbs,words
+ꢥꢶꢗ꣄ꢗꢸ,निच्चु,நிச்சு,nichchu,niccu,niccu,n̪ɪt͡ʃt͡ʃu,daily,தினந்தோறும்,,,,Adverbs,words
+ꢱ꣄ꢡꢶꢬꢪ꣄ꢒꢾꢬꢾ,स्तिरम्क॑र॑,நிர்தா4ரணகனி,stiramke're',stiramkErE,stiramkĕrĕ,s̪t̪ɪɾəmkeɾe,decidedly,தீர்மானமாக,,,,Adverbs,words
+ꢓꢸꢞꢾꢩꢙ꣄ꢙꢶꢒ,खुड॑भज्जिक,கு2டெ3ப4ஜ்ஜிக,khud'e'bhajjika,khuDEbhajjika,khuḍĕbhajjika,kʰuɖebʰəd͡ʒd͡ʒɪkə,meanly,துச்சமாக,,,,Adverbs,words
+ꢒꢸꢜ꣄ꢒ ꢒꢸꢜ꣄ꢒꢒꢥꢶ,कुट्कि कुट्क॓कनि,குட்க குட்ககனி,kut'ka kut'kakani,kuTka kuTkakani,kuṭka kuṭkakani,kuʈkə kuʈkəkən̪ɪ,piecemeal,துண்டுதுண்டாக,,,,Adverbs,words
+ꢤꣀꢬ꣄ꢫꢸꢱꢾꢥ꣄ꢡꣁ,धैर्युस॑न्ता॑,தை4ர்யுஸெந்தொ,dhairyuse'nto',dhairyusEntO,dhairyusĕntŏ,d̪ʰəɪɾjus̪en̪t̪o,cavelrierly,துணிகரமாக,,,,Adverbs,words
+ꢱꢸꢣ꣄ꢣꢶꢒꢥꢶ,सुद्दिकनि,ஸுத்3தி3கனி,suddikani,suddikani,suddikani,s̪ud̪d̪ɪkən̪ɪ,clearly,துப்புரவாக,,,,Adverbs,words
+ꢣꢸꢬ꣄ ꢣꢶꢰ꣄ꢜꢸ꣄ꢒꢥꢶ,दुर्दिष्टुकनि,து3ரதி3ஷ்டுகனி,dur disht'ukani,dur diSTukani,dur diṣṭ_ŭkani,d̪uɾ d̪ɪʂʈukən̪ɪ,unluckily,துரதிருஷ்ட்வசமாக,,,,Adverbs,words
+ꢱꢸꢣ꣄ꢣꢶꢒꢥꢶ,सुद्दिकनि,ஸுத்3தி4கனி,suddikani,suddikani,suddikani,s̪ud̪d̪ɪkən̪ɪ,"purely, neatly",தூய்மையாக,,,,Adverbs,words
+ꢒꢭꢵꢥꢵꢡ꣄ꢡꣁ,कलानात्ता॑,களனாத்தொ,kalaanaatto',kalAnAttO,kalānāttŏ,kəlɑːn̪ɑːt̪t̪o,unknowingly,தெரியாத்தனமாக,,,,Adverbs,words
+ꢡꢾꢭꢶꢮ꣄ꢒꢥꢶ ꢱ꣄ꢦꢰ꣄ꢜꢸꢒꢥꢶ,त॑लिव्कनि स्पष्टुकनि,தெளிவ்கனி,te'livkani spasht'ukani,tElivkani spaSTukani,tĕlivkani spaṣṭukani,t̪elɪʋkən̪ɪ s̪pəʂʈukən̪ɪ,clearly,தெளிவாக,,,,Adverbs,words
+ꢦꢙꢾ ꢒꣁꢣ꣄ꢣꢶ,पज॑का॑द्दि,பஜெ கொத்3தி3,paje' ko'ddi,pajE kOddi,pajĕ kŏddi,pəd͡ʒe kod̪d̪ɪ,As needed,தேவையாக,,,,Adverbs,words
+ꢤꣀꢬ꣄ꢫꢸꢒꢥꢶ,धैर्युकनि,தை4ர்யுகனி,dhairyukani,dhairyukani,dhairyukani,d̪ʰəɪɾjukən̪ɪ,boldly,தைரியமாக,,,,Adverbs,words
+ꢡꣁꢬꢠ꣄ꢒ,ता॑रण्क,தொரண்க,to'ranka,tOraNka,tŏraṇka,t̪oɾəɳkə,successively,தொடர்ச்சியாக,,,,Adverbs,words
+ꢡꢾꢔ ꢢꢾꢬꢶ ꢡꢾꢭ꣄ꢫꢾꢒ ꢤꢾꢬꢶ,त॑गध॑रि त॑ल्य॑क ध॑रि,தெகதெ4ரி,te'ga the'ri te'lye'ka dhe'ri,tEga thEri tElyEka dhEri,tĕga thĕri tĕlyĕka dhĕri,t̪egə t̪ʰeɾɪ t̪eljekə d̪ʰeɾɪ,in connection with,தொடர்பாக,,,,Adverbs,words
+ꢆꢜ꣄ꢗꢫ꣄ꢭꢶ,उट्चय्लि,உட்சய்லி,ut'chayli,uTcayli,uṭcayli,uʈt͡ʃəjlɪ,slackly,தொய்வாக,,,,Adverbs,words
+ꢣꢸꢣꢹꢬꢸꢪ꣄,दुदूरुम्,து3தூ3ரும்,dudoorum,dudUrum,dudūrum,d̪ud̪uːɾum,distantly,தொலைவாக,,,,Adverbs,words
+ꢂꢥ꣄ꢣꢵꢱ꣄,अन्दास्,அந்தா3ஸ்,andaas,andAs,andās,ən̪d̪ɑːs̪,approximately,தோராயமாக,,,,Adverbs,words
+ꢪꢴꢣ꣄ꢤꢶꢪꢪ꣄,म्हद्धिमम्,ம:த்3தி4மம்,mhaddhimam,mhaddhimam,mhaddhimam,mɦəd̪d̪ʰɪməm,tolerably,நடுத்தரமாக,,,,Adverbs,words
+ꢪꢴꢚꢵꢬ꣄,म्हझार्,ம:ஜார்,mhajhaar,mhajhAr,mhajhār,mɦəd͡ʒʰɑːɾ,"middle, at the centre",நடுவில் / நடுவே,,,,Adverbs,words
+ꢩꢶꢠ꣄ꢞꢶꢭꢶꢒꢶꢥ꣄,भिण्डिलिकिन्,பி4ண்டி3லிகின்,bhind'ilikin,bhiNDilikin,bhiṇḍilikin,bʰɪɳɖɪlɪkɪn̪,hopefully,நம்பிக்கையாக,,,,Adverbs,words
+ꢥꣁꢪ꣄ꢒꢾꢒꢥ꣄,ना॑म्क॑कन्,நொம்கெகன்,no'mke'kan,nOmkEkan,nŏmkĕkan,n̪omkekən̪,hopefully,நம்பிக்கையாக,,,,Adverbs,words
+ꢩꢮ꣄ꢫꢪ꣄ꢒ,भव्यम्क,ப4வ்யம்க,bhavyamka,bhavyamka,bhavyamka,bʰəʋjəmkə,civilly,நயமாக,,,,Adverbs,words
+ꢗꣁꢒ꣄ꢒꢜ꣄ꢮꢿꢳ꣄꣄ꢒꢥ꣄,चा॑क्कट्वेळ्कन्,சொக்கட்வேள்கன்,cho'kkat'vel'kan,cOkkaTveLkan,cŏkkaṭvel̤kan,t͡ʃokkəʈʋeːɭkən̪,fortunately,நல்லகாலமாக,,,,Adverbs,words
+ꢱꢮ꣄ꢬꢶꢫꢪ꣄ꢒꢥꢶ,सव्रियम्कनि,ஸவ்ரியம்கனி,savriyamkani,savriyamkani,savriyamkani,s̪əʋɾɪjəmkən̪ɪ,well,நலமாக,,,,Adverbs,words
+ꢂꢤꢶꢥꢵꢔꢬꢷꢒ꣄ꢒꢥꢶ,अधिनागरीक्कनि,அதி4நாக3ரீக்கனி,adhinaagareekkani,adhinAgarIkkani,adhināgarīkkani,əd̪ʰɪn̪ɑːgəɾiːkkən̪ɪ,refinedly,நவநாகரிமாக,,,,Adverbs,words
+ꢩꣁꢔꢸꢪꢵꢥ꣄ꢒꢥꢶ,भा॑गुमान्कनि,பொ4கு3மான்கனி,bho'gumaankani,bhOgumAnkani,bhŏgumānkani,bʰogumɑːn̪kən̪ɪ,"intervivos, as gift",நன்கொடையாக,,,,Adverbs,words
+ꢗꣁꢒ꣄ꢒꢞ꣄ꢤꢵꢥꢸ,चा॑क्कड्धानु,சொக்கட்3தா4னு,cho'kkad'dhaanu,cOkkaDdhAnu,cŏkkaḍdhānu,t͡ʃokkəɖd̪ʰɑːn̪u,well,நன்றாக,,,,Adverbs,words
+ꢱꢡ꣄ꢩꢵꢮ꣄ꢒ,सत्भाव्क,ஸத்பா4வ்க,satbhaavka,satbhAvka,satbhāvka,s̪ət̪bʰɑːʋkə,sincerely,நாணயமாக,,,,Adverbs,words
+ꢱꢶꢡ꣄ꢬꢪ꣄ꢒ ꢥꢶꢯ꣄ꢗꢫꢸꢒꢥꢶ,स्तिरम्क निश्चयुकनि,ஸ்தி2ரம்க,sitramka nishchayukani,sitramka nizcayukani,sitramka niścayukani,s̪ɪt̪ɾəmkə n̪ɪʃt͡ʃəjukən̪ɪ,surely,நிச்சயமாக,,,,Adverbs,words
+ꢯꢵꢥ꣄ꢡꢶꢒ,शान्तिक,ஶாந்திக,shaantika,zAntika,śāntika,ʃɑːn̪t̪ɪkə,peacefully,நிம்மதியாக,,,,Adverbs,words
+ꢱ꣄ꢡꢶꢬꢪ꣄ꢒ ꢥꢶꢬꢥ꣄ꢡꢬ꣄ꢒꢥꢶ ꢓꣁꢨ꣄ꢨꢶꢪ꣄,स्तिरम्क निरन्तर्कनि खा॑ब्बिम,ஸ்தி2ரம்க,stiramka nirantarkani kho'bbim,stiramka nirantarkani khObbim,stiramka nirantarkani khŏbbim,s̪t̪ɪɾəmkə n̪ɪɾən̪t̪əɾkən̪ɪ kʰobbɪm,permanently,நிரந்தரமாக,,,,Adverbs,words
+ꢱ꣄ꢡꢶꢬꢪ꣄ꢒ,स्तिरम्क,ஸ்தி2ரம்க,stiramka,stiramka,stiramka,s̪t̪ɪɾəmkə,fixedly,நிலையாக,,,,Adverbs,words
+ꢚꢸꢒ꣄ꢒꢸ,झूक्कु,ஜு2க்கு,jhukku,jhukku,jhukku,d͡ʒʰukku,much,நிறைய,,,,Adverbs,words
+ꢡꢶꢬꢸꢦ꣄ꢡꢶꢒ,तिरुप्तिक,த்ருப்திக,tiruptika,tiruptika,tiruptika,t̪ɪɾupt̪ɪkə,satisfactorily,நிறைவாக,,,,Adverbs,words
+ꢲꢜ꣄ꢮꢥ꣄ꢒ,हट्वन्क,ஹட்வன்க,hat'vanka,haTvanka,haṭvanka,ɦəʈʋən̪kə,in memoriam,நினைவாக,,,,Adverbs,words
+ꢙꢡꣁ,जता॑,ஜதொ,jato',jatO,jatŏ,d͡ʒət̪o,"apart, except",நீங்கலாக,,,,Adverbs,words
+ꢭꢪ꣄ꢨꢸꢬꢸꢪ꣄,लम्बुरुम्,லம்பு3ரும்,lamburum,lamburum,lamburum,ləmbuɾum,for a long period,நீண்டகாலமாக,,,,Adverbs,words
+ꢭꢪ꣄ꢨꢸꢒ,लम्बुक,லம்பு3க,lambuka,lambuka,lambuka,ləmbukə,long,நீளமாக,,,,Adverbs,words
+ꢱꢹꢜ꣄ꢒ꣄ꢰꢸꢪꢒ,सूक्षउमक सूक्षउमा॑,ஸூக்ஷுமக,soot'kshumaka,sUTkSumaka,sūṭkṣumaka,s̪uːʈkʂuməkə,"minutely, accurately",நுட்பமாக / நுண்ணியதாக,,,,Adverbs,words
+ꢱꢸꢒ꣄ꢰꢸꢪꣁ,सूक्षउमक सूक्षउमा॑,ஸூக்ஷுமக,sukshumo',sukSumO,sukṣumŏ,s̪ukʂumo,"minutely, accurately",நுட்பமாக / நுண்ணியதாக,,,,Adverbs,words
+ꢭꢪ꣄ꢨꢸ,लम्बु,லம்பு3,lambu,lambu,lambu,ləmbu,along,நெடுக,,,,Adverbs,words
+ꢚꢸꢒ꣄ꢒꢸꢕꢾꢞꢶ,झुकुघ॑डि,ஜு2க்குகெ4டி3,jhukkughe'd'i,jhukkughEDi,jhukkughĕḍi,d͡ʒʰukkugʰeɖɪ,for a long time,நெடுநேரமாக,,,,Adverbs,words
+ꢭꢾꢔꢸꢡ꣄ꢡꢒꢥꢶ,ल॑गुत्तकनि,லெகு3த்தகனி,le'guttakani,lEguttakani,lĕguttakani,legut̪t̪əkən̪ɪ,"closely, thickly",நெருக்கமாக,,,,Adverbs,words
+ꢗꣁꢒ꣄ꢒꢜ꣄ꢒꢥꢶ,चा॑क्कट्कनि,சொக்கட்கனி,cho'kkat'kani,cOkkaTkani,cŏkkaṭkani,t͡ʃokkəʈkən̪ɪ,well,நேர்த்தியாக,,,,Adverbs,words
+ꢡꣁꢠꢵꢡꣂꢠ꣄,ता॑णातोण्,தொணாதோண்,to'naaton,tONAtoN,tŏṇātoṇ,t̪oɳɑːt̪oːɳ,directly,நேரடியாக,,,,Adverbs,words
+ꢱꢾꢙ꣄ꢙ,स॑ज्ज,ஸெஜ்ஜ,se'jja,sEjja,sĕjja,s̪ed͡ʒd͡ʒə,near,பக்கத்தில்,,,,Adverbs,words
+ꢭꢾꢔꢸꢡ꣄ꢡꣁ,ल॑गुत्ता॑,லெகு3த்தொ,le'gutto',lEguttO,lĕguttŏ,legut̪t̪o,near,பக்கத்தில்,,,,Adverbs,words
+ꢱꢾꢙ꣄ꢙꢒꢥꢶ,स॑ज्जकनि,ஸெஜ்ஜகனி,se'jjakani,sEjjakani,sĕjjakani,s̪ed͡ʒd͡ʒəkən̪ɪ,nearby,பக்கமாக,,,,Adverbs,words
+ꢮꢜꣁꢒꢥꢶ,वटा॑कनि,வடொகனி,vat'o'kani,vaTOkani,vaṭŏkani,ʋəʈokən̪ɪ,partially,பகுதியாக,,,,Adverbs,words
+ꢲꣁꢬꢸꢲꣁꢬꢸ,होरुहोरु,ஹோருஹோரு,ho'ruho'ru,hOruhOru,hŏruhŏru,ɦoɾuɦoɾu,gradually,படிப்படியாக,,,,Adverbs,words
+ꢂꢠ꣄ꢒꢒ,अण्कक,அண்கக,ankaka,aNkaka,aṇkaka,əɳkəkə,politely,பணிவாக,,,,Adverbs,words
+ꢩꣁꢣ꣄ꢬꢪ꣄ꢒꢥꢶ,भा॑द्रम्कनि,பொ4த்3ரம்கனி,bho'dramkani,bhOdramkani,bhŏdramkani,bʰod̪ɾəmkən̪ɪ,securely,பத்திரமாக,,,,Adverbs,words
+ꢲꢭ꣄ꢭꢸꢒ,हल्लुक,ஹள்ளுக,halluka,halluka,halluka,ɦəllukə,softly,பதமாக,,,,Adverbs,words
+ꢦꣁꢣꢪ꣄ꢒ,पा॑दम्क,பொத3ம்க,po'damka,pOdamka,pŏdamka,pod̪əmkə,softly,பதமாக,,,,Adverbs,words
+ꢃꢭ꣄ꢭꢜ꣄ꢒꢥꢶ,अल्ललनि,அல்லட்கனி,aallat'kani,AllaTkani,āllaṭkani,ɑːlləʈkən̪ɪ,slap-bang,பதற்றமாக,,,,Adverbs,words
+ꢨꣁꢣꢸꢭꢸꢒ꣄,बा॑दुलुक्,பொ3து3லுக்,bo'duluk,bOduluk,bŏduluk,bod̪uluk,instead of,பதிலாக,,,,Adverbs,words
+ꢤꢵꢒ꣄ꢱꢾꢥ꣄ꢡꣁ,धाक्स॑न्ता॑,தா4க்ஸெந்தொ,dhaakse'nto',dhAksEntO,dhāksĕntŏ,d̪ʰɑːks̪en̪t̪o,terribly,பயங்கரமாக,,,,Adverbs,words
+ꢤꢵꢒ꣄ꢒꢥꢶ,धक्कनि,தா4க்கனி,dhaakkani,dhAkkani,dhākkani,d̪ʰɑːkkən̪ɪ,terribly,பயங்கரமாக,,,,Adverbs,words
+ꢡꢾꢭ꣄ꢫꢒꢲꢵꢭ꣄ ꢡꢾꢭ꣄ꢫꢒꢭꢾꢥ꣄ꢡꢸ,त॑ल्यकहाल् त॑ल्यकहाल्,தெல்யகஹால்,te'lyakahaal te'lyakale'ntu,tElyakahAl tElyakalEntu,tĕlyakahāl tĕlyakalĕntu,t̪eljəkəɦɑːl t̪eljəkəlen̪t̪u,as a result,பயனாக,,,,Adverbs,words
+ꢆꢦꢫꣁꢔ꣄ꢒꢥ꣄ ꢦ꣄ꢬꢫꣂꢙꢥꢒꢥꢶ,उपयोग्कनि प्रयोजनकनि,உபயோக்3கனி,upayo'gkan prayojanakani,upayOgkan prayojanakani,upayŏgkan prayojanakani,upəjogkən̪ pɾəjoːd͡ʒən̪əkən̪ɪ,usefully,பயனுடையதாக,,,,Adverbs,words
+ꢦꢾꢬ꣄ꢦꢫꢶ,प॑र्पयि,பெர்பயி,pe'rpayi,pErpayi,pĕrpayi,peɾpəjɪ,generally,பரவலாக,,,,Adverbs,words
+ꢦꢬꢶꢲꢵꢱ꣄ꢒꢥꢶ,परिहास्कनि,பரிஹாஸ்கனி,parihaaskani,parihAskani,parihāskani,pəɾɪɦɑːs̪kən̪ɪ,mockingly,பரிகாசமாக,,,,Adverbs,words
+ꢦꢬꢶꢡꢵꢦ꣄ꢒꢥꢶ,परिताप्कनि,பரிதாப்கனி,paritaapkani,paritApkani,paritāpkani,pəɾɪt̪ɑːpkən̪ɪ,unbearable,பரிதாபமாக,,,,Adverbs,words
+ꢨꢭ꣄ꢮꢥ꣄ꢣꢸꢒꢥꢶ,बल्वन्दुकनि,ப3ல்வந்து3கனி,balvandukani,balvandukani,balvandukani,bəlʋən̪d̪ukən̪ɪ,forcibly,பலவந்தமாக,,,,Adverbs,words
+ꢨꢭꢲꢷꢥ꣄ꢒꢥꢶ꣄,बलहीन्कनि,ப3லஹீன்கனி,balaheenkani,balahInkani,balahīnkani,bələɦiːn̪kən̪ɪ,weak,பலவீனமாக,,,,Adverbs,words
+ꢨꣁꢭꢶꢒꢥꢶ,बा॑लिकनि,பொ3லிகனி,bo'likani,bOlikani,bŏlikani,bolɪkən̪ɪ,as a sacrifice,பலியாக,,,,Adverbs,words
+ꢪꢾꢥꢶꢒꢸꢦꢥ꣄ ꢥꢴꢷꢡ꣄ꢡꣁ,म॑निकुपन न्हीत्ता॑,மெனிகுபன் நீ:த்தொ,me'nikupan nheetto',mEnikupan nhIttO,mĕnikupan nhīttŏ,men̪ɪkupən̪ n̪ɦiːt̪t̪o,confoundedly,பழிகேடாக,,,,Adverbs,words
+ꢪꢾꢬ꣄ꢱꢶꢭꢶ,म॑र्सिलि,மெர்ஸிலி,me'rsili,mErsili,mĕrsili,meɾs̪ɪlɪ,shiningly,பளபளப்பாக,,,,Adverbs,words
+ꢦ꣄ꢬꢡꢶꢒꢹꢭ꣄ꢒꢥꢶ,प्रतिकूल्कनि,ப்ரதிகூல்கனி,pratikoolkani,pratikUlkani,pratikūlkani,pɾət̪ɪkuːlkən̪ɪ,"affectedly, ill",பாதகமாக,,,,Adverbs,words
+ꢲꢣ꣄ꢣꢾꢒꢥꢶ,हद्द॑कनि,ஹத்3தெ3கனி,hadde'kani,haddEkani,haddĕkani,ɦəd̪d̪ekən̪ɪ,half,பாதியாக,,,,Adverbs,words
+ꢦꢵꢮ꣄ꢒꢥ,पाव्कनि पाप्कनि,பாவ்கனி,paavkana,pAvkana,pāvkana,pɑːʋkən̪ə,sinfully,பாவமாக,,,,Adverbs,words
+ꢶ ꢦꢵꢦ꣄ꢒꢥꢶ,पाव्कनि पाप्कनि,பாப்கனி,i paapkani,i pApkani,i pāpkani,ɪ pɑːpkən̪ɪ,sinfully,பாவமாக,,,,Adverbs,words
+ꢦ꣄ꢬꢿꢮ꣄ꢒꢥꢶ,प्रेव्कनि,ப்ரேவ்கனி,prevkani,prevkani,prevkani,pɾeːʋkən̪ɪ,with love,பிரியமாக,,,,Adverbs,words
+ꢧꢭ꣄ꢭꣁ,फल्ला॑,ப2ல்லொ,phallo',phallO,phallŏ,pʰəllo,"after, behind",பின்,,,,Adverbs,words
+ꢦꢱ꣄ꢒꢜ꣄,पस्कट्,பஸ்கட்,paskat',paskaT,paskaṭ,pəs̪kəʈ,"after, behind",பின்,,,,Adverbs,words
+ꢦꢱ꣄ꢒꢜ꣄,पस्कट्,பஸ்கட்,paskat',paskaT,paskaṭ,pəs̪kəʈ,"Behind, after","பின்புறம், பின்னால்",,,,Adverbs,words
+ꢦꢱ꣄ꢒꢜ꣄ꢒꢥꢶ,पस्कट्कनि,பஸ்கட்கனி,paskat'kani,paskaTkani,paskaṭkani,pəs̪kəʈkən̪ɪ,aback,பின்புறமாக,,,,Adverbs,words
+ꢂꢣꢶꢥꣁꢮ,अदिना॑व,அதி3நொவ,adino'va,adinOva,adinŏva,əd̪ɪn̪oʋə,brand new,புத்தம்புதிதாக,,,,Adverbs,words
+ꢥꣁꢮꢥꣁꢮꢒꢥꢶ,ना॑वना॑वकनि,நொவநொவெகனி,no'vano'vakani,nOvanOvakani,nŏvanŏvakani,n̪oʋən̪oʋəkən̪ɪ,brand new,புத்தம்புதிதாக,,,,Adverbs,words
+ꢱꢪꢬ꣄ꢡꢸꢒꢥꢶ,समर्तुकनि,ஸமர்துகனி,samartukani,samartukani,samartukani,s̪əməɾt̪ukən̪ɪ,cleverly,புத்திசாலித்தனமாக,,,,Adverbs,words
+ꢮꢶꢮꢬ꣄ꢒꢥꢶ,विवर्कनि,விவர்கனி,vivarkani,vivarkani,vivarkani,ʋɪʋəɾkən̪ɪ,cleverly,புத்திசாலித்தனமாக,,,,Adverbs,words
+ꢥꣁꢮꢫꣁ,नोवकनि. नोवयकनि,நொவகனி,no'vayo',nOvayO,nŏvayŏ,n̪oʋəjo,"anew, afresh",புதிதாக,,,,Adverbs,words
+ꢥꣁꢮꢫꢒꢥꢶ,नोवकनि. नोवयकनि,நொவயகனி,no'vayakani,nOvayakani,nŏvayakani,n̪oʋəjəkən̪ɪ,"anew, afresh",புதிதாக,,,,Adverbs,words
+ꢚꢥ꣄ꢙꢹꢒꢥꢶ,झन्जुकनि,ஜ2ந்ஜுகனி,jhanyookani,jhanjUkani,jhanjūkani,d͡ʒʰən̪d͡ʒuːkən̪ɪ,stormily,புயலாக,,,,Adverbs,words
+ꢂꢪ꣄ꢨꢜ꣄ꢒꢥꢶ,अम्बट्कनि,அம்ப3ட்கனி,ambat'kani,ambaTkani,ambaṭkani,əmbəʈkən̪ɪ,sourly,புளிப்பாக,,,,Adverbs,words
+ꢡ꣄ꢫꢾꢙꢡꣁ,त्येजता॑,த்யேஜதொ,tye'jato',tyEjatO,tyĕjatŏ,t̪jed͡ʒət̪o,apart from,புறம்பாக,,,,Adverbs,words
+ꢦꢸꢥꢶꢣꢸꢲꣁꢫꢾ,पुनिदुहा॑य॑,புனிது3ஹொயெ,puniduho'ye',puniduhOyE,puniduhŏyĕ,pun̪ɪd̪uɦoje,holily,புனிதமாக,,,,Adverbs,words
+ꢪꢴꣁꢜ꣄ꢜꢒꢥꢶ,म्हा॑ट्टकन्,மொ:ட்டகனி,mho't't'akani,mhOTTakani,mhŏṭṭakani,mɦoʈʈəkən̪ɪ,"Largely, mostly","பெரிதாக, பெரிதும்",,,,Adverbs,words
+ꢚꢸꢒꢸꢔ,झुकुग,ஜுகுக3,jhukuga,jhukuga,jhukuga,d͡ʒʰukugə,"mostly, almost",பெரும்பாலும்,,,,Adverbs,words
+ꢕꢾꢥꢪ꣄ꢒꢥꢶ,घ॑नम्कनि,கெ4னம்கனி,ghe'namkani,ghEnamkani,ghĕnamkani,gʰen̪əmkən̪ɪ,proudly,பெருமையாக,,,,Adverbs,words
+ꢲꢭ꣄ꢭꢸꢒꢥꢶ,हल्लुकनि,ஹள்ளுகனி,hallukani,hallukani,hallukani,ɦəllukən̪ɪ,slowly,பையப்பைய,,,,Adverbs,words
+ꢱꢵꢤꢵꢬꢠ꣄ꢒꢥꢶ,साधारण्कनि,ஸாதா4ரணகனி,saadhaarankani,sAdhAraNkani,sādhāraṇkani,s̪ɑːd̪ʰɑːɾəɳkən̪ɪ,generally,பொதுப்படையாக,,,,Adverbs,words
+ꢪꢶꢡ꣄ꢡꢸꢒꢥꢶ,मित्तुकनि,மித்துகனி,mittukani,mittukani,mittukani,mɪt̪t̪ukən̪ɪ,untruely,பொய்யாக,,,,Adverbs,words
+ꢥꢶꢪꢶꢡ꣄ꢡꢸ,निमित्तु,நிமித்து,nimittu,nimittu,nimittu,n̪ɪmɪt̪t̪u,Apropos/ for the purpose of,பொருட்டாக,,,,Adverbs,words
+ꢒꢸꢬ꣄ꢗꢶ,कुर्चि,குர்சி,kurchi,kurci,kurci,kuɾt͡ʃɪ,Apropos/ for the purpose of,பொருட்டாக,,,,Adverbs,words
+ꢡꢒꢾꢤꢵꢥꢸ,तक॑धानु,தகெதா4னு,take'dhaanu,takEdhAnu,takĕdhānu,t̪əked̪ʰɑːn̪u,suitably,பொருத்தமாக,,,,Adverbs,words
+ꢧꢸꢬꢱ꣄ꢡꢶꢱꣁ,फुरस्तिसा॑,பு2ரஸ்திஸொ,phurastiso',phurastisO,phurastisŏ,pʰuɾəs̪t̪ɪs̪o,adequately,போதுமானதாக,,,,Adverbs,words
+ꢥꢒꢭꢶꢒꢥꢶ,नकलिकनी,நகலிகனி,nakalikani,nakalikani,nakalikani,n̪əkəlɪkən̪ɪ,falsely,போலியாக,,,,Adverbs,words
+ꢱꣁꢥ꣄ꢡꣂꢰ꣄ꢒꢥꢶ,सा॑न्तोष्कनि,ஸொந்தோஷ்கனி,so'ntoshkani,sOntoSkani,sŏntoṣkani,s̪on̪t̪oːʂkən̪ɪ,happily,மகிழ்ச்சியாக,,,,Adverbs,words
+ꢪꢔ꣄ꢔꢸꢥꢒꢥꢶ,मग्गुनकनि,மக்3கு3னகனி,maggunakani,maggunakani,maggunakani,məggun̪əkən̪ɪ,dimly,மங்கலாக,,,,Adverbs,words
+ꢪꢹꢬ꣄ꢓꢸꢒꢥꢶ. ꢪꢴꢸꢜꢒꢥꢶ,मूर्खुकनि,மூர்கு2கனி,moorkhukani. mhut'akani,mUrkhukani. mhuTakani,mūrkhukani. mhuṭakani,muːɾkʰukən̪ɪ. mɦuʈəkən̪ɪ,foolishly,மசணையாக / மடத்தனமாக,,,,Adverbs,words
+ꢪꢵꢡ꣄ꢬ,मात्र,மாத்ரம்,maatra,mAtra,mātra,mɑːt̪ɾə,"alone, only",மட்டும்,,,,Adverbs,words
+ꢒꣁꢣ꣄ꢣꢶ,का॑द्दि,கொத்3தி3,ko'ddi,kOddi,kŏddi,kod̪d̪ɪ,"alone, only",மட்டும்,,,,Adverbs,words
+ꢪꢥ꣄ꢣꢪ꣄ꢒꢥ꣄,मन्दम्कनि,மந்த3ம்கனி,mandamkan,mandamkan,mandamkan,mən̪d̪əmkən̪,feebly,மந்தமாக,,,,Adverbs,words
+ꢦ꣄ꢬꢒꢵꢰ꣄ꢥꢴꢷꢡ꣄ꢡꣁ,प्रकाष्न्हीत्ता॑,ப்ரகாஷ் நீ:த்தொ,prakaashnheetto',prakASnhIttO,prakāṣnhīttŏ,pɾəkɑːʂn̪ɦiːt̪t̪o,feebly,மந்தமாக,,,,Adverbs,words
+ꢦ꣄ꢬꢒꢵꢰ꣄ꢮꢶꢥꢵ,प्रकाष्विना.,ப்ரகாஷ் வினா,prakaashvinaa,prakASvinA,prakāṣvinā,pɾəkɑːʂʋɪn̪ɑː,feebly,மந்தமாக,,,,Adverbs,words
+ꢱꣁꢖ꣄ꢔꢒꢥꢶ,सा॑ङ꣄गकनि,ஸொங்க3கனி,so'ngakani,sOGgakani,sŏṅgakani,s̪oŋgəkən̪ɪ,cheaply,மலிவாக,,,,Adverbs,words
+ꢪꣂꢭ꣄ ꢆꢥ꣄ꢥꢒꢥꢶ,मा॑ल उन्नकनि,மோல் உன்னகனி,mol unnakani,mol unnakani,mol unnakani,moːl un̪n̪əkən̪ɪ,cheaply,மலிவாக,,,,Adverbs,words
+ꢙꢡꣁ,जता॑,ஜதொ,jato',jatO,jatŏ,d͡ʒət̪o,besides,மற்றபடி,,,,Adverbs,words
+ꢮꢶꢱ꣄ꢬꢳ꣄ꢳꢶꢶꢒꢶꢥ꣄,विस्रळ्ळिकिन्,விஸுரள்லிகின்,visral'l'iikin,visraLLiikin,visral̤l̤iikin,ʋɪs̪ɾəɭɭɪɪkɪn̪,absent mindedly,மறதியாக,,,,Adverbs,words
+ꢭꢸꢒ꣄ꢒꢶꢭꢶ,लुक्किलि,லுக்கிலி,lukkili,lukkili,lukkili,lukkɪlɪ,indirectly,மறைமுகமாக,,,,Adverbs,words
+ꢚꢒꢶꢭꢶ,झकिलि,ஜ2கிலி,jhakili,jhakili,jhakili,d͡ʒʰəkɪlɪ,secretly,மறைவாக,,,,Adverbs,words
+ꢪꣁꢥ꣄ꢥꢸꢙꢥꢶ,मा॑न्नुजनि,மொன்னுஜனி,mo'nnujani,mOnnujani,mŏnnujani,mon̪n̪ud͡ʒən̪ɪ,knowingly,மனப்பூர்வமாக,,,,Adverbs,words
+ꢩꣁꢬꢾꢪꣁꢥ꣄ꢥꢸ,भा॑र॑मा॑न्नु,பொ4ரெமொன்னு,bho're'mo'nnu,bhOrEmOnnu,bhŏrĕmŏnnu,bʰoɾemon̪n̪u,heartfully,மனமார,,,,Adverbs,words
+ꢪꢴꢞꢜꢪꢴꢞꢵꢒ꣄,म्हडम्हडाक्,ம:ட3ம:டா3க்,mhad'at'amhad'aak,mhaDaTamhaDAk,mhaḍaṭamhaḍāk,mɦəɖəʈəmɦəɖɑːk,monthly,மாதந்தோறும்,,,,Adverbs,words
+ꢪꢱꢹꢣꢶ,मसूदि,மஸூதி3,masoodi,masUdi,masūdi,məs̪uːd̪ɪ,monthly,மாதந்தோறும்,,,,Adverbs,words
+ꢩꢬ꣄ꢡꢶꢒ꣄,भर्तिक,ப4ர்திக,bhartik,bhartik,bhartik,bʰəɾt̪ɪk,instead of,மாற்றாக,,,,Adverbs,words
+ꢮꢶꢬꣂꢤ꣄꣄ꢒꢥꢶ,विरोध्कनि,விரோத்4கனி,virodhkani,virodhkani,virodhkani,ʋɪɾoːd̪ʰkən̪ɪ,"adversely, contrarily",மாறாக,,,,Adverbs,words
+ꢆꢦꢶꢬ꣄ꢒꢥꢶ,उपिर्कनि,உபிர்கனி,upirkani,upirkani,upirkani,upɪɾkən̪ɪ,immensely,மிகுதியாக,,,,Adverbs,words
+ꢡꢷ ꢙꢡꣁ,ती जता॑,தீ ஜதொ,tee jato',tI jatO,tī jatŏ,t̪iː d͡ʒət̪o,in extra,மிகையாக,,,,Adverbs,words
+ꢤꢒ꣄ꢒꢞꢶ,धक्कडि,த4க்கடி3,dhakkad'i,dhakkaDi,dhakkaḍi,d̪ʰəkkəɖɪ,threateningly,மிரட்டலாக,,,,Adverbs,words
+ꢲꣁꢭ꣄ꢭꣁ,हा॑ल्ला॑,ஹொல்லொ,ho'llo',hOllO,hŏllŏ,ɦollo,over,மீது,,,,Adverbs,words
+ꢪꢸꢕ꣄ꢫꢪ꣄ꢒꢥꢶ,मुख्यम्कनि,முக்2யகனி,mughyamkani,mughyamkani,mughyamkani,mugʰjəmkən̪ɪ,"essentially, importantly",முக்கியமாக,,,,Adverbs,words
+ꢂꢥ꣄ꢡꢸꢒꢥꢶ,अन्तुकनि,அந்துகனி,antukani,antukani,antukani,ən̪t̪ukən̪ɪ,finally,முடிவாக,,,,Adverbs,words
+ꢱꢾꢡ꣄ꢭꣁ,स॑त्तुला॑,ஸெத்லொ,se'tlo',sEtlO,sĕtlŏ,s̪et̪lo,finally,முடிவாக,,,,Adverbs,words
+ꢧꣀꢭꢮꢔꢥꢶ,फैलवगनि,பை2லவக3கனி,phailavagani,phailavagani,phailavagani,pʰəɪləʋəgən̪ɪ,"first rate, superbly",முதல்தரமாக,,,,Adverbs,words
+ꢪꢸꢭ꣄ꢭꣁ ꢪꢸꢭ꣄ꢭꣁ,मुल्ला॑मुल्ला॑,முல்லொமுல்லொ,mullo' mullo',mullO mullO,mullŏ mullŏ,mullo mullo,for first time,முதல் முறையாக,,,,Adverbs,words
+ꢧꣀꢭꢒꢥꢶ,फैलकनि,பை2லகனி,phailakani,phailakani,phailakani,pʰəɪləkən̪ɪ,firstly,முதலாவதாக,,,,Adverbs,words
+ꢦ꣄ꢬꢵꢬꢪ꣄ꢨꢒꢥꢶ,प्रारम्बकनि,ப்ராரம்ப3கனி,praarambakani,prArambakani,prārambakani,pɾɑːɾəmbəkən̪ɪ,initially,முதன்மையாக,,,,Adverbs,words
+ꢦꢾꢳꢶꢩꢶꢱ꣄ꢱꢒꢥꢶ,भ॑ळ्भिस्सकनि,பெ4ள்பி4ஸ்ஸகனி,pe'l'ibhissakani,pELibhissakani,pĕl̤ibhissakani,peɭɪbʰɪs̪s̪əkən̪ɪ,actively,மும்முரமாக,,,,Adverbs,words
+ꢪꢹꢓꢸꢒꢸꢒꢥꢶ,मूर्खुकनि,மூர்கு2கனி,mookhukukani,mUkhukukani,mūkhukukani,muːkʰukukən̪ɪ,"brutally, roughly",முரட்டுத்தனமாக,,,,Adverbs,words
+ꢮꢶꢦꢬꢷꢡ꣄ꢒꢥꢶ ꢮ꣄ꢬꢸꢣ꣄ꢤꢸꢒꢥꢶ ꢦ꣄ꢬꢫꢶꢒꢹꢭ꣄ꢒꢥꢶ,विपरीत्कनि,விபரீத்கனி,vipareetkani vruddhukani prayikoolkani,viparItkani vruddhukani prayikUlkani,viparītkani vruddhukani prayikūlkani,ʋɪpəɾiːt̪kən̪ɪ ʋɾud̪d̪ʰukən̪ɪ pɾəjɪkuːlkən̪ɪ,contrary to,முரண்பாடாக,,,,Adverbs,words
+ꢂꢱ꣄ꢒꢵꢒꢸꢱ꣄,अस्काकुस्,அஸ்காகுஸ்,askaakus,askAkus,askākus,əs̪kɑːkus̪,"wholly, completely",முழுக்கமுழுக்க,,,,Adverbs,words
+ꢂꢱ꣄ꢒꢒꢥ꣄,अस्ककन्,அஸ்ககன்,askakan,askakan,askakan,əs̪kəkən̪,totally,முழுதும்,,,,Adverbs,words
+ꢂꢱ꣄ꢒꢒꢥ꣄,अस्ककन्,அஸ்ககன்,askakan,askakan,askakan,əs̪kəkən̪,entirely,முழுமையாக,,,,Adverbs,words
+ꢂꢱ꣄ꢒꢒꢥ꣄,अस्ककन्,அஸ்ககன்,askakan,askakan,askakan,əs̪kəkən̪,"in toto, outright",முற்றும்,,,,Adverbs,words
+ꢥꢿꢪꢸꢤꢵꢥꢸ,नेमुधानु,நேமுதா4னு,nemudhaanu,nemudhAnu,nemudhānu,n̪eːmud̪ʰɑːn̪u,systematically,முறையாக,,,,Adverbs,words
+ꢒꢶꢬꢪꢒꢥꢶ,किरमकनि,க்ரமகனி,kiramakani,kiramakani,kiramakani,kɪɾəməkən̪ɪ,respectively,முறையே,,,,Adverbs,words
+ꢱꢵꢪꢸꢬ꣄,सामुर,ஸாமுர்,saamur,sAmur,sāmur,s̪ɑːmuɾ,"before, in front",முன் / முன்பாக,,,,Adverbs,words
+ꢪꢸꢣꢸꢭ꣄,मुदुल्,முது3ல்,mudul,mudul,mudul,mud̪ul,beforehand,முன்பு,,,,Adverbs,words
+ꢪꢸꢭ꣄ꢭꣁ,मुल्ला॑,முல்லொ,mullo',mullO,mullŏ,mullo,"before, in front",முன்னதாக,,,,Adverbs,words
+ꢱꢸꢥ꣄ꢫꢵꢱ꣄,सुन्यास,ஸுன்யாஸ்,sunyaas,sunyAs,sunyās,s̪un̪jɑːs̪,"before, in front",முன்னதாக,,,,Adverbs,words
+ꢪꢸꢥ꣄ꢣꢞꢶ,मुन्दडि,முந்த3டி3,mundad'i,mundaDi,mundaḍi,mun̪d̪əɖɪ,before,முன்னால்,,,,Adverbs,words
+ꢦꢹꢬ꣄ꢮꢡꢫꢬ꣄ꢒꢥꢶ,पूर्वतयार्कनि,பூர்வ தயார்கனி,poorvatayarkani,pUrvatayarkani,pūrvatayarkani,puːɾʋət̪əjəɾkən̪ɪ,In advance,முன்னேற்பாடாக,,,,Adverbs,words
+ꢡꢿ ꢮꢜ꣄ꢒꢥ,ते वाट्कनि,தே வாட்கனி,te vat'kana,te vaTkana,te vaṭkana,t̪eː ʋəʈkən̪ə,through,மூலமாக,,,,Adverbs,words
+ꢶ ꢡꣁꢒꢥ꣄,ता॑कन्,தொகன்,i to'kan,i tOkan,i tŏkan,ɪ t̪okən̪,through,மூலமாக,,,,Adverbs,words
+ꢂꢯꢶꢡꢣ꣄ꢤꢒꢥꢶ ꢂꢱꢪꢥ꣄ꢡꢸꢒꢥꢶ,अशिरद्धकनि असमन्तुकनि,அஶிரத்3த4கனி,ashitaddhakani asamantukani,azitaddhakani asamantukani,aśitaddhakani asamantukani,əʃɪt̪əd̪d̪ʰəkən̪ɪ əs̪əmən̪t̪ukən̪ɪ,slacknessly,மெத்தனமாக,,,,Adverbs,words
+ꢲꢳ꣄ꢳꢸ,हळ्ळु,ஹள்ளு,hal'l'u,haLLu,hal̤l̤u,ɦəɭɭu,slowly,மெதுவாக,,,,Adverbs,words
+ꢲꢳꢸꢲꢳꢸꢒꢥꢶ,जळुहळुकनि,ஹளுஹளுகனி,hal'uhal'ukani,haLuhaLukani,hal̤uhal̤ukani,ɦəɭuɦəɭukən̪ɪ,slowly,மெதுவாக,,,,Adverbs,words
+ꢬꢴꢡ꣄ꢡꢤꢵꢥꢸ,र्हत्तधानु,ர:த்ததா4னு,rhattadhaanu,rhattadhAnu,rhattadhānu,ɾɦət̪t̪əd̪ʰɑːn̪u,Indeed really,மெய்யாக,,,,Adverbs,words
+ꢲꢳ꣄ꢳꢸ,हळ्ळु,ஹள்ளு,hal'l'u,haLLu,hal̤l̤u,ɦəɭɭu,"slowly, low",மெல்ல,,,,Adverbs,words
+ꢥꢴꢥ꣄ꢓꢥꢶ꣄,न्हन्नखनि,நா:ன்க2னி,nhankhani,nhankhani,nhankhani,n̪ɦən̪kʰən̪ɪ,thinly,மெல்லியதாக,,,,Adverbs,words
+ꢒꣁꢪ꣄ꢨꢸꢭꢒ,का॑म्बुलक,கொம்பு3ளக,ko'mbulaka,kOmbulaka,kŏmbulaka,kombuləkə,softly,மென்மையாக,,,,Adverbs,words
+ꢪꢶꢜ꣄ꢜꢵꢦꣁꢭ꣄ꢭꢪ꣄ꢒꢥꢶ,मिट्टापा॑ल्लम्कनि,மிட்டாபொல்லம்கனி,mit't'aapo'llamkani,miTTApOllamkani,miṭṭāpŏllamkani,mɪʈʈɑːpolləmkən̪ɪ,unevenly,மேடுபள்ளமாக,,,,Adverbs,words
+ꢲꣁꢭ꣄ꢭ ꢲꣁꢭ꣄ꢭꢒ ꢦ꣄ꢬꢡ꣄ꢫꢒ꣄ꢰ꣄ꢒꢥꢶ ꢮ꣄ꢫꢒ꣄ꢫꢬꢡꢒꢥꢶ,हा॑ल्लहा॑ल्लक प्रत्यक्षकनि व्यक्तकनि,ஹொல்லஹொல்லக ப்ரத்யக்ஷகனி,ho'lla ho'llaka pratyakshkani vyakyaratakani,hOlla hOllaka pratyakSkani vyakyaratakani,hŏlla hŏllaka pratyakṣkani vyakyaratakani,ɦollə ɦolləkə pɾət̪jəkʂkən̪ɪ ʋjəkjəɾət̪əkən̪ɪ,apparently,மேலீடாக,,,,Adverbs,words
+ꢂꢖ꣄ꢔꢸꢥ꣄,अङ्गुन्,அங்கு3ன்,angun,aGgun,aṅgun,əŋgun̪,Besides/and/as well,மேலும்,,,,Adverbs,words
+ꢡꢢꢵ,तथा,ததா2,tathaa,tathA,tathā,t̪ət̪ʰɑː,Besides/and/as well,மேலும்,,,,Adverbs,words
+ꢆꢛ꣄ꢗꣁ,उञ्चा॑,உஞ்சொ,uncho',uJcO,uñcŏ,uɲt͡ʃo,"above, on",மேல்,,,,Adverbs,words
+ꢲꣂꢬ,होर,ஹோர்,hora,hora,hora,ɦoːɾə,"above, on",மேல்,,,,Adverbs,words
+꣄ ꢲꣁꢭ꣄ꢭꣁ,हा॑ल्ला॑,ஹொல்லொ,ho'llo',hOllO,hŏllŏ,ɦollo,"above, on",மேல்,,,,Adverbs,words
+ꢪꢿꢜ꣄ꢒꢥꢶ,मेट्कनि,மேட்கனி,met'kani,meTkani,meṭkani,meːʈkən̪ɪ,greatly,மேன்மையாக,,,,Adverbs,words
+ꢯ꣄ꢬꢿꢰ꣄ꢝꢸꢒꢥꢶ,श्रेष्ठुकनि,ஶ்ரேஷ்டு2 கனி,shresht'hukani,zreSThukani,śreṣṭhukani,ʃɾeːʂʈʰukən̪ɪ,greatly,மேன்மையாக,,,,Adverbs,words
+ꢆꢥ꣄ꢥꢡꢒꢥꢶ,उन्नतकनि,,unnatakani,unnatakani,unnatakani,un̪n̪ət̪əkən̪ɪ,greatly,மேன்மையாக,,,,Adverbs,words
+ꢂꢱ꣄ꢒꢒꢥꢶ,अस्कक. पूराकनि,அஸ்ககனி,askakani,askakani,askakani,əs̪kəkən̪ɪ,totally,மொத்தமாக,,,,Adverbs,words
+ꢦꢹꢬꢵꢒꢥꢶ,पूर्णुकनि,பூராகனி,pooraakani,pUrAkani,pūrākani,puːɾɑːkən̪ɪ,totally,மொத்தமாக,,,,Adverbs,words
+ꢦꢹꢬ꣄ꢠꢸꢒꢥꢶ,पूर्णुकनि,பூர்ணுகனி,poornukani,pUrNukani,pūrṇukani,puːɾɳukən̪ɪ,totally,மொத்தமாக,,,,Adverbs,words
+ꢪꣂꢱ꣄ꢒꢥꢶ,मोस्कनि,மோஸ்கனி,moskani,moskani,moskani,moːs̪kən̪ɪ,badly,மோசமாக,,,,Adverbs,words
+ꢱꣁꢔꢸꢱ꣄ꢒꢥꢶ ꢮꢱꢫꢶꢒꢥꢶ,सा॑गुस्कनि वसतिकनि,ஸொகு3ஸ்கனி,so'guskani vasayikani,sOguskani vasayikani,sŏguskani vasayikani,s̪ogus̪kən̪ɪ ʋəs̪əjɪkən̪ɪ,"comfortably, conveniently",வசதியாக,,,,Adverbs,words
+ꢮꢥ꣄ꢗꢥꢒꢥꢶ,वन्चनक तब्तुर्कनि,வஞ்சனகனி,vanchanakani,vancanakani,vancanakani,ʋən̪t͡ʃən̪əkən̪ɪ,cunningly,வஞ்சகமாக,,,,Adverbs,words
+ꢡꢥ꣄ꢡꢸꢬ꣄ꢒꢥꢶ,वन्चनक तब्तुर्कनि,தந்துர்கனி,tanturkani,tanturkani,tanturkani,t̪ən̪t̪uɾkən̪ɪ,cunningly,வஞ்சகமாக,,,,Adverbs,words
+ꢮꢡꢸꢭ꣄ꢒꢥꢶ,वतुल्कनि,வதுல்கனி,vatulkani,vatulkani,vatulkani,ʋət̪ulkən̪ɪ,roundly,வட்டமாக,,,,Adverbs,words
+ꢒ꣄ꢬꢪꢒꢥꢶ,क्रमकनि,க்ரமகனி,kramakani,kramakani,kramakani,kɾəməkən̪ɪ,in a row,வரிசையாக,,,,Adverbs,words
+ꢮꢶꢗꢵꢬ꣄ꢒ,विचार्क,விசார்க,vichaarka,vicArka,vicārka,ʋɪt͡ʃɑːɾkə,regrettably,வருத்தமாக,,,,Adverbs,words
+ꢮꢾꢒꢸꢭ꣄ꢒ,व॑कुल्क,வெகுல்க,ve'kulka,vEkulka,vĕkulka,ʋekulkə,regrettably,வருத்தமாக,,,,Adverbs,words
+ꢚꣀꢥ ꢦꣂꢒ꣄ꢒꢥꢶ ꢙꣀꢥ ꢦꣂꢒ꣄,जैनपोक जैनपोक्कनि,ஜைனபோக் ஜைனபோக்கனி,jhaina pokkani jaina pok,jhaina pokkani jaina pok,jhaina pokkani jaina pok,d͡ʒʰəɪn̪ə poːkkən̪ɪ d͡ʒəɪn̪ə poːk,right side,வலதுபக்கமாக,,,,Adverbs,words
+ꢡꢶꢫꣁꢒꢥ꣄,तिया॑कन्,த்யொகன்,tiyo'kan,tiyOkan,tiyŏkan,t̪ɪjokən̪,spontaneously,வலிய,,,,Adverbs,words
+ꢦꣁꢭꢷꢪ꣄ꢒꢥ꣄,बा॑लीम्कन्,பொ3லீம்கன்,po'leemkan,pOlImkan,pŏlīmkan,poliːmkən̪,strongly,வலுவாக,,,,Adverbs,words
+ꢧꢶꢬ꣄ꢭꢶ,फिर्लि,பி2ர்லி,phirli,phirli,phirli,pʰɪɾlɪ,curvedly,வளைவாக,,,,Adverbs,words
+ꢮꢜ꣄ꢒꢾꢒꢥꢶ ꢬꢦ꣄ꢡꢒꢥꢶ,वट्क॑कनि रप्तकनि,வட்கெகனி,vat'ke'kani raptakani,vaTkEkani raptakani,vaṭkĕkani raptakani,ʋəʈkekən̪ɪ ɾəpt̪əkən̪ɪ,usually,வழக்கமாக,,,,Adverbs,words
+ꢥꢴꢶꢥꢵꢮꢸꢒꢥꢶ,न्हिनावुकनि,நி:னாவ்கனி,nhinaavukani,nhinAvukani,nhināvukani,n̪ɦɪn̪ɑːʋukən̪ɪ,slipperly,வழவழப்பாக,,,,Adverbs,words
+ꢱꢸꢒ꣄ꢒꢾꢫꢒꢥꢶ ꢱꢸꢒ꣄ꢒꢾꢒꢥꢶ,सुक्क॑यकनि सक्क॑कनि,ஸுக்கெயகனி,sukke'yakani sukke'kani,sukkEyakani sukkEkani,sukkĕyakani sukkĕkani,s̪ukkejəkən̪ɪ s̪ukkekən̪ɪ,Dryly / by drought,வறட்சியாக,,,,Adverbs,words
+ꢒꢸꢬꢹꢬ꣄ꢒꢥꢶ,कुरूरकन्,க்ரூர்கன்,kuroorkani,kurUrkani,kurūrkani,kuɾuːɾkən̪ɪ,violently,வன்மையாக,,,,Adverbs,words
+ꢱꣁꣁꢜ꣄ꢠꢵꢡ꣄ꢡꢒ꣄,सा॑ट्णात्तक्,ஸொட்3ணாதொ,so'o't'naattak,sOOTNAttak,sŏŏṭṇāttak,s̪ooʈɳɑːt̪t̪ək,persistently,விடாப்பிடியாக,,,,Adverbs,words
+ꢮꢶꢣꢪ꣄ꢮꢶꢣꢪ꣄ꢒꢥꢶ ꢨꢲꢸꢮꢶꢣꢒꢥ꣄,विदम्विदम्कनि बहुविदम्क्न,வித3ம்வித3ம்கனி,vidamvidamkani bahuvidakan,vidamvidamkani bahuvidakan,vidamvidamkani bahuvidakan,ʋɪd̪əmʋɪd̪əmkən̪ɪ bəɦuʋɪd̪əkən̪,different types,விதம்விதமாக,,,,Adverbs,words
+ꢞꢵꢪ꣄ꢨꢷꢒꢪ꣄ꢒꢥꢶ,डाम्बीकम्कनि,ஆட3ம்ப3ரக,d'aambeekamkani,DAmbIkamkani,ḍāmbīkamkani,ɖɑːmbiːkəmkən̪ɪ,pompously,விமரிசையாக,,,,Adverbs,words
+ꢮꢶꢱ꣄ꢡꢵꢬꢒꢥꢶ,विस्तारकनि,விஸ்தார்கனி,vistaarakani,vistArakani,vistārakani,ʋɪs̪t̪ɑːɾəkən̪ɪ,elaborately,விரிவாக,,,,Adverbs,words
+ꢨꢶꢱ꣄ꢱꢒ,बिस्सक,பி3ஸ்ஸக,bissaka,bissaka,bissaka,bɪs̪s̪əkə,"fast, rapidly",விரைவாக,,,,Adverbs,words
+ꢄꢮꢬ꣄ꢒꢥꢶ ꢮꢶꢮꢬ꣄ꢒꢥꢶ,इवर्कनि विवर्कनि,இவர்கனி,ivarkani vivarkani,ivarkani vivarkani,ivarkani vivarkani,ɪʋəɾkən̪ɪ ʋɪʋəɾkən̪ɪ,in detail,விவரமாக,,,,Adverbs,words
+ꢡꢾꢒꢲꢵꢭ꣄ ꢡꢾꢭ꣄ꢫꢒꢲꢵꢭ꣄,त॑कहालु त॑ल्यकहाल,தெகஹால்,te'kahaal te'lyakahaal,tEkahAl tElyakahAl,tĕkahāl tĕlyakahāl,t̪ekəɦɑːl t̪eljəkəɦɑːl,hence,விளைவாக,,,,Adverbs,words
+ꢮꢶꢫꢬ꣄ꢤꢒꢥꢶ,वियर्धकनि,வியர்த4கனி,viyardhakani,viyardhakani,viyardhakani,ʋɪjəɾd̪ʰəkən̪ɪ,"wastely, vainly",வீணாக,,,,Adverbs,words
+ꢓꢿꢭ꣄ꢒꢥꢶ,खेल्कनि,கே2ள்கனி,khelkani,khelkani,khelkani,kʰeːlkən̪ɪ,vauntingly,வீம்பாக,,,,Adverbs,words
+ꢦꢬꢵꢒ꣄ꢬꢪꢒꢥꢶ,पराक्रमकनि,பராக்ரமகனி,paraakramakani,parAkramakani,parākramakani,pəɾɑːkɾəməkən̪ɪ,valiantly,வீரதீரமாக,,,,Adverbs,words
+ꢤꣀꢬ꣄ꢫꢸꢒꢥꢶ,धैर्युकनि,தை4ர்யுகனி,dhairyukani,dhairyukani,dhairyukani,d̪ʰəɪɾjukən̪ɪ,bravely,வீரமாக,,,,Adverbs,words
+ꢨꢥ꣄ꢣꢵꢒꢥꢶ ꢃꢡ꣄ꢪꢯ꣄ꢭꢵꢕꢒꢥꢶ,बन्दाकनि आत्मश्लाघ्नकनि,ப3ந்தா3கனி,bandaakani aatmashlaaghakani,bandAkani AtmazlAghakani,bandākani ātmaślāghakani,bən̪d̪ɑːkən̪ɪ ɑːt̪məʃlɑːgʰəkən̪ɪ,Self praising,வீராப்பாக,,,,Adverbs,words
+ꢂꢮꢪꢵꢥ꣄ꢒ,अवमान्क,அவமான்க,avamaanka,avamAnka,avamānka,əʋəmɑːn̪kə,shamelessly,வெட்கக்கோடாக,,,,Adverbs,words
+ꢂꢭꢔ꣄ꢔ ꢂꢭꢔ꣄ꢔ ꢣꢸꢱ꣄ꢬ ꢱꢸꢱ꣄ꢬꢫꢒꢥꢶ,अलग्ग अलग्ग दुस्र तुस्रयकनि,அலக்3க3 அலக்3க3,alagga alagga dusra susrayakani,alagga alagga dusra susrayakani,alagga alagga dusra susrayakani,ələggə ələggə d̪us̪ɾə s̪us̪ɾəjəkən̪ɪ,separately,வெவ்வேறாக,,,,Adverbs,words
+ꢲꢸꢙꢵꢭ꣄ꢒꢥꢶ,हुजाल्कनि,ஹுஜாள்கனி,hujaalkani,hujAlkani,hujālkani,ɦud͡ʒɑːlkən̪ɪ,brightly,வெளிச்சமாக,,,,Adverbs,words
+ꢪꣁꢥ꣄ꢥꢸ ꢙꢥ꣄ꢡꣁ,मा॑न्नु जन्ता॑,மொன்னு ஜந்தொ,mo'nnu janto',mOnnu jantO,mŏnnu jantŏ,mon̪n̪u d͡ʒən̪t̪o,openly,வெளிப்படையாக,,,,Adverbs,words
+ꢩꢬꢵꢜ꣄,भराट्,ப4ராட்,bharaat',bharAT,bharāṭ,bʰəɾɑːʈ,"out, away",வெளியே,,,,Adverbs,words
+ꢙꢷꢔꢶꢭꢶ,जीगिलि,ஜிகி3லி,jeegili,jIgili,jīgili,d͡ʒiːgɪlɪ,successfully,வெற்றிக்கரமாக,,,,Adverbs,words
+ꢓꢭꢶꢒꢥꢶ ꢬꢶꢒ꣄ꢡꢒꢥꢶ,खलिकनि रिक्तकनि,க2லிகனி,khalikani riktakani,khalikani riktakani,khalikani riktakani,kʰəlɪkən̪ɪ ɾɪkt̪əkən̪ɪ,barely,வெறுமையாக,,,,Adverbs,words
+ꢨꢶꢱ꣄ꢱꣁ,बिस्सा॑,பி3ஸ்ஸொ,bisso',bissO,bissŏ,bɪs̪s̪o,quickly,வேகமாக,,,,Adverbs,words
+ꢮꢾꢞꢶꢒ꣄ꢒꢥ꣄,व॑डिक्कन्,வெடி3க்கனி,ve'd'ikkan,vEDikkan,vĕḍikkan,ʋeɖɪkkən̪,funnily,வேடிக்கையாக,,,,Adverbs,words
+ꢂꢭꢔ꣄ꢔ,अलग्ग,அலக்3க3,alagga,alagga,alagga,ələggə,aloof,வேறாக,,,,Adverbs,words
+ꢡꢸꢱ꣄ꢬꢤꢵꢥꢸ,तुस्रधानु,துஸ்ரதா4னு,tusradhaanu,tusradhAnu,tusradhānu,t̪us̪ɾəd̪ʰɑːn̪u,otherwise,வேறுவகையாக,,,,Adverbs,words
+ꢮꢾꢒꢸꢭꢮꢾꢒꢸꢭꢒꢥꢶ,व॑कुलव॑कुलकनि,வெகுளவெகுளகனி,ve'kulave'kulakani,vEkulavEkulakani,vĕkulavĕkulakani,ʋekuləʋekuləkən̪ɪ,differently,வேறுவேறாக,,,,Adverbs,words
+ꢮꣀꢬꢵꢔꢫꢸꢒꢥꢶ꣄,वैराग्युकनि,வைராக்3யுகனி,vairaagayukani,vairAgayukani,vairāgayukani,ʋəɪɾɑːgəjukən̪ɪ,stubbornly,வைராக்கியமாக,,,,Adverbs,words

@@ -1,0 +1,16 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,ருச்சி,rucci,,,,Taste,சுவை,ருச்சின் ஸோயொ ஸே,There are six flavors,ஆறு சுவைகள் உள்ளன,taste,corpus_sourashtradictionary
+,,ருச்சி பாகுன்,rucci paakun,,,,Taste,சுவை,பு4க்லாகு ருச்சி பாகுன் களானா,One who is hungry does not know taste,பசியோடு இருப்பவருக்கு சுவை தெரியாது,taste,corpus_sourashtradictionary
+,,ருச்சி ஹொயெ,rucci hoye,,,,"Tasty, Delecious","சுவையானது, சுவை மிக்க",கி4ராஸு பொள்ளா வேன் ருச்சி ஹொயெ பொள்ளா,Pineapple is a very tasty fruit,அன்னாசிப்பழம் மிகவும் சுவையான பழம்,taste,corpus_sourashtradictionary
+,,அம்ப3ட்,ambaT,,,,"Sour, Leaven",புளிப்பு,சீஸு ருச்சி அம்ப3டு3,The taste of tamarind is sour,புளியின் சுவை புளிப்பு,taste,corpus_sourashtradictionary
+,,கஸ்னி,kasni,,,,Astringent,துவர்ப்பு,ஹப்பளு ருச்சி கஸ்னி ஹோஸு,The taste of Arica nut is astringent,கொட்டைப்பாக்கின் சுவை துவர்ப்பு ஆகும்,taste,corpus_sourashtradictionary
+,,புஷ்ளொ,pushLo,,,,Astringent,துவர்ப்பு,சிஞ்ஜிரி பு4ர்கா ருச்சி புஷ்ளொ ஹோஸு,The taste of tamarind seed powder is also astringent,புளியங்கொட்டை பொடியின் சுவை துவர்ப்பு ஆகும்,taste,corpus_sourashtradictionary
+,,ஒகு3ர்,ogur,,,,Astringent,துவர்ப்பு,ஹக்3கு3னொ ப3ரொ கெரத்திஸா ஶக்தி ஒகு3ர் ருச்சிக் ஸேத்தெ,The astringent taste has the power to correct diarrhea,வயிற்றுப் போக்கை சரி செய்யும் ஆற்றல் துவர்ப்புச் சுவைக்கு உண்டு,taste,corpus_sourashtradictionary
+,,கு3ள்ளெ,guLLe,,,,Sweet,இனிப்பு,பொ2ன்னிஸு பொள்ளா ருச்சி கு3ள்ளெ ஹோஸு,The taste of jackfruit is sweet,பலாப்பழத்தின் சுவை இனிப்பு ஆகும்,taste,corpus_sourashtradictionary
+,,கெ2ருட்,kheruT,,,,Salt,உவர்ப்பு,பொ3ந்தெ3ம் கெ2ருட் ருச்சி வேன் ஸே,Plantain Stem are rich in salty taste,வாழைத் தண்டில் உவர்ப்புச் சுவை மிகுதியாக உள்ளது,taste,corpus_sourashtradictionary
+,,கொடு3,koDu,,,,Bitter,கசப்பு,கல்லா ருச்சி கொடு3கன் ர்ஹாயி,The taste of bitter gourd is bitter,பாகற்காயின் சுவை கசப்பாக இருக்கும்,taste,corpus_sourashtradictionary
+,,திக்கெ,tikke,,,,Pungent,"காரம், உறைப்பு",வேன் திக்கெ அந்த்ராம் க2ஜ்ஜு அவத்தக் ஹேது ஹோயி,Excess pungent is the cause of intestinal ulcers,அதிகப்படியான காரம் குடல் புண்கள் தோன்ற காரணம் ஆகும்,taste,corpus_sourashtradictionary
+,,கா2ர்,khaar,,,,"Pungent, Spicy",உறைப்பு,மிர்க்கய்லொகின் அல்லொ கா2ர்கன் ஸே,Chili and ginger have a spicy taste,மிளகாய் மற்றும் இஞ்சி காரமான சுவை கொண்டது,taste,corpus_sourashtradictionary
+,,கொம்மன்,komman,,,,Taste of unfermented curd,புளிக்காத ஒருவித இளஞ்சுவை,எல்லீரும் பனி கொம்மன் ருச்சிகன் ர்ஹாயி,The tender coconut has a mild unfermented taste,இளநீரின் சுவை இளஞ்சுவையாக இருக்கும்,taste,corpus_sourashtradictionary
+,,கெனர்,kenar,,,,Rancid,காரல் வாசனை,லொனி நஜ்ஜியெத் கெனர் வஸுனொ அவயி,Rancid is the odor of spoiled butter,வெண்ணெய் கெட்டுப் போனால் காரல் வாசனை வரும்,taste,corpus_sourashtradictionary
+,,திச்சன்,ticcan,,,,Tasteless,"சுவையற்ற, சுவை இல்லாது",கெட்டு பிள்சார் திச்சன் ஹொதெ3ஸ்,The Indian lentle soup was tasteless,பருப்பு ரசம் சுவையற்று இருந்தது,taste,corpus_sourashtradictionary

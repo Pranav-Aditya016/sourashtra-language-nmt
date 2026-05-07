@@ -1,0 +1,118 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,ஒஸ்து,ostu,,,,Relation,உறவு,,,,relation,corpus_sourashtradictionary
+,,ஸொந்த3ம்,sondam,,,,Kinship,உறவு,,,,relation,corpus_sourashtradictionary
+,,ப3ந்து4,bandhu,,,,"Kin, Relative",உறவினர்,,,,relation,corpus_sourashtradictionary
+,,பா3ந்த4வு,baandhavu,,,,"Kin, Relative",உறவினர்,,,,relation,corpus_sourashtradictionary
+,,ஊகு,uuku,,,,"Kin, Relative",உறவினர்,,,,relation,corpus_sourashtradictionary
+,,ஸொவ்ரொ,sovro,,,,"Kin, Relative",உறவினர்,,,,relation,corpus_sourashtradictionary
+,,ததி3,tadi,,,,Relationship,உறவுமுறை,,,,relation,corpus_sourashtradictionary
+,,அம்போ3,ambO,,,,"Mother, Mom, Mummy",தாய்,,,,relation,corpus_sourashtradictionary
+,,போ3,bO,,,,"Father, Dad, Daddy",அப்பா,,,,relation,corpus_sourashtradictionary
+,,மாய்,maay,,,,"Mother, Mom, Mummy",அம்மா,,,,relation,corpus_sourashtradictionary
+,,பா3ப்,baap,,,,"Father, Dad, Daddy",தந்தை,,,,relation,corpus_sourashtradictionary
+,,மாய்பா3ப்,maaybaap,,,,Parents,"பெற்றோர், பெற்றவர்கள்",,,,relation,corpus_sourashtradictionary
+,,ஜெனித்தெனொ,jenitteno,,,,Birth mother,பெற்ற தாய்,,,,relation,corpus_sourashtradictionary
+,,ஜெனாத்தெனு,jenaattenu,,,,Parents,"பெற்றோர், பெற்றவர்கள்",,,,relation,corpus_sourashtradictionary
+,,அம்ப்3லொ,amblo,,,,Husband,கணவர்,,,,relation,corpus_sourashtradictionary
+,,த3ல்லொ,dallo,,,,Husband,கணவன்,,,,relation,corpus_sourashtradictionary
+,,பை3ல்,bail,,,,Wife,பெண்,,,,relation,corpus_sourashtradictionary
+,,பெ3ய்ல்,beyl,,,,Wife,மனைவி,,,,relation,corpus_sourashtradictionary
+,,தா3ரா,daaraa,,,,Wife,மனைவி,,,,relation,corpus_sourashtradictionary
+,,கே4ரளி,ghEraLi,,,,Housewife,இல்லாள்,,,,relation,corpus_sourashtradictionary
+,,ஸராவளி,saraavaLi,,,,"Husband or Wife, Spouse, Life partner, Companian","கணவன் (அ) மனைவி, வாழ்க்கைத் துணை",,,,relation,corpus_sourashtradictionary
+,,ஸொவெத்,sovet,,,,"Co wife, Concubine","இரண்டாவது மனைவி, சக்களத்தி",,,,relation,corpus_sourashtradictionary
+,,பெ3டொ3,beDo,,,,Son,மகன்,,,,relation,corpus_sourashtradictionary
+,,பொரொ,poro,,,,Son,மகன்,,,,relation,corpus_sourashtradictionary
+,,வத்லொ,vatlo,,,,Son,மகன்,,,,relation,corpus_sourashtradictionary
+,,ஸுனு,sunu,,,,Son,மகன்,,,,relation,corpus_sourashtradictionary
+,,பெ3டி3,beDi,,,,Daughter,மகள்,,,,relation,corpus_sourashtradictionary
+,,பெ2ய்லட்,pheylaT,,,,Eldest sibiling,"மூத்தமகன், தலைமகன்",,,,relation,corpus_sourashtradictionary
+,,ம்ஹொடொ3தெனு,mhoDotenu,,,,Elder sibiling,மூத்தவர்,,,,relation,corpus_sourashtradictionary
+,,ம்ஹஜா2ல்யொ,mhajhaalyo,,,,Middle sibiling,நடு மகன்,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன்னதெனு,nhannatenu,,,,Younger sibiling,இளையவர்,,,,relation,corpus_sourashtradictionary
+,,ஸந்தோஜி,santOji,,,,Co-born,உடன் பிறந்தவர்,,,,relation,corpus_sourashtradictionary
+,,"தா3, த3தா3","daa, dadaa",,,,"Bro, Brother",அண்ணா,,,,relation,corpus_sourashtradictionary
+,,த3தொ3,dado,,,,Elder Brother,அண்ணன்,,,,relation,corpus_sourashtradictionary
+,,ப4வி,bhavi,,,,"Sister-in-law, Elder Brothers wife",அண்ணி,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன் ப4ய்,nhan bhay,,,,Younger brother,"தம்பி, இளைய சகோதரர்",,,,relation,corpus_sourashtradictionary
+,,ப4ய்,bhay,,,,Younger brother,"தம்பி, இளைய சகோதரர்",,,,relation,corpus_sourashtradictionary
+,,பொ4ஜை,bhojai,,,,"Sister-in-law, Younger brother's wife",தம்பி மனைவி,,,,relation,corpus_sourashtradictionary
+,,பெ3ய்,bey,,,,Elder Sister,அக்கா,,,,relation,corpus_sourashtradictionary
+,,ப4வொ,bhavo,,,,"Brother-in-law, Elder Sister's husband",அக்கா கணவர்,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன் பெ4ய்ன்,nhan bheyn,,,,Younger sister,"தங்கை, இளைய சகோதரி",,,,relation,corpus_sourashtradictionary
+,,பெ4ய்ன்,bheyn,,,,Younger Sister,"தங்கை, இளைய சகோதரி",,,,relation,corpus_sourashtradictionary
+,,பெ4ய்னம்பு3லொ,bheynambuleaa,,,,"Brother-in-law, Younger Sister's husband",தங்கை கணவர்,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன்னபோ3,nhannabO,,,,"Uncle, Father's Younger Brother",சித்தப்பா,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன்னம்போ3,nhannambO,,,,"Aunty, Father's Younger Brother's wife",சின்னம்மா,,,,relation,corpus_sourashtradictionary
+,,ககா,kakaa,,,,"Uncle, Father's Younger Brother",சித்தப்பா,,,,relation,corpus_sourashtradictionary
+,,ககி,kaki,,,,"Aunty, Father's Younger Brother's wife",சித்தி,,,,relation,corpus_sourashtradictionary
+,,ம்ஹொட்டபோ3,mhoTTabO,,,,"Uncle, Father's Elder Brother",பெரியப்பா,,,,relation,corpus_sourashtradictionary
+,,ம்ஹொட்டம்போ3,mhoTTambO,,,,"Aunty, Father's Elder Brother's wife",பெரியம்மா,,,,relation,corpus_sourashtradictionary
+,,பூ2ய்ஞ்,phooynj,,,,"Aunt, Aunty, Father's sister",அத்தை,,,,relation,corpus_sourashtradictionary
+,,பு2வொ (பூ2ய்ஞ் அம்பு3லொ),phuvo (phooynj ambulo),,,,Father's sister' husband,அத்தை கணவர்,,,,relation,corpus_sourashtradictionary
+,,மமொ,mameaa,,,,"Uncle, Mother's brother",மாமா,,,,relation,corpus_sourashtradictionary
+,,மமி,mami,,,,"Uncle, Mother's brother' wife",மாமா,,,,relation,corpus_sourashtradictionary
+,,மௌஸொ,mauso,,,,"Uncle, Mother's Sister's husband",சித்தப்பா,,,,relation,corpus_sourashtradictionary
+,,மௌஸி,mausi,,,,"Aunty, Mother's Sister",சித்தி,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன்னபா3 பெ3டொ3,nhannabaa beDo,,,,Cousin,சித்தப்பா மகன்,,,,relation,corpus_sourashtradictionary
+,,ந்ஹன்னபா3 பெ3டி3,nhannabaa beDi,,,,Cousin,சித்தப்பா மகள்,,,,relation,corpus_sourashtradictionary
+,,ம்ஹொட்டபா3 பெ3டொ3,mhoTTabaa beDo,,,,Cousin,பெரியப்பா மகன்,,,,relation,corpus_sourashtradictionary
+,,ம்ஹொட்டபா3 பெ3டி3,mhoTTabaa beDi,,,,Cousin,பெரியப்பா மகள்,,,,relation,corpus_sourashtradictionary
+,,பூ2ய்ஞ் பெ3டொ3,phooynj beTeaa,,,,Cousin,அத்தை மகன்,,,,relation,corpus_sourashtradictionary
+,,பூ2ய்ஞ் பெ3டி3,phooynj beDi,,,,Cousin,அத்தை மகள்,,,,relation,corpus_sourashtradictionary
+,,மமா பெ3டொ3,mamaa beTeaa,,,,Cousin,மாமா மகன்,,,,relation,corpus_sourashtradictionary
+,,மமா பெ3டி3,mamaa beDi,,,,Cousin,மாமா மகள்,,,,relation,corpus_sourashtradictionary
+,,மௌஸி பெ3டொ3,mausi beTeaa,,,,Cousin,சித்தி மகன்,,,,relation,corpus_sourashtradictionary
+,,மௌஸி பெ3டி3,mausi beDi,,,,Cousin,சித்தி மகள்,,,,relation,corpus_sourashtradictionary
+,,தெ3வர்,devar,,,,"Brother-in-law, Husband's younger brother",கொழுந்தன்,,,,relation,corpus_sourashtradictionary
+,,தெவ்ரணி,tevraNi,,,,"Co-Sister, Husband's younger brother's wife","இளையவர் மனைவி, , ஓரகத்தி",,,,relation,corpus_sourashtradictionary
+,,ஜே3ட்,jET,,,,"Brother-in-law, Husband's elder brother",மூத்தார்,,,,relation,corpus_sourashtradictionary
+,,ஜெ2ட3னி,jheDani,,,,"Co-Sister, Husband's elder brother's wife","மூத்தார் மனைவி, ஓரகத்தி",,,,relation,corpus_sourashtradictionary
+,,ஸளொ,saLo,,,,"Brother-in-law, Wife's brother",மைத்துனன்,,,,relation,corpus_sourashtradictionary
+,,ஸளி,saLi,,,,"Sister-in-law, Wife's sister",மைத்துனி,,,,relation,corpus_sourashtradictionary
+,,ஸொர்கு3ட்,sorguT,,,,"Co-Brother, Wife's sister's husband",சகலை,,,,relation,corpus_sourashtradictionary
+,,நெய்ந்து3,neyndu,,,,"Sister-in-law, Husband's younger sister",நாத்தனார்,,,,relation,corpus_sourashtradictionary
+,,நெனந்து,nenantu,,,,"Sister-in-law, Husband's younger sister",நாத்தனார்,,,,relation,corpus_sourashtradictionary
+,,ஜெ3ட2னி,jeThani,,,,"Sister-in-law, Husband's elder sister",கணவனின் அக்கா,,,,relation,corpus_sourashtradictionary
+,,தொ3வ்ரோ,dovrO,,,,Old man,கிழவன்,,,,relation,corpus_sourashtradictionary
+,,தொ3வ்ரி,dovri,,,,Old woman,கிழவி,,,,relation,corpus_sourashtradictionary
+,,ஐனு,ainu,,,,Grandmaternal,பாட்டிவழி,,,,relation,corpus_sourashtradictionary
+,,ஐங்கே4ர்,aingghEr,,,,Grandmother's house,பாட்டிவீடு,,,,relation,corpus_sourashtradictionary
+,,அஜ்ஜாங்கே4ர்,ajjaangghEr,,,,Grandmother house,பாட்டி வீடு,,,,relation,corpus_sourashtradictionary
+,,ம்ஹொட்டொ அஜ்ஜாங்கே4ர்,mhoTTo ajjaangghEr,,,,Mother's grandmother house,அம்மாவின் பாட்டி வீடு,,,,relation,corpus_sourashtradictionary
+,,தொ3ய்ரபோ3,doyrabO,,,,Grandfather (Paternal),தாத்தா (அப்பா வழி),,,,relation,corpus_sourashtradictionary
+,,தொ3ய்ரம்போ3,doyrambO,,,,Grandmother (Paternal),பாட்டி (அப்பா வழி),,,,relation,corpus_sourashtradictionary
+,,அஜ்ஜபோ3,ajjabO,,,,Grandfather (Maternal),தாத்தா (அம்மா வழி),,,,relation,corpus_sourashtradictionary
+,,அஜ்ஜம்போ3,ajjambO,,,,Grandmother (Maternal),பாட்டி (அம்மா வழி),,,,relation,corpus_sourashtradictionary
+,,அஜ்ஜொ,ajjo,,,,Grandfather (Maternal),தாத்தா (அம்மா வழி),,,,relation,corpus_sourashtradictionary
+,,அஜ்ஜி,ajji,,,,Grandmother (Maternal),பாட்டி (அம்மா வழி),,,,relation,corpus_sourashtradictionary
+,,ஐங்கே4ர்அம்போ3,aingghErambO,,,,"Grandmother, Grandma",பாட்டி,,,,relation,corpus_sourashtradictionary
+,,ஐங்கே4ர்போ3,aingghErbO,,,,"Grandfather, Grandad",தாத்தா,,,,relation,corpus_sourashtradictionary
+,,அம்மொ,ammo,,,,"Grandmother, Grandma",அப்பாவின் அம்மா,,,,relation,corpus_sourashtradictionary
+,,ஐய்யொ,aiyyo,,,,"Grandfather, Grandad",அப்பாவின் அப்பா,,,,relation,corpus_sourashtradictionary
+,,வெஸிந்தி3ன்,vesindin,,,,Parent-in-law,சம்பந்தி,,,,relation,corpus_sourashtradictionary
+,,ஸஸு,sasu,,,,Mother-in-law,மாமியார்,,,,relation,corpus_sourashtradictionary
+,,ஸொஸுரோ,sosurO,,,,Father-in-Law,மாமனார்,,,,relation,corpus_sourashtradictionary
+,,ஜொமை,jomai,,,,Son-in-law,மருமகன்,,,,relation,corpus_sourashtradictionary
+,,பொ4வ்ண்டி3,bhovNDi,,,,Daughter-in-law,மருமகள்,,,,relation,corpus_sourashtradictionary
+,,நத்தெ,natte,,,,Grand Son,பேரன்,,,,relation,corpus_sourashtradictionary
+,,நதினி,natini,,,,Grand Daughter,பேத்தி,,,,relation,corpus_sourashtradictionary
+,,பொன்னத்தெ,ponnatte,,,,Grand Grand Son,கொள்ளுப்பேரன்,,,,relation,corpus_sourashtradictionary
+,,பொன்னதினி,ponnatini,,,,Grand Grand Daughter,கொள்ளுப்பேத்தி,,,,relation,corpus_sourashtradictionary
+,,பரிவார்,parivaar,,,,Family,குடும்பம்,,,,relation,corpus_sourashtradictionary
+,,ஸம்ஸாரு,samsaaru,,,,Family,குடும்பம்,,,,relation,corpus_sourashtradictionary
+,,த3ம்பதி,dampati,,,,"Husband and Wife, Couple",கணவன் மனைவி,,,,relation,corpus_sourashtradictionary
+,,பொஸுனொ,posuno,,,,Adoption,தத்து,,,,relation,corpus_sourashtradictionary
+,,தி3யதி3,diyadi,,,,"Cousin, Cognate",பங்காளி,,,,relation,corpus_sourashtradictionary
+,,ஸெஜ்ஜெபொஜ்ஜெ,sejjepojje,,,,Neighbour,அக்கம்பக்கத்தவர்,,,,relation,corpus_sourashtradictionary
+,,ஜாத்,jaat,,,,Caste,இனம்,,,,relation,corpus_sourashtradictionary
+,,கோ3த்ரு,gOtru,,,,Origin / Lineage Name,கோத்திரம்,,,,relation,corpus_sourashtradictionary
+,,"குலொ, ஜாத்","kulo, jaat",,,,Race,இனம்,,,,relation,corpus_sourashtradictionary
+,,தோ2ர்,thOr,,,,Generation,தலைமுறை,,,,relation,corpus_sourashtradictionary
+,,பரம்பரொ,paramparo,,,,"Heritage, Legacy",பாரம்பரியம்,,,,relation,corpus_sourashtradictionary
+,,"வங்கு3ஸ், வம்ஶொ","vanggus, vamsso",,,,Ancestry,பரம்பரை,,,,relation,corpus_sourashtradictionary
+,,வம்ஶிகொ,vamssiko,,,,"Hereditary, Genetic","மரபு வழி, பரம்பரை வழி",,,,relation,corpus_sourashtradictionary
+,,வம்ஶிகாணு,vamssikaaNu,,,,Gene,மரபணு,,,,relation,corpus_sourashtradictionary
+,,வம்ஶிகாஸ்தி,vamssikaasti,,,,"Inheritance, Legacy","வழிவழிச் சொத்து, பரம்பரை உடைமை",,,,relation,corpus_sourashtradictionary
+,,வாரிஸ்,vaaris,,,,Heir,வாரிசு,,,,relation,corpus_sourashtradictionary
+,,லக3ன் தெ3ஸன்,lagan desan,,,,Allowing to get closer,நெருங்க விடுதல்,,,,relation,corpus_sourashtradictionary

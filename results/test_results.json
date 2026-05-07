@@ -1,0 +1,9 @@
+{
+  "corpus_bleu": 0.0,
+  "avg_sentence_bleu": 0.36,
+  "avg_chrf": 8.81,
+  "avg_cer": 115.63,
+  "avg_wer": 135.29,
+  "exact_match_accuracy": 0.42,
+  "num_samples": 1914
+}

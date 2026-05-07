@@ -1,0 +1,30 @@
+{
+  "model": "t5-small",
+  "version": "V4",
+  "approach": "Multilingual mT5 + Tamil cross-lingual transfer",
+  "test_metrics": {
+    "corpus_bleu": 3.57,
+    "avg_sentence_bleu": 3.4,
+    "avg_chrf": 18.27,
+    "avg_cer": 150.34,
+    "avg_wer": 152.63,
+    "exact_match_accuracy": 5.8,
+    "num_samples": 1914
+  },
+  "hf_test_metrics": {
+    "test_loss": 5.621378421783447,
+    "test_exact_match": 5.85,
+    "test_partial_match": 14.0,
+    "test_runtime": 32.953,
+    "test_samples_per_second": 58.083,
+    "test_steps_per_second": 1.821
+  },
+  "training_time_minutes": 57.7,
+  "total_train_examples": 20860,
+  "augmentation_ratio": 2.18,
+  "tasks": {
+    "sr_en": 9568,
+    "ta_en": 9568,
+    "sr_ta": 0
+  }
+}

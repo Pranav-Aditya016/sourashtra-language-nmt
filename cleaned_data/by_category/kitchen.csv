@@ -1,0 +1,76 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,ஹந்த3வ்,handav,,,,Cooking,சமையல்,,,,kitchen,corpus_sourashtradictionary
+,,ஹந்த3பு காம்,handapu kaam,,,,Cooking work,சமையல் வேலை,,,,kitchen,corpus_sourashtradictionary
+,,சுல்லொ,cullo,,,,"Stove, Oven",அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,லைடா3 சுல்லொ,laiDaa cullo,,,,Wood Stove,விறகடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,கொ2ள்ச்யா சுல்லொ,khoLcyaa cullo,,,,"Charcoal oven, Coke oven",கரி அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,கொட்பை சுல்லொ,koTpai cullo,,,,Mud oven which receives heat indirectly,கொடி அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,பௌ4னெஸ்,bhaunes,,,,Stove platform with coal and wood oven,"கரி, விறகு & கொடி அடுப்புகள் ஒன்றாக இருக்கும் அடுப்பு மேடை",,,,kitchen,corpus_sourashtradictionary
+,,தி3க3ரம் சுல்லொ,digaram cullo,,,,Kerosene Stove,மண்ணெண்னை அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,வரா சுல்லொ,varaa cullo,,,,Pump Stove,காற்று அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,வாயு சுல்லொ,vaayu cullo,,,,Gas Stove,எரிவாயு அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,விஜிலி சுல்லொ,vijili cullo,,,,Electric Stove,மின்சார அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,துக்கிஸொட3ன் சுல்லொ,tukkisoDan cullo,,,,Induction Stove,தூண்டல் அடுப்பு,,,,kitchen,corpus_sourashtradictionary
+,,ஸெனி,seni,,,,"Dry Cow dung, Argol",வரட்டி,,,,kitchen,corpus_sourashtradictionary
+,,ராக்,raak,,,,Ash,சாம்பல்,,,,kitchen,corpus_sourashtradictionary
+,,ப3ஸ்மொ,basmo,,,,Ash,சாம்பல்,,,,kitchen,corpus_sourashtradictionary
+,,கொ2ள்செ,khoLce,,,,"Charcoal, Coke",கரி,,,,kitchen,corpus_sourashtradictionary
+,,தி3க3ரம்,digaram,,,,Kerosene,மண்ணெண்னை,,,,kitchen,corpus_sourashtradictionary
+,,லைடொ3,laiDo,,,,Firewood,விறகு,,,,kitchen,corpus_sourashtradictionary
+,,லகு3டொ3,laguDo,,,,Firewood,விறகு,,,,kitchen,corpus_sourashtradictionary
+,,லகு3டா3ப4ரொ,laguDaabharo,,,,Wood bundle,விறகு கட்டு,,,,kitchen,corpus_sourashtradictionary
+,,செகு3லொ,cegulo,,,,Chopped Firewood,விறகு சிராய்,,,,kitchen,corpus_sourashtradictionary
+,,ஸெகி3டி3,segiDi,,,,Fire,"அக்கினி, நெருப்பு",,,,kitchen,corpus_sourashtradictionary
+,,அல்தொ,alto,,,,Fire,"அக்கினி, நெருப்பு",,,,kitchen,corpus_sourashtradictionary
+,,குள்டொ,kuLTo,,,,"Burning Coke, Ember","கங்கு, தணல்",,,,kitchen,corpus_sourashtradictionary
+,,விஸ்தெவ்,vistev,,,,"Burning Coke, Ember","கங்கு, தணல்",,,,kitchen,corpus_sourashtradictionary
+,,விங்க3ள்,vinggaL,,,,"Burning Coke, Ember","கங்கு, தணல்",,,,kitchen,corpus_sourashtradictionary
+,,பேட் லவத்தெ,pET lavatte,,,,Igniting Stove,அடுப்பு பற்றவைத்தல்,,,,kitchen,corpus_sourashtradictionary
+,,பு2ணலி,phuNali,,,,Blower,"ஊதுகுழல், ஊதாமனை",,,,kitchen,corpus_sourashtradictionary
+,,தூ4ம்,dhoom,,,,"Smoke, Fume",புகை,,,,kitchen,corpus_sourashtradictionary
+,,கொ4ம்பு3ளொ,ghombuLo,,,,Warm,இளஞ்சூடு,,,,kitchen,corpus_sourashtradictionary
+,,ஹத3ன்,hadan,,,,Fermented water prepared with starch and rice washed water,"வடிகஞ்சியும், அரிசி கழுவிய நீரும் கலந்த புளித்த தண்ணீர்",,,,kitchen,corpus_sourashtradictionary
+,,ஹத3ன் தொ2வத்தெ,hadan thovatte,,,,Boiling the water to cook rice,அரிசி சமைக்க தண்ணீரை கொதிக்க வைத்தல்,,,,kitchen,corpus_sourashtradictionary
+,,கே2ட்,khET,,,,Hot boiling point of cooked rice,சமைத்த அரிசியின் சூடான கொதிநிலை,,,,kitchen,corpus_sourashtradictionary
+,,கெ2டி3னி,kheDini,,,,Boiling point,கொதிநிலை,,,,kitchen,corpus_sourashtradictionary
+,,தப்பினி,tappini,,,,Boiling,கொதித்தல்,,,,kitchen,corpus_sourashtradictionary
+,,வாப்,vaap,,,,"Vapour, Steam",ஆவி,,,,kitchen,corpus_sourashtradictionary
+,,தவ்னி,tavni,,,,Melting,உருகுதல்,,,,kitchen,corpus_sourashtradictionary
+,,தவை ஜாய்,tavai jaay,,,,Melt away,உருகி விடும்,,,,kitchen,corpus_sourashtradictionary
+,,சுண்ட3ணி,cuNDaNi,,,,Boiling hot,சுடுதல்,,,,kitchen,corpus_sourashtradictionary
+,,ஜெலஜெலனி,jelajelani,,,,Bubbling hot,தகதகவென கொதித்தல்,,,,kitchen,corpus_sourashtradictionary
+,,ஹுப்3பி3னி,hubbini,,,,"Boiling, Overflowing, Effervescence",பொங்குதல்,,,,kitchen,corpus_sourashtradictionary
+,,நிவ்னொ,nivno,,,,Coir Rope Trivet,பிரிமனை,,,,kitchen,corpus_sourashtradictionary
+,,புட்3கி,puDki,,,,Palm leaf Basket,கூடை,,,,kitchen,corpus_sourashtradictionary
+,,"ஹொகள், ஹொக3ள்","hokaL, hogaL",,,,"Mortar, Grinding Stone",உரல்,,,,kitchen,corpus_sourashtradictionary
+,,து4ம்டாஹொகளு,dhumTaahokaLu,,,,Wooden mortar,மர உரல்,,,,kitchen,corpus_sourashtradictionary
+,,சகி ஹொகள்,caki hokaL,,,,Grinder,இயந்திர உரல்,,,,kitchen,corpus_sourashtradictionary
+,,ஒர்கு3லோ,orgulO,,,,Pounder,ஆட்டுக்கல்,,,,kitchen,corpus_sourashtradictionary
+,,லுப்3லொ,lublo,,,,Pounder,ஆட்டுக்கல்,,,,kitchen,corpus_sourashtradictionary
+,,லுப்3பு3ர்கய்லொ,lubburkaylo,,,,Pounder,ஆட்டுக்கல்,,,,kitchen,corpus_sourashtradictionary
+,,ர்ஹெகு3டொ3,rheguDo,,,,Hand Mill,அரைக்கல்,,,,kitchen,corpus_sourashtradictionary
+,,படொ,paTo,,,,Metate,அம்மி,,,,kitchen,corpus_sourashtradictionary
+,,தெ3கு3டா3படொ,deguDaapaTo,,,,Metate,கல் அம்மி,,,,kitchen,corpus_sourashtradictionary
+,,சகி படொ,caki paTo,,,,Mixie,இயந்திர அம்மி,,,,kitchen,corpus_sourashtradictionary
+,,படா தெ3ய்டொ3,paTaa deyDo,,,,Metate's pestle,அம்மிக் குழவி,,,,kitchen,corpus_sourashtradictionary
+,,முஸல்,musal,,,,Pestle,உலக்கை,,,,kitchen,corpus_sourashtradictionary
+,,ஸொலொ,solo,,,,Measuring Cup,உழக்கு,,,,kitchen,corpus_sourashtradictionary
+,,அட்3டொ3,aDDo,,,,Full Measure,படி (அளவு),,,,kitchen,corpus_sourashtradictionary
+,,ஸுடொ3,suDo,,,,Winnowing basket,முறம்,,,,kitchen,corpus_sourashtradictionary
+,,ஸுப்3டொ3,subDo,,,,Winnowing basket,முறம்,,,,kitchen,corpus_sourashtradictionary
+,,ஸுலொ,sulo,,,,Winnowing basket,சுடு சாதத்தை ஆற வைக்கும் வட்ட வடிவ முறம்,,,,kitchen,corpus_sourashtradictionary
+,,மொத்து,mottu,,,,Dal Churner,பருப்பு கடையும் மத்து,,,,kitchen,corpus_sourashtradictionary
+,,கு3ஸிளி,gusiLi,,,,Curd Churner,தயிர் கடையும் மத்து,,,,kitchen,corpus_sourashtradictionary
+,,சீஸ் அம்ப3ட்,cees ambaT,,,,Tamarind Rice Mix,புளிக்காய்ச்சல்,,,,kitchen,corpus_sourashtradictionary
+,,சீஸு பொள்டொ,ceesu poLTo,,,,Squeezed Tamarind,புளிச்சக்கை,,,,kitchen,corpus_sourashtradictionary
+,,நல்லி,nalli,,,,Tap,குழாய்,,,,kitchen,corpus_sourashtradictionary
+,,ஜ2ன்னி,jhanni,,,,"Broomstick, Besom","விளக்குமாறு, துடைப்பம்",,,,kitchen,corpus_sourashtradictionary
+,,பூலு ஜ2ன்னி,poolu jhanni,,,,Grass Broom,பூந்துடப்பம்,,,,kitchen,corpus_sourashtradictionary
+,,நலரு ஜ2ன்னி,nalaru jhanni,,,,Coconut Palm Broom,தென்னந்துடப்பம்,,,,kitchen,corpus_sourashtradictionary
+,,ஜ2ன்னி க2ட்டி,jhanni khaTTi,,,,"Broom stick, Rib of a palm leaf",ஈர்க்குச்சி,,,,kitchen,corpus_sourashtradictionary
+,,ஸெக்கலு க2ட்டி,sekkalu khaTTi,,,,Dry can stick,கோரைப்புல் குச்சி,,,,kitchen,corpus_sourashtradictionary
+,,குப்பொ,kuppo,,,,"Garbage, Trash, Waste, Junk",குப்பை,,,,kitchen,corpus_sourashtradictionary
+,,ட3ப்3பொ3,Dabbo,,,,Bin,தொட்டி,,,,kitchen,corpus_sourashtradictionary
+,,"சிகு3ட்டொ, சிவுட்டொ","ciguTTo, civuTTo",,,,"Viscous, Sticky","பிசுபிசுப்பு, ஒட்டுதல்",,,,kitchen,corpus_sourashtradictionary
+,,முறி பொ3ட்டொ,muri boTTo,,,,Kitchen Towel,அழுக்குத்துணி,,,,kitchen,corpus_sourashtradictionary
+,,மொஸுரா பொ3ட்டொ,mosuraa boTTo,,,,Kitchen Towel,கைப்பிடித்துணி,,,,kitchen,corpus_sourashtradictionary

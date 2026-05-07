@@ -1,0 +1,23 @@
+{
+  "greedy": {
+    "corpus_bleu": 0.0,
+    "avg_sentence_bleu": 0.98,
+    "avg_chrf": 10.87,
+    "avg_cer": 137.11,
+    "avg_wer": 142.03,
+    "exact_match_accuracy": 2.04,
+    "num_samples": 1914
+  },
+  "beam_search": {
+    "corpus_bleu": 0.0,
+    "avg_sentence_bleu": 1.59,
+    "avg_chrf": 11.78,
+    "avg_cer": 142.49,
+    "avg_wer": 134.85,
+    "exact_match_accuracy": 2.56,
+    "num_samples": 1914
+  },
+  "best_epoch": 28,
+  "best_val_loss": 4.714112615585327,
+  "total_training_time_minutes": 6.6
+}

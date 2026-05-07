@@ -1,0 +1,144 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,பா4வனொ,bhaavano,,,,"Emotion, Feeling, Attitude, Sentiment","உணர்ச்சி, உணர்வு, மனப்பான்மை",,,,feelings,corpus_sourashtradictionary
+,,பா4வனொதெ4ரெ,bhaavanodhere,,,,Emotional,உணர்ச்சி வயப்பட்ட,,,,feelings,corpus_sourashtradictionary
+,,சித்து,cittu,,,,Mind,மனது,,,,feelings,corpus_sourashtradictionary
+,,சிஜ்ஜிது,cijjitu,,,,Conquering the mind,மனதை வெல்வது,,,,feelings,corpus_sourashtradictionary
+,,மொன்னு,monnu,,,,Mind,மனது,,,,feelings,corpus_sourashtradictionary
+,,மொன்னுதெ4ரெ,monnudhere,,,,"Mental, Psycho",மனஞ்சார்ந்த,,,,feelings,corpus_sourashtradictionary
+,,பி4த்தரு மொன்னு,bhittaru monnu,,,,Conscience,மனசாட்சி,,,,feelings,corpus_sourashtradictionary
+,,நிம்மள்,nimmaL,,,,Peace of mind,நிம்மதி,,,,feelings,corpus_sourashtradictionary
+,,லேதன்,lEtan,,,,Thinking,நினைப்பு,,,,feelings,corpus_sourashtradictionary
+,,க3வன்,gavan,,,,Thought,எண்ணம்,,,,feelings,corpus_sourashtradictionary
+,,ஹட்வன்,haTvan,,,,"Memory, Remembrance, Thought","நினைவு, ஞாபகம், நினைப்பு, எண்ணம்",,,,feelings,corpus_sourashtradictionary
+,,ஹவ்ட3ன்,havDan,,,,"Memory, Remembrance, Thought","நினைவு, ஞாபகம், நினைப்பு, எண்ணம்",,,,feelings,corpus_sourashtradictionary
+,,ஹவ்ட3ரஸ்,havDaras,,,,"Suppose, Think","எண்ணுகிறேன், நினைக்கிறேன்",,,,feelings,corpus_sourashtradictionary
+,,"ஸாந்த், ஶாந்தி","saant, ssaanti",,,,"Peace, Calm, Serenity, Quiet",அமைதி,,,,feelings,corpus_sourashtradictionary
+,,ஓர்ப்,Orp,,,,Patience,பொறுமை,,,,feelings,corpus_sourashtradictionary
+,,அல்லட்னி,allaTni,,,,"Impatient, Jumpy, Restless","தவித்தல், தவிப்பு",,,,feelings,corpus_sourashtradictionary
+,,துஸ்னி,tusni,,,,"Joy, Pleasure, Happy, Delight, Happiness",மகிழ்ச்சி,,,,feelings,corpus_sourashtradictionary
+,,குஷி,kushi,,,,"Joy, Pleasure, Happy, Delight, Happiness",மகிழ்ச்சி,,,,feelings,corpus_sourashtradictionary
+,,ஸந்தோஸ்,santOs,,,,"Joy, Pleasure, Happy, Delight, Happiness",மகிழ்ச்சி,,,,feelings,corpus_sourashtradictionary
+,,உத்ஸாஹ்,utsaah,,,,"Jolly, Excitement, Exuberant","மகிழ்ச்சி, உற்சாகம்",,,,feelings,corpus_sourashtradictionary
+,,ஸொம்பு,sompu,,,,"Joy, Pleasure, Happy, Delight, Happiness",மகிழ்ச்சி,,,,feelings,corpus_sourashtradictionary
+,,ஸொந்தோ3ஷ்,sondOsh,,,,"Joy, Pleasure, Happy, Delight, Happiness",மகிழ்ச்சி,,,,feelings,corpus_sourashtradictionary
+,,ஸொந்து,sontu,,,,"Happy, Pleasure, Exultation, Merriment","சந்தோஷம், களிப்பு",,,,feelings,corpus_sourashtradictionary
+,,ஸொந்தோஷ்கன்,sontOshkan,,,,Happily,சந்தோஷமாக,,,,feelings,corpus_sourashtradictionary
+,,துஷத்தெ,tushatte,,,,Being happy,மகிழ்ச்சியாக இருப்பது,,,,feelings,corpus_sourashtradictionary
+,,பு2லன்,phulan,,,,State of delight,பூரித்தல்,,,,feelings,corpus_sourashtradictionary
+,,பு2லஸ்,phulas,,,,"Ecstasy, Highly delighted, Heavenly","புளகாங்கிதம், பெருமகிழ்ச்சி",,,,feelings,corpus_sourashtradictionary
+,,"வேன் ஸொந்தோஷ் ஹொயெ, ஸ்வர்கு3 தெ4ரெ","vEn sontOsh hoye, svargu dhere",,,,Heavenly,"பெரு மகிழ்ச்சியூட்டுகிற, சுவர்க்கம் தொடர்பான",,,,feelings,corpus_sourashtradictionary
+,,ஸுக2ம்,sukham,,,,Comfort,சுகம்,,,,feelings,corpus_sourashtradictionary
+,,து3ஹ்கு2 பொட3த்தெ,duhkhu poDatte,,,,"Feeling sorry, Regret",வருத்தப்படுதல்,,,,feelings,corpus_sourashtradictionary
+,,விசார் பொட3த்தெ,vicaar poDatte,,,,"Feeling sorry, Regret",வருத்தப்படுதல்,,,,feelings,corpus_sourashtradictionary
+,,விசார்,vicaar,,,,"Anxiety, Worry, Sad","கவலை, வருத்தம்",,,,feelings,corpus_sourashtradictionary
+,,சிந்தொ,cinto,,,,"Worry, Sad, Concern","கவலை, வருத்தம், அக்கறை",,,,feelings,corpus_sourashtradictionary
+,,வெகுல்,vekul,,,,"Worry, Anxiety","கவலை, மனக்கவலை",,,,feelings,corpus_sourashtradictionary
+,,வியாகூல்,viyaakool,,,,"Worry, Anxiety","கவலை, மனக்கவலை",,,,feelings,corpus_sourashtradictionary
+,,பரிதாப்,paritaap,,,,Pity,வருத்தம்,,,,feelings,corpus_sourashtradictionary
+,,பஶ்சாதாப்,passcaataap,,,,"Repentance, Sympathy",கழிவிரக்கம்,,,,feelings,corpus_sourashtradictionary
+,,பா4ர்,bhaar,,,,"Pain, Suffering","வலி, துன்பம்",,,,feelings,corpus_sourashtradictionary
+,,மொன்னு பா4ர்,monnu bhaar,,,,Stress,மன அழுத்தம்,,,,feelings,corpus_sourashtradictionary
+,,ஸூத்,soot,,,,"Longing, Nostalgic",ஏக்கம்,,,,feelings,corpus_sourashtradictionary
+,,து3வ்னொ,duvno,,,,"Pain, Ache","வலி, துன்பம்",,,,feelings,corpus_sourashtradictionary
+,,பா3தொ3,baado,,,,"Pain, Suffering, Grief, Sorrow, Worry","துன்பம், துயரம், வருத்தம்",,,,feelings,corpus_sourashtradictionary
+,,வேத3னொ,vEdano,,,,"Pain, Suffering, Grief, Sorrow, Worry","துன்பம், துயரம், வருத்தம்",,,,feelings,corpus_sourashtradictionary
+,,து3க்,duk,,,,"Grief, Mourning",துக்கம்,,,,feelings,corpus_sourashtradictionary
+,,து3கு,duku,,,,"Grief, Mourning",துக்கம்,,,,feelings,corpus_sourashtradictionary
+,,பாட்,paaT,,,,"Harassment, Difficulty, Situation","தொல்லை, கஷ்டம், நிலைமை",,,,feelings,corpus_sourashtradictionary
+,,ராக்3,raag,,,,"Anger, Temper",கோபம்,,,,feelings,corpus_sourashtradictionary
+,,ராக்3 ஹொயெ,raag hoye,,,,Angry,"கோபமான, கோபமுள்ள",,,,feelings,corpus_sourashtradictionary
+,,குப்னி,kupni,,,,Anger,கோபம்,,,,feelings,corpus_sourashtradictionary
+,,உக்3கு3ர்,uggur,,,,"Extreme anger, Ferocious",கடுமையான கோபம்,,,,feelings,corpus_sourashtradictionary
+,,மத்ச2 ர்ஹால்,matcha rhaal,,,,"Hostility, Animosity, Anger","குரோதம், கோபம்",,,,feelings,corpus_sourashtradictionary
+,,வங்க2ள்ளி,vangkhaLLi,,,,Angrily,"சினம் கொண்டு, கோபத்துடன்",,,,feelings,corpus_sourashtradictionary
+,,ஸுரத்,surat,,,,"Irate, Susceptiblity",ரோஷம்,,,,feelings,corpus_sourashtradictionary
+,,ரூஸ்,roos,,,,Fake Anger,பொய்க்கோபம்,,,,feelings,corpus_sourashtradictionary
+,,உத்ஜம்,utjam,,,,Tension,பதற்றம்,,,,feelings,corpus_sourashtradictionary
+,,தா4க்,dhaak,,,,"Fear, Awe, Afraid","பயம், அச்சம்",,,,feelings,corpus_sourashtradictionary
+,,தா4க்தெ4ரள்,dhaakdheraL,,,,"Fear, Awe, Afraid","பயம், அச்சம்",,,,feelings,corpus_sourashtradictionary
+,,ப4யப4க்தி,bhayabhakti,,,,"Awe, Reverence","பக்திபூர்வமான பயம், பிரமிப்பு",,,,feelings,corpus_sourashtradictionary
+,,பெ3து3ர்னி,bedurni,,,,"Astonish, Stun, Surprise, Awe","வியப்பு, திகைப்பு, பிரமிப்பு",,,,feelings,corpus_sourashtradictionary
+,,ப்4ரமொ,bhramo,,,,Confusion,குழப்பம்,,,,feelings,corpus_sourashtradictionary
+,,லும்ப்ளொ,lumpLo,,,,Confusion,குழப்பம்,,,,feelings,corpus_sourashtradictionary
+,,லும்ப்ளொ ஹொயெ,lumpLo hoye,,,,Confused,குழப்பமான,,,,feelings,corpus_sourashtradictionary
+,,ஆஶ்சர்யம்,aasscaryam,,,,Surprise,ஆச்சரியம்,,,,feelings,corpus_sourashtradictionary
+,,மொணம்,moNam,,,,"Honour, Respect",மானம்,,,,feelings,corpus_sourashtradictionary
+,,மான்,maan,,,,"Honour, Respect",மானம்,,,,feelings,corpus_sourashtradictionary
+,,அபுல்மான்,apulmaan,,,,"Self-respect, Prestige",தன்மானம்,,,,feelings,corpus_sourashtradictionary
+,,ஔமான்,aumaan,,,,"Insult, Disrespect, Dishonour","அவமதிப்பு, அவமரியாதை",,,,feelings,corpus_sourashtradictionary
+,,ஹினம்,hinam,,,,"Shame, Humiliation",அவமானம்,,,,feelings,corpus_sourashtradictionary
+,,லாஜ்,laaj,,,,"Shy, Shyness, Bashful","வெட்கம், நாணம், கூச்சமுடைய",,,,feelings,corpus_sourashtradictionary
+,,லஜ்ஜொ,lajjo,,,,"Shy, Shyness, Bashful, Embarrass","வெட்கம், நாணம், கூச்சமுடைய",,,,feelings,corpus_sourashtradictionary
+,,லஜ்ஜினி,lajjini,,,,"Shy, Shyness, Bashful, Embarrass","வெட்கம், நாணம், கூச்சமுடைய",,,,feelings,corpus_sourashtradictionary
+,,கொஞ்சுதொ3,konjcudo,,,,"Shy, Shyness, Bashful","வெட்கம், நாணம், கூச்சமுடைய",,,,feelings,corpus_sourashtradictionary
+,,ப்ரேவ்,prEv,,,,"Love, Affection","அன்பு, பாசம், காதல்",,,,feelings,corpus_sourashtradictionary
+,,பிரேவ்,pirEv,,,,Favorite,பிடித்த,,,,feelings,corpus_sourashtradictionary
+,,ஒப்பய,oppaya,,,,Favorite,பிடித்த,,,,feelings,corpus_sourashtradictionary
+,,ப்ரேவ்ஹொயெ,prEvhoye,,,,"Dear, Darling, Sweetheart, Cutie",பிரியமான,,,,feelings,corpus_sourashtradictionary
+,,ப்ராமோ,praamO,,,,"Love, Affection","அன்பு, காதல்",,,,feelings,corpus_sourashtradictionary
+,,ப்ரேமொ,prEmo,,,,"Love, Affection","அன்பு, காதல்",,,,feelings,corpus_sourashtradictionary
+,,ஹிமத்,himat,,,,Comfort,இதம்,,,,feelings,corpus_sourashtradictionary
+,,லாலு,laalu,,,,"Affection, Fondness, Compassionate love",வாஞ்சை,,,,feelings,corpus_sourashtradictionary
+,,இஷ்க்,ishk,,,,Love,காதல்,,,,feelings,corpus_sourashtradictionary
+,,முஹ்னி,muhni,,,,Lust,"காமம், மோகம், மையல்",,,,feelings,corpus_sourashtradictionary
+,,லாஸு,laasu,,,,Lust,"காமம், மோகம், மையல்",,,,feelings,corpus_sourashtradictionary
+,,லயிஞ்சினி,layinjcini,,,,Passion,"வேட்கை, உணர்ச்சி",,,,feelings,corpus_sourashtradictionary
+,,முத்3து3,muddu,,,,Kiss,முத்தம்,,,,feelings,corpus_sourashtradictionary
+,,பு3ச்சி,bucci,,,,Kiss,முத்தம்,,,,feelings,corpus_sourashtradictionary
+,,தத்வஜ்னொ,tatvajno,,,,Philosophy,தத்வம்,,,,feelings,corpus_sourashtradictionary
+,,குதூஹலொ,kutoohalo,,,,Interest,ஆர்வம்,,,,feelings,corpus_sourashtradictionary
+,,ஸிங்கா3ர்,singgaar,,,,Beautiful,அழகு,,,,feelings,corpus_sourashtradictionary
+,,ஶிங்கா3ரு,ssinggaaru,,,,Beautiful,அழகான,,,,feelings,corpus_sourashtradictionary
+,,பெ4ளி ஸிங்க்3யார்,bheLi singgyaar,,,,"Awesome, Elegant, Exquisite, Finest, Grand, Magnificent","அற்புதமான, நேர்த்தியான, சிறந்த, பிரமாண்டமான",,,,feelings,corpus_sourashtradictionary
+,,அந்து3ஸ்,andus,,,,Beauty,லட்சணம்,,,,feelings,corpus_sourashtradictionary
+,,ஆகர்ஷக்,aakarshak,,,,"Charm, Attractive",கவர்ச்சி,,,,feelings,corpus_sourashtradictionary
+,,ஹஸொ,haso,,,,"Laughter, Smile",சிரிப்பு,,,,feelings,corpus_sourashtradictionary
+,,ஹாஸியம்,haasiyam,,,,"Comedy, Humor",நகைச்சுவை,,,,feelings,corpus_sourashtradictionary
+,,ரொட்3னி,roDni,,,,Cry,அழுகை,,,,feelings,corpus_sourashtradictionary
+,,ஆஸ்தொ,aasto,,,,"Desire, Longing",ஆசை,,,,feelings,corpus_sourashtradictionary
+,,ஆஶ,aassa,,,,"Desire, Longing",ஆசை,,,,feelings,corpus_sourashtradictionary
+,,லூப்,loop,,,,"Greed, Inordinate desire","பேராசை, அளவு கடந்த ஆசை",,,,feelings,corpus_sourashtradictionary
+,,நிராஶொ,niraasso,,,,Without desire,"நிராசை, ஆசை இல்லா",,,,feelings,corpus_sourashtradictionary
+,,த்ருப்தி,trupti,,,,Satisfaction,திருப்தி,,,,feelings,corpus_sourashtradictionary
+,,இஷ்ணி,ishNi,,,,"Desire, Like, Wish",விருப்பம்,,,,feelings,corpus_sourashtradictionary
+,,இஷ்டம்,ishTam,,,,"Will, Like, Wish",விருப்பம்,,,,feelings,corpus_sourashtradictionary
+,,ரொஸினி,rosini,,,,"Hate, Aversion, Hatred",வெறுப்பு,,,,feelings,corpus_sourashtradictionary
+,,"ரோஸ், ரொஸத்தெ","rOs, rosatte",,,,"Hate, Hatred, Dislike",வெறுத்தல்,,,,feelings,corpus_sourashtradictionary
+,,த்3வேஷ்,dvEsh,,,,"Hate, Hatred, Dislike",வெறுப்பு,,,,feelings,corpus_sourashtradictionary
+,,ஒப்பாய்,oppaay,,,,Like,பிடிக்கும்,,,,feelings,corpus_sourashtradictionary
+,,ஒப்பானா,oppaanaa,,,,Dislike,பிடிக்காது,,,,feelings,corpus_sourashtradictionary
+,,ஒப்பாரஸ்,oppaaras,,,,"Liking it, Like it",பிடித்திருக்கிறது,,,,feelings,corpus_sourashtradictionary
+,,கெஷ்டம்,keshTam,,,,Difficulty,சிரமம்,,,,feelings,corpus_sourashtradictionary
+,,கெஷ்டம்ஹொயெ,keshTamhoye,,,,Difficult,கஷ்டமான,,,,feelings,corpus_sourashtradictionary
+,,உத்3தே3ஶ்,uddEss,,,,Purpose,நோக்கம்,,,,feelings,corpus_sourashtradictionary
+,,நிகொ,niko,,,,Careful,கவனம்,,,,feelings,corpus_sourashtradictionary
+,,கொ4ரம்,ghoram,,,,Focus,கவனம்,,,,feelings,corpus_sourashtradictionary
+,,தும்ரொ,tumro,,,,Attention,கவனம்,,,,feelings,corpus_sourashtradictionary
+,,கௌ3ஞ்ஜினி,gaunjjini,,,,"Caring, Care","அக்கறை, கவனிப்பு",,,,feelings,corpus_sourashtradictionary
+,,யுக்தி,yukti,,,,Idea,யோசனை,,,,feelings,corpus_sourashtradictionary
+,,ஊஹனொ,uuhano,,,,Idea,யோசனை,,,,feelings,corpus_sourashtradictionary
+,,முர்ஸு,mursu,,,,Foresight,முன்யோசனை,,,,feelings,corpus_sourashtradictionary
+,,அபி3ப்ராயம்,abipraayam,,,,Opinion,கருத்து,,,,feelings,corpus_sourashtradictionary
+,,ஏகாந்து,Ekaantu,,,,"Lone, Loneliness, Privacy",தனிமை,,,,feelings,corpus_sourashtradictionary
+,,வெகுளொ,vekuLo,,,,"Lone, Solitude",தனிமை,,,,feelings,corpus_sourashtradictionary
+,,விஸிவாஷ்டொ,visivaashTo,,,,Irritation,எரிச்சல்,,,,feelings,corpus_sourashtradictionary
+,,வெவுஞ்சினி,vevunjcini,,,,Fuming,"மனதில் புகைதல், பொங்குதல்",,,,feelings,corpus_sourashtradictionary
+,,க்லிஶத்தெ,klissatte,,,,"Irritating, Annoying","எரிந்து விழுதல், எரிச்சலூட்டுதல்",,,,feelings,corpus_sourashtradictionary
+,,ஹுடு3ஞ்ஜி பொட3த்தெ,huDunjji poDatte,,,,bursting with irritation,எரிந்து விழுதல்,,,,feelings,corpus_sourashtradictionary
+,,விஸி பொட3த்தெ,visi poDatte,,,,Burst with irritation,எரிந்து விழுதல்,,,,feelings,corpus_sourashtradictionary
+,,விஶி ந்ஹாத்தொ,vissi nhaatto,,,,Tirelessly,சலிக்காமல்,,,,feelings,corpus_sourashtradictionary
+,,கோ3ஶி,gOssi,,,,Tirelessly,சலிக்காமல்,,,,feelings,corpus_sourashtradictionary
+,,திந்து3னாத்தொ,tindunaatto,,,,Without frowning,முகம் சுளிக்காமல்,,,,feelings,corpus_sourashtradictionary
+,,ஸெக்கானா,sekkaanaa,,,,Unbearable,தாங்க முடியாத,,,,feelings,corpus_sourashtradictionary
+,,ஸெக்குனாத்த,sekkunaatta,,,,Intolerable,சகிக்க முடியாத,,,,feelings,corpus_sourashtradictionary
+,,ப்ரேரணொ,prEraNo,,,,Inspiration,உத்வேகம்,,,,feelings,corpus_sourashtradictionary
+,,பன்மன்ட்கே,panmanTkE,,,,Hesitation,தயக்கம்,,,,feelings,corpus_sourashtradictionary
+,,மல்சினி,malcini,,,,Hesitation,தயக்கம்,,,,feelings,corpus_sourashtradictionary
+,,மனோரஞ்ஜன்,manOranjjan,,,,Entertainment,பொழுதுபோக்கு,,,,feelings,corpus_sourashtradictionary
+,,தி3ன்னுஜனி,dinnujani,,,,Entertainment,பொழுதுபோக்கு,,,,feelings,corpus_sourashtradictionary
+,,க3ரன்,garan,,,,"Glory, Fame","பெருமை, புகழ்",,,,feelings,corpus_sourashtradictionary
+,,கா3ரிரு,gaariru,,,,Proudly in the world,உலகில் பெருமையுடன்,,,,feelings,corpus_sourashtradictionary
+,,கா3ரி ஹோரு,gaari hOru,,,,Proudly in the world,உலகில் பெருமையுடன்,,,,feelings,corpus_sourashtradictionary
+,,அஜ்ஞான்,ajnjaan,,,,Ignorance,அறியாமை,,,,feelings,corpus_sourashtradictionary
+,,தா3ந்தி,daanti,,,,"Controlling the senses, Self-restraint","புலன்களை அடக்குதல், சுய கட்டுப்பாடு",,,,feelings,corpus_sourashtradictionary
+,,மெனிகு3 த3க்ஷண்,menigu dakshaN,,,,Humanity,"மனிதநேயம், மனிதத் தன்மை",,,,feelings,corpus_sourashtradictionary

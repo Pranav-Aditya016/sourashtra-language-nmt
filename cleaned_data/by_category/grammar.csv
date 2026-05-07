@@ -1,0 +1,69 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,வ்யாகரண்,vyaakaraN,,,,Grammar,இலக்கணம்,,,,grammar,corpus_sourashtradictionary
+,,வ்யாகரண வாசின்,vyaakaraNa vaacin,,,,Grammatical words,இலக்கணச் சொற்கள்,,,,grammar,corpus_sourashtradictionary
+,,நாமவாசி,naamavaaci,,,,Noun,பெயர்ச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,க்ரியாவாசின்,kriyaavaacin,,,,Verbs,வினைச்சொற்கள்,,,,grammar,corpus_sourashtradictionary
+,,விப4க்தி வர்ணகு3ன்,vibhakti varNagun,,,,Case makers,வேற்றுமை உருபுகள்,,,,grammar,corpus_sourashtradictionary
+,,ஸப்3து3,sabdu,,,,Word,சொல்,,,,grammar,corpus_sourashtradictionary
+,,நாகு3ன்,naagun,,,,Nasal Word,நாசி சொல்,,,,grammar,corpus_sourashtradictionary
+,,உபாக்ஷர்,upaakshar,,,,Sub letter,துணை எழுத்து,,,,grammar,corpus_sourashtradictionary
+,,மீளாக்ஷர்,meeLaakshar,,,,Conjuncts,கூட்டெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,ஹாருன்,haarun,,,,"nha, mha, rha, lha","ந்ஹ, ம்ஹ, ர்ஹ, ல்ஹ",,,,grammar,corpus_sourashtradictionary
+,,தா3துன்,daatun,,,,"cam, cham, jam, jham","சம், ச2ம், ஜம், ஜ2ம்",,,,grammar,corpus_sourashtradictionary
+,,ஸாந்து3ரு,saanduru,,,,One word Conjuncts,ஓரெழுத்து கூட்டெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,லிபி,lipi,,,,Script,வரிவடிவம்,,,,grammar,corpus_sourashtradictionary
+,,உச்சாரணொ,uccaaraNo,,,,Pronunciation,உச்சரிப்பு,,,,grammar,corpus_sourashtradictionary
+,,ஸம்யுக்த,samyukta,,,,Conjunct,இணைத்தல்,,,,grammar,corpus_sourashtradictionary
+,,ஸம்யுக்த லிபி,samyukta lipi,,,,Conjunct letter,இணைந்த எழுத்து,,,,grammar,corpus_sourashtradictionary
+,,ஆஸு,aasu,,,,Vowel,ஜீவாக்ஷரம்,,,,grammar,corpus_sourashtradictionary
+,,அஜுனு,ajunu,,,,Vowel,உயிரெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,அலுனு,alunu,,,,Consonant,மெய்யெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,ஹலுனு,halunu,,,,Consonant,மெய்யெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,ஒபுனு,opunu,,,,Consonant + 'a',அகர உயிர்மெய்யெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,தனுனு,tanunu,,,,Combinational letter,உயிர்மெய்யெழுத்து,,,,grammar,corpus_sourashtradictionary
+,,ஸமக்ஷ,samaksha,,,,Superior class of being,உயர்திணை,,,,grammar,corpus_sourashtradictionary
+,,பரோக்ஷ,parOksha,,,,Inferior class of being,அஃறிணை,,,,grammar,corpus_sourashtradictionary
+,,ப3த்3னவாசி,badnavaaci,,,,Pronoun,பிரதிபெயர்ச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,கு3ணவாசி,guNavaaci,,,,Adjective,பெயர் உரிச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,க்ரியாவாசி,kriyaavaaci,,,,Verb,வினைச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,புக்ரவாசி,pukravaaci,,,,Adverb,வினையுரிச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,நிக்ரவாசி,nikravaaci,,,,Conjunction,இடைச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,தீ4டவாசி,dheeTavaaci,,,,Interjection,வியப்புச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,விஶேஷண,vissEshaNa,,,,Special,சிறப்பு,,,,grammar,corpus_sourashtradictionary
+,,விஶேஷ்ய,vissEshya,,,,Substantive,பெயர்ச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,லிங்கு3,linggu,,,,Gender,பாலினம்,,,,grammar,corpus_sourashtradictionary
+,,த3ல்லிங்கு3,dallinggu,,,,Masculine,ஆண்பால்,,,,grammar,corpus_sourashtradictionary
+,,அள்ளிங்கு3,aLLinggu,,,,Feminine,பெண்பால்,,,,grammar,corpus_sourashtradictionary
+,,நபும்ஸலிங்கு3,napumsalinggu,,,,Othar than Masculine and Feminine,"ஆண், பெண் தவிர மற்ற பாலினம்",,,,grammar,corpus_sourashtradictionary
+,,வசனு,vacanu,,,,Noun Number,பெயர்ச்சொல் எண்,,,,grammar,corpus_sourashtradictionary
+,,ஏகவசனு,Ekavacanu,,,,Singluar Noun,ஒருமை பெயர்ச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,ப3ஹுவசனு,bahuvacanu,,,,Plural Noun,பன்மை பெயர்ச்சொல்,,,,grammar,corpus_sourashtradictionary
+,,புருஷு,purushu,,,,Person,நிலை,,,,grammar,corpus_sourashtradictionary
+,,உத்தம புருஷு,uttama purushu,,,,First person,தன்மை,,,,grammar,corpus_sourashtradictionary
+,,மத்3யம புருஷு,madyama purushu,,,,Second person,முன்னிலை,,,,grammar,corpus_sourashtradictionary
+,,தத்தம புருஷு,tattama purushu,,,,Third person,படர்க்கை,,,,grammar,corpus_sourashtradictionary
+,,விப4க்தி,vibhakti,,,,Case,வேற்றுமை,,,,grammar,corpus_sourashtradictionary
+,,வர்ணகு3ன்,varNagun,,,,"Makers, Elements",உருபுகள்,,,,grammar,corpus_sourashtradictionary
+,,காலு,kaalu,,,,Tense,காலம்,,,,grammar,corpus_sourashtradictionary
+,,சல்தகாலு,caltakaalu,,,,Present Tense,நிகழ்காலம்,,,,grammar,corpus_sourashtradictionary
+,,கே3காலு,gEkaalu,,,,Past Tense,இறந்தகாலம்,,,,grammar,corpus_sourashtradictionary
+,,ஔதகாலு,autakaalu,,,,Future Tense,எதிர்காலம்,,,,grammar,corpus_sourashtradictionary
+,,பா4வக்க்ரியொ,bhaavakkriyo,,,,Affirmative Verb,உடன்பாட்டு வினை,,,,grammar,corpus_sourashtradictionary
+,,வ்யதிரேகக்ரியொ,vyatirEkakriyo,,,,Negative Verb,எதிர்மறை வினை,,,,grammar,corpus_sourashtradictionary
+,,ப்ரத்யாஹார,pratyaahaara,,,,Abbrevation,சுருக்கக்குறியீடு,,,,grammar,corpus_sourashtradictionary
+,,ஸங்ஞார்தா2னி,sangnjaarthaani,,,,Technical Names,தொழில்நுட்ப பெயர்கள்,,,,grammar,corpus_sourashtradictionary
+,,"தி3வ்வொ விப4க்தி - கு, கொ, தெ4ரி","divvo vibhakti - ku, ko, dheri",,,,"2nd case maker - ku, ko, dheri","இரண்டாம் வேற்றுமை உருபுகள் - கு, கொ, தெ4ரி",,,,grammar,corpus_sourashtradictionary
+,,"தீ2ன்வொ விப4க்தி - ஹாலி, ஸர, ஸரொ, ஸெரொ, ஸெங்கொ3, ஸெந்தொ, ஸோரு","theenvo vibhakti - haali, sara, saro, sero, senggo, sento, sOru",,,,"3rd case maker - haali, sara, saro, sero, sengo, sento, sOru","மூன்றாம் வேற்றுமை உருபுகள் - ஹாலி, ஸர, ஸரொ, ஸெரோ, ஸெங்கொ3, ஸெந்தொ, ஸோரு",,,,grammar,corpus_sourashtradictionary
+,,"சர்வொ விப4க்தி - கு, கொ, வன்னொ","carvo vibhakti - ku, ko, vanno",,,,"4th case maker - ku, ko, vanno","நான்காம் வேற்றுமை உருபுகள் - கு, கொ, வன்னொ",,,,grammar,corpus_sourashtradictionary
+,,"பஞ்ச்வொ விப4க்தி - தொகொ, தொகன், ர்ஹீனு, லெங்கொ3, லெந்தொ, ஸொம்மரு","panjcvo vibhakti - toko, tokan, rheenu, lenggo, lento, sommaru",,,,"5th case maker - toko, tokan, rheenu, lengo, lento, sommaru","ஐந்தாம் வேற்றுமை உருபுகள் - தொகொ, தொகன், ர்ஹீனு, லெங்கொ3, லெந்தொ, ஸொம்மரு",,,,grammar,corpus_sourashtradictionary
+,,"ஸொவொ விப4க்தி - கெ, ரொ","sovo vibhakti - ke, ro",,,,"6th case maker - ke, ro","ஆறாம் வேற்றுமை உருபுகள் - கெ, ரொ",,,,grammar,corpus_sourashtradictionary
+,,"ஸத்வொ விப4க்தி - மு, ரு, ஜோளு, ஜொவொ, கா2லு, லெக்தொ, உஞ்சொ, பி4த்தரு, ஹோரு","satvo vibhakti - mu, ru, jOLu, jovo, khaalu, lekto, unjco, bhittaru, hOru",,,,"7th case maker - mu, ru, jOLu, jovo, khaalu, lekto, unjco, bhittaru, hOru","ஏழாம் வேற்றுமை உருபுகள் - மு, ரு, ஜோளு, ஜொவொ, கா2லு, லெக்தொ, உஞ்சொ, பி4த்தரு, ஹோரு",,,,grammar,corpus_sourashtradictionary
+,,"அட்வொ விப4க்தி - ஹே, ஹோ, ஓ, ரா, ரே, வா","aTvo vibhakti - hE, hO, O, raa, rE, vaa",,,,"8th case maker - hE, hO, O, raa, rE, vaa","எட்டாம் வேற்றுமை உருபுகள் - ஹே, ஹோ, ஓ, ரா, ரே, வா",,,,grammar,corpus_sourashtradictionary
+,,உதா3ஹரணொ,udaaharaNo,,,,Example,எடுத்துக்காட்டு,,,,grammar,corpus_sourashtradictionary
+,,ஸனாங்கு3 - கா2,sanaanggu - khaa,,,,One letter word - khaa,ஓரெழுத்து சொல் - கா2,,,,grammar,corpus_sourashtradictionary
+,,தி3தா3ங்கு3 - அமி,didaanggu - ami,,,,Two letter word - ami,ஈரெழுத்து சொல் - அமி,,,,grammar,corpus_sourashtradictionary
+,,திக்ராங்கு3 - உடாவ்,tikraanggu - uTaav,,,,Three letter word - uTaav,மூன்றெழுத்து சொல் - உடாவ்,,,,grammar,corpus_sourashtradictionary
+,,சத்ராங்கு3 - தளஹாத்,catraanggu - taLahaat,,,,Four letter word - taLahaat,நான்கெழுத்து சொல் - தளஹாத்,,,,grammar,corpus_sourashtradictionary
+,,பங்க்ராங்கு3ன் - அனுஸரணொ,pangkraanggun - anusaraNo,,,,Five letter word - anusaraNo,ஐந்தெழுத்து சொல் - அனுஸரணொ,,,,grammar,corpus_sourashtradictionary
+,,ஶஸாங்கு3ன் - ஹிந்த3லத்தெ,ssasaanggun - hindalatte,,,,Six letter word - hindalatte,ஆரெழுத்து சொல் - ஹிந்த3லத்தெ,,,,grammar,corpus_sourashtradictionary
+,,ஸக்காங்கு3ன் - பாய்ஞ்பொட3த்தெ,sakkaanggun - paaynjpoDatte,,,,Seven letter word - paaynjpoDatte,ஏழெத்து சொல் - பாய்ஞ்பொட3த்தெ,,,,grammar,corpus_sourashtradictionary

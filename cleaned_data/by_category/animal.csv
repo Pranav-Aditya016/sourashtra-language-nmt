@@ -1,0 +1,114 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,ஜீவுன்,jeevun,,,,"Living being, Organism",உயிரினம்,"வரொ, பனி வினா கொன்னி ஜீவுன் ஜிவத்தக் முஸுனா",No living being can survive without air and water,"காற்று, தண்ணீர் இல்லாமல் எந்த உயிரினமும் வாழ முடியாது",animal,corpus_sourashtradictionary
+,,தூ3த்தெ3னி ஜீவுன்,dootdeni jeevun,,,,Mammal,பாலூட்டி,திமிங்கி3லம் வேன் ம்ஹொட்டொ தூ3த்தெ3னி ஜந்து,The whale is the largest mammal,திமிங்கிலம் மிகப்பெரிய பாலூட்டி,animal,corpus_sourashtradictionary
+,,பு4ய்ஞ்பனி ஜீவுன்,bhuynjpani jeevun,,,,Amphibian,நிலநீர் உயிரினம்,பெ3ஸ்களி ஒண்டெ பு4ய்ஞ்பனி ஜீவு,The frog is an amphibian animal,தவளை ஒரு நிலநீர் உயிரினம்,animal,corpus_sourashtradictionary
+,,ஸரபடணார் ஜீவுன்,sarapaTaNaar jeevun,,,,Reptile,ஊர்வன,ஸரபடணார் ஜீவுன் ஸில்லொ ரெக3துயொ,Reptiles are cold-blooded,ஊர்வன குளிர் இரத்தம் கொண்டவை,animal,corpus_sourashtradictionary
+,,ம்ருகொ3,mrugo,,,,Animal,"விலங்கு, மிருகம்",ஐஸ்து பொ3லீம் ஹொயெ ம்ருகொ3,The elephant is the strongest animal,யானை வலிமையான விலங்கு,animal,corpus_sourashtradictionary
+,,ம்ருகொ3ஸாலொ,mrugosaalo,,,,Zoo,மிருகக்காட்சிசாலை,ம்ருகொ3ஸாலாம் அஸ்கி வித4 ம்ருக3ம்னுக் ஸவாய்,You can see all the animals at the zoo,மிருகக்காட்சிசாலையில் அனைத்து விலங்குகளையும் பார்க்கலாம்,animal,corpus_sourashtradictionary
+,,ஜந்து,jantu,,,,Creature,"பிராணி, விலங்கு",ப3ந்தொ3 காய் தா4னு ஜந்து கீ?,What kind of creature is the cockroach?,கரப்பான் பூச்சி என்ன வகையான உயிரினமோ?,animal,corpus_sourashtradictionary
+,,ஶிஷ்டஜந்து,ssishTajantu,,,,Polite animal,சாதுவான பிராணி,கா3ய் கொ2ப்3பி3ம் ஶிஷ்டஜந்து,The cow is always a polite animal,பசு எப்போதும் சாதுவான பிராணி,animal,corpus_sourashtradictionary
+,,து3ஷ்டஜந்து,dushTajantu,,,,Wicked animal,பொல்லாத பிராணி,வாக்3 ஒண்டெ து3ஷ்ட ஜந்து,The tiger is a wicked animal,புலி ஒரு பொல்லாத பிராணி,animal,corpus_sourashtradictionary
+,,மூகு3,moogu,,,,Animal,"விலங்கு, மிருகம்","மூகு3னும் கா3மு மூகு3, ராணு மூகு3 மெனி தீ3 ம்ஹொட்டொ வகொ3 ஸே",There are two major types of animals: the domestic animal and the wild animal,"விலங்குகளில் வீட்டு விலங்கு, காட்டு விலங்கு என இரண்டு பெரிய வகை உள்ளது",animal,corpus_sourashtradictionary
+,,கா3மு மூகு3,gaamu moogu,,,,Domestic animal,வீட்டு விலங்கு,"கொ4டொ3, பெ4ண்டு3, கொ3ரு அஸ்கி கா3மு மூகு3ன்","Horses, sheep, and cows are domestic animals","குதிரை, ஆடு, மாடு ஆகியவை வீட்டு விலங்குகள்",animal,corpus_sourashtradictionary
+,,ராணு மூகு3,raaNu moogu,,,,Wild animal,காட்டு விலங்கு,"ராண் பெ4ய்ஸ், வாக்3, ஸிம்ஹொ அஸ்கி ராணு மூகு3ன்","Wildebeest, tiger and lion are wild animals","காட்டெருமை, புலி, சிங்கம் ஆகியவை காட்டு விலங்குகள்",animal,corpus_sourashtradictionary
+,,ஸாது4 மூகு3,saadhu moogu,,,,Polite animal,சாதுவான விலங்கு,கா3ய் ஒண்டெ ஸாது4 மூகு3,The cow is a polite animal,பசு ஒரு சாதுவான விலங்கு,animal,corpus_sourashtradictionary
+,,உடு3த்தொ,uDutto,,,,Squirrel,அணில்,உடு3த்தொ பாடுர் தீ2ன் கி3தொ ர்ஹாயி,The squirrel has three stripes on its back,அணிலின் முதுகில் மூன்று கோடுகள் இருக்கும்,animal,corpus_sourashtradictionary
+,,சிக்3லொ,ciglo,,,,Squirrel,அணில்,சிக்3லொ கொ2ப்3பி3ம் ஜா2டு3னும் ஜிவஸு,The squirrel always lives in the tree,அணில் எப்போதும் மரத்தில் வாழும்,animal,corpus_sourashtradictionary
+,,ஹுந்தி3ர்,hundir,,,,Rat,எலி,ஹுந்தி3ர் ஸதா3 கலம் அபுலுக் ஶுத்3த4ம் கெர்லேத் ர்ஹாஸு,The rat is always cleaning itself,எலி எப்போதும் தன்னை சுத்தப்படுத்திக் கொண்டே இருக்கும்,animal,corpus_sourashtradictionary
+,,கூ4ஸ்,ghoos,,,,Bandicoot,பெருச்சாளி,ஸுனொ கூ4ஸுக் ஸியெத் தெர்மஸு,The dog chases when it sees a bandicoot rat,நாய் பெருச்சாளியைக் கண்டால் விரட்டுகிறது,animal,corpus_sourashtradictionary
+,,சுஞ்சு,cunjcu,,,,Shrew,மூஞ்சூறு,சுஞ்சு விநாய் வாஹனொ மெனி மெனன்,Shrew is known as vehicle of Ganesha,மூஞ்சூரு விநாயகரின் வாகனம் என்பார்கள்,animal,corpus_sourashtradictionary
+,,மஞ்ஜிரி,manjjiri,,,,Cat,பூனை,மஞ்ஜிரிக் தூ3த் ஒப்பாயி,The cat loves milk,பூனைக்கு பால் பிடிக்கும்,animal,corpus_sourashtradictionary
+,,பு3ஸ்குல்,buskul,,,,Male cat,"ஆண் பூனை, கடுவன் பூனை",பு3ஸ்குல் கின் ஸுனொ ஸதா3 மல்லஸுனு,Male cat and dog are always fighting,கடுவன் பூனையும் நாயும் எப்போதும் சண்டையிடுகின்றன,animal,corpus_sourashtradictionary
+,,ஸுனொ,suno,,,,Dog,நாய்,ஸுனொ ஒண்டெ விஶ்வாஶ்ஹொயெ மூகு3,The dog is a loyal animal,நாய் ஒரு விசுவாசமான விலங்கு,animal,corpus_sourashtradictionary
+,,பெ4ண்டு3,bheNDu,,,,Goat,ஆடு,பெ4ண்டு3 பானுக் கா2ஸு,Sheep eats leaves,ஆடுகள் இலைகளை உண்ணும்,animal,corpus_sourashtradictionary
+,,ம்ஹெடி3 பெ4ண்டு3,mheDi bheNDu,,,,Sheep,செம்மறி ஆடு,ம்ஹெடி3 பெ4ண்டு3 அவ்ங்கொ லோகர் தே3ஸு,Sheep gives us wool,செம்மறியாடு நமக்கு கம்பளி கொடுக்கிறது,animal,corpus_sourashtradictionary
+,,ஶெலி பெ4ண்டு3,sseli bheNDu,,,,Goat,வெள்ளாடு,ஶெலி பெ4ண்டு3 தூ3த் ஆங்கு3க் புஷ்டி கெரஸு,Goat's milk nourishes the body,வெள்ளாட்டின் பால் உடலுக்கு ஊட்டமளிக்கிறது,animal,corpus_sourashtradictionary
+,,கா3ய்,gaay,,,,Cow,பசு,கா3ய் தூ3த் போஷணொ தே3ஸு,Cow's milk provides nutrition,பசுவின் பால் ஊட்டச்சத்தை அளிக்கிறது,animal,corpus_sourashtradictionary
+,,கோ3,gO,,,,Cow,பசு,கோ3 தூ3த் ஆங்கு3க் தா4ஷ்டி தே3ஸு,Cow's milk gives strength to the body,பசுவின் பால் உடலுக்கு வலிமை கொடுக்கிறது,animal,corpus_sourashtradictionary
+,,கொ3ரு,goru,,,,Bull,காளை,கொ3ரு ஶிங்க3டா3ம் ர்ஹீ கௌதுக வஸ்துனுன் கெரஸுன்,Decorative items are made from bull's horn,மாட்டுக்கொம்பிலிருந்து அலங்கார பொருட்கள் செய்வார்கள்,animal,corpus_sourashtradictionary
+,,ர்ருஷபொ4,rrushabho,,,,Bull,காளை,ர்ருஷபொ4 பாடுர் ம்ஹொட்டொ கக்3டொ3 ர்ஹாயி,The bull has a big hump on its back,காளையின் முதுகில் பெரிய திமில் இருக்கும்,animal,corpus_sourashtradictionary
+,,பெ4ய்ஸ்,bheys,,,,Buffalo,எருமை,பெ4ய்ஸு தூ3த் ஆங்கு3க் தா4ஷ்டி தே3ஸு,Buffalo milk gives strength to the body,எருமைப்பால் உடலுக்கு வலிமை தரும்,animal,corpus_sourashtradictionary
+,,பொதுலொ,potulo,,,,He buffalo,ஆணெருமை,பொதுலொ ஜுன்னத்த காமுக் நுக3ஸு,Buffalo is used for plowing work.,எருமை உழவு வேலைக்கு பயன்படுகிறது,animal,corpus_sourashtradictionary
+,,ராண் பெ4ய்ஸ்,raaN bheys,,,,"Bison, Wild buffalo",காட்டெருமை,வாகு3னுக் ராண் பெ4ய்ஸ் ப்ரதா4ன்ஹொயெ சொரொ,Bison are the main prey for tigers,புலிகளுக்குக் காட்டெருமைகள் முக்கிய இரை,animal,corpus_sourashtradictionary
+,,த3ல்லா கொ3ரு,dallaa goru,,,,Uncastrated Bull,பொலிகாளை,கா3ய் து3டொ3 தக3த்தக் த3ல்லா கொ3ரு ஹொவ்ட3ஸுன்,Uncastrated bull is bred for breeding cows,பசு கன்று ஈனுவதற்கு பொலிகாளையை வளர்க்கிறார்கள்,animal,corpus_sourashtradictionary
+,,ஹல்லொ கொ3ரு,hallo goru,,,,Ox,உழவு எருது,ஹல்லொ கொ3ரு கே2துக் ஜுன்னத்தக் நுக3ஸு,The ox is used to plow the field,வயலை உழுவதற்கு எருது பயன்படுகிறது,animal,corpus_sourashtradictionary
+,,து3டொ3,duDo,,,,Calf,கன்றுக்குட்டி,மாய் க4டி3 ஸெத்3து3 அய்கெதிக்காம் து3டொ3 த4மி அவய்,The calf will come running when it hears its mother's voice,தாயின் குரல் கேட்டதும் கன்று ஓடி வரும்,animal,corpus_sourashtradictionary
+,,வாஸரு,vaasaru,,,,Calf,கன்றுக்குட்டி,வாஸரு அபுல் மாய் ஸெந்தொ ஜாரஸி,The calf goes with its mother,கன்று தன் தாயுடன் செல்கிறது,animal,corpus_sourashtradictionary
+,,கெ4த3ட்,ghedaT,,,,"Ass, Donkey",கழுதை,கெ4த3ட் ஒண்ட்டேலெக்கு ஹல்லுனாத்தக் ஹிப்3பி3 ர்ஹாய்,The donkey stands still in one place,கழுதை ஒரே இடத்தில் அசையாமல் நிற்கும்,animal,corpus_sourashtradictionary
+,,ஒவன் கெ4த3ட்,ovan ghedaT,,,,Mule,கோவேறுக்கழுதை,ஒவன் கெ4த3ட் பா4ர் துக்கத்தக் ஒர்க3ஸு,The mule is used to carry the load,கோவேறு கழுதை பொதி சுமக்க பயன்படும்,animal,corpus_sourashtradictionary
+,,கொ4டொ3,ghoDo,,,,Horse,குதிரை,கொ4டொ3 ஒண்டெ மஹாப்ரதாப்ஹொயெ ம்ருகொ3,The horse is a majestic animal,குதிரை ஒரு கம்பீரமான விலங்கு,animal,corpus_sourashtradictionary
+,,அஸ்வொ,asvo,,,,Horse,குதிரை,"அஸ்வக்ரது மெனதி, அஸ்வொ தொ2வி கெரரியொ யாகு3",Ashwamedha Yagya is a yagna performed with a horse,அசுவமேத யாகம் என்பது குதிரையை வைத்து செய்யும் யாகம்,animal,corpus_sourashtradictionary
+,,கி3தா3கொ4டொ3,gidaaghoDo,,,,Zebra,வரிக்குதிரை,கி3தா3கொ4டொ3க் பூஸ் அக்ரொ ர்ஹாயி,The zebra's tail is short,வரிக்குதிரைக்கு வால் குட்டையாக இருக்கும்,animal,corpus_sourashtradictionary
+,,நகுல்,nakul,,,,Mongoose,கீரிப்பிள்ளை,நகுலுக் ஸாபு ஸெரொ ஶத்ருப்பன் ஸே,The mongoose has enemity with the snake,கீரிக்கு பாம்புடன் பகை உள்ளது,animal,corpus_sourashtradictionary
+,,குந்தெ3லு பில்லொ,kundelu pillo,,,,"Hare, Rabbit",முயல்,குந்தெ3லு பில்லா கான் லம்பு3 ர்ஹாயி,The rabbit's ear is long,முயலின் காது நீளமாக இருக்கும்,animal,corpus_sourashtradictionary
+,,ஸஸொ,saso,,,,"Hare, Rabbit",முயல்,ஸஸொ சார் ர்ஹீ தெ3ஸ்ஸு ஒர்ஸு லெந்து ஜிவஸு,The rabbit lives for four to ten years,முயல் நான்கு முதல் பத்து ஆண்டுகள் வரை வாழ்கிறது,animal,corpus_sourashtradictionary
+,,து3க்கர்,dukkar,,,,"Pig, Swine, Boar",பன்றி,து3க்கர் பு3த்3ராம் ஜிவத்திஸா ஜந்து,Pig is an animal that lives in the mud,பன்றி சேற்றில் வாழும் விலங்கு,animal,corpus_sourashtradictionary
+,,ஷலாக்3 து3க்கர்,shalaag dukkar,,,,"Porcupine, Hedgehog",முள்ளம்பன்றி,ஷலாக்3 து3க்கர் க2டா ஹால் ஶத்ருனுக் தெர்மயி,Porcupine chases the enemy with thorns,முள்ளம்பன்றி முள்ளால் எதிரியை விரட்டும்,animal,corpus_sourashtradictionary
+,,கீஸொ,keeso,,,,Monkey,குரங்கு,கெலான் கீஸானுக் மிடா2ய் ஸொகன்,Bananas are like candy for monkeys,வாழைப்பழங்கள் குரங்குகளுக்கு மிட்டாய் போன்றவை,animal,corpus_sourashtradictionary
+,,வானரொ,vaanaro,,,,Monkey,குரங்கு,ராம ஸேது வானரான் ப4ந்தெ3யொ மெனி மெனன்,The Ram Bridge is said to have been built by monkeys,ராமர் பாலம் குரங்குகள் கட்டியது என்று சொல்வார்கள்,animal,corpus_sourashtradictionary
+,,கோதோ,kOtO,,,,Male Monkey,ஆண் குரங்கு,கோதொ ஜா2டு3 ஜா2டு3க் லங்க3ஸு,The monkey jumps from tree to tree,குரங்கு மரத்துக்கு மரம் தாவுகிறது,animal,corpus_sourashtradictionary
+,,கோதி,kOti,,,,Female Monkey,பெண் குரங்கு,கோதி போடுக் தெகொ3 பில்லொ கெ4ட்டி தெ4ர்லி ர்ஹாஸு,The cub is holding the monkey's stomach tightly,குரங்கின் வயிற்றை அதன் குட்டி இறுக்கமாக பிடித்துக்கொண்டிருக்கும்,animal,corpus_sourashtradictionary
+,,பூஸ் ந்ஹீத்தெ கீஸ்,poos nheette kees,,,,Ape,வாலில்லாக் குரங்கு,பூஸ் ந்ஹீத்தெ கீஸு ஆப்பிரிக்கா க2ண்ட3மு ர்ஹீ அவெ மூகு3,The ape is an animal from the African continent,வாலில்லாக்குரங்கு ஆப்பிரிக்கா கண்டத்திலிருந்து வந்த விலங்கு,animal,corpus_sourashtradictionary
+,,ஏணு,ENu,,,,Reindeer,கலைமான்,ஏணுனுக் ம்ஹொட்டொ ஶிங்க3டா3ன் ர்ஹாஸு,Reindeers have large horns,கலைமான்களுக்கு பெரிய கொம்புகள் இருக்கும்,animal,corpus_sourashtradictionary
+,,ஹரிண்,hariN,,,,Deer,மான்,ஹரிணு ஶிங்கு3ம் ர்ஹீ அய்து3ன் மெல்லொ கெரஸுன்,They even make weapons out of deer antlers,மான் கொம்பிலிருந்து ஆயுதம் கூட செய்கிறார்கள்,animal,corpus_sourashtradictionary
+,,ஹரிணி,hariNi,,,,Female deer,பெண் மான்,ஹரிணிக் ஶிங்கு3 ஜுண்ணா,The female deer has no horns,பெண் மானுக்கு கொம்பு கிடையாது,animal,corpus_sourashtradictionary
+,,கொ2லொ,kholo,,,,"Fox, Jackal",நரி,கொ2லொ ஒண்டெ தூ4ர்த ஜந்து,The fox is a cunning animal,நரி ஒரு தந்திரமான விலங்கு,animal,corpus_sourashtradictionary
+,,உகொ,uko,,,,Wolf,ஓநாய்,உகாக் ப்ராமஹொயெ சொரொ ஸஸொ,The wolf's favorite prey is the rabbit,ஓநாய்க்கு விருப்பமான இரை முயல்,animal,corpus_sourashtradictionary
+,,அங்கூ3ஷொ,anggoosho,,,,Weasel,மரநாய்,அங்கூ3ஷாக் ப்ரதா4ன் ஹொயெ ஆஹார் ஹுந்தி3ரு,Weasel's main food is rat,மரநாயின் முக்கிய உணவு எலி ஆகும்,animal,corpus_sourashtradictionary
+,,நகுலொ,nakulo,,,,Weasel,மரநாய்,நகுலொ கா4ருக் சொரொ ஹோஸு,Weasels are preyed upon hawks,வீசல்கள் பருந்துகளுக்கு இரையாகின்றன,animal,corpus_sourashtradictionary
+,,உத்3ரொ,udro,,,,Otter,நீர்நாய்,உத்3ரொ ஸாத்தக் நகுல் ஸோன் தெ3க்காஸு,The Otter looks like a Mongoose,நீர்நாய் பார்ப்பதற்கு கீரிப்பிள்ளை போல் இருக்கும்,animal,corpus_sourashtradictionary
+,,பனி நகுலொ,pani nakulo,,,,Otter,நீர்நாய்,பனி நகுலான் பனிம் சொராக் தெர்மஸு,Otters chase prey in the water,நீர்நாய்கள் தண்ணீரில் இரையைத் துரத்துகின்றன,animal,corpus_sourashtradictionary
+,,ஐஸ்து,aistu,,,,Elephant,யானை,ஐஸ்து பொ3லீம் ஹொயெ ம்ருகொ3,The elephant is the strongest animal,யானை வலிமையான விலங்கு,animal,corpus_sourashtradictionary
+,,பனி ஐஸ்து,pani aistu,,,,Hippopotamus,நீர்யானை,பனி ஐஸ்து பனிம் ஜி2ர்க்கிலின் ஜாய் ஜதொ திரன் களானா,Hippos can only move through water but does not know swimming,நீர்யானைகள் தண்ணீரில் நகர்ந்து செல்லுமே தவிர நீந்தத் தெரியாது,animal,corpus_sourashtradictionary
+,,ஸிம்ஹொ,simho,,,,Lion,சிங்கம்,ஸிம்ஹொ பா3ர் பௌல் உஞ்சொ உஸுலயி,The lion will jump to a height of twelve feet,சிங்கம் பன்னிரண்டு அடி உயரத்துக்கு குதிக்கும்,animal,corpus_sourashtradictionary
+,,ஸிம்ஹு,simhu,,,,Lion,சிங்கம்,ஸிம்ஹு கொ2ப்3பி3ம் ஜெதொகனீஸ் அவயி,The lion always comes in herds,சிங்கம் எப்போதும் கூட்டமாகவே வரும்,animal,corpus_sourashtradictionary
+,,பனி ஸிம்ஹொ,pani simho,,,,Sea lion,கடல் சிங்கம்,பனி ஸிம்ஹொ நௌகாத் ஸோன் பாய்ஞ் ஹால் ல்ஹெகு3கன் திரஸு,The sea lion swims easily with paddle-like legs,கடல் சிங்கம் துடுப்பு போன்ற கால்களால் எளிதாக நீந்தும்,animal,corpus_sourashtradictionary
+,,ஜலஉயாக்3ரொ,jalauyaagro,,,,Sea lion,கடல் சிங்கம்,ஜலஉயாக்3ரான் ஸில்ல பனிம் ஜிவத்தக் தெ3ள்கொ கெண்டொ3 ஸே,Sea lions have thick skin to live in cold water,கடல் சிங்கங்கள் குளிர்ந்த நீரில் வாழ தடிமனான தோல் கொண்டவை,animal,corpus_sourashtradictionary
+,,வாக்3,vaag,,,,Tiger,புலி,"வாகு3 25 பவுல் லம்பொ3 ஜிங்க3யி, 16 பௌல் உஞ்சொ உஸுலயி",Tiger can leap 25 feet and jump upto 16 feet vertically,"புலி 25 அடி தூரம் பாயும், 16 அடி உயரம் எகிறும்",animal,corpus_sourashtradictionary
+,,சித்ருவாக்3,citruvaag,,,,Cheetah,சிறுத்தை,பு4லோகும் வேன் பி3ஸ்ஸொ த4மரியொ ம்ருகொ3 சித்ருவாகு3,The fastest running animal in the world is the Cheetah,உலகிலேயே மிக வேகமாக ஓடும் விலங்கு சிறுத்தை,animal,corpus_sourashtradictionary
+,,பி3ப3ட்யொ,bibaTyo,,,,Leopard,சிறுத்தைப்புலி,பி3ப3ட்யொ ஜா2டு3 ஹொல்லொ ல்ஹெகூ3வர் ஹிங்க3யி,The leopard can climb with ease on a tree,சிறுத்தைப்புலி மரத்தில் எளிதாக ஏறும்,animal,corpus_sourashtradictionary
+,,ஹள்டு3னொ வாக்3,haLDuno vaag,,,,Jaguar,ஜாகுவார்,ஹள்டு3னொ வாக்3 அபுல் சொராக் பொ3லம்ஹொயெ சவ்னிஹால் மொரட3ஸு,Jaguar kills its prey with a powerful bite,ஜாகுவார் அதன் இரையை ஒரு சக்திவாய்ந்த கடியால் கொன்றுவிடுகிறது,animal,corpus_sourashtradictionary
+,,தொ3ங்க3ரு ஸிம்ஹொ,donggaru simho,,,,Puma,பூமா,தொ3ங்க3ரு ஸிம்ஹொ உத்தர அமெரிக்காம் ஜிவரியொ ம்ஹொட்டொ மஞ்ஜிரி,Puma is a large wild cat that lives in the North America,பூமா வட அமெரிக்காவில் வாழும் பெரிய காட்டுப் பூனை,animal,corpus_sourashtradictionary
+,,பி3ப3ள்ய வாக்3,bibaLya vaag,,,,Panther,சிறுத்தை,பி3ப3ள்ய வாக்3 ஜு2க்குகன் சமல் ந்ஹீஜியெத் களொகன் ர்ஹாஸு,Panthers are mostly brown or black in color,சிறுத்தைகள் பெரும்பாலும் பழுப்பு அல்லது கருப்பு நிறத்தில் இருக்கும்,animal,corpus_sourashtradictionary
+,,களொ வாக்3,kaLo vaag,,,,Black Panther,கருஞ்சிறுத்தை,களொ வாகு3 கெண்டொ3 களொ பஸுடு ஹால் ஜ2யெ ஸொகன் ர்ஹாயி,The skin of the black panther looks like it was wrapped in black silk cloth,கருஞ்சிறுத்தையின் தோல் கருப்பு பட்டு துணியால் போர்த்தியது போல் இருக்கும்,animal,corpus_sourashtradictionary
+,,பெ4ருண்டொ3,bheruNDo,,,,Hyena,கழுதைப்புலி,பெ4ருண்டொ3 அபுல் சொரா ஹட்3கொ மெள்ளி க2யி ஜீர்ணு கெரஸு,The hyena also eats and digests the bones of its prey,கழுதைப்புலி தனது இரையின் எலும்புகளையும் சாப்பிட்டு ஜீரணிக்கின்றது,animal,corpus_sourashtradictionary
+,,தா4குரங்கொ3,dhaakuranggo,,,,Kangaroo,கங்காரு,தா4குரங்கா3க் ஆஸ்திரேலியாம் ஒண்ட்டேஸ் ஸவாய்,The kangaroo can only be found in Australia,கங்காருவை ஆஸ்திரேலியாவில் மட்டுமே காணலாம்,animal,corpus_sourashtradictionary
+,,பா4லு,bhaalu,,,,Bear,கரடி,பா4லு மைகு ப்ராமொ பொட3ஸு,Bears do love honey,கரடிகள் தேனை விரும்புகின்றன,animal,corpus_sourashtradictionary
+,,ப4ல்லொ,bhallo,,,,Bear,கரடி,களொ ப4ல்லொ உத்தர அமெரிக்காம் ஒண்டேஸ் தெ3க்கிணி பொட3ஸு,Black bears are only found in North America,கருப்பு கரடிகள் வட அமெரிக்காவில் மட்டுமே காணப்படுகின்றன,animal,corpus_sourashtradictionary
+,,வெல்கெட்டு,velkeTTu,,,,Bear,கரடி,கெ4ட்டி ஸெத்3து3கு வெல்கெட்டு த4க்கயி,The bear is afraid of loud noises,கரடி உரத்த சத்தங்களுக்கு பயப்படும்,animal,corpus_sourashtradictionary
+,,த்4ருவொ ப4ல்லு,dhruvo bhallu,,,,Polar Bear,"பனிக்கரடி, துருவ கரடி",த்4ருவொ ப4ல்லு ஆங்கு3 போ4ர் ஹுஜால் கே2ஸ் ர்ஹாயி,The polar bear has white hair all over its body,பனிக்கரடியின் உடலெங்கும் வெண்மையான முடி இருக்கும்,animal,corpus_sourashtradictionary
+,,சீனு ப4ல்லு,ceenu bhallu,,,,Giant Panda,பாண்டாகரடி,சீனு ப4ல்லு ஜு2க்குகன் பொ3ங்கு3க் க2யி ஜிவஸூ,The panda bear mostly lives only on bamboo,பாண்டாகரடி பெரும்பாலும் மூங்கிலை மட்டுமே உண்டு வாழும்,animal,corpus_sourashtradictionary
+,,கோலா ப4ல்லு,kOlaa bhallu,,,,Koala Bear,கோலா கரடி,கோலா ப4ல்லு தா4குரங்கா3 ஜாதும் செரெ மூகு3,The koala bear belongs to the kangaroo species,கோலா கரடி கங்காரு இனத்தைச் சேர்ந்தது,animal,corpus_sourashtradictionary
+,,க3ண்டொ3,gaNDo,,,,Rhinoceros,காண்டா மிருகம்,க3ண்டொ3 ஒண்டெ பானு ப4க்ஷக்,The rhinoceros is a herbivore,காண்டாமிருகம் ஒரு தாவர உண்ணி,animal,corpus_sourashtradictionary
+,,க3ண்டா3 மூகு3,gaNDaa moogu,,,,Rhinoceros,காண்டா மிருகம்,க3ண்டா3 மூகு3க் தொ3ளா ஸனி உன்னொ,Rhinoceros have poor vision,காண்டாமிருகங்களுக்கு கண் பார்வை குறைவு,animal,corpus_sourashtradictionary
+,,பொ4லி,bholi,,,,Camel,ஒட்டகம்,பொ4லி வளுராணும் ஜிவரியொ மூகு3,The camel is a desert animal,ஒட்டகம் பாலைவனத்தில் வாழும் மிருகம்,animal,corpus_sourashtradictionary
+,,முயி,muyi,,,,Camel,ஒட்டகம்,முயிக் திரன் களானா,The camel does not know swimming,ஒட்டகத்திற்கு நீச்சல் தெரியாது,animal,corpus_sourashtradictionary
+,,லோல்படெ3,lOlpaDe,,,,Camel,ஒட்டகம்,தே3வ் சுட்டும் லோல்படெ3கின் ஐஸ்து அவயி,The camel and the elephant come in the lord procession,சாமி ஊர்வலத்தில் ஒட்டகமும் யானையும் வரும்,animal,corpus_sourashtradictionary
+,,காந்தாரு தாரு (முயி),kaantaaru taaru (muyi),,,,Desert ship (Camel),பாலைவனக் கப்பல் (ஒட்டகம்),முயிக் காந்தாரு தாரு மெனி மெனன்,A camel called a desert ship,ஒட்டகத்தை பாலைவனக் கப்பல் என்று கூறுவார்கள்,animal,corpus_sourashtradictionary
+,,உக்3லி,ugli,,,,"Sloth, Lemur, Slender loris",தேவாங்கு,உக்3லி மெனரியொ ராதும் சொரொ வெக்கத்திஸா ந்ஹன்ன மூகு3,Slender loris is a nocturnal predator,தேவாங்கு என்பது இரவில் இரை தேடும் ஒரு சிறு விலங்காகும்.,animal,corpus_sourashtradictionary
+,,கொ3தி3,godi,,,,"Varanus, Monitor Lizard, Iguana",உடும்பு,கொ3தி3 அபுல் பொ3லீம்ஹொயெ கா3லு ஹால் கெ4ட்டி தெ4ர்லஸு,Monitor lizard grips tightly with its strong jaws,உடும்பு அதன் வலுவான தாடைகளால் இறுக்கமாகப் பிடிக்கிறது,animal,corpus_sourashtradictionary
+,,கு3ட்3வல்,guDval,,,,"Varanus, Monitor Lizard, Iguana",உடும்பு,அஸ்கி மூகுனும் கு3ட்3வல் தெ4ர்னி வேன் பொ3லம் ஹொயெயொ,Iguana grip is strongest in all animals,அனைத்து விலங்குகளிலும் உடும்பு பிடி வலிமையானது,animal,corpus_sourashtradictionary
+,,தோண்டொ3,tONDo,,,,Garden Lizard,ஓணான்,தோண்டொ3 ஒண்டெ ஹப்3பு3 ப4க்ஷகு,Garden Lizard is an insectivorous,ஓணான் ஒரு பூச்சி உண்ணி,animal,corpus_sourashtradictionary
+,,ஸரள்,saraL,,,,Garden Lizard,ஓணான்,ஸரளுக் தொ3ஸ்கொ ர்ஹீ பூஸ் லெந்து ஒண்டெ முகுட் ஸே,The garden lizard has a ridge from head to tail,ஓணானுக்கு தலை முதல் வால் வரை ஒரு மேடு உள்ளது,animal,corpus_sourashtradictionary
+,,ஸரடொ,saraTo,,,,Chameleon,பச்சோந்தி,ஸரடொ அபுல் வனிக் பரிஸ்தி2திக் தயெ தா4னுக் மர்ச்சயி,The chameleon changes its color depending on the situation,பச்சோந்தி தன் நிறத்தை சூழ்நிலைக்கேற்ப மாற்றும்,animal,corpus_sourashtradictionary
+,,ஸம்ஸலி,samsali,,,,Skink,அரணை,ஸம்ஸலி பூஸ் ல்ஹொவ்வொகொ ர்ஹாயி,The skink tail is red,அரணை வால் சிவப்பாக இருக்கும்,animal,corpus_sourashtradictionary
+,,பாலொ,paalo,,,,Lizard,பல்லி,பாலொ ஹால் முகுடும் தொ3ஸ்கொகா2ல் கன் சலத்தக் முஸயி,The lizard can walk upside down in the ceiling,பல்லி கூரையில் தலைகீழாக நடக்க முடியும்,animal,corpus_sourashtradictionary
+,,ம்ஹளி,mhaLi,,,,Fish,மீன்,ம்ஹளின் பனிம் ஜிவத்திஸானு ஜீவுன்,Fish are aquatic organisms,மீன்கள் நீர்வாழ் உயிரினங்கள்,animal,corpus_sourashtradictionary
+,,பனிங்கைலொ,paningkailo,,,,Fish,மீன்,பனிங்கைலொ பனிம் ஸேத்தெ ப்ராணவாயுக் ஸுவாஸம் கெரின் ஜிவஸு,Fish live by inhaling the oxygen in the water,மீன்கள் தண்ணீரில் உள்ள ஆக்ஸிஜனை சுவாசித்து வாழ்கின்றன,animal,corpus_sourashtradictionary
+,,திமிங்கி3லம்,timinggilam,,,,Whale,திமிங்கிலம்,நிளொ திமிங்கி3லமு ஜீபும் 50 ஜனுன் பி3ஸத்தக் முஸயி,The tongue of the blue whale can seat up to 50 people,நீலத் திமிங்கலத்தின் நாக்கில் 50 பேர் அமர முடியும்,animal,corpus_sourashtradictionary
+,,கிர்வில்,kirvil,,,,Crab,நண்டு,ஜு2க்கு கிர்விலுன் பொகடும் சலிகின் திரஸு,Most crabs walk sideways and swim,பெரும்பாலான நண்டுகள் பக்கவாட்டில் நடந்து நீந்துகின்றன,animal,corpus_sourashtradictionary
+,,பெ3ஸ்களி,beskaLi,,,,Frog,தவளை,பெ3ஸ்களி தெகா3 லம்பு3 பஸ்கடு பாய்ஞ்ஹால் உஸுலஸு,The frog jumps with its long hind legs,தவளை அதன் நீண்ட பின்னங்கால்களால் குதிக்கிறது,animal,corpus_sourashtradictionary
+,,ப4ர்களி,bharkaLi,,,,Frog,தவளை,ப4ர்களி ஸாபுக் சொரொ ஹோஸு,The frog preys on the snake,தவளை பாம்புக்கு இரையாகிறது,animal,corpus_sourashtradictionary
+,,பெ3ஸ்களிஸிஸு,beskaLisisu,,,,Tadpole,தலைப்பிரட்டை,பெ3ஸ்களிஸிஸு பெ3ஸ்களிகன் மர்ச்சாத்தக் 14 வாருன் லக3யி,Tadpoles take about 14 weeks to transform into tiny frogs,தலைப்பிரட்டை சிறிய தவளைகளாக மாற சுமார் 14 வாரங்கள் ஆகும்,animal,corpus_sourashtradictionary
+,,பே4ளி,bhELi,,,,Toad,தேரை,பே4ளின் பாராம் பி4த்தர் ஜிவஸு,Toads live in rocks,தேரைகள் பாறைகளுக்குள் வாழ்கின்றன,animal,corpus_sourashtradictionary
+,,கிஷ்ளொ,kishLo,,,,Snail,நத்தை,கிஷ்ளொ அபுலுக் ரக்ஷுலத்தக் சிப்பாம் பி4த்தர் ஆங்கு3க் உட்சுலஸு,The snail pulls the body into their shell to protect itself,நத்தை தன்னைப் பாதுகாத்துக் கொள்ள உடலைத் தங்கள் ஓட்டுக்குள் இழுக்கிறது,animal,corpus_sourashtradictionary
+,,தம்ப3ல்சிப்போ,tambalcippO,,,,Tortoise,ஆமை,தம்ப3ல்சிப்போ பூ4ய்ஞ்ஹோர் ஜிவஸு,Tortoise lives on land,ஆமை நிலத்தில் வாழும்,animal,corpus_sourashtradictionary
+,,கஸ்வொ,kasvo,,,,"Turtle, Tortoise",கடலாமை,கஸ்வொ பனிம் ஜிவஸு,Turtles live in water,கடலாமை தண்ணீரில் வாழும்,animal,corpus_sourashtradictionary
+,,கஸ்பொ,kaspo,,,,"Turtle, Tortoise",கடலாமை,கஸ்பொ 150 ஒர்ஸுனு லெந்து ஜிவஸு,Turtles can live up to 150 years.,கடல் ஆமைகள் 150 ஆண்டுகள் வரை வாழும்.,animal,corpus_sourashtradictionary
+,,நக்ரு,nakru,,,,Crocodile,முதலை,நக்ருனுஹால் ஜீப் ப4ராட் லம்பொ3 கெரன் முஸுனா,Crocodiles cannot stick their tongue out,முதலைகளால் நாக்கை வெளியே நீட்டிக்க முடியாது,animal,corpus_sourashtradictionary
+,,ஸாப்,saap,,,,Snake,பாம்பு,தெ2வ்டெ3 ஸாபுனுக் விக்கு ஜுண்ணா,Some snakes have no venom,சில பாம்புகளுக்கு விஷம் கிடையாது,animal,corpus_sourashtradictionary
+,,நம்ஸாபு,namsaapu,,,,Cobra,"நல்ல பாம்பு, நாகப்பாம்பு",நம்ஸாபு விக்கு ஐஸ்துக் மொரட3த்த தூ3ருக் பொ3லம் ஹொயெயொ,The venom of the cobra is strong enough to kill an elephant,நாகப்பாம்பின் விஷம் யானையைக் கொல்லும் அளவுக்கு வலிமையானது,animal,corpus_sourashtradictionary
+,,தொ3ங்க3ரு ஸாப்,donggaru saap,,,,"Boa, Python, Anaconda","மலைப்பாம்பு, பைதான்",தொ3ங்க3ரு ஸாப் அபுல் சொராக் நெஸ்கி மொரடி3 கா2ஸு,The boa strangles its prey and eats,மலைப்பாம்பு தன் இரையை நெரித்துக் கொன்று உண்ணும்,animal,corpus_sourashtradictionary
+,,கி3ர்பன்னாக்3,girpannaag,,,,"Boa, Python, Anaconda","மலைப்பாம்பு, பைதான்",கி3ர்பன்னாகு3ன் வீஸ் பௌல் லம்பு3 ர்ஹாஸு,Pythons are about twenty feet long,மலைப்பாம்புகள் இருபது அடி நீளம் கொண்டவை,animal,corpus_sourashtradictionary
+,,க3ட்ஸுஸாப்,gaTsusaap,,,,"Boa, Python, Anaconda","மலைப்பாம்பு, பைதான்",க3ட்ஸுஸாபுக் விக்கு ஜுண்ணா,The python has no venom,மலைப்பாம்புக்கு விஷம் கிடையாது,animal,corpus_sourashtradictionary
+,,நெ ள நெ ளா த்தெ,ne La ne Laa tte,,,,"Crawling, Slithering",ஊர்ந்து செல்வது,பாய்ஞ் ந்ஹீத்தெஹால் ஸாபுன் நெ-ள-நெ-ளாஸு,Snakes crawl because they have no legs,கால்கள் இல்லாததால் பாம்புகள் ஊர்ந்து செல்கின்றன,animal,corpus_sourashtradictionary

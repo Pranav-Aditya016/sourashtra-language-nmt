@@ -1,0 +1,8 @@
+{
+  "total_pairs": 12758,
+  "train_size": 9568,
+  "val_size": 1276,
+  "test_size": 1914,
+  "src_vocab_size": 1000,
+  "tgt_vocab_size": 2000
+}

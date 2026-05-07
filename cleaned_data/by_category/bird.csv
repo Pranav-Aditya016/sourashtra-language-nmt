@@ -1,0 +1,51 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,பக்ஷி,pakshi,,,,Bird,பறவை,பக்ஷின் அகாஸும் ஹுட3ரஸி,Birds fly in the sky,பறவைகள் வானத்தில் பறக்கின்றன,bird,corpus_sourashtradictionary
+,,ஹூடு3,hooDu,,,,Bird,பறவை,ஹூடு3ன் ஹுட3ரஸி,The birds are flying,பறவைகள் பறக்கின்றன,bird,corpus_sourashtradictionary
+,,ஹுட்3ஜனி,huDjani,,,,Bird,பறவை,ஹுட்3ஜனின் அபுல் பிங்கு ஹால் ஹுட3ரஸி,Birds fly by its wings,பறவைகள் அதன் இறக்கைகளால் பறக்கின்றன,bird,corpus_sourashtradictionary
+,,கௌளொ,kauLo,,,,"Crow, Raven",காகம்,கௌளொகின் பிள்டொ ஸதா மல்லஸு,The crow and quill alwyas fight,காகமும் குயிலும் எப்போதும் சண்டை போடுகின்றன,bird,corpus_sourashtradictionary
+,,குடி3,kuDi,,,,Hen,கோழி,குடி3 அண்டொ3 தக3யி,The hen lays eggs,கோழி முட்டையிடும்,bird,corpus_sourashtradictionary
+,,குகிடி3,kukiDi,,,,Hen,கோழி,வீள்டொ அஸ்கி குடி3னுன் அபுல் கூ4டு3க் ஜாஸு,"In the evening, all hen goes to their coop","மாலையில், அனைத்து கோழிகளும் தங்கள் கூட்டிற்குச் செல்கின்றன",bird,corpus_sourashtradictionary
+,,குடொ3,kuDo,,,,"Rooster, Cock, Chicken",சேவல்,குடா3க் ஜு2க்குகன் பொள்டொ ஹொல்லொ ஸவாயி,The rooster can mostly be seen on the roof,சேவலை பெரும்பாலும் கூரையின் மேல் பார்க்க முடியும்,bird,corpus_sourashtradictionary
+,,குகுடொ3,kukuDo,,,,"Rooster, Cock, Chicken",சேவல்,குகுடா3 ஹிலி ல்ஹொவொ வனிம் ர்ஹாயி,The rooster comb is red,சேவல் கொண்டை சிவப்பு நிறத்தில் இருக்கும்,bird,corpus_sourashtradictionary
+,,குடி3பில்லொ,kuDipillo,,,,"Chicken, Chicks",கோழிக்குஞ்சு,மாய் குடி3 அபுல் குடி3பில்லானுக் வேன் ரக்ஷணொ கெரஸு,Mother hens are very protective of their chicks,தாய் கோழிகள் தங்கள் குஞ்சுகளை மிகவும் பாதுகாக்கின்றன,bird,corpus_sourashtradictionary
+,,ஸாரங்கொ3,saaranggo,,,,Turkey,வான்கோழி,ஸாரங்கொ3 ஹுட3த்தக் முஸுனா,The turkey cannot fly,வான்கோழி பறக்க முடியாது,bird,corpus_sourashtradictionary
+,,சிடி3,ciDi,,,,Sparrow,சிட்டுக்குருவி,அத்தொ அஸ்கி சிடி3னுக் ஸாத்தெ து3ஸ்தல் ஹொய்யொ,Nowadays it is rare to see sparrows,இப்போதெல்லாம் சிட்டுக்குருவிகள் பார்ப்பதே அபூர்வமாகிவிட்டது,bird,corpus_sourashtradictionary
+,,ரமொ,ramo,,,,Parrot,கிளி,அமி கெரெ வத்தொ ரமொ பி2ரி கெரஸு,The parrot repeats what we spoke,நாம் பேசியதை கிளி திருப்பிப் பேசுகிறது,bird,corpus_sourashtradictionary
+,,கொக்குர்கய்லொ,kokkurkaylo,,,,"Pigeon, Dove",புறா,கொக்குர்கய்லொ தௌ4ரா கொ3புரும் ஜிவஸு,Pigeons live in the temple towers,புறாக்கள் கோவில் கோபுரங்களில் வசிக்கின்றன,bird,corpus_sourashtradictionary
+,,கௌது3,kaudu,,,,"Pigeon, Dove",புறா,கௌது3 ப4ராடு-நிளா கிரணுக் ஸாத்தக் முஸயி,The pigeon can see ultraviolet rays,புறா புற ஊதா கதிர்களையும் பார்க்க முடியும்,bird,corpus_sourashtradictionary
+,,பொரைலொ,porailo,,,,Dove,வெள்ளைப்புறா,பொரைலொ ஶாந்தித்வமுக் ப்ரதீகொ ஹோஸு,The white dove is a symbol of peace,வெள்ளை புறா அமைதியின் சின்னம்,bird,corpus_sourashtradictionary
+,,கொகில்,kokil,,,,"Quill, Cuckoo",குயில்,கொகில் அப்லானுக் நீடொ3 ப4ந்து3லனி,The quill does not make a nest of its own,குயில் தனக்கென கூடு கட்டுவதில்லை,bird,corpus_sourashtradictionary
+,,பிள்டொ,piLTo,,,,"Quill, Cuckoo",குயில்,பிள்டொ கௌளா நீடா3ம் அண்ட3 தக3யி,The quill lays its eggs in the crow's nest,குயில் காகத்தின் கூட்டில் முட்டையிடும்,bird,corpus_sourashtradictionary
+,,ம்ஹோர்,mhOr,,,,Peacock,மயில்,ம்ஹோர் பிஞ்செ2 விலாஸ் கெரி நசஸு,The peacock spreads its struts and dances,மயில் தோகை விரித்து ஆடுகிறது,bird,corpus_sourashtradictionary
+,,உலு,ulu,,,,Owl,ஆந்தை,உலுன் ஸ்ரேஷ்டு2 ஹொயெ ராது கிராதுனு,Owls are excellent nocturnal predators,ஆந்தைகள் சிறந்த இரவு நேர வேட்டையாடுபவர்கள்,bird,corpus_sourashtradictionary
+,,உட்3டு3ள்,uDDuL,,,,Owl,ஆந்தை,ம்ஹொட்டொ தொ3ளொ ஸேத்தெங்கொ உட்3டு3ளு தொ3ளொ மெனஸுன்,People with big eyes are called owl eyes,பெரிய கண்களை உடையவர்கள் ஆந்தை கண்கள் என்று அழைக்கப்படுகிறார்கள்,bird,corpus_sourashtradictionary
+,,கூ4கு3,ghoogu,,,,Owl,ஆந்தை,கூ4கு3 ஹால் தி3ஸ்லாம் ஸாத்தக் முஸுனா,The owl can't see during the daytime,ஆந்தையால் பகலில் பார்க்க முடியாது,bird,corpus_sourashtradictionary
+,,ஒகு3ல்,ogul,,,,Bat,வௌவால்,ஒகு3ல் சொராக் தெ4ரத்த்தக் ஐய்கனா-ஸெத்3து3க் உபயோக்3 கெரஸு,Bats use ultrasound to navigate and catch prey,ஒகு3ல் சொராக் தெ4ரத்த்தக் ஐய்கனா-ஸெத்3து3க் உபயோக்3 கெரஸு,bird,corpus_sourashtradictionary
+,,ஆடி3,aaDi,,,,"Male Duck, Male Goose, Drake",ஆண் வாத்து,ஆடி3ன் அபுல் பில்லானுக் மேட் ஹொயெ ரக்ஷகு,Drakes are excellent protectors for their chicks,ஆண் வாத்துகள் தங்கள் குஞ்சுகளுக்கு சிறந்த பாதுகாவலர்கள்,bird,corpus_sourashtradictionary
+,,ப3து3ல்,badul,,,,"Duck, Female Goose",பெண் வாத்து,ப3து3லா க4டி3 ஸெத்3து3 வேன் கெ4ட்டி ர்ஹாயி,The duck's voice will be more louder,பெண் வாத்தின் குரல் மிக சத்தமாக இருக்கும்,bird,corpus_sourashtradictionary
+,,ப3கொ3,bago,,,,Crane,கொக்கு,ப3கா3ன் ஹுஜால் வனிம் ஸே,The cranes are white,கொக்குகள் வெள்ளை நிறத்தில் உள்ளன,bird,corpus_sourashtradictionary
+,,குக்ரொ,kukro,,,,"Stork, Pelican",நாரை,குக்ராக் லம்பு3 பாய்ஞ் ர்ஹாயி,Storks have long legs,நாரைகளுக்கு நீண்ட கால்கள் இருக்கும்,bird,corpus_sourashtradictionary
+,,ஹம்ஸொ,hamso,,,,Swan,அன்னம்,ஹம்ஸொ ஸாத்தக் பெ4ளி ஸிங்கா3ர் ர்ஹாயி,The Swan is is so beautiful to look at,அன்னப்பறவை பார்க்க மிக அழகாக இருக்கும்,bird,corpus_sourashtradictionary
+,,லுவி,luvi,,,,Quail,காடை,லுவி பூ4ய்ஞ் ஹொல்லொ நீடொ3 ப4ந்த3யி,Quail build nests in the ground,காடைகள் தரையில் கூடு கட்டும்,bird,corpus_sourashtradictionary
+,,கௌ3ரி,gauri,,,,"Chukar Partridge, Grey Francolin, Chicken Bird",கௌதாரி,"கௌ3ரி குடி3 ஸொகன், ஹுட3த்தக் அவ்னா","Grey Francolin is like Hen, can not fly","கௌதாரி கோழியைப் போன்று, பறக்க வராது",bird,corpus_sourashtradictionary
+,,பா4ரஜி,bhaaraji,,,,Skylark,வானம்பாடி,பா4ரஜி கிலுபி3லாட் ஸெத்3து3 கீ3த் க3வரியொ ஸொகன் ர்ஹாயி,The chirping sound of Skylark will be like singing a song,வானம்பாடியின் கீச்சிடும் சத்தம் ஒரு பாடலைப் பாடுவது போல் இருக்கும்,bird,corpus_sourashtradictionary
+,,தி3ஷ்ளொ,dishLo,,,,Vulture,ராஜாளி / பெருங்கழுகு,தி3ஷ்ளான் அகா3ருக் மொரெ மூகு3னு உராவுக் கா2ஸு,Vultures eat the remains of dead animals for food,கழுகுகள் உணவுக்காக இறந்த விலங்குகளின் எச்சங்களை உண்கின்றன,bird,corpus_sourashtradictionary
+,,கெ3ருட்3,geruD,,,,"Falcon, Garuda",கருடன்,கெ3ருடு3 ஸ்ரீமந் நாராயணனுகு வாஹனொ ஹோஸு,Garuda is Lord Sriman Narayanan's vehicle,கருடன் ஸ்ரீமந் நாராயணனின் வாகனம்,bird,corpus_sourashtradictionary
+,,கவ்ளகா4ர்,kavLaghaar,,,,Eagle,கழுகு,கவ்ளகா4ருக் மெனிகுன் ஸொம்மர் 4-5 வாள் மோனொ ஸனி ஸே,Eagle has 4-5 times sharper eyesight than humans,கழுகு மனிதர்களை விட 4-5 மடங்கு கூர்மையான பார்வை கொண்டது,bird,corpus_sourashtradictionary
+,,கா4ரு,ghaaru,,,,"Hawk, Kite",பருந்து,கா4ரு கவ்ள்கா4ரு ஸொம்மர் ந்ஹன்ன ர்ஹாயி,Kites are smaller than Eagale,பருந்து கழுகை விட சிறியதாக இருக்கும்,bird,corpus_sourashtradictionary
+,,ஶினி,ssini,,,,Griffon vulture,வல்லூறு,"ஶினி 36,000 பௌல் உஞ்சொ லெந்து ஹுட3யி","Griffon vulture can fly upto a height of 36,000 feet","வல்லூறு 36,000 அடி உயரம் வரை பறக்கும்",bird,corpus_sourashtradictionary
+,,பி4ரி,bhiri,,,,Condor,அண்டபேரண்டப் பட்சி,பி4ரி பிங்கு 2.7 - 3.2 மீட்டர் லெந்து ர்ஹாயி,Condor bird has a wingspan of 2.7 to 3.2 meter,அண்டபேரண்டப் பறவையின் இறக்கைகள் 2.7 முதல் 3.2 மீட்டர் வரை இருக்கும்,bird,corpus_sourashtradictionary
+,,வங்குடொ3,vangkuDo,,,,Eurasian teal,கிளுவை,வங்குடொ3 மெனரியொ ந்ஹன்ன ப3து3லொ ஸொகன் ர்ஹாயி,Eurasian teal is like a small duck,கிளுவை என்பது சிறிய வாத்து போல இருக்கும்,bird,corpus_sourashtradictionary
+,,முஷ்ளி,mushLi,,,,"Sandpiper, Curlew",உள்ளான்,முஷ்ளி பனிம் ஜிவத்திஸானு ஹூடு3 ஜாது,Sandpiper is a species of aquatic bird,உள்ளான் ஒரு நீர் வாழ் பறவை இனம்,bird,corpus_sourashtradictionary
+,,சுங்கு3ல்,cunggul,,,,"Claw, Talon",பக்ஷி நகம்,அஸ்கி பக்ஷினுக் பாய்ஞ் அங்கி3லிக் ஸெத்லாம் சுங்கு3ல் ஸே,All birds have claws at the end of the toes,அனைத்து பறவைகளுக்கும் கால்விரல்களின் முடிவில் நகங்கள் உள்ளன,bird,corpus_sourashtradictionary
+,,பஞ்ஜிரி,panjjiri,,,,Nest,கூடு,கொகிலுக் பஞ்ஜிரி ப4ந்த3ன் களானா,Quill does not know how to build a nest,குயிலுக்கு கூடு கட்ட தெரியாது,bird,corpus_sourashtradictionary
+,,கூ4ட்,ghooT,,,,Nest,கூடு,கௌளொ க2ட்டினு ஹால் கூ4ட் ப4ந்த3ஸு,The crow builds a nest with sticks,காகம் குச்சிகளைக் கொண்டு கூடு கட்டுகிறது,bird,corpus_sourashtradictionary
+,,நீடொ3,neeDo,,,,Nest,கூடு,தெ2வ்டெ3 ஹூடு3ன் பூ4ய்ஞிம் நீடொ3 ப4ந்த3ஸு,Some birds build nests in the ground,சில பறவைகள் நிலத்தில் கூடு கட்டும்,bird,corpus_sourashtradictionary
+,,ரெக்கெ,rekke,,,,Feather,இறகு,ஸில்லா பரிஸ்தி2திம் ஹூடு3னுக் ஹுன்னொகன் தொ2வ்லத்தக் ரெக்கென் ஒர்க3ஸு,Feathers help to keep the birds warm in cold conditions,குளிர்ந்த சூழ்நிலையில் பறவைகளை சூடாக வைத்திருக்க இறகுகள் உதவுகின்றன,bird,corpus_sourashtradictionary
+,,பிங்கு,pingku,,,,"Wing, Wingspan","சிறகு, இறக்கை",பக்ஷின் பிங்கு விலாஸ் கெரி ஹுட3ரஸி,Birds spread their wings and fly,பறவைகள் சிறகு விரித்து பறக்கின்றன,bird,corpus_sourashtradictionary
+,,பொகொ3,pogo,,,,"Wing, Wingspan","சிறகு, இறக்கை",அஸ்கி ஹூடு3னுக் தீ3 பொகா3ன் ஸே,All birds have two wings,அனைத்து பறவைகளுக்கும் இரண்டு இறக்கைகள் உள்ளன,bird,corpus_sourashtradictionary
+,,ஹிலி,hili,,,,Crest of a bird,கொண்டை,"ம்ஹோர், குகுடொ3 மெனி ஜு2கு பக்ஷினுக் தொ3ஸ்கர் ஹிலி ஸே","Many birds, such as the peacock, the rooster have crest on their heads","மயில், சேவல் என பல பறவைகளுக்கு தலையில் கொண்டை உள்ளது",bird,corpus_sourashtradictionary
+,,பிஞ்செ2,pinjche,,,,"Peacock's Tail, Feather","தோகை, இறகு",ம்ஹோர் பிஞ்செ2 விலாஸ் கெரி நசஸு,The peacock spreads its struts and dances,மயில் தோகை விரித்து ஆடுகிறது,bird,corpus_sourashtradictionary
+,,முதளொ,mutaLo,,,,"Peacock's Tail, Plumage","தோகை, இறகு",த3ல்லா ம்ஹோருனுக் ஸிங்கா3ர் முதளொ ஸே,Male peacocks have beautiful plumage,ஆண் மயில்கள் அழகான இறகுகளைக் கொண்டுள்ளன,bird,corpus_sourashtradictionary
+,,முஸ்கிளி,muskiLi,,,,Beak,அலகு,ரமா முஸ்கிளி வித்துனுக் பொ2டத்தக் வகு3ண்டொ3கன் ர்ஹாயி,The beak of the parrot is bent to break the seeds,கிளியின் அலகு விதைகளை உடைக்க வளைந்திருக்கும்,bird,corpus_sourashtradictionary
+,,பஷ்ஜிரி,pashjiri,,,,Cage,கூண்டு / கூடு,சிடி3னுக் பஷ்ஜிரிம் ஜ2யி தொ2வஸுன்,Sparrows are kept closed in cage,சிட்டுக்குருவியைப் கூண்டில் அடைத்து வைப்பார்கள்,bird,corpus_sourashtradictionary

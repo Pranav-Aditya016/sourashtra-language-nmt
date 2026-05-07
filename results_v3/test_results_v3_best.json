@@ -1,0 +1,14 @@
+{
+  "checkpoint": "checkpoint-8800",
+  "test_metrics": {
+    "corpus_bleu": 4.49,
+    "avg_sentence_bleu": 2.68,
+    "avg_chrf": 19.69,
+    "avg_cer": 132.1,
+    "avg_wer": 134.61,
+    "exact_match_accuracy": 6.74,
+    "num_samples": 1914
+  },
+  "exact_matches": 129,
+  "total": 1914
+}

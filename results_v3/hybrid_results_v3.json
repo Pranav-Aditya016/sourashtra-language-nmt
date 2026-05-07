@@ -1,0 +1,15 @@
+{
+  "best_threshold": 0.45,
+  "test_metrics": {
+    "corpus_bleu": 5.36,
+    "avg_sentence_bleu": 2.47,
+    "avg_chrf": 20.86,
+    "avg_cer": 124.12,
+    "avg_wer": 129.43,
+    "exact_match_accuracy": 7.47,
+    "num_samples": 1914
+  },
+  "neural_em": 6.0083594566353185,
+  "retrieval_em": 6.844305120167189,
+  "hybrid_em": 7.47
+}

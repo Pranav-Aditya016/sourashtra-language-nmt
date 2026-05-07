@@ -1,0 +1,49 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,பிகுடொ3,pikuDo,,,,"Fish Gill, Scales",செவுள்,ம்ஹளின் பிகுடொ3 ஹால் ஸுவாஸம் கெரஸு,Fish breathe through the gills,மீன்கள் செதில்கள் மூலம் சுவாசிக்கும்,animal-body,corpus_sourashtradictionary
+,,பிங்குடொ3,pingkuDo,,,,"Fish Gill, Scales",செவுள்,ம்ஹளி தோனு வாட் பனி க2ள்ளி பிங்குடொ3 வாட் ப4ராட் ஸொட3ஸு,The fish takes water from its mouth and expels it through the gills,மீன் தன் வாயிலிருந்து தண்ணீரை எடுத்து செவுள்கள் வழியாக வெளியேற்றுகிறது,animal-body,corpus_sourashtradictionary
+,,பூஸ்,poos,,,,Tail,வால்,கா3யிக் பூஸ் லம்பு3 ர்ஹாயி,The tail of the cow is long,மாட்டிற்கு வால் நீளமாக இருக்கும்,animal-body,corpus_sourashtradictionary
+,,புஶிடி3,pussiDi,,,,Tail,வால்,பெ4ண்டுக் புஸிடி3 அக்ரொ ர்ஹாயி,The tail of the goat is short,ஆடுக்கு வால் குட்டையாக இருக்கும்,animal-body,corpus_sourashtradictionary
+,,ஸொண்டி,soNTi,,,,Trunk,தும்பிக்கை,ஐஸ்து பொ3லம் ஸொண்டிம் ஸே,The strength of the elephant is in the trunk,யானையின் பலம் தும்பிக்கையில் உள்ளது,animal-body,corpus_sourashtradictionary
+,,த3ந்து,dantu,,,,"Tusk, Ivory",தந்தம்,த3ல்லா ஐஸ்துக் ஒண்ட்டேஸ் த3ந்து ர்ஹாயி,Only male elephants have tusk,ஆண் யானைகளுக்கு மட்டுமே தந்தம் இருக்கும்,animal-body,corpus_sourashtradictionary
+,,கா3யிகோ3ஷ்டு,gaayigOshTu,,,,"Cow barn, Cowshed, Cattle shed","தொழுவம், மாட்டுத் தொழுவம்",தூ3துகா3யினுக் கா3யிகோ3ஷ்டும் ஹொவ்ட3ஸுன்,Dairy cows are reared in cowsheds,கறவை மாடுகளை மாட்டுத் தொழுவத்தில் வளர்ப்பார்கள்,animal-body,corpus_sourashtradictionary
+,,கோ3ஷ்டு,gOshTu,,,,Stable,"தொழுவம், குதிரை லாயம்",கொ4டா3ன் கோ3ஷ்டும் ஸே,The horses are in the stable,குதிரைகள் தொழுவத்தில் உள்ளன,animal-body,corpus_sourashtradictionary
+,,பொ3ந்தொ3,bondo,,,,Rat burrow,எலி வளை,கே2து ஹுந்தி3ர்னுன் பொ3ந்தொ3 க2னி தெமாம் ஜிவஸு,Field rats dig a hole and live in it,வயல் எலிகள் வளை தோண்டி அதில் வாழும்,animal-body,corpus_sourashtradictionary
+,,லொடொ3,loDo,,,,"Faecal matter of rat, Rat poop",எலிப்புழுக்கை,ஹுந்தி3ரு லொடா3க் ஹந்த3வ் தௌரமு ஸவாய்,Rat poop can be seen in the kitchen,எலிப்புழுக்கையை சமையலறையில் காணலாம்,animal-body,corpus_sourashtradictionary
+,,லொடி3,loDi,,,,Goat-droppings,ஆட்டுப்புழுக்கை,பெ4ண்டு லொடி3 களொ ர்ஹாயி,The Goat-droppings will be black,ஆட்டுப்புழுக்கை கருப்பாக இருக்கும்,animal-body,corpus_sourashtradictionary
+,,லோகர்,lOkar,,,,Wool,கம்பளி,ஹிமுஸுகலமு லோகர் பிர்ஜனம்கன் ர்ஹாயி,Wool is useful in winter,குளிர்காலத்தில் கம்பளி பயனுள்ளதாக இருக்கும்,animal-body,corpus_sourashtradictionary
+,,லொத்3தி3,loddi,,,,Elephant Dung,யானைச்சாணம்,ஐஸ்து லொத்3தி3 ஶ்ரேஷ்டு2 ஹொயெ மஸ்து ஹோஸு,Elephant dung makes for excellent compost,யானைச்சாணம் சிறந்த உரமாகிறது,animal-body,corpus_sourashtradictionary
+,,ஸேன்,sEn,,,,Cow Dung,மாட்டுச்சாணம்,கா3ய் ஸேனும் ர்ஹீ கோப3ர் வாயு அப்3ப3ஸு,Cobar Gas is obtained from cow dung,கோபர் வாயு பசுவின் சாணத்தில் இருந்து பெறப்படுகிறது,animal-body,corpus_sourashtradictionary
+,,க2ரி,khari,,,,Hoof,குளம்பு,கொ4டொ3கின் கெ4த3டு ஒண்டெ க2ரி ஜீவுனுன்,Horse and donkey are single-hoofed animals,குதிரையும் கழுதையும் ஒற்றைக் குளம்பு விலங்குகள்,animal-body,corpus_sourashtradictionary
+,,கு2ரி,khuri,,,,Hoof,குளம்பு,கொ4டா கு2ரிம் நால் ஹனஸுன்,Horseshoes are nailed to the hoof,குதிரைக்குளம்பில் லாடம் அடிக்கப்படுகிறது,animal-body,corpus_sourashtradictionary
+,,கோ2ரு,khOru,,,,Hoof,குளம்பு,கொ3ருகின் முயி தீ3 கோ2ரு ஜீவுனுன்,Cattle and camels are double hoofed animals,மாடும் ஒட்டகமும் இரட்டைக் குளம்பு விலங்குகள்,animal-body,corpus_sourashtradictionary
+,,ப2ங்கி3ள கோ2ரு,phanggiLa khOru,,,,Closed hoof,மூடிய குளம்பு,கா3ய் ஸொகன் முயிக் மெல்லொ ப2ங்கி3ள கோ2ரு ஸே,The camel has a closed hoof just like the cow,பசுவைப் போலவே ஒட்டகத்திற்கும் மூடிய குளம்பு இருக்கும்,animal-body,corpus_sourashtradictionary
+,,நால்,naal,,,,Horseshoe,லாடம்,கோ2ரு தி3ஜனாத்தக் ர்ஹாத்தக் நால் ஹனஸுன்,Horseshoe is nailed to avoid wearing of hoof,குளம்பு தேயாமல் இருக்க லாடம் அடிப்பார்கள்,animal-body,corpus_sourashtradictionary
+,,வஜ்ரதி3ட்3டு3,vajradiDDu,,,,"Glue, Gum","பசை, வச்சிரம், ஊன்பசை",வஜ்ரதி3ட்3டு3 தெ3வ்ஸத்தக் நுக3ஸு,The glue is used for gluing,வச்சிரம் ஒட்டுவதற்கு பயன்படும்,animal-body,corpus_sourashtradictionary
+,,கெட்3ஸன்,keDsan,,,,Leather,விலங்கின் தோல்,ஶுந்தெ3 கெட்3ஸனும் ர்ஹீ கொ2ள்டி கெரஸுன்,The bag is made from tanned leather,பதனிடப்பட்ட தோலிலிருந்து பை தயாரிக்கப்படுகிறது,animal-body,corpus_sourashtradictionary
+,,ஶிங்கு3,ssinggu,,,,Horn,கொம்பு,"பெ4ய்ஸு ஶிங்கு3ம் ர்ஹீ போனி, பொளி ஆதி3ன் கெரஸுன்",Tumbler and spoon are made from buffalo's horn,"எருமைக்கொம்பிலிருந்து குவளை, கரண்டி ஆகிவற்றை செய்கிறார்கள்",animal-body,corpus_sourashtradictionary
+,,ஶிங்கொ3,ssinggo,,,,Horn,கொம்பு,கே4ர் ஸிங்க3ரத்தக் பீ4தும் ஹரிணு ஶிங்கொ3 ஸொவுண்ட3ட3ஸுன்,Deer horns are mounted on the walls to decorate the house,வீட்டை அலங்கரிக்க சுவர்களில் மான் கொம்புகள் மாட்டுவார்கள்,animal-body,corpus_sourashtradictionary
+,,ஶிங்க3டொ3,ssinggaDo,,,,Horn,கொம்பு,ஹரிணு ஶிங்க3டொ3 ஒர்ஸுஒர்ஸுக் ஹிட்டிபொடி3 நொவ்வொகன் லக3யி,Deer antlers fall off every year and germinate anew,"மானின் கொம்புகள், ஆண்டுதோறும் விழுந்து புதிதாக முளைக்கும்",animal-body,corpus_sourashtradictionary
+,,கொ3ருஸிங்டொ3,gorusingDo,,,,Bull horn,மாட்டுக் கொம்பு,கொ3ருஸிங்டொ3 கௌதுக வஸ்துனுன் கெரத்தக் ஒர்க3ஸு,Cow horn is useful in making decorative items,மாட்டுக் கொம்பு அலங்காரப்பொருட்கள் செய்ய பயன்படும்,animal-body,corpus_sourashtradictionary
+,,கொ3ருகொம்மு,gorukommu,,,,Bull horn,மாட்டுக்கொம்பு,கொ3ருகொம்முக் ரெங்கு3 ஹனி ஸிங்க3ருஸுன்,The cow horns are decorated by painting,மாட்டு கொம்பிற்கு வண்ணம் பூசி அலங்கரிக்கின்றனர்,animal-body,corpus_sourashtradictionary
+,,த3மொ,damo,,,,Snout rope,மூக்கணாங்கயிறு,கா3யினுக் அண்சத்தக் த3மொ தக3ஸுன்,The Snout rope are put on to control the cows,மாடுகளை கட்டுப்படுத்த மூக்கணாங்கயிறு போடுகிறார்கள்,animal-body,corpus_sourashtradictionary
+,,பெ4ய்ஸுத3மொ,bheysudamo,,,,Snout rope,மூக்கணாங்கயிறு,பெ4ய்ஸுத3மொ நாகும் தக3ஸுன்,The Snout rope is put on the nostrils,மூக்கணாங்கயிற்றை மூக்கில் போடுகிறார்கள்,animal-body,corpus_sourashtradictionary
+,,சொரொ,coro,,,,"Prey, Feed, Fodder","இரை, தீனி",பெ3ஸ்களி ஸாபுக் சொரொ ஹோஸு,The frog preys on the snake,தவளை பாம்புக்கு இரையாகிறது,animal-body,corpus_sourashtradictionary
+,,வேட க2ளத்தெ,vETa khaLatte,,,,"Hunting, Predation",வேட்டையாடுதல்,வாகு3 வேட க2ளத்தெமாம் பெ4ளி ஸமர்து2,The tiger is very good at hunting,புலி வேட்டையாடுவதில் மிகவும் திறமையானது,animal-body,corpus_sourashtradictionary
+,,லுமத்தெ,lumatte,,,,"Cud Chewing, Rumination",அசை போடுதல்,கா3யின் ஸவ்கா3ஸ்கன் லுமஸு,Cows chew the cud leisurely,பசுக்கள் நிதானமாக அசை போடுகின்றன,animal-body,corpus_sourashtradictionary
+,,பானு ப4க்ஷக்,paanu bhakshak,,,,Herbivore,தாவர உண்ணி,ஐஸ்து ஒண்டெ பானு ப4க்ஷக்,The elephant is a herbivore,யானை ஒரு தாவர உண்ணி,animal-body,corpus_sourashtradictionary
+,,பொ4ஸுலா ப4க்ஷக்,bhosulaa bhakshak,,,,Carnivore,மாமிச உண்ணி,"வாகு3, ஸிம்ஹொ அஸ்கி பொ4ஸுலா ப4க்ஷகுன்",Tigers and lions are carnivores,"புலி, சிங்கம் ஆகியவை மாமிச உண்ணிகள்",animal-body,corpus_sourashtradictionary
+,,ஹப்3பு3 ப4க்ஷக்,habbu bhakshak,,,,Insectivore,பூச்சி உண்ணி,பாலொ ஒண்டெ ஹப்3பு3 ப4க்ஷக்,The lizard is an insectivore,பல்லி ஒரு பூச்சி உண்ணி,animal-body,corpus_sourashtradictionary
+,,ஸர்வ ப4க்ஷக்,sarva bhakshak,,,,Omnivore,அனைத்துண்ணி,கௌளொ ஒண்டெ ஸர்வ ப4க்ஷக்,The crow is an omnivore,காக்கை ஒரு அனைத்துண்ணி,animal-body,corpus_sourashtradictionary
+,,கா3ய்கொ3ருன்,gaaygorun,,,,"Cattle, Livestock",கால்நடைகள்,ஒக்கொக்கொ ஒர்ஸும் தெ2வ்டெ3 கா3ய்கொ3ருனுக் நெஷ்டி பொட3ரஸ்,I lose some cattle every year,ஒவ்வொரு ஆண்டும் சில கால்நடைகளை இழக்கிறேன்,animal-body,corpus_sourashtradictionary
+,,கொங்கு,kongku,,,,Cow herd,"பசுக்கூட்டம், மாட்டு மந்தை",கொ3ல்லர் கொங்கு பஸ்கட் ஜிலேத் ஸே,The milkman is going behind the cow herd,பால்காரர் பசுக்கூட்டத்திற்கு பின்னால் சென்றுகொண்டிருக்கிறார்,animal-body,corpus_sourashtradictionary
+,,மந்தொ3,mando,,,,"Herd, Flock",மந்தை,பெ4ண்டு3 மந்தா3க் உகொ தெர்மிலி ஜாரஸி,The wolf is chasing the flock of sheep,ஓநாய் ஆட்டு மந்தையைத் துரத்துகிறது,animal-body,corpus_sourashtradictionary
+,,ஹேரு,hEru,,,,Saddle,சேணம்,கொ4டா3 ஸவாரிக் ஹேரு பஜெ பொட3ஸு,Horseback riding requires a saddle,குதிரை சவாரிக்கு சேணம் தேவை,animal-body,corpus_sourashtradictionary
+,,பௌஸுல்,pausul,,,,Bridle,கடிவாளம்,கொ4டா3 தொ3ஸ்கொ பிவ்ரத்தக் பௌஸுல் நுக3ஸு,The bridle is used to turn the horse's head,குதிரையின் தலையைத் திருப்புவதற்கு கடிவாளம் பயன்படுகிறது,animal-body,corpus_sourashtradictionary
+,,கக்3டொ3,kagDo,,,,Hump,திமில்,முயி அபுல் கக்3டாம் மெயம் செர்ச்சி தொவஸு,The camel stores fat in the hump,ஒட்டகம் தன் திமிலில் கொழுப்பை சேர்த்து வைக்கிறது,animal-body,corpus_sourashtradictionary
+,,ஊடொ3,uuDo,,,,Udder,"பால் மடி, பசுமடி",கா3ய் ஊடா3ம் சார் கொனொ ர்ஹாயி,Cow udder will have four nipples,பசுவின் மடியில் நான்கு காம்புகள் இருக்கும்,animal-body,corpus_sourashtradictionary
+,,ஊதொ4,uudho,,,,Udder,"பால் மடி, பசுமடி",கா3ய் ஊதா4க் பிவ்லிகின் தூ3த் ஹெட3ஸுன்,The cow's udder is squeezed to get the milk,பசுவின் மடியை பிழிந்து பால் கறக்கிறார்கள்,animal-body,corpus_sourashtradictionary
+,,கொ3ந்து3ரு,gonduru,,,,Cow Urine,கோமியம்,கொ3ந்து3ரு ஒண்டெ ஶ்ரேஷ்டு2 ஹொயெ ஜந்துநஸினி ஹோஸு,Cow Urine is an excellent disinfectant,கோமியம் ஒரு சிறந்த கிருமிநாசினி ஆகும்,animal-body,corpus_sourashtradictionary
+,,கொ3ரஜ்ஜன,gorajjana,,,,Calculus bovis,கோரோசனை,ஹெம்பினிக் கொ3ரஜ்ஜனொ ஒண்டெ சொக்கட் ஹொகது,Calculus bovis is a good medicine for asthma,ஆஸ்துமாவிற்கு கோரோசனை ஒரு நல்ல மருந்து,animal-body,corpus_sourashtradictionary
+,,பிசுலொ,piculo,,,,Trap,பொறி,சிடி3னுக் தெ4ரத்தக் பிசுலொ உபயோக்3 ஹோஸு,The trap is used to catch the sparrow,சிட்டுக்குருவியைப் பிடிக்க பொறி பயன்படுகிறது,animal-body,corpus_sourashtradictionary
+,,ஔளி,auLi,,,,Termite Mound,பாம்பு புற்று,ஹுதி3ன் ப4ந்தெ3 ஔளிம் ஸாப் ஜிவஸு,The snake lives in the termites mound,கரையான் கட்டிய புற்றில் பாம்பு வசிக்கும்,animal-body,corpus_sourashtradictionary
+,,ஜந்துநஸினி,jantunasini,,,,Disinfectant,கிருமிநாசினி,கா4ம்லய தா2முக் ஜந்துநஸினி ஹால் பொஸுனொ,The injured area should be washed with disinfectant,காயம்பட்ட பகுதியை கிருமிநாசினி கொண்டு கழுவ வேண்டும்,animal-body,corpus_sourashtradictionary

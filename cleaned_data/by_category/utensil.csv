@@ -1,0 +1,65 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,எத்னம்,etnam,,,,"Utensil, Cooking Vessel",பாத்திரம்,,,,utensil,corpus_sourashtradictionary
+,,யெனம்,yenam,,,,"Utensil, Cooking Vessel",பாத்திரம்,,,,utensil,corpus_sourashtradictionary
+,,தெ3ஸெ,dese,,,,Pot,பானை,,,,utensil,corpus_sourashtradictionary
+,,பொ4ன்னொ,bhonno,,,,Big Pot,பெரிய பானை,,,,utensil,corpus_sourashtradictionary
+,,கெக3ர்,kegar,,,,Rim of Pot,பானை நுனி,,,,utensil,corpus_sourashtradictionary
+,,கொ2வ்டி3,khovDi,,,,"Cooking Utensil, Bowel",சட்டி,,,,utensil,corpus_sourashtradictionary
+,,தொ2வ்ளொ,thovLo,,,,Eating Bowel,சோற்றுச் சட்டி,,,,utensil,corpus_sourashtradictionary
+,,பிங்க3ணி,pinggaNi,,,,Bowl,கிண்ணம்,,,,utensil,corpus_sourashtradictionary
+,,கை3டி3,gaiDi,,,,Small Pot,கலயம்,,,,utensil,corpus_sourashtradictionary
+,,க3கி3டி,gagiTi,,,,Small pot,கலயம்,,,,utensil,corpus_sourashtradictionary
+,,தேலு க3கி3டி3,tElu gagiDi,,,,Small oil pot,எண்ணை கலயம்,,,,utensil,corpus_sourashtradictionary
+,,ஸிர்க்கணு கு2ம்பொ3,sirkkaNu khumbo,,,,Sandalwood paste bowl,சந்தனக் கிண்ணம்,,,,utensil,corpus_sourashtradictionary
+,,பெய்ஸுதொவ்லி,peysutovli,,,,Starch water vessel,வடிகஞ்சி சட்டி,,,,utensil,corpus_sourashtradictionary
+,,பேஸு கொ2வ்டி3,pEsu khovDi,,,,Starch water vessel,வடிகஞ்சி சட்டி,,,,utensil,corpus_sourashtradictionary
+,,நவ்னொ,navno,,,,Water Pot,குடம்,,,,utensil,corpus_sourashtradictionary
+,,கொடு3ம்,koDum,,,,Water Pot,குடம்,,,,utensil,corpus_sourashtradictionary
+,,ஹண்டொ3,haNTeaa,,,,Handa,அண்டா,,,,utensil,corpus_sourashtradictionary
+,,பனி ஹண்டொ3,pani haNDo,,,,Water storing handa,தண்ணீர் அண்டா,,,,utensil,corpus_sourashtradictionary
+,,கானு ஹண்டொ3,kaanu haNDo,,,,Water handa with ring,காது அண்டா,,,,utensil,corpus_sourashtradictionary
+,,ஹண்டி3,haNDi,,,,Frying Pan,வாணலி,,,,utensil,corpus_sourashtradictionary
+,,பொ2ன்னி ஹண்டி3,phonni haNDi,,,,Seasoning Pan,தாளிப்பு வாணலி,,,,utensil,corpus_sourashtradictionary
+,,த2ம்மாண்டி3,thammaaNDi,,,,Bowl,வனசட்டி,,,,utensil,corpus_sourashtradictionary
+,,தா3லு ஹண்டி3,daalu haNDi,,,,Clay pot,பருப்பு கடையும் மண் சட்டி,,,,utensil,corpus_sourashtradictionary
+,,தி4டா3 ஹண்டி3,dhiDaa haNDi,,,,Griddle,தோசைக்கல்,,,,utensil,corpus_sourashtradictionary
+,,ஹுர்பி,hurpi,,,,Spatula,தோசைதிருப்பி,,,,utensil,corpus_sourashtradictionary
+,,தி4டா3 ஹாத்,dhiDaa haat,,,,Spatula,தோசைதிருப்பி,,,,utensil,corpus_sourashtradictionary
+,,கு2ர்பி,khurpi,,,,Iron Spatula,இரும்புக் கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,ப2லாரு ஹண்டொ3,phalaaru haNDo,,,,Idli Cooker,இட்லி குண்டான்,,,,utensil,corpus_sourashtradictionary
+,,ஹவ்கொ,havko,,,,Ladle,கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,புட்டலு ஹவ்கொ,puTTalu havko,,,,Sieve Ladle,ஜல்லி கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,ஜார்னி,jaarni,,,,Sieve Ladle,ஜல்லி கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,பொளி,poLi,,,,Spoon,தேக்கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,பொலொ,polo,,,,Scoop,பெரிய கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,பொ2ளொ,phoLo,,,,Fry Laddle,தாளிப்பு கரண்டி,,,,utensil,corpus_sourashtradictionary
+,,பலெர்,paler,,,,Baby feeding spoon,பாலாடை சங்கு,,,,utensil,corpus_sourashtradictionary
+,,போ3னி,bOni,,,,"Tumbler, Cup","குவளை, கோப்பை",,,,utensil,corpus_sourashtradictionary
+,,பெலொ,pelo,,,,"Tumbler, Cup","குவளை, கோப்பை",,,,utensil,corpus_sourashtradictionary
+,,ஊகு3,uugu,,,,Plate,தட்டு,,,,utensil,corpus_sourashtradictionary
+,,த2ளொ,thaLo,,,,Plate,தட்டு,,,,utensil,corpus_sourashtradictionary
+,,கஸாத2ளொ,kasaathaLo,,,,Bronze Plate,வெண்கல தட்டு,,,,utensil,corpus_sourashtradictionary
+,,தெட்டொ,teTTo,,,,Plate,தட்டு,,,,utensil,corpus_sourashtradictionary
+,,பொங்க3லு தெட்டொ,ponggalu teTTo,,,,Pongal Plate,பொங்கல் தட்டு,,,,utensil,corpus_sourashtradictionary
+,,ஜை2னா தெட்டொ,jhainaa teTTo,,,,"Halwa Plate, Side dish plate",பலகார தட்டு,,,,utensil,corpus_sourashtradictionary
+,,ஜ2கி,jhaki,,,,"Cover plate, Lid","மூடுதட்டு, மூடி",,,,utensil,corpus_sourashtradictionary
+,,ஸராவ்,saraav,,,,"Cover plate, Lid","மூடுதட்டு, மூடி",,,,utensil,corpus_sourashtradictionary
+,,ஹர்வீ,harvee,,,,"Cover plate, Lid","மூடுதட்டு, மூடி",,,,utensil,corpus_sourashtradictionary
+,,புட்டலு தெட்டொ,puTTalu teTTo,,,,Colander,வடி தட்டு,,,,utensil,corpus_sourashtradictionary
+,,புட்டலு கொ2வ்டி3,puTTalu khovDi,,,,Colander,வடி சட்டி,,,,utensil,corpus_sourashtradictionary
+,,சால்னி,caalni,,,,Sieve,ஜல்லடை,,,,utensil,corpus_sourashtradictionary
+,,ஜெல்லட்,jellaT,,,,Sieve,ஜல்லடை,,,,utensil,corpus_sourashtradictionary
+,,பிடு3போ3னி,piDubOni,,,,Kitchenware,தூக்கு,,,,utensil,corpus_sourashtradictionary
+,,தம்பெ3,tambe,,,,Water Pitcher,சொம்பு,,,,utensil,corpus_sourashtradictionary
+,,ஸொண்டி தம்பெ3,soNTi tambe,,,,Water pot with spout,கமண்டலம்,,,,utensil,corpus_sourashtradictionary
+,,முங்ஹ்க்ராபெடி,munghkraapeTi,,,,Spice box,அஞ்சறை பெட்டி,,,,utensil,corpus_sourashtradictionary
+,,ஒட்சத்தெயொ,oTcatteyo,,,,"Filter, Strainer",வடிகட்டி,,,,utensil,corpus_sourashtradictionary
+,,பூ3ட்,booT,,,,Bottom,அடிப்பாகம்,,,,utensil,corpus_sourashtradictionary
+,,பு4ந்தொ,bhunto,,,,"Burnt food, Burnt pan","காந்தல், அடி பிடித்தல்",,,,utensil,corpus_sourashtradictionary
+,,விளி,viLi,,,,Traditional vegetable cutter,அரிவாள்மனை,,,,utensil,corpus_sourashtradictionary
+,,கொ4டா3 பொல்கொ,ghoDaa polko,,,,Small Bench,மனைப்பலகை,,,,utensil,corpus_sourashtradictionary
+,,சாத்,caat,,,,Culinary Rod,வடைகம்பி,,,,utensil,corpus_sourashtradictionary
+,,சாகு,caaku,,,,Knife,கத்தி,,,,utensil,corpus_sourashtradictionary
+,,க2ட்டிகா சாகு,khaTTikaa caaku,,,,Butcher's knife,கசாப்புக் கத்தி,,,,utensil,corpus_sourashtradictionary
+,,தா3ண்,daaN,,,,Handle,கைப்பிடி,,,,utensil,corpus_sourashtradictionary
+,,இட்கி,iTki,,,,Kitchen Tong,இடுக்கி,,,,utensil,corpus_sourashtradictionary

@@ -1,0 +1,25 @@
+{
+  "model": "google/byt5-small",
+  "version": "V5",
+  "approach": "ByT5-small byte-level + Tamil cross-lingual transfer",
+  "test_metrics": {
+    "corpus_bleu": 4.7,
+    "avg_sentence_bleu": 3.59,
+    "avg_chrf": 22.32,
+    "avg_cer": 140.73,
+    "avg_wer": 142.17,
+    "exact_match_accuracy": 9.25,
+    "num_samples": 1914
+  },
+  "hf_test_metrics": {
+    "test_loss": 2.0647096633911133,
+    "test_exact_match": 9.25,
+    "test_partial_match": 18.65,
+    "test_runtime": 1416.6746,
+    "test_samples_per_second": 1.351,
+    "test_steps_per_second": 0.085
+  },
+  "training_time_minutes": 119.4,
+  "total_train_examples": 22585,
+  "augmentation_ratio": 2.36
+}

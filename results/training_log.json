@@ -1,0 +1,258 @@
+[
+  {
+    "epoch": 1,
+    "train_loss": 2.7032986958821614,
+    "val_loss": 3.4512901067733766,
+    "teacher_forcing": 0.97,
+    "learning_rate": 0.001,
+    "epoch_time": 40.9448618888855
+  },
+  {
+    "epoch": 2,
+    "train_loss": 2.4093374156951906,
+    "val_loss": 3.460213804244995,
+    "teacher_forcing": 0.9409,
+    "learning_rate": 0.001,
+    "epoch_time": 40.51617431640625
+  },
+  {
+    "epoch": 3,
+    "train_loss": 2.3330242665608725,
+    "val_loss": 3.7224939107894897,
+    "teacher_forcing": 0.912673,
+    "learning_rate": 0.001,
+    "epoch_time": 40.61598086357117
+  },
+  {
+    "epoch": 4,
+    "train_loss": 2.2951413949330646,
+    "val_loss": 3.5264039993286134,
+    "teacher_forcing": 0.8852928099999999,
+    "learning_rate": 0.001,
+    "epoch_time": 40.58134484291077
+  },
+  {
+    "epoch": 5,
+    "train_loss": 2.2611744817097983,
+    "val_loss": 3.6248884916305544,
+    "teacher_forcing": 0.8587340256999999,
+    "learning_rate": 0.001,
+    "epoch_time": 40.71919012069702
+  },
+  {
+    "epoch": 6,
+    "train_loss": 2.253204867045085,
+    "val_loss": 3.613283967971802,
+    "teacher_forcing": 0.8329720049289999,
+    "learning_rate": 0.001,
+    "epoch_time": 40.56087899208069
+  },
+  {
+    "epoch": 7,
+    "train_loss": 2.230307626724243,
+    "val_loss": 3.5463950395584107,
+    "teacher_forcing": 0.8079828447811299,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.608368158340454
+  },
+  {
+    "epoch": 8,
+    "train_loss": 2.1958247995376587,
+    "val_loss": 3.5478474378585814,
+    "teacher_forcing": 0.783743359437696,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.765191078186035
+  },
+  {
+    "epoch": 9,
+    "train_loss": 2.193600894610087,
+    "val_loss": 3.4703952789306642,
+    "teacher_forcing": 0.7602310586545651,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.65896248817444
+  },
+  {
+    "epoch": 10,
+    "train_loss": 2.175667897860209,
+    "val_loss": 3.489811396598816,
+    "teacher_forcing": 0.7374241268949281,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.66268706321716
+  },
+  {
+    "epoch": 11,
+    "train_loss": 2.171035278638204,
+    "val_loss": 3.520584321022034,
+    "teacher_forcing": 0.7153014030880802,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.584556341171265
+  },
+  {
+    "epoch": 12,
+    "train_loss": 2.1559376970926922,
+    "val_loss": 3.504179573059082,
+    "teacher_forcing": 0.6938423609954378,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.614654302597046
+  },
+  {
+    "epoch": 13,
+    "train_loss": 2.1872215986251833,
+    "val_loss": 3.4202728271484375,
+    "teacher_forcing": 0.6730270901655747,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.7900390625
+  },
+  {
+    "epoch": 14,
+    "train_loss": 2.1586951955159503,
+    "val_loss": 3.4650051832199096,
+    "teacher_forcing": 0.6528362774606075,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.67866778373718
+  },
+  {
+    "epoch": 15,
+    "train_loss": 2.1348709519704183,
+    "val_loss": 3.442735695838928,
+    "teacher_forcing": 0.6332511891367892,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.571751832962036
+  },
+  {
+    "epoch": 16,
+    "train_loss": 2.1194363260269165,
+    "val_loss": 3.4516191482543945,
+    "teacher_forcing": 0.6142536534626856,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.72539782524109
+  },
+  {
+    "epoch": 17,
+    "train_loss": 2.1513967911402383,
+    "val_loss": 3.366315460205078,
+    "teacher_forcing": 0.595826043858805,
+    "learning_rate": 0.0005,
+    "epoch_time": 41.07669281959534
+  },
+  {
+    "epoch": 18,
+    "train_loss": 2.145252324740092,
+    "val_loss": 3.373816657066345,
+    "teacher_forcing": 0.5779512625430409,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.96274018287659
+  },
+  {
+    "epoch": 19,
+    "train_loss": 2.09260262966156,
+    "val_loss": 3.3740602016448973,
+    "teacher_forcing": 0.5606127246667496,
+    "learning_rate": 0.0005,
+    "epoch_time": 41.04326796531677
+  },
+  {
+    "epoch": 20,
+    "train_loss": 2.103960930506388,
+    "val_loss": 3.4064035654067992,
+    "teacher_forcing": 0.5437943429267471,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.88703107833862
+  },
+  {
+    "epoch": 21,
+    "train_loss": 2.041188259124756,
+    "val_loss": 3.3812421560287476,
+    "teacher_forcing": 0.5274805126389447,
+    "learning_rate": 0.0005,
+    "epoch_time": 41.39755606651306
+  },
+  {
+    "epoch": 22,
+    "train_loss": 2.0579487625757853,
+    "val_loss": 3.4046083211898805,
+    "teacher_forcing": 0.5116560972597763,
+    "learning_rate": 0.0005,
+    "epoch_time": 40.54190945625305
+  },
+  {
+    "epoch": 23,
+    "train_loss": 2.0260915692647297,
+    "val_loss": 3.4341348886489866,
+    "teacher_forcing": 0.496306414341983,
+    "learning_rate": 0.00025,
+    "epoch_time": 40.71862578392029
+  },
+  {
+    "epoch": 24,
+    "train_loss": 1.979562300046285,
+    "val_loss": 3.429785871505737,
+    "teacher_forcing": 0.48141722191172354,
+    "learning_rate": 0.00025,
+    "epoch_time": 40.698479413986206
+  },
+  {
+    "epoch": 25,
+    "train_loss": 1.9632801230748493,
+    "val_loss": 3.3955365657806396,
+    "teacher_forcing": 0.4669747052543718,
+    "learning_rate": 0.00025,
+    "epoch_time": 40.424970626831055
+  },
+  {
+    "epoch": 26,
+    "train_loss": 1.9304214604695638,
+    "val_loss": 3.433240056037903,
+    "teacher_forcing": 0.4529654640967406,
+    "learning_rate": 0.00025,
+    "epoch_time": 40.5025315284729
+  },
+  {
+    "epoch": 27,
+    "train_loss": 1.9520762252807617,
+    "val_loss": 3.387178564071655,
+    "teacher_forcing": 0.4393765001738384,
+    "learning_rate": 0.00025,
+    "epoch_time": 40.70561337471008
+  },
+  {
+    "epoch": 28,
+    "train_loss": 1.9608815638224284,
+    "val_loss": 3.4120766878128053,
+    "teacher_forcing": 0.42619520516862325,
+    "learning_rate": 0.00025,
+    "epoch_time": 40.756434202194214
+  },
+  {
+    "epoch": 29,
+    "train_loss": 1.9360771799087524,
+    "val_loss": 3.4075602769851683,
+    "teacher_forcing": 0.4134093490135645,
+    "learning_rate": 0.000125,
+    "epoch_time": 41.40063691139221
+  },
+  {
+    "epoch": 30,
+    "train_loss": 1.9130136601130168,
+    "val_loss": 3.419712471961975,
+    "teacher_forcing": 0.4010070685431576,
+    "learning_rate": 0.000125,
+    "epoch_time": 40.66527962684631
+  },
+  {
+    "epoch": 31,
+    "train_loss": 1.9236986303329469,
+    "val_loss": 3.4019490242004395,
+    "teacher_forcing": 0.38897685648686287,
+    "learning_rate": 0.000125,
+    "epoch_time": 40.87455701828003
+  },
+  {
+    "epoch": 32,
+    "train_loss": 1.9150797605514527,
+    "val_loss": 3.399671173095703,
+    "teacher_forcing": 0.377307550792257,
+    "learning_rate": 0.000125,
+    "epoch_time": 40.6085205078125
+  }
+]

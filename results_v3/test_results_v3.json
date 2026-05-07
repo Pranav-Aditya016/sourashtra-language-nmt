@@ -1,0 +1,23 @@
+{
+  "model": "t5-small",
+  "test_metrics": {
+    "corpus_bleu": 4.72,
+    "avg_sentence_bleu": 3.16,
+    "avg_chrf": 18.47,
+    "avg_cer": 137.05,
+    "avg_wer": 139.59,
+    "exact_match_accuracy": 6.01,
+    "num_samples": 1914
+  },
+  "hf_test_metrics": {
+    "test_loss": 4.919233798980713,
+    "test_exact_match": 6.06,
+    "test_partial_match": 14.42,
+    "test_runtime": 30.4279,
+    "test_samples_per_second": 62.903,
+    "test_steps_per_second": 1.972
+  },
+  "training_time_minutes": 35.7,
+  "total_train_examples": 11292,
+  "augmentation_ratio": 1.18
+}

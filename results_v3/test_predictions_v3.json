@@ -1,0 +1,2102 @@
+[
+  {
+    "source": "pirEv pOT / poDuvo",
+    "reference": "Like",
+    "prediction": "Love",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "mhaLi",
+    "reference": "Fish",
+    "prediction": "Sheep",
+    "exact_match": false,
+    "category": "animal"
+  },
+  {
+    "source": "hubbas pot'",
+    "reference": "suffocate",
+    "prediction": "get indebted",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "angam",
+    "reference": "organ",
+    "prediction": "thigh",
+    "exact_match": false,
+    "category": "Body-Parts"
+  },
+  {
+    "source": "chunt'ul",
+    "reference": "dandruff",
+    "prediction": "side effect",
+    "exact_match": false,
+    "category": "Health"
+  },
+  {
+    "source": "paTTi",
+    "reference": "List",
+    "prediction": "Army, Troop, Military, Force",
+    "exact_match": false,
+    "category": "king-troop"
+  },
+  {
+    "source": "poshaan",
+    "reference": "Corridor, Eave, Sidewalk",
+    "prediction": "Threshold, Position",
+    "exact_match": false,
+    "category": "house"
+  },
+  {
+    "source": "paskat' ho't'aar",
+    "reference": "backyard",
+    "prediction": "back yard",
+    "exact_match": false,
+    "category": "House-Parts"
+  },
+  {
+    "source": "vidEss",
+    "reference": "Foreign country, Abroad",
+    "prediction": "Dirty water",
+    "exact_match": false,
+    "category": "land"
+  },
+  {
+    "source": "bestaar",
+    "reference": "Thursday",
+    "prediction": "Best, Excellent",
+    "exact_match": false,
+    "category": "calendar"
+  },
+  {
+    "source": "yuvan",
+    "reference": "young man",
+    "prediction": "young stage",
+    "exact_match": false,
+    "category": "Age-and-Growth-Stages"
+  },
+  {
+    "source": "lohu",
+    "reference": "metal",
+    "prediction": "gold",
+    "exact_match": false,
+    "category": "Metals"
+  },
+  {
+    "source": "satlo'",
+    "reference": "seventh",
+    "prediction": "seventh",
+    "exact_match": true,
+    "category": "Numerals"
+  },
+  {
+    "source": "tyaagi",
+    "reference": "Relinquisher/ martyr",
+    "prediction": "tolerance",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "naayanmaar",
+    "reference": "saiva saints",
+    "prediction": "dancers",
+    "exact_match": false,
+    "category": "Literature"
+  },
+  {
+    "source": "theenvo vibhakti - haali, sara, saro, sero, senggo, sento, sOru",
+    "reference": "3rd case maker - haali, sara, saro, sero, sengo, sento, sOru",
+    "prediction": "5th case maker - khalida, saro, sero",
+    "exact_match": false,
+    "category": "grammar"
+  },
+  {
+    "source": "kakko'",
+    "reference": "sickle",
+    "prediction": "kiln",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "kimvadanti",
+    "reference": "rumour",
+    "prediction": "democracy",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "roppo",
+    "reference": "Eyelid",
+    "prediction": "Hist",
+    "exact_match": false,
+    "category": "body"
+  },
+  {
+    "source": "ottaDi thovni",
+    "reference": "Postpone, Debarment",
+    "prediction": "Postpone, Debarment",
+    "exact_match": true,
+    "category": "school"
+  },
+  {
+    "source": "daan",
+    "reference": "donation",
+    "prediction": "Donation, Giving alms",
+    "exact_match": false,
+    "category": "utensil"
+  },
+  {
+    "source": "chailatte'",
+    "reference": "side dish, curry",
+    "prediction": "a kind of side dish",
+    "exact_match": false,
+    "category": "Food"
+  },
+  {
+    "source": "panchal",
+    "reference": "boat",
+    "prediction": "boat",
+    "exact_match": true,
+    "category": "Transport"
+  },
+  {
+    "source": "aasto",
+    "reference": "Desire, Longing",
+    "prediction": "Affection, Fondness, Compassionate love",
+    "exact_match": false,
+    "category": "feelings"
+  },
+  {
+    "source": "alankaar ker",
+    "reference": "beautify /decorate",
+    "prediction": "renovate",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "pal'l'o'",
+    "reference": "fruit",
+    "prediction": "cradle",
+    "exact_match": false,
+    "category": "House-Articles"
+  },
+  {
+    "source": "beek",
+    "reference": "nut",
+    "prediction": "lock",
+    "exact_match": false,
+    "category": "house"
+  },
+  {
+    "source": "mhoortu",
+    "reference": "the auspicious time",
+    "prediction": "a row of people sitting/standing",
+    "exact_match": false,
+    "category": "Ceremonies"
+  },
+  {
+    "source": "bandaa",
+    "reference": "pomp",
+    "prediction": "pity, mercy",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "chaandu",
+    "reference": "Moon",
+    "prediction": "moon",
+    "exact_match": true,
+    "category": "Sky"
+  },
+  {
+    "source": "bhirud'ayi jaa",
+    "reference": "be crushed",
+    "prediction": "be extinguished",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "jaaNa beDki",
+    "reference": "Lass, Young Woman",
+    "prediction": "Young lady, Young woman",
+    "exact_match": false,
+    "category": "life-stage"
+  },
+  {
+    "source": "utsav, vaibhav",
+    "reference": "Festival",
+    "prediction": "Event",
+    "exact_match": false,
+    "category": "temple"
+  },
+  {
+    "source": "o'd'd'e'",
+    "reference": "scavenger",
+    "prediction": "spinning wheel",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "aassa",
+    "reference": "Desire, Longing",
+    "prediction": "Astonish, Stun, Surprise, Awe",
+    "exact_match": false,
+    "category": "feelings"
+  },
+  {
+    "source": "banaalu ve'd'ik",
+    "reference": "pyrotechnics/fire display",
+    "prediction": "sound quality, tone",
+    "exact_match": false,
+    "category": "Music"
+  },
+  {
+    "source": "acaar",
+    "reference": "Discipline, Conduct",
+    "prediction": "Etiquette",
+    "exact_match": false,
+    "category": "temple"
+  },
+  {
+    "source": "divapurushu",
+    "reference": "second person",
+    "prediction": "second person",
+    "exact_match": true,
+    "category": "Grammar"
+  },
+  {
+    "source": "kichchir",
+    "reference": "Orange",
+    "prediction": "Ripe Plantain",
+    "exact_match": false,
+    "category": "fruits"
+  },
+  {
+    "source": "orodoLo",
+    "reference": "Squint Eye",
+    "prediction": "Oregano",
+    "exact_match": false,
+    "category": "body"
+  },
+  {
+    "source": "lhekko taay / tavo",
+    "reference": "Calculate, Estimate",
+    "prediction": "Illuminate",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "hutturastiso'",
+    "reference": "downwardly",
+    "prediction": "surprisingly",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "nyaan de'",
+    "reference": "Impart knowledge",
+    "prediction": "give award",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "ghendal",
+    "reference": "Beetle",
+    "prediction": "Centipede",
+    "exact_match": false,
+    "category": "insect"
+  },
+  {
+    "source": "bhunji",
+    "reference": "fry",
+    "prediction": "Earth, Land",
+    "exact_match": false,
+    "category": "land"
+  },
+  {
+    "source": "did'd'u",
+    "reference": "gum",
+    "prediction": "stick",
+    "exact_match": false,
+    "category": "House-Articles"
+  },
+  {
+    "source": "bhaat",
+    "reference": "Cooked rice",
+    "prediction": "cooked rice",
+    "exact_match": true,
+    "category": "general"
+  },
+  {
+    "source": "uggur",
+    "reference": "Extreme anger, Ferocious",
+    "prediction": "fainting",
+    "exact_match": false,
+    "category": "feelings"
+  },
+  {
+    "source": "mo'chcho'",
+    "reference": "mole",
+    "prediction": "elbow",
+    "exact_match": false,
+    "category": "Body-Parts"
+  },
+  {
+    "source": "mov",
+    "reference": "measure",
+    "prediction": "count",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "peek nheetta thaam",
+    "reference": "barren land",
+    "prediction": "pit",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "hut't'o'",
+    "reference": "saliva",
+    "prediction": "chin",
+    "exact_match": false,
+    "category": "Body-Parts"
+  },
+  {
+    "source": "viyardhakani",
+    "reference": "wastely, vainly",
+    "prediction": "slackly",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "aLTaasaTo",
+    "reference": "Attic ladder, Loft ladder",
+    "prediction": "Loft, Attic",
+    "exact_match": false,
+    "category": "household"
+  },
+  {
+    "source": "aTkul",
+    "reference": "Flattened Rice",
+    "prediction": "Market, Bazaar",
+    "exact_match": false,
+    "category": "grocery"
+  },
+  {
+    "source": "valko'",
+    "reference": "cucumber",
+    "prediction": "ash gourd",
+    "exact_match": false,
+    "category": "Vegetables"
+  },
+  {
+    "source": "phalti phaar",
+    "reference": "morning",
+    "prediction": "dawn",
+    "exact_match": false,
+    "category": "Time"
+  },
+  {
+    "source": "banaal lagud'o'",
+    "reference": "big stick",
+    "prediction": "bamboo screen",
+    "exact_match": false,
+    "category": "House-Articles"
+  },
+  {
+    "source": "ghe'd'i pot'",
+    "reference": "become hard",
+    "prediction": "be crushed",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "khudaa",
+    "reference": "Hypothecate, Pawn, Pledge, Mortgage",
+    "prediction": "Hard, Thick, Concentrated",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "kaspo'",
+    "reference": "tortoise",
+    "prediction": "tortoise",
+    "exact_match": true,
+    "category": "Water-Animals"
+  },
+  {
+    "source": "allaad'um rhaa",
+    "reference": "be in a hurry",
+    "prediction": "be in use",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "piraarthano",
+    "reference": "Prayer",
+    "prediction": "Om Bell",
+    "exact_match": false,
+    "category": "temple"
+  },
+  {
+    "source": "poggu",
+    "reference": "Rein",
+    "prediction": "Arrow",
+    "exact_match": false,
+    "category": "king-troop"
+  },
+  {
+    "source": "raajyam",
+    "reference": "State, Kingdom",
+    "prediction": "Region",
+    "exact_match": false,
+    "category": "land"
+  },
+  {
+    "source": "ujyaattenu",
+    "reference": "Born",
+    "prediction": "Young Man",
+    "exact_match": false,
+    "category": "life-stage"
+  },
+  {
+    "source": "ne'ma so'd'ini",
+    "reference": "incongruence",
+    "prediction": "moral sayings",
+    "exact_match": false,
+    "category": "Literature"
+  },
+  {
+    "source": "cho'kdaan",
+    "reference": "village temple festival",
+    "prediction": "festival",
+    "exact_match": false,
+    "category": "Festivals"
+  },
+  {
+    "source": "sombuLO",
+    "reference": "Salary",
+    "prediction": "Flute",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "koTni",
+    "reference": "Slate-pencil",
+    "prediction": "Learner, Student",
+    "exact_match": false,
+    "category": "school"
+  },
+  {
+    "source": "vanggus, vamsso",
+    "reference": "Ancestry",
+    "prediction": "Cousin",
+    "exact_match": false,
+    "category": "relation"
+  },
+  {
+    "source": "poosu miri",
+    "reference": "tail pepper",
+    "prediction": "saffron",
+    "exact_match": false,
+    "category": "Provisions"
+  },
+  {
+    "source": "pre'miko'",
+    "reference": "lover",
+    "prediction": "love",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "samrppaNo",
+    "reference": "Dedication",
+    "prediction": "Prosperous",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "ghaaru",
+    "reference": "kite",
+    "prediction": "Hawk, Kite",
+    "exact_match": false,
+    "category": "bird"
+  },
+  {
+    "source": "dhaDDe, dhaDDuvo",
+    "reference": "Send",
+    "prediction": "Shake violently",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "mejo'",
+    "reference": "table",
+    "prediction": "pillow",
+    "exact_match": false,
+    "category": "House-Articles"
+  },
+  {
+    "source": "maarkadarsi",
+    "reference": "guide",
+    "prediction": "interim government",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "badulo",
+    "reference": "Pit dug out in the ground for keeping sacrificial fire",
+    "prediction": "Long Bench",
+    "exact_match": false,
+    "category": "household"
+  },
+  {
+    "source": "kerunggini",
+    "reference": "Dissolve. Dissolution, Melt",
+    "prediction": "Dissolve, Melt",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "eeshpuru",
+    "reference": "Lord Shiva",
+    "prediction": "God Shiva",
+    "exact_match": false,
+    "category": "Religious-Institutions"
+  },
+  {
+    "source": "divvo vibhakti - ku, ko, dheri",
+    "reference": "2nd case maker - ku, ko, dheri",
+    "prediction": "5th case maker - ku, ko, dheri",
+    "exact_match": false,
+    "category": "grammar"
+  },
+  {
+    "source": "chorupan",
+    "reference": "stealing",
+    "prediction": "cowardice",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "jaagrati",
+    "reference": "warning",
+    "prediction": "a woman above 39 years",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "vyatirEkakriyo",
+    "reference": "Negative Verb",
+    "prediction": "Grammatical words",
+    "exact_match": false,
+    "category": "grammar"
+  },
+  {
+    "source": "dikkul",
+    "reference": "Inattention",
+    "prediction": "Diligent, Perseverance",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "purEtu",
+    "reference": "Priest",
+    "prediction": "Prostitute, Whore",
+    "exact_match": false,
+    "category": "profession"
+  },
+  {
+    "source": "gaaygorun",
+    "reference": "Cattle, Livestock",
+    "prediction": "Cow barn, Cowshed, Cattle shed",
+    "exact_match": false,
+    "category": "animal-body"
+  },
+  {
+    "source": "saykano'",
+    "reference": "signal",
+    "prediction": "say",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "mhad'i",
+    "reference": "storey",
+    "prediction": "floor",
+    "exact_match": false,
+    "category": "House-Parts"
+  },
+  {
+    "source": "ayDin",
+    "reference": "Female who speaks Tamil",
+    "prediction": "Female Deaf",
+    "exact_match": false,
+    "category": "people"
+  },
+  {
+    "source": "ssilam",
+    "reference": "Moong gram, Moong dal",
+    "prediction": "Drygrapes",
+    "exact_match": false,
+    "category": "grocery"
+  },
+  {
+    "source": "samt'aat'",
+    "reference": "hook",
+    "prediction": "to perform first time on the stage",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "bolam hoye",
+    "reference": "Strong, Forceful, Powerful",
+    "prediction": "Potential",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "hat'van",
+    "reference": "thought",
+    "prediction": "memory",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "donggargaamkeri",
+    "reference": "One who speaks Malayalam",
+    "prediction": "Innocent / Naive",
+    "exact_match": false,
+    "category": "people"
+  },
+  {
+    "source": "vedur siye",
+    "reference": "Expected",
+    "prediction": "More than",
+    "exact_match": false,
+    "category": "opp"
+  },
+  {
+    "source": "dhuNDi, dhuNDuvo",
+    "reference": "Swim",
+    "prediction": "Wash (Clothes)",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "koDu veeT",
+    "reference": "Bitter citron",
+    "prediction": "Wild Lemon",
+    "exact_match": false,
+    "category": "vegetable"
+  },
+  {
+    "source": "chunno'",
+    "reference": "lime",
+    "prediction": "kiln",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "bhaga pootir",
+    "reference": "ratio",
+    "prediction": "horoscope",
+    "exact_match": false,
+    "category": "Trade"
+  },
+  {
+    "source": "shailam",
+    "reference": "Hill, Mountain",
+    "prediction": "Shallot",
+    "exact_match": false,
+    "category": "land"
+  },
+  {
+    "source": "raito",
+    "reference": "Salad",
+    "prediction": "Idli, Idly, Rice Cake",
+    "exact_match": false,
+    "category": "food"
+  },
+  {
+    "source": "prati sovu",
+    "reference": "percentage",
+    "prediction": "percentage",
+    "exact_match": true,
+    "category": "Trade"
+  },
+  {
+    "source": "pongguLo",
+    "reference": "Ear Stud worn by Men",
+    "prediction": "Specs, Spectacles",
+    "exact_match": false,
+    "category": "ornament"
+  },
+  {
+    "source": "uclatte",
+    "reference": "Pulling",
+    "prediction": "Grievance Redressing",
+    "exact_match": false,
+    "category": "gerund"
+  },
+  {
+    "source": "ulayi rhaa",
+    "reference": "be disordered",
+    "prediction": "be fixed",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "t'anku",
+    "reference": "chisel",
+    "prediction": "axis",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "moogi",
+    "reference": "search",
+    "prediction": "be mixed, be stirred",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "jivaat'",
+    "reference": "Make/ let live",
+    "prediction": "scatter",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "pail suno'",
+    "reference": "bitch",
+    "prediction": "jackal",
+    "exact_match": false,
+    "category": "Animals"
+  },
+  {
+    "source": "bhimaan",
+    "reference": "Involvement",
+    "prediction": "Chief, Principal, Main, Major",
+    "exact_match": false,
+    "category": "profession"
+  },
+  {
+    "source": "viyaakool",
+    "reference": "Worry, Anxiety",
+    "prediction": "Careful",
+    "exact_match": false,
+    "category": "feelings"
+  },
+  {
+    "source": "taath",
+    "reference": "Thread, Yarn",
+    "prediction": "Threshold door",
+    "exact_match": false,
+    "category": "dress"
+  },
+  {
+    "source": "ambaT",
+    "reference": "Curry masala",
+    "prediction": "Sour, Leaven",
+    "exact_match": false,
+    "category": "food"
+  },
+  {
+    "source": "hokaL, hogaL",
+    "reference": "Mortar, Grinding Stone",
+    "prediction": "Grow, Grow",
+    "exact_match": false,
+    "category": "kitchen"
+  },
+  {
+    "source": "giDDo",
+    "reference": "Dwarf, Midget",
+    "prediction": "Traitor, Betrayer",
+    "exact_match": false,
+    "category": "people"
+  },
+  {
+    "source": "phivri khaat'",
+    "reference": "Reverse/ get back",
+    "prediction": "flipping",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "mulphalaab",
+    "reference": "interest",
+    "prediction": "expiry",
+    "exact_match": false,
+    "category": "Trade"
+  },
+  {
+    "source": "vani laav / lavo",
+    "reference": "Paint",
+    "prediction": "Lay down",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "ad'd'am ad'd'amkani",
+    "reference": "crosswise",
+    "prediction": "criss-cross",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "aayusdand'ano'",
+    "reference": "life imprisonment",
+    "prediction": "order",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "aDDam pOT / poDuvo",
+    "reference": "Interfere",
+    "prediction": "Suffer",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "kELupaan",
+    "reference": "Banana Leaf",
+    "prediction": "Vegetables",
+    "exact_match": false,
+    "category": "vegetable"
+  },
+  {
+    "source": "mujun",
+    "reference": "Bad deeds",
+    "prediction": "Bad qualities",
+    "exact_match": false,
+    "category": "bad-attribute"
+  },
+  {
+    "source": "duDako",
+    "reference": "Split",
+    "prediction": "Trick",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "sveekarni",
+    "reference": "acknowledge ment",
+    "prediction": "reformation",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "huri",
+    "reference": "School",
+    "prediction": "school",
+    "exact_match": true,
+    "category": "school"
+  },
+  {
+    "source": "vingkini",
+    "reference": "Change",
+    "prediction": "Cutting edge, Cutting edge",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "mannen, murukan",
+    "reference": "Lord Murugan",
+    "prediction": "Dexterity",
+    "exact_match": false,
+    "category": "temple"
+  },
+  {
+    "source": "ostu",
+    "reference": "Relation",
+    "prediction": "Father, Dad, Daddy",
+    "exact_match": false,
+    "category": "relation"
+  },
+  {
+    "source": "sekkaru buLLo",
+    "reference": "Sweet Potato",
+    "prediction": "Coconut shell",
+    "exact_match": false,
+    "category": "vegetable"
+  },
+  {
+    "source": "saakshidaar, siyetteno",
+    "reference": "Witness",
+    "prediction": "Testimony, Base, Basis, Evidence, Proof",
+    "exact_match": false,
+    "category": "court"
+  },
+  {
+    "source": "laalityo",
+    "reference": "Elegance",
+    "prediction": "Laziness",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "jheDo",
+    "reference": "Fight",
+    "prediction": "Cover, Liquid, Ornament",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "pillo'",
+    "reference": "young one of birds",
+    "prediction": "young one of animals",
+    "exact_match": false,
+    "category": "Age-and-Growth-Stages"
+  },
+  {
+    "source": "preeti",
+    "reference": "Love, Kindness",
+    "prediction": "Love, Darling, Sweetheart, Cutie",
+    "exact_match": false,
+    "category": "manners"
+  },
+  {
+    "source": "tantranjaan vidyaalayo",
+    "reference": "Polytechnique",
+    "prediction": "University",
+    "exact_match": false,
+    "category": "school"
+  },
+  {
+    "source": "de'se'",
+    "reference": "a metal vessel",
+    "prediction": "tin,",
+    "exact_match": false,
+    "category": "Kitchen"
+  },
+  {
+    "source": "pokaT",
+    "reference": "Side, Sideways",
+    "prediction": "Hard, Thick, Concentrated",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "kauso",
+    "reference": "Silk",
+    "prediction": "Silk Saree",
+    "exact_match": false,
+    "category": "dress"
+  },
+  {
+    "source": "naaDo",
+    "reference": "Strap",
+    "prediction": "Saree worn by widow",
+    "exact_match": false,
+    "category": "dress"
+  },
+  {
+    "source": "mhaddimu hibbad'ni",
+    "reference": "interim stay",
+    "prediction": "suspension/interruption",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "vaagvivaad",
+    "reference": "discussion, debate",
+    "prediction": "debate",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "gulugunjji",
+    "reference": "Rosary Pea",
+    "prediction": "Black sesame",
+    "exact_match": false,
+    "category": "grocery"
+  },
+  {
+    "source": "aasta pot'",
+    "reference": "desire",
+    "prediction": "make disorder / degenerate",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "cheet'",
+    "reference": "cards",
+    "prediction": "game",
+    "exact_match": false,
+    "category": "Games"
+  },
+  {
+    "source": "samana maargu",
+    "reference": "Jainism",
+    "prediction": "Saman Temple",
+    "exact_match": false,
+    "category": "Religious-Institutions"
+  },
+  {
+    "source": "ho'rukriyo'",
+    "reference": "action",
+    "prediction": "theft",
+    "exact_match": false,
+    "category": "Law-and-Order"
+  },
+  {
+    "source": "chandrayaan",
+    "reference": "lunar module",
+    "prediction": "sun shining",
+    "exact_match": false,
+    "category": "Sky"
+  },
+  {
+    "source": "kakuda",
+    "reference": "peak",
+    "prediction": "pit",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "le'guttakani",
+    "reference": "closely, thickly",
+    "prediction": "near",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "jiyes",
+    "reference": "Gone",
+    "prediction": "Disconnects",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "sujji",
+    "reference": "swell up, boil up",
+    "prediction": "rinse",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "rasaayano",
+    "reference": "Chemicals",
+    "prediction": "Practice, Practice",
+    "exact_match": false,
+    "category": "school"
+  },
+  {
+    "source": "nhanna pillo",
+    "reference": "Little child, Baby",
+    "prediction": "Baby, Child, Kid",
+    "exact_match": false,
+    "category": "life-stage"
+  },
+  {
+    "source": "o'gatraa",
+    "reference": "fast",
+    "prediction": "unite, assemble",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "andi, anduvo",
+    "reference": "Reach",
+    "prediction": "Stretch out",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "vago' pari sodano'",
+    "reference": "analysis",
+    "prediction": "clockwise turn",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "bikaat",
+    "reference": "Key",
+    "prediction": "Broom stick",
+    "exact_match": false,
+    "category": "house"
+  },
+  {
+    "source": "abhyaas",
+    "reference": "exercise",
+    "prediction": "Exercise, Training, Practice",
+    "exact_match": false,
+    "category": "school"
+  },
+  {
+    "source": "khaa",
+    "reference": "eat tiffin",
+    "prediction": "eat",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "janle'",
+    "reference": "feel",
+    "prediction": "Know",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "visheshkani",
+    "reference": "exellently, especially",
+    "prediction": "adversely, contrarily",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "mhat'o'",
+    "reference": "month",
+    "prediction": "month",
+    "exact_match": true,
+    "category": "Time"
+  },
+  {
+    "source": "mhoTTo ajjaangghEr",
+    "reference": "Mother's grandmother house",
+    "prediction": "Grandmother house",
+    "exact_match": false,
+    "category": "relation"
+  },
+  {
+    "source": "vidyut",
+    "reference": "lightning",
+    "prediction": "star",
+    "exact_match": false,
+    "category": "Sky"
+  },
+  {
+    "source": "ve'kulave'kulakani",
+    "reference": "differently",
+    "prediction": "funnily",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "rettu",
+    "reference": "Car",
+    "prediction": "Rett",
+    "exact_match": false,
+    "category": "king-troop"
+  },
+  {
+    "source": "himaLo",
+    "reference": "Pre Winter / Cool Season",
+    "prediction": "Pre Winter, Cool Season",
+    "exact_match": false,
+    "category": "season"
+  },
+  {
+    "source": "ssipu",
+    "reference": "Tree trunk",
+    "prediction": "Coconut bat, Petiole",
+    "exact_match": false,
+    "category": "tree-parts"
+  },
+  {
+    "source": "saso",
+    "reference": "Hare, Rabbit",
+    "prediction": "Lantern",
+    "exact_match": false,
+    "category": "animal"
+  },
+  {
+    "source": "pisa thoLci",
+    "reference": "American Basil, Lemon basil",
+    "prediction": "Scutch grass",
+    "exact_match": false,
+    "category": "plants"
+  },
+  {
+    "source": "hippan thaam",
+    "reference": "railway station",
+    "prediction": "hippos",
+    "exact_match": false,
+    "category": "Transport"
+  },
+  {
+    "source": "godi",
+    "reference": "Varanus, Monitor Lizard, Iguana",
+    "prediction": "animal",
+    "exact_match": false,
+    "category": "animal"
+  },
+  {
+    "source": "doDunjjini",
+    "reference": "Income, Earnings",
+    "prediction": "Extinction, Export",
+    "exact_match": false,
+    "category": "profession"
+  },
+  {
+    "source": "agasuTi",
+    "reference": "Roof glass",
+    "prediction": "Garage",
+    "exact_match": false,
+    "category": "house"
+  },
+  {
+    "source": "chid'aay",
+    "reference": "gravel",
+    "prediction": "crack",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "horaaD tuTTini",
+    "reference": "Divorce",
+    "prediction": "Wedding on 80th birthday",
+    "exact_match": false,
+    "category": "marriage"
+  },
+  {
+    "source": "mahaa praanam",
+    "reference": "aspiration",
+    "prediction": "mother tongue",
+    "exact_match": false,
+    "category": "Grammar"
+  },
+  {
+    "source": "thaLko",
+    "reference": "Thick",
+    "prediction": "Finest, Attaining",
+    "exact_match": false,
+    "category": "opp"
+  },
+  {
+    "source": "doNko",
+    "reference": "Ridge Gourd",
+    "prediction": "Chilli",
+    "exact_match": false,
+    "category": "vegetable"
+  },
+  {
+    "source": "uvichaarano'",
+    "reference": "enquiry",
+    "prediction": "quotation",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "go'l'ago'l'ayi vatto' ke'r",
+    "reference": "Babble",
+    "prediction": "stammer from joy, love, etc.",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "ges",
+    "reference": "rub, iron",
+    "prediction": "rub",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "enggo",
+    "reference": "To them",
+    "prediction": "To him, To her, Him, Her",
+    "exact_match": false,
+    "category": "pron"
+  },
+  {
+    "source": "put't'alu kud'o'",
+    "reference": "water sprayer",
+    "prediction": "kiln",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "buruDo",
+    "reference": "Blister",
+    "prediction": "Burb, Belch",
+    "exact_match": false,
+    "category": "body"
+  },
+  {
+    "source": "vibhaaga",
+    "reference": "cell",
+    "prediction": "department",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "chaaru",
+    "reference": "four",
+    "prediction": "seventy",
+    "exact_match": false,
+    "category": "Numerals"
+  },
+  {
+    "source": "nilade'yd'a",
+    "reference": "saphire",
+    "prediction": "kumkum/ sindur",
+    "exact_match": false,
+    "category": "Dress-and-Ornaments"
+  },
+  {
+    "source": "saantvano' ker",
+    "reference": "console",
+    "prediction": "encourage, instigate",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "jho'l'l'o'",
+    "reference": "maize",
+    "prediction": "cummin seeds",
+    "exact_match": false,
+    "category": "Provisions"
+  },
+  {
+    "source": "ponni keratte",
+    "reference": "Streching the warp",
+    "prediction": "Weaving",
+    "exact_match": false,
+    "category": "weaving"
+  },
+  {
+    "source": "po'damka",
+    "reference": "softly",
+    "prediction": "politely",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "pisul'o'",
+    "reference": "mosquito",
+    "prediction": "bug",
+    "exact_match": false,
+    "category": "Creatures-and-Insects"
+  },
+  {
+    "source": "phunnaa",
+    "reference": "Insufficient",
+    "prediction": "Will not get rid of, Will not stop",
+    "exact_match": false,
+    "category": "opp"
+  },
+  {
+    "source": "kauLo",
+    "reference": "Crow, Raven",
+    "prediction": "Pigeon, Dove",
+    "exact_match": false,
+    "category": "bird"
+  },
+  {
+    "source": "val'i",
+    "reference": "a vertical knife to cut vegetables",
+    "prediction": "cinder",
+    "exact_match": false,
+    "category": "Kitchen"
+  },
+  {
+    "source": "vatto",
+    "reference": "Word",
+    "prediction": "Poem",
+    "exact_match": false,
+    "category": "school"
+  },
+  {
+    "source": "toop",
+    "reference": "ghee",
+    "prediction": "Nectar, Elixir",
+    "exact_match": false,
+    "category": "food"
+  },
+  {
+    "source": "praakprati",
+    "reference": "advance copy",
+    "prediction": "comrade",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "prabantu ker",
+    "reference": "arrange",
+    "prediction": "disclose, publish",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "anuknjaa putro'",
+    "reference": "licence",
+    "prediction": "register",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "kul'l'i",
+    "reference": "dwarf",
+    "prediction": "dwarf, short",
+    "exact_match": false,
+    "category": "Physique"
+  },
+  {
+    "source": "sirkkaNu jhaaD",
+    "reference": "Sandalwood Tree",
+    "prediction": "Black or Mountain date palm",
+    "exact_match": false,
+    "category": "trees"
+  },
+  {
+    "source": "lavri",
+    "reference": "mason",
+    "prediction": "shepherd",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "hoot't'o'",
+    "reference": "spit",
+    "prediction": "muscle",
+    "exact_match": false,
+    "category": "Body-Parts"
+  },
+  {
+    "source": "naanaaprakaar",
+    "reference": "Many kinds, Various types, Variety",
+    "prediction": "True, Truth",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "nirnayo' ker",
+    "reference": "determine",
+    "prediction": "give judgement",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "moorti",
+    "reference": "Statue, Idol",
+    "prediction": "Sacred Ash",
+    "exact_match": false,
+    "category": "temple"
+  },
+  {
+    "source": "thov",
+    "reference": "put, wear",
+    "prediction": "put in/insert",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "ho'ngu avad'l'e",
+    "reference": "sleep",
+    "prediction": "Begin",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "lhekko",
+    "reference": "Account, Calculation",
+    "prediction": "Right",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "paaro'",
+    "reference": "rock",
+    "prediction": "pit",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "nemo'",
+    "reference": "discipline",
+    "prediction": "thief",
+    "exact_match": false,
+    "category": "Law-and-Order"
+  },
+  {
+    "source": "vistev",
+    "reference": "Burning Coke, Ember",
+    "prediction": "Winnowing, Pounder",
+    "exact_match": false,
+    "category": "kitchen"
+  },
+  {
+    "source": "nhan bheyn",
+    "reference": "Younger sister",
+    "prediction": "Younger Sister",
+    "exact_match": true,
+    "category": "relation"
+  },
+  {
+    "source": "neel rettan",
+    "reference": "Sapphire (Blue gem)",
+    "prediction": "Ruby (Red gem)",
+    "exact_match": false,
+    "category": "gemstones"
+  },
+  {
+    "source": "sodhano' ker",
+    "reference": "test, examine",
+    "prediction": "enumerate, to account",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "donggar",
+    "reference": "Hill, Mountain",
+    "prediction": "Cliff or Summit of a hill",
+    "exact_match": false,
+    "category": "land"
+  },
+  {
+    "source": "mudranasaalo'",
+    "reference": "printing press",
+    "prediction": "printing",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "saanti",
+    "reference": "enjoy",
+    "prediction": "calm",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "nimush",
+    "reference": "minute",
+    "prediction": "Minute",
+    "exact_match": true,
+    "category": "time"
+  },
+  {
+    "source": "mee",
+    "reference": "I",
+    "prediction": "I",
+    "exact_match": true,
+    "category": "pron"
+  },
+  {
+    "source": "poLgini",
+    "reference": "Socializing",
+    "prediction": "Stumbling",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "veen, vinuvo",
+    "reference": "Weave",
+    "prediction": "Knit",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "puraanu",
+    "reference": "mythology",
+    "prediction": "pura tion",
+    "exact_match": false,
+    "category": "Literature"
+  },
+  {
+    "source": "kachchambaa bo'l'l'o'",
+    "reference": "mango fruit",
+    "prediction": "cucumber fruit",
+    "exact_match": false,
+    "category": "Fruits"
+  },
+  {
+    "source": "dantu",
+    "reference": "Tusk, Ivory",
+    "prediction": "ivory",
+    "exact_match": false,
+    "category": "animal-body"
+  },
+  {
+    "source": "pakkalu daat",
+    "reference": "Molar teeth",
+    "prediction": "Back of mouth",
+    "exact_match": false,
+    "category": "body"
+  },
+  {
+    "source": "ne'ddi",
+    "reference": "river",
+    "prediction": "foot",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "avd'aka ad'd'ikani",
+    "reference": "as obstruction",
+    "prediction": "obediently",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "ne La ne Laa tte",
+    "reference": "Crawling, Slithering",
+    "prediction": "Laziness is not a hereditary disease",
+    "exact_match": false,
+    "category": "animal"
+  },
+  {
+    "source": "toor",
+    "reference": "Cloth Beam",
+    "prediction": "enter",
+    "exact_match": false,
+    "category": "weaving"
+  },
+  {
+    "source": "sammat po'ndi",
+    "reference": "agree",
+    "prediction": "get opportunity",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "uuboNDi",
+    "reference": "Train",
+    "prediction": "Railways, Railway track",
+    "exact_match": false,
+    "category": "travel"
+  },
+  {
+    "source": "je'llat'",
+    "reference": "sieve",
+    "prediction": "strainer",
+    "exact_match": false,
+    "category": "Kitchen"
+  },
+  {
+    "source": "kavni bhajji",
+    "reference": "Black Nightshade",
+    "prediction": "Black Nightshade",
+    "exact_match": true,
+    "category": "vegetable"
+  },
+  {
+    "source": "ghoma tandu",
+    "reference": "wheat",
+    "prediction": "Hoof",
+    "exact_match": false,
+    "category": "grocery"
+  },
+  {
+    "source": "sukki jaa",
+    "reference": "dry, boil",
+    "prediction": "dry, boil",
+    "exact_match": true,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "bhaar bo'nd'i",
+    "reference": "lorry",
+    "prediction": "driver",
+    "exact_match": false,
+    "category": "Transport"
+  },
+  {
+    "source": "udyog",
+    "reference": "profession",
+    "prediction": "Profession/ labour",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "laaj",
+    "reference": "feel shame",
+    "prediction": "Shy, Shyness, Bashful, Embarrass",
+    "exact_match": false,
+    "category": "feelings"
+  },
+  {
+    "source": "yaatrikun",
+    "reference": "passengers",
+    "prediction": "riders",
+    "exact_match": false,
+    "category": "Transport"
+  },
+  {
+    "source": "dukkar",
+    "reference": "pig",
+    "prediction": "Pig, Swine, Boar",
+    "exact_match": false,
+    "category": "animal"
+  },
+  {
+    "source": "geDDo",
+    "reference": "Tumor, Nugget",
+    "prediction": "Cheek",
+    "exact_match": false,
+    "category": "body"
+  },
+  {
+    "source": "cilinjci, cilinjcuvo",
+    "reference": "Sprinkle",
+    "prediction": "Conquer",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "o'lo'",
+    "reference": "net",
+    "prediction": "cylinder",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "se'ttu",
+    "reference": "truth",
+    "prediction": "friend",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "samt'aav",
+    "reference": "hook",
+    "prediction": "lever",
+    "exact_match": false,
+    "category": "Profession"
+  },
+  {
+    "source": "turaat'",
+    "reference": "enter",
+    "prediction": "thrust",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "buLLaa ambaT, keLanggu ambaT",
+    "reference": "Potato curry",
+    "prediction": "Sour, Leaven",
+    "exact_match": false,
+    "category": "food"
+  },
+  {
+    "source": "kungaBgi rot'",
+    "reference": "weep",
+    "prediction": "deny",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "pooraakani",
+    "reference": "totally",
+    "prediction": "approximately",
+    "exact_match": false,
+    "category": "Adverbs"
+  },
+  {
+    "source": "moolamu ko'l'aar",
+    "reference": "piles",
+    "prediction": "lunacy, hysteria",
+    "exact_match": false,
+    "category": "Health"
+  },
+  {
+    "source": "kavaaDu ghiNinggaaT",
+    "reference": "Doorbell, Calling bell",
+    "prediction": "Door latch",
+    "exact_match": false,
+    "category": "house"
+  },
+  {
+    "source": "haaram",
+    "reference": "Golden garland",
+    "prediction": "Anklet",
+    "exact_match": false,
+    "category": "ornament"
+  },
+  {
+    "source": "nighi",
+    "reference": "fund",
+    "prediction": "director",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "mhagi",
+    "reference": "House Fly",
+    "prediction": "Grasshopper, Locust",
+    "exact_match": false,
+    "category": "insect"
+  },
+  {
+    "source": "bandhu",
+    "reference": "bandh, lock-out",
+    "prediction": "Kin, Relative",
+    "exact_match": false,
+    "category": "relation"
+  },
+  {
+    "source": "ko'mbari saap",
+    "reference": "Akind of poisonous snake",
+    "prediction": "cobra",
+    "exact_match": false,
+    "category": "Water-Animals"
+  },
+  {
+    "source": "niyamo'",
+    "reference": "policy",
+    "prediction": "regulation",
+    "exact_match": false,
+    "category": "Law-and-Order"
+  },
+  {
+    "source": "ge kaal",
+    "reference": "past tense",
+    "prediction": "comma",
+    "exact_match": false,
+    "category": "Grammar"
+  },
+  {
+    "source": "govNDayyo",
+    "reference": "Lost, Missing, Misplaced",
+    "prediction": "Audit, Conjunction",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "mo'nnu duvno' ker",
+    "reference": "wound",
+    "prediction": "Irrigate/flush",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "mil'aat'",
+    "reference": "fix",
+    "prediction": "make crackling sound",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "phool",
+    "reference": "Blossom",
+    "prediction": "blossom",
+    "exact_match": true,
+    "category": "tree-parts"
+  },
+  {
+    "source": "mo'no'",
+    "reference": "cape",
+    "prediction": "pit",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "ghe'd'i bot'",
+    "reference": "freeze",
+    "prediction": "burst with irritation",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "divali",
+    "reference": "diwali",
+    "prediction": "Diwali / Deepavali Festival",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "dee ksho' khal'l'an ve'l' guru sangaste' mo'ntur",
+    "reference": "sacred words",
+    "prediction": "Deity sanctorum",
+    "exact_match": false,
+    "category": "Religious-Institutions"
+  },
+  {
+    "source": "tircci, tirccuvo",
+    "reference": "Bargain",
+    "prediction": "Calculate",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "bhunj~",
+    "reference": "land",
+    "prediction": "mud",
+    "exact_match": false,
+    "category": "Earth-and-Related-Words"
+  },
+  {
+    "source": "halvo",
+    "reference": "Halva",
+    "prediction": "Light (in weight)",
+    "exact_match": false,
+    "category": "food"
+  },
+  {
+    "source": "bhavtul",
+    "reference": "singer",
+    "prediction": "prose style",
+    "exact_match": false,
+    "category": "Literature"
+  },
+  {
+    "source": "kshayam",
+    "reference": "Decay, Destruction, Insufficient",
+    "prediction": "Tuberculosis",
+    "exact_match": false,
+    "category": "disease"
+  },
+  {
+    "source": "phalchaataap",
+    "reference": "Pity/sympathy",
+    "prediction": "confusion",
+    "exact_match": false,
+    "category": "Concepts"
+  },
+  {
+    "source": "bo'dul",
+    "reference": "substitute",
+    "prediction": "voter",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "vattaan",
+    "reference": "Words",
+    "prediction": "Dilapidated",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "pET lavatte",
+    "reference": "Igniting Stove",
+    "prediction": "Boiling",
+    "exact_match": false,
+    "category": "kitchen"
+  },
+  {
+    "source": "jaa phijjaay",
+    "reference": "Get lost",
+    "prediction": "Ray, Ray of light",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "no'mke' po'd'aat'",
+    "reference": "make believe",
+    "prediction": "make disorder / degenerate",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "polo",
+    "reference": "Scoop",
+    "prediction": "Plate",
+    "exact_match": false,
+    "category": "utensil"
+  },
+  {
+    "source": "peraNDam",
+    "reference": "Sumangali Puja",
+    "prediction": "Sacred thread wearing function",
+    "exact_match": false,
+    "category": "marriage"
+  },
+  {
+    "source": "taloopo't't'aluvaan",
+    "reference": "bald man",
+    "prediction": "squint eyed man",
+    "exact_match": false,
+    "category": "Physique"
+  },
+  {
+    "source": "haan, hanuvo",
+    "reference": "Hit",
+    "prediction": "Beat, Attack",
+    "exact_match": false,
+    "category": "verb"
+  },
+  {
+    "source": "gOgO",
+    "reference": "Incessantly",
+    "prediction": "Idle, Free, Just, Often",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "thaukatte",
+    "reference": "Knocking",
+    "prediction": "Shrinking, Contracting",
+    "exact_match": false,
+    "category": "gerund"
+  },
+  {
+    "source": "moogO",
+    "reference": "Crowd",
+    "prediction": "Male Lunatic, Insane, Mad, Mental, Psycho",
+    "exact_match": false,
+    "category": "people"
+  },
+  {
+    "source": "huDo",
+    "reference": "Flat on stomach",
+    "prediction": "Belly down",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "aakramano' ker",
+    "reference": "attack",
+    "prediction": "invade",
+    "exact_match": false,
+    "category": "Compound-Verbs"
+  },
+  {
+    "source": "roop",
+    "reference": "Form, Feature",
+    "prediction": "Figure, Image, Design",
+    "exact_match": false,
+    "category": "general"
+  },
+  {
+    "source": "mutalo'",
+    "reference": "Plume of peacock",
+    "prediction": "falcon",
+    "exact_match": false,
+    "category": "Birds"
+  },
+  {
+    "source": "kheruT",
+    "reference": "Salt",
+    "prediction": "Astringent",
+    "exact_match": false,
+    "category": "taste"
+  },
+  {
+    "source": "roop ker",
+    "reference": "mould",
+    "prediction": "compose",
+    "exact_match": false,
+    "category": "Simple-Verbs"
+  },
+  {
+    "source": "naachu",
+    "reference": "dance",
+    "prediction": "a folk dance",
+    "exact_match": false,
+    "category": "Music"
+  },
+  {
+    "source": "praasaado'",
+    "reference": "palace",
+    "prediction": "expiry",
+    "exact_match": false,
+    "category": "Politics"
+  },
+  {
+    "source": "dairo",
+    "reference": "Left",
+    "prediction": "Wicked",
+    "exact_match": false,
+    "category": "opp"
+  },
+  {
+    "source": "khyaati",
+    "reference": "Well known",
+    "prediction": "Careful,Safety",
+    "exact_match": false,
+    "category": "general"
+  }
+]

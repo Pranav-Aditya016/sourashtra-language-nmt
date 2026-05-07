@@ -1,0 +1,1202 @@
+[
+  {
+    "source": "pirEv pOT / poDuvo",
+    "reference": "Like",
+    "greedy": "love",
+    "beam": "love"
+  },
+  {
+    "source": "mhaLi",
+    "reference": "Fish",
+    "greedy": "fish seller",
+    "beam": "fish seller"
+  },
+  {
+    "source": "hubbas pot'",
+    "reference": "suffocate",
+    "greedy": "be cheated",
+    "beam": "be cheated"
+  },
+  {
+    "source": "angam",
+    "reference": "organ",
+    "greedy": "strength",
+    "beam": "storey"
+  },
+  {
+    "source": "chunt'ul",
+    "reference": "dandruff",
+    "greedy": "geral",
+    "beam": "coconut shell"
+  },
+  {
+    "source": "paTTi",
+    "reference": "List",
+    "greedy": "postman",
+    "beam": "harvestment"
+  },
+  {
+    "source": "poshaan",
+    "reference": "Corridor, Eave, Sidewalk",
+    "greedy": "rainy",
+    "beam": "rainbow"
+  },
+  {
+    "source": "paskat' ho't'aar",
+    "reference": "backyard",
+    "greedy": "backward",
+    "beam": "backward"
+  },
+  {
+    "source": "vidEss",
+    "reference": "Foreign country, Abroad",
+    "greedy": "deratives",
+    "beam": "expection"
+  },
+  {
+    "source": "bestaar",
+    "reference": "Thursday",
+    "greedy": "beauty",
+    "beam": "beauty"
+  },
+  {
+    "source": "yuvan",
+    "reference": "young man",
+    "greedy": "tortoise",
+    "beam": "tortoise"
+  },
+  {
+    "source": "lohu",
+    "reference": "metal",
+    "greedy": "miser, stamp",
+    "beam": "mischief"
+  },
+  {
+    "source": "satlo'",
+    "reference": "seventh",
+    "greedy": "poetry",
+    "beam": "a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a kind of a"
+  },
+  {
+    "source": "tyaagi",
+    "reference": "Relinquisher/ martyr",
+    "greedy": "mourage, mouth",
+    "beam": "younger sister"
+  },
+  {
+    "source": "naayanmaar",
+    "reference": "saiva saints",
+    "greedy": "easy",
+    "beam": "escape"
+  },
+  {
+    "source": "theenvo vibhakti - haali, sara, saro, sero, senggo, sento, sOru",
+    "reference": "3rd case maker - haali, sara, saro, sero, sengo, sento, sOru",
+    "greedy": "kitchen",
+    "beam": "kitchener - ko, kho, kukukukukukukukukukukukukukukukukukukukukukukukukuku"
+  },
+  {
+    "source": "kakko'",
+    "reference": "sickle",
+    "greedy": "lon, stoute",
+    "beam": "stoute"
+  },
+  {
+    "source": "kimvadanti",
+    "reference": "rumour",
+    "greedy": "book",
+    "beam": "retirement"
+  },
+  {
+    "source": "roppo",
+    "reference": "Eyelid",
+    "greedy": "coconut shell",
+    "beam": "coconut shell"
+  },
+  {
+    "source": "ottaDi thovni",
+    "reference": "Postpone, Debarment",
+    "greedy": "promendit",
+    "beam": "exclone, exclone"
+  },
+  {
+    "source": "daan",
+    "reference": "donation",
+    "greedy": "garden",
+    "beam": "handle"
+  },
+  {
+    "source": "chailatte'",
+    "reference": "side dish, curry",
+    "greedy": "hatred",
+    "beam": "shining"
+  },
+  {
+    "source": "panchal",
+    "reference": "boat",
+    "greedy": "be confused",
+    "beam": "boat"
+  },
+  {
+    "source": "aasto",
+    "reference": "Desire, Longing",
+    "greedy": "blessing",
+    "beam": "blessing"
+  },
+  {
+    "source": "alankaar ker",
+    "reference": "beautify /decorate",
+    "greedy": "imprler",
+    "beam": "recognize"
+  },
+  {
+    "source": "pal'l'o'",
+    "reference": "fruit",
+    "greedy": "pigeon",
+    "beam": "pigeon"
+  },
+  {
+    "source": "beek",
+    "reference": "nut",
+    "greedy": "seed",
+    "beam": "seedling"
+  },
+  {
+    "source": "mhoortu",
+    "reference": "the auspicious time",
+    "greedy": "stomach",
+    "beam": "stomach"
+  },
+  {
+    "source": "bandaa",
+    "reference": "pomp",
+    "greedy": "key",
+    "beam": "father's wife"
+  },
+  {
+    "source": "chaandu",
+    "reference": "Moon",
+    "greedy": "picket",
+    "beam": "father’s younger sister"
+  },
+  {
+    "source": "bhirud'ayi jaa",
+    "reference": "be crushed",
+    "greedy": "be be disordered",
+    "beam": "be crushed"
+  },
+  {
+    "source": "jaaNa beDki",
+    "reference": "Lass, Young Woman",
+    "greedy": "stund",
+    "beam": "young man"
+  },
+  {
+    "source": "utsav, vaibhav",
+    "reference": "Festival",
+    "greedy": "vocal concert",
+    "beam": "vocal concert"
+  },
+  {
+    "source": "o'd'd'e'",
+    "reference": "scavenger",
+    "greedy": "failure",
+    "beam": "failure"
+  },
+  {
+    "source": "aassa",
+    "reference": "Desire, Longing",
+    "greedy": "comfort",
+    "beam": "commentary"
+  },
+  {
+    "source": "banaalu ve'd'ik",
+    "reference": "pyrotechnics/fire display",
+    "greedy": "expiry",
+    "beam": "expiry"
+  },
+  {
+    "source": "acaar",
+    "reference": "Discipline, Conduct",
+    "greedy": "grandmother, grandma",
+    "beam": "grandmother (maternal)"
+  },
+  {
+    "source": "divapurushu",
+    "reference": "second person",
+    "greedy": "good morning",
+    "beam": "second person"
+  },
+  {
+    "source": "kichchir",
+    "reference": "Orange",
+    "greedy": "scar",
+    "beam": "what"
+  },
+  {
+    "source": "orodoLo",
+    "reference": "Squint Eye",
+    "greedy": "galangal",
+    "beam": "squint eyed rice ball"
+  },
+  {
+    "source": "lhekko taay / tavo",
+    "reference": "Calculate, Estimate",
+    "greedy": "accountant",
+    "beam": "accountant"
+  },
+  {
+    "source": "hutturastiso'",
+    "reference": "downwardly",
+    "greedy": "be disordered",
+    "beam": "be shuffled"
+  },
+  {
+    "source": "nyaan de'",
+    "reference": "Impart knowledge",
+    "greedy": "give award",
+    "beam": "give award"
+  },
+  {
+    "source": "ghendal",
+    "reference": "Beetle",
+    "greedy": "husband",
+    "beam": "pregnant woman, father's younger sister's younger brother's younger sister's wife, pregnant woman, husband's younger sister-in-in-in-in-in-in-in-in-in-in-in-in-in-in-in-in-in-in"
+  },
+  {
+    "source": "bhunji",
+    "reference": "fry",
+    "greedy": "earth, land",
+    "beam": "earth, land"
+  },
+  {
+    "source": "did'd'u",
+    "reference": "gum",
+    "greedy": "slave",
+    "beam": "slave"
+  },
+  {
+    "source": "bhaat",
+    "reference": "Cooked rice",
+    "greedy": "rice water",
+    "beam": "cooked rice"
+  },
+  {
+    "source": "uggur",
+    "reference": "Extreme anger, Ferocious",
+    "greedy": "umbrella",
+    "beam": "umbrella"
+  },
+  {
+    "source": "mo'chcho'",
+    "reference": "mole",
+    "greedy": "kill",
+    "beam": "kill"
+  },
+  {
+    "source": "mov",
+    "reference": "measure",
+    "greedy": "count, measurement",
+    "beam": "count"
+  },
+  {
+    "source": "peek nheetta thaam",
+    "reference": "barren land",
+    "greedy": "middle man",
+    "beam": "middle man"
+  },
+  {
+    "source": "hut't'o'",
+    "reference": "saliva",
+    "greedy": "boil",
+    "beam": "boil"
+  },
+  {
+    "source": "viyardhakani",
+    "reference": "wastely, vainly",
+    "greedy": "slackly",
+    "beam": "slackly"
+  },
+  {
+    "source": "aLTaasaTo",
+    "reference": "Attic ladder, Loft ladder",
+    "greedy": "pickle",
+    "beam": "parents"
+  },
+  {
+    "source": "aTkul",
+    "reference": "Flattened Rice",
+    "greedy": "camphor",
+    "beam": "grandmother (maternal)"
+  },
+  {
+    "source": "valko'",
+    "reference": "cucumber",
+    "greedy": "frog",
+    "beam": "fondtalk/casement"
+  },
+  {
+    "source": "phalti phaar",
+    "reference": "morning",
+    "greedy": "dawn",
+    "beam": "dawn"
+  },
+  {
+    "source": "banaal lagud'o'",
+    "reference": "big stick",
+    "greedy": "plural",
+    "beam": "childhood"
+  },
+  {
+    "source": "ghe'd'i pot'",
+    "reference": "become hard",
+    "greedy": "be destroyed",
+    "beam": "be destroyed"
+  },
+  {
+    "source": "khudaa",
+    "reference": "Hypothecate, Pawn, Pledge, Mortgage",
+    "greedy": "coconut palm leaf",
+    "beam": "coconut shell"
+  },
+  {
+    "source": "kaspo'",
+    "reference": "tortoise",
+    "greedy": "restriction",
+    "beam": "restriction"
+  },
+  {
+    "source": "allaad'um rhaa",
+    "reference": "be in a hurry",
+    "greedy": "be shuffled",
+    "beam": "be shuffled"
+  },
+  {
+    "source": "piraarthano",
+    "reference": "Prayer",
+    "greedy": "affection",
+    "beam": "region"
+  },
+  {
+    "source": "poggu",
+    "reference": "Rein",
+    "greedy": "rainy",
+    "beam": "rainbow"
+  },
+  {
+    "source": "raajyam",
+    "reference": "State, Kingdom",
+    "greedy": "region",
+    "beam": "region"
+  },
+  {
+    "source": "ujyaattenu",
+    "reference": "Born",
+    "greedy": "village",
+    "beam": "everyone"
+  },
+  {
+    "source": "ne'ma so'd'ini",
+    "reference": "incongruence",
+    "greedy": "leave",
+    "beam": "leave"
+  },
+  {
+    "source": "cho'kdaan",
+    "reference": "village temple festival",
+    "greedy": "theft",
+    "beam": "theft"
+  },
+  {
+    "source": "sombuLO",
+    "reference": "Salary",
+    "greedy": "gold",
+    "beam": "goldsmith"
+  },
+  {
+    "source": "koTni",
+    "reference": "Slate-pencil",
+    "greedy": "where",
+    "beam": "where"
+  },
+  {
+    "source": "vanggus, vamsso",
+    "reference": "Ancestry",
+    "greedy": "train",
+    "beam": "train"
+  },
+  {
+    "source": "poosu miri",
+    "reference": "tail pepper",
+    "greedy": "fifty",
+    "beam": "stubbornness, obstinacy"
+  },
+  {
+    "source": "pre'miko'",
+    "reference": "lover",
+    "greedy": "love",
+    "beam": "love"
+  },
+  {
+    "source": "samrppaNo",
+    "reference": "Dedication",
+    "greedy": "renovation",
+    "beam": "obediently"
+  },
+  {
+    "source": "ghaaru",
+    "reference": "kite",
+    "greedy": "cheek",
+    "beam": "cheek"
+  },
+  {
+    "source": "dhaDDe, dhaDDuvo",
+    "reference": "Send",
+    "greedy": "let itching",
+    "beam": "let loose"
+  },
+  {
+    "source": "mejo'",
+    "reference": "table",
+    "greedy": "mourage",
+    "beam": "nose stud's younger sister"
+  },
+  {
+    "source": "maarkadarsi",
+    "reference": "guide",
+    "greedy": "attract",
+    "beam": "attract"
+  },
+  {
+    "source": "badulo",
+    "reference": "Pit dug out in the ground for keeping sacrificial fire",
+    "greedy": "long, long, long, dumb",
+    "beam": "learn"
+  },
+  {
+    "source": "kerunggini",
+    "reference": "Dissolve. Dissolution, Melt",
+    "greedy": "renovoot",
+    "beam": "blessing"
+  },
+  {
+    "source": "eeshpuru",
+    "reference": "Lord Shiva",
+    "greedy": "vote",
+    "beam": "lord shiva"
+  },
+  {
+    "source": "divvo vibhakti - ku, ko, dheri",
+    "reference": "2nd case maker - ku, ko, dheri",
+    "greedy": "by case, anywhere",
+    "beam": "letter word - case"
+  },
+  {
+    "source": "chorupan",
+    "reference": "stealing",
+    "greedy": "childhood",
+    "beam": "childhood"
+  },
+  {
+    "source": "jaagrati",
+    "reference": "warning",
+    "greedy": "disappal",
+    "beam": "careful, concellent"
+  },
+  {
+    "source": "vyatirEkakriyo",
+    "reference": "Negative Verb",
+    "greedy": "grammatical grams",
+    "beam": "grammar"
+  },
+  {
+    "source": "dikkul",
+    "reference": "Inattention",
+    "greedy": "mud",
+    "beam": "direction"
+  },
+  {
+    "source": "purEtu",
+    "reference": "Priest",
+    "greedy": "person",
+    "beam": "person"
+  },
+  {
+    "source": "gaaygorun",
+    "reference": "Cattle, Livestock",
+    "greedy": "mumerals",
+    "beam": "kumkumanns"
+  },
+  {
+    "source": "saykano'",
+    "reference": "signal",
+    "greedy": "rent",
+    "beam": "compensation"
+  },
+  {
+    "source": "mhad'i",
+    "reference": "storey",
+    "greedy": "middle man",
+    "beam": "middle man"
+  },
+  {
+    "source": "ayDin",
+    "reference": "Female who speaks Tamil",
+    "greedy": "miss",
+    "beam": "nausea"
+  },
+  {
+    "source": "ssilam",
+    "reference": "Moong gram, Moong dal",
+    "greedy": "hoof",
+    "beam": "umbrella"
+  },
+  {
+    "source": "samt'aat'",
+    "reference": "hook",
+    "greedy": "make up",
+    "beam": "become equality"
+  },
+  {
+    "source": "bolam hoye",
+    "reference": "Strong, Forceful, Powerful",
+    "greedy": "detet",
+    "beam": "detam"
+  },
+  {
+    "source": "hat'van",
+    "reference": "thought",
+    "greedy": "memory, remembrance",
+    "beam": "memory, remembrance"
+  },
+  {
+    "source": "donggargaamkeri",
+    "reference": "One who speaks Malayalam",
+    "greedy": "rigress",
+    "beam": "beggar"
+  },
+  {
+    "source": "vedur siye",
+    "reference": "Expected",
+    "greedy": "expect",
+    "beam": "expect"
+  },
+  {
+    "source": "dhuNDi, dhuNDuvo",
+    "reference": "Swim",
+    "greedy": "crush",
+    "beam": "crush"
+  },
+  {
+    "source": "koDu veeT",
+    "reference": "Bitter citron",
+    "greedy": "crange",
+    "beam": "crange"
+  },
+  {
+    "source": "chunno'",
+    "reference": "lime",
+    "greedy": "coconut shell",
+    "beam": "coconut shell"
+  },
+  {
+    "source": "bhaga pootir",
+    "reference": "ratio",
+    "greedy": "consumption",
+    "beam": "consumption"
+  },
+  {
+    "source": "shailam",
+    "reference": "Hill, Mountain",
+    "greedy": "semi",
+    "beam": "sale"
+  },
+  {
+    "source": "raito",
+    "reference": "Salad",
+    "greedy": "will be",
+    "beam": "will be"
+  },
+  {
+    "source": "prati sovu",
+    "reference": "percentage",
+    "greedy": "electric travel",
+    "beam": "percentage"
+  },
+  {
+    "source": "pongguLo",
+    "reference": "Ear Stud worn by Men",
+    "greedy": "pongal",
+    "beam": "buckle"
+  },
+  {
+    "source": "uclatte",
+    "reference": "Pulling",
+    "greedy": "(p) will not be",
+    "beam": "blossoming"
+  },
+  {
+    "source": "ulayi rhaa",
+    "reference": "be disordered",
+    "greedy": "be crushed",
+    "beam": "be destroyed"
+  },
+  {
+    "source": "t'anku",
+    "reference": "chisel",
+    "greedy": "facter",
+    "beam": "fondtalk/cooing"
+  },
+  {
+    "source": "moogi",
+    "reference": "search",
+    "greedy": "dumb",
+    "beam": "animal"
+  },
+  {
+    "source": "jivaat'",
+    "reference": "Make/ let live",
+    "greedy": "be falls",
+    "beam": "side effect"
+  },
+  {
+    "source": "pail suno'",
+    "reference": "bitch",
+    "greedy": "hug, coke",
+    "beam": "co-in-law"
+  },
+  {
+    "source": "bhimaan",
+    "reference": "Involvement",
+    "greedy": "intestine",
+    "beam": "intestine"
+  },
+  {
+    "source": "viyaakool",
+    "reference": "Worry, Anxiety",
+    "greedy": "hands",
+    "beam": "ear stud's elder brother's wife"
+  },
+  {
+    "source": "taath",
+    "reference": "Thread, Yarn",
+    "greedy": "mourage, masculine",
+    "beam": "administration"
+  },
+  {
+    "source": "ambaT",
+    "reference": "Curry masala",
+    "greedy": "sour, sour, sour, sour, sour, sour, sour, sour taste",
+    "beam": "sour, sour, sour taste"
+  },
+  {
+    "source": "hokaL, hogaL",
+    "reference": "Mortar, Grinding Stone",
+    "greedy": "()) will be",
+    "beam": "go away"
+  },
+  {
+    "source": "giDDo",
+    "reference": "Dwarf, Midget",
+    "greedy": "bucket",
+    "beam": "bucket"
+  },
+  {
+    "source": "phivri khaat'",
+    "reference": "Reverse/ get back",
+    "greedy": "again and again",
+    "beam": "again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and again and"
+  },
+  {
+    "source": "mulphalaab",
+    "reference": "interest",
+    "greedy": "songly",
+    "beam": "accusation"
+  },
+  {
+    "source": "vani laav / lavo",
+    "reference": "Paint",
+    "greedy": "entry",
+    "beam": "entry"
+  },
+  {
+    "source": "ad'd'am ad'd'amkani",
+    "reference": "crosswise",
+    "greedy": "interference",
+    "beam": "interference"
+  },
+  {
+    "source": "aayusdand'ano'",
+    "reference": "life imprisonment",
+    "greedy": "good night",
+    "beam": "announcer"
+  },
+  {
+    "source": "aDDam pOT / poDuvo",
+    "reference": "Interfere",
+    "greedy": "stroach",
+    "beam": "overtake"
+  },
+  {
+    "source": "kELupaan",
+    "reference": "Banana Leaf",
+    "greedy": "leaf",
+    "beam": "five days"
+  },
+  {
+    "source": "mujun",
+    "reference": "Bad deeds",
+    "greedy": "fiture",
+    "beam": "expiry"
+  },
+  {
+    "source": "duDako",
+    "reference": "Split",
+    "greedy": "threshold, door, gasculine",
+    "beam": "threshold, bundle"
+  },
+  {
+    "source": "sveekarni",
+    "reference": "acknowledge ment",
+    "greedy": "nature",
+    "beam": "nature"
+  },
+  {
+    "source": "huri",
+    "reference": "School",
+    "greedy": "school",
+    "beam": "school"
+  },
+  {
+    "source": "vingkini",
+    "reference": "Change",
+    "greedy": "weaver",
+    "beam": "weaving"
+  },
+  {
+    "source": "mannen, murukan",
+    "reference": "Lord Murugan",
+    "greedy": "highly",
+    "beam": "highly"
+  },
+  {
+    "source": "ostu",
+    "reference": "Relation",
+    "greedy": "rainbow",
+    "beam": "rainbow"
+  },
+  {
+    "source": "sekkaru buLLo",
+    "reference": "Sweet Potato",
+    "greedy": "stove oven",
+    "beam": "stove oven stove"
+  },
+  {
+    "source": "saakshidaar, siyetteno",
+    "reference": "Witness",
+    "greedy": "parents",
+    "beam": "parents"
+  },
+  {
+    "source": "laalityo",
+    "reference": "Elegance",
+    "greedy": "childhood",
+    "beam": "childhood"
+  },
+  {
+    "source": "jheDo",
+    "reference": "Fight",
+    "greedy": "quarrelsomegs",
+    "beam": "quarrelsome man"
+  },
+  {
+    "source": "pillo'",
+    "reference": "young one of birds",
+    "greedy": "child",
+    "beam": "baby, child, kid"
+  },
+  {
+    "source": "preeti",
+    "reference": "Love, Kindness",
+    "greedy": "in front",
+    "beam": "investment"
+  },
+  {
+    "source": "tantranjaan vidyaalayo",
+    "reference": "Polytechnique",
+    "greedy": "science",
+    "beam": "physics"
+  },
+  {
+    "source": "de'se'",
+    "reference": "a metal vessel",
+    "greedy": "give award",
+    "beam": "give award"
+  },
+  {
+    "source": "pokaT",
+    "reference": "Side, Sideways",
+    "greedy": "back",
+    "beam": "back"
+  },
+  {
+    "source": "kauso",
+    "reference": "Silk",
+    "greedy": "teen, team",
+    "beam": "young woman"
+  },
+  {
+    "source": "naaDo",
+    "reference": "Strap",
+    "greedy": "male",
+    "beam": "whirlpool"
+  },
+  {
+    "source": "mhaddimu hibbad'ni",
+    "reference": "interim stay",
+    "greedy": "tooth paste",
+    "beam": "tooth paste"
+  },
+  {
+    "source": "vaagvivaad",
+    "reference": "discussion, debate",
+    "greedy": "migrate/ maze",
+    "beam": "migrate/ makaaconda"
+  },
+  {
+    "source": "gulugunjji",
+    "reference": "Rosary Pea",
+    "greedy": "sweet potato",
+    "beam": "sweet potato"
+  },
+  {
+    "source": "aasta pot'",
+    "reference": "desire",
+    "greedy": "be caught",
+    "beam": "be caught"
+  },
+  {
+    "source": "cheet'",
+    "reference": "cards",
+    "greedy": "join, kid",
+    "beam": "nose stud's elder brother's wife"
+  },
+  {
+    "source": "samana maargu",
+    "reference": "Jainism",
+    "greedy": "sunlight",
+    "beam": "sunlight"
+  },
+  {
+    "source": "ho'rukriyo'",
+    "reference": "action",
+    "greedy": "second",
+    "beam": "comfortably"
+  },
+  {
+    "source": "chandrayaan",
+    "reference": "lunar module",
+    "greedy": "expert",
+    "beam": "expection"
+  },
+  {
+    "source": "kakuda",
+    "reference": "peak",
+    "greedy": "co-in-law, father's wife",
+    "beam": "father's younger brother's younger brother's wife"
+  },
+  {
+    "source": "le'guttakani",
+    "reference": "closely, thickly",
+    "greedy": "fly",
+    "beam": "highly"
+  },
+  {
+    "source": "jiyes",
+    "reference": "Gone",
+    "greedy": "in person",
+    "beam": "in person"
+  },
+  {
+    "source": "sujji",
+    "reference": "swell up, boil up",
+    "greedy": "gema, glass",
+    "beam": "mother`s younger brother"
+  },
+  {
+    "source": "rasaayano",
+    "reference": "Chemicals",
+    "greedy": "test",
+    "beam": "percentage"
+  },
+  {
+    "source": "nhanna pillo",
+    "reference": "Little child, Baby",
+    "greedy": "child",
+    "beam": "child"
+  },
+  {
+    "source": "o'gatraa",
+    "reference": "fast",
+    "greedy": "towel",
+    "beam": "fasting"
+  },
+  {
+    "source": "andi, anduvo",
+    "reference": "Reach",
+    "greedy": "still",
+    "beam": "break"
+  },
+  {
+    "source": "vago' pari sodano'",
+    "reference": "analysis",
+    "greedy": "rebit",
+    "beam": "restrictions"
+  },
+  {
+    "source": "bikaat",
+    "reference": "Key",
+    "greedy": "injustice, in front",
+    "beam": "investment"
+  },
+  {
+    "source": "abhyaas",
+    "reference": "exercise",
+    "greedy": "practice, practice",
+    "beam": "practice, practice, practice, practice"
+  },
+  {
+    "source": "khaa",
+    "reference": "eat tiffin",
+    "greedy": "what",
+    "beam": "what"
+  },
+  {
+    "source": "janle'",
+    "reference": "feel",
+    "greedy": "become equality",
+    "beam": "understand"
+  },
+  {
+    "source": "visheshkani",
+    "reference": "exellently, especially",
+    "greedy": "ly",
+    "beam": "accidentally"
+  },
+  {
+    "source": "mhat'o'",
+    "reference": "month",
+    "greedy": "buckle",
+    "beam": "buckle"
+  },
+  {
+    "source": "mhoTTo ajjaangghEr",
+    "reference": "Mother's grandmother house",
+    "greedy": "grandmother (maternal)",
+    "beam": "grandmother (maternal)"
+  },
+  {
+    "source": "vidyut",
+    "reference": "lightning",
+    "greedy": "electricity",
+    "beam": "electricity"
+  },
+  {
+    "source": "ve'kulave'kulakani",
+    "reference": "differently",
+    "greedy": "factly",
+    "beam": "finally"
+  },
+  {
+    "source": "rettu",
+    "reference": "Car",
+    "greedy": "bull",
+    "beam": "race"
+  },
+  {
+    "source": "himaLo",
+    "reference": "Pre Winter / Cool Season",
+    "greedy": "winter season",
+    "beam": "winter season"
+  },
+  {
+    "source": "ssipu",
+    "reference": "Tree trunk",
+    "greedy": "cucope",
+    "beam": "cube"
+  },
+  {
+    "source": "saso",
+    "reference": "Hare, Rabbit",
+    "greedy": "mother`s mother",
+    "beam": "mother`s mother"
+  },
+  {
+    "source": "pisa thoLci",
+    "reference": "American Basil, Lemon basil",
+    "greedy": "electric train",
+    "beam": "electric train"
+  },
+  {
+    "source": "hippan thaam",
+    "reference": "railway station",
+    "greedy": "conditioner",
+    "beam": "conditioner"
+  },
+  {
+    "source": "godi",
+    "reference": "Varanus, Monitor Lizard, Iguana",
+    "greedy": "cowherd",
+    "beam": "cowherd"
+  },
+  {
+    "source": "doDunjjini",
+    "reference": "Income, Earnings",
+    "greedy": "earning",
+    "beam": "ear stud's wife"
+  },
+  {
+    "source": "agasuTi",
+    "reference": "Roof glass",
+    "greedy": "camphor",
+    "beam": "lady`s finger"
+  },
+  {
+    "source": "chid'aay",
+    "reference": "gravel",
+    "greedy": "picture",
+    "beam": "picture"
+  },
+  {
+    "source": "horaaD tuTTini",
+    "reference": "Divorce",
+    "greedy": "ugliness",
+    "beam": "puberty"
+  },
+  {
+    "source": "mahaa praanam",
+    "reference": "aspiration",
+    "greedy": "village",
+    "beam": "generally"
+  },
+  {
+    "source": "thaLko",
+    "reference": "Thick",
+    "greedy": "throw",
+    "beam": "warning"
+  },
+  {
+    "source": "doNko",
+    "reference": "Ridge Gourd",
+    "greedy": "eye",
+    "beam": "ear stud's younger brother's wife"
+  },
+  {
+    "source": "uvichaarano'",
+    "reference": "enquiry",
+    "greedy": "rent",
+    "beam": "rented"
+  },
+  {
+    "source": "go'l'ago'l'ayi vatto' ke'r",
+    "reference": "Babble",
+    "greedy": "be sweet potato",
+    "beam": "be sweet potato"
+  },
+  {
+    "source": "ges",
+    "reference": "rub, iron",
+    "greedy": "past",
+    "beam": "ruby"
+  },
+  {
+    "source": "enggo",
+    "reference": "To them",
+    "greedy": "by them, because of them",
+    "beam": "by them, because of them"
+  },
+  {
+    "source": "put't'alu kud'o'",
+    "reference": "water sprayer",
+    "greedy": "pitch",
+    "beam": "lunacy"
+  },
+  {
+    "source": "buruDo",
+    "reference": "Blister",
+    "greedy": "team, team",
+    "beam": "teenager"
+  },
+  {
+    "source": "vibhaaga",
+    "reference": "cell",
+    "greedy": "department",
+    "beam": "department"
+  },
+  {
+    "source": "chaaru",
+    "reference": "four",
+    "greedy": "lion",
+    "beam": "gallows"
+  },
+  {
+    "source": "nilade'yd'a",
+    "reference": "saphire",
+    "greedy": "green gram",
+    "beam": "green gram"
+  },
+  {
+    "source": "saantvano' ker",
+    "reference": "console",
+    "greedy": "renize",
+    "beam": "impatient"
+  },
+  {
+    "source": "jho'l'l'o'",
+    "reference": "maize",
+    "greedy": "be caught",
+    "beam": "be caught"
+  },
+  {
+    "source": "ponni keratte",
+    "reference": "Streching the warp",
+    "greedy": "(b)ing)ing)ing to belling",
+    "beam": "jumping"
+  },
+  {
+    "source": "po'damka",
+    "reference": "softly",
+    "greedy": "afternoon",
+    "beam": "afternoon"
+  },
+  {
+    "source": "pisul'o'",
+    "reference": "mosquito",
+    "greedy": "lunatic, madness",
+    "beam": "lunatics"
+  },
+  {
+    "source": "phunnaa",
+    "reference": "Insufficient",
+    "greedy": "male",
+    "beam": "previous day"
+  },
+  {
+    "source": "kauLo",
+    "reference": "Crow, Raven",
+    "greedy": "teenager",
+    "beam": "teenager"
+  },
+  {
+    "source": "val'i",
+    "reference": "a vertical knife to cut vegetables",
+    "greedy": "crop",
+    "beam": "castor"
+  },
+  {
+    "source": "vatto",
+    "reference": "Word",
+    "greedy": "dumbliness",
+    "beam": "grand daughter"
+  }
+]

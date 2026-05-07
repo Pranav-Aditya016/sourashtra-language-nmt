@@ -1,0 +1,118 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,அக்ரொ,akro,,,,Short,குட்டை,,,,opp,corpus_sourashtradictionary
+,,லம்பொ3,lambo,,,,Long,நீளம்,,,,opp,corpus_sourashtradictionary
+,,அக்ரொ,akro,,,,Narrow,குறுகல்,,,,opp,corpus_sourashtradictionary
+,,விலாஸ்,vilaas,,,,Broad,அகலம்,,,,opp,corpus_sourashtradictionary
+,,அன்ட்கொ,anTko,,,,"Compact, Wrap, Fold, Handy","அடக்கம், மடக்கு",,,,opp,corpus_sourashtradictionary
+,,தா4டொ,dhaaTo,,,,"Wide, Wide open","பரந்த, அகட்டிக்கொண்டு",,,,opp,corpus_sourashtradictionary
+,,அடு3க்கு,aDukku,,,,Underneath,அடியில்,,,,opp,corpus_sourashtradictionary
+,,ஹொல்லொ,hollo,,,,Above,மேலே,,,,opp,corpus_sourashtradictionary
+,,அவை,avai,,,,Will come,வரும்,,,,opp,corpus_sourashtradictionary
+,,ஔனா,aunaa,,,,Will not come,வராது,,,,opp,corpus_sourashtradictionary
+,,ஆவ்,aav,,,,Come,வா,,,,opp,corpus_sourashtradictionary
+,,ஜா2,jhaa,,,,Go,போ,,,,opp,corpus_sourashtradictionary
+,,உஞ்சொ,unjco,,,,"Above, Up",மேலே,,,,opp,corpus_sourashtradictionary
+,,க2ல்லொ,khallo,,,,"Below, Beneath",கீழே,,,,opp,corpus_sourashtradictionary
+,,உஞ்ச்சொ,unjcco,,,,"Tall, Height",உயரம்,,,,opp,corpus_sourashtradictionary
+,,துச்சொ2,tuccho,,,,Short,குள்ளம்,,,,opp,corpus_sourashtradictionary
+,,உன்னொ,unno,,,,Less,குறைவாக,,,,opp,corpus_sourashtradictionary
+,,வேன்,vEn,,,,More,அதிகமாக,,,,opp,corpus_sourashtradictionary
+,,மொர்னி,morni,,,,Death,இறப்பு,,,,opp,corpus_sourashtradictionary
+,,ஒண்டெவால்,oNTevaal,,,,One Time,ஒரு தடவை,,,,opp,corpus_sourashtradictionary
+,,ஜு2கு3வால்,jhuguvaal,,,,Many Times,அனேக தடவை,,,,opp,corpus_sourashtradictionary
+,,ஒல்லொ,ollo,,,,Wet,ஈரமான,,,,opp,corpus_sourashtradictionary
+,,ஸுக்கெ,sukke,,,,Dry,காய்ந்த,,,,opp,corpus_sourashtradictionary
+,,களாய்,kaLaay,,,,"Know, Aware",தெரியும்,,,,opp,corpus_sourashtradictionary
+,,களானா,kaLaanaa,,,,"Do not know, Unaware",தெரியாது,,,,opp,corpus_sourashtradictionary
+,,கா4ன்,ghaan,,,,Stink,நாற்றம்,,,,opp,corpus_sourashtradictionary
+,,வஸுனொ,vasuno,,,,"Smell, Fragrant, Fragrance, Aroma",வாசனை,,,,opp,corpus_sourashtradictionary
+,,கி3ட்டை,giTTai,,,,Affordable,கட்டுபடியாகும்,,,,opp,corpus_sourashtradictionary
+,,கி3ட்டுனா,giTTunaa,,,,Unaffordable,கட்டுப்படியாகாது,,,,opp,corpus_sourashtradictionary
+,,கெ3ட3பு3ட3,geDabuDa,,,,"Rough, Uneven",கரடுமுரடு,,,,opp,corpus_sourashtradictionary
+,,ந்ஹினாவ்,nhinaav,,,,"Soft, Smooth",வழுவழுப்பு,,,,opp,corpus_sourashtradictionary
+,,சிக்கய,cikkaya,,,,Lean,மெலிந்த,,,,opp,corpus_sourashtradictionary
+,,தெ3ள்கொ,deLko,,,,Stout,தடித்த,,,,opp,corpus_sourashtradictionary
+,,சுரும்,curum,,,,Soon,விரைவில்,,,,opp,corpus_sourashtradictionary
+,,தமஸ்,tamas,,,,Late,தாமதம்,,,,opp,corpus_sourashtradictionary
+,,செர்ச்சிலெ,cerccile,,,,Include,"உள்ளடக்கு, சேர்த்துக்கொள்",,,,opp,corpus_sourashtradictionary
+,,தொ3ப்3பி3லெ,dobbile,,,,Exclude,விலக்கு,,,,opp,corpus_sourashtradictionary
+,,செர்ச்சிகின்,cerccikin,,,,Including,"உட்பட, சேர்த்து",,,,opp,corpus_sourashtradictionary
+,,தொ3ப்3பி3கின்,dobbikin,,,,Excluding,"தவிர்த்து, நீங்கலாக",,,,opp,corpus_sourashtradictionary
+,,சொக்கட்,cokkaT,,,,"Well, Fine, Good","நல்லது, நல்ல, நன்றாக",,,,opp,corpus_sourashtradictionary
+,,நஜ்ஜெ,najje,,,,Bad,கெட்டது,,,,opp,corpus_sourashtradictionary
+,,சொட்3டொ3வத்தொ,coDDovatto,,,,Lie,பொய்,,,,opp,corpus_sourashtradictionary
+,,ர்ஹத்தவத்தொ,rhattavatto,,,,True,உண்மை,,,,opp,corpus_sourashtradictionary
+,,த2ள்கொ,thaLko,,,,Thick,தடிப்பான,,,,opp,corpus_sourashtradictionary
+,,ந்ஹான்,nhaan,,,,Thin,மெல்லிய,,,,opp,corpus_sourashtradictionary
+,,து3தூ3ர்,dudoor,,,,Far,தொலைவில்,,,,opp,corpus_sourashtradictionary
+,,லொகு3த்தொ,logutto,,,,"Near, Beside",அருகில்,,,,opp,corpus_sourashtradictionary
+,,தை3ரொ,dairo,,,,Left,இடது,,,,opp,corpus_sourashtradictionary
+,,ஜைனொ,jaino,,,,Right,வலது,,,,opp,corpus_sourashtradictionary
+,,ந்ஹா,nhaa,,,,"No, Nope",இல்லை,,,,opp,corpus_sourashtradictionary
+,,ஹாய்,haay,,,,Yes,ஆமாம்,,,,opp,corpus_sourashtradictionary
+,,"ந்ஹீத்தெ, ந்ஹாத்தெ","nheette, nhaatte",,,,Not,இல்லாதது,,,,opp,corpus_sourashtradictionary
+,,ஸேத்தெ,sEtte,,,,Is,இருக்கிறது,,,,opp,corpus_sourashtradictionary
+,,நேரொ,nEro,,,,Straight,நேர்,,,,opp,corpus_sourashtradictionary
+,,வகு3ண்டொ3,vaguNDo,,,,Skewness,கோணல்,,,,opp,corpus_sourashtradictionary
+,,நொக்கொ,nokko,,,,Don't want,வேண்டாம்,,,,opp,corpus_sourashtradictionary
+,,பஜே,pajE,,,,Want,வேண்டும்,,,,opp,corpus_sourashtradictionary
+,,நொவ்வொ,novvo,,,,"New, Novel, Fresh, Original",புதிய,,,,opp,corpus_sourashtradictionary
+,,ஜுன்னொ,junno,,,,Old,பழைய,,,,opp,corpus_sourashtradictionary
+,,பஸ்கட்,paskaT,,,,Back,பின்னால்,,,,opp,corpus_sourashtradictionary
+,,ஸொம்மர்,sommar,,,,Front,முன்னால்,,,,opp,corpus_sourashtradictionary
+,,பஸ்கல்லொ,paskallo,,,,Backside,"பின்பக்கம், பின்புறம்",,,,opp,corpus_sourashtradictionary
+,,ஸொம்மல்லொ,sommallo,,,,Frontside,"முன்பக்கம், முன்புறம்",,,,opp,corpus_sourashtradictionary
+,,பா4ர்,bhaar,,,,Weight,கனம்,,,,opp,corpus_sourashtradictionary
+,,ஹவ்லொ,havlo,,,,Light,இலேசு,,,,opp,corpus_sourashtradictionary
+,,பி2ஜ்ஜாய்,phijjaay,,,,Enough,போதும்,,,,opp,corpus_sourashtradictionary
+,,பு2ன்னா,phunnaa,,,,Insufficient,போதாது,,,,opp,corpus_sourashtradictionary
+,,பி3ஸ்ஸொ,bisso,,,,Fast,வேகமாக,,,,opp,corpus_sourashtradictionary
+,,ஹள்ளு,haLLu,,,,Slow,மெதுவாக,,,,opp,corpus_sourashtradictionary
+,,பி4த்தர்,bhittar,,,,In,உள்ளே,,,,opp,corpus_sourashtradictionary
+,,ப4ராட்,bharaaT,,,,"Out, Outside",வெளியே,,,,opp,corpus_sourashtradictionary
+,,பி4த்தரு,bhittaru,,,,Internal,"உட்புற, உள்நாட்டுக்குரிய",,,,opp,corpus_sourashtradictionary
+,,ப4ராடு,bharaaTu,,,,External,வெளிப்புற,,,,opp,corpus_sourashtradictionary
+,,பெ4ள்பீ4டு,bheLbheeTu,,,,"Affluent, Extreme wealth","செல்வச் செழிப்பு, மிகுந்த செல்வம்",ஜு2க்கு ரஜான் பெ4ள்பீ4டு ஸெரொ ஜிவ்யாஸி,Most of the kings lived in affluence,பெரும்பாலான மன்னர்கள் செல்வச் செழிப்புடன் வாழ்ந்தனர்,opp,corpus_sourashtradictionary
+,,தா3ரித்3ரம்,daaridram,,,,Poverty,"வறுமை, ஏழ்மை",,,,opp,corpus_sourashtradictionary
+,,பொல்லம்,pollam,,,,Pit,பள்ளம்,,,,opp,corpus_sourashtradictionary
+,,மிட்டொ,miTTo,,,,Mound,மேடு,,,,opp,corpus_sourashtradictionary
+,,ம்ஹக்3கொ3,mhaggo,,,,"Costly, Expensive",அதிக விலை,,,,opp,corpus_sourashtradictionary
+,,ஸொங்கொ3,songgo,,,,Cheap,"மலிவு, மலிவாக",,,,opp,corpus_sourashtradictionary
+,,ம்ஹொட்டொ,mhoTTo,,,,"Elder, Big, Great, Senior","பெரிய, மூத்தவர், பெரியவர்",,,,opp,corpus_sourashtradictionary
+,,ந்ஹன்னொ,nhanno,,,,"Younger, Small, Little",சிறிய,,,,opp,corpus_sourashtradictionary
+,,ம்ஹொவ்லினி,mhovlini,,,,Off,அணைத்தல்,,,,opp,corpus_sourashtradictionary
+,,"பொ4வ்ரினி, தகி3னி","bhovrini, tagini",,,,On,"ஏற்றுதல், போடுதல்",,,,opp,corpus_sourashtradictionary
+,,ம்ஹௌஜாய்,mhaujaay,,,,Will be extinct,அழியும்,,,,opp,corpus_sourashtradictionary
+,,ம்ஹௌஜானா,mhaujaanaa,,,,Will be extant,அழியாது,,,,opp,corpus_sourashtradictionary
+,,மித்,mit,,,,"False, Lie",பொய்,,,,opp,corpus_sourashtradictionary
+,,வாஸ்தவ்,vaastav,,,,"True, Fact",உண்மை,,,,opp,corpus_sourashtradictionary
+,,முத்3தொ3,muddo,,,,Mushy,குழைந்த,,,,opp,corpus_sourashtradictionary
+,,முது3ர்,mudur,,,,Undercooked,முற்றல் (முத்தல்),,,,opp,corpus_sourashtradictionary
+,,முஸெஸ்,muses,,,,Done,முடிந்தது,,,,opp,corpus_sourashtradictionary
+,,முஸெனி,museni,,,,Not done,முடியவில்லை,,,,opp,corpus_sourashtradictionary
+,,மோஸ் கெரத்தெ,mOs keratte,,,,Cheating,ஏமாற்றுதல்,,,,opp,corpus_sourashtradictionary
+,,மோஸ் ஜாத்தெ,mOs jaatte,,,,Being cheated,ஏமாற்றப்படுதல்,,,,opp,corpus_sourashtradictionary
+,,ரொவ்வொ,rovvo,,,,"Little, Bit",கொஞ்சம்,,,,opp,corpus_sourashtradictionary
+,,ஜு2க்கு,jhukku,,,,Lot,அதிகம்,,,,opp,corpus_sourashtradictionary
+,,வெது3ர் ஸியெ,vedur siye,,,,Expected,எதிர்பார்த்த,,,,opp,corpus_sourashtradictionary
+,,வெது3ர் ஸனா,vedur sanaa,,,,Unexpected,எதிர்பாராத,,,,opp,corpus_sourashtradictionary
+,,ஸில்லொ,sillo,,,,Cold,குளிர்ச்சி,,,,opp,corpus_sourashtradictionary
+,,ஹுன்னொ,hunno,,,,Hot,சூடு,,,,opp,corpus_sourashtradictionary
+,,ஸுகி2ஞ்ஜினி,sukhinjjini,,,,Enjoying luxury,ஆடம்பரத்தை அனுபவித்தல்,,,,opp,corpus_sourashtradictionary
+,,பொந்தி3னி,pondini,,,,Experiencing difficulties,சிரமங்களை அனுபவித்தல்,,,,opp,corpus_sourashtradictionary
+,,ஸுட்டை,suTTai,,,,"Will get rid of, Will stop","அகலும், விட்டுவிடும்",,,,opp,corpus_sourashtradictionary
+,,ஸுட்டுனா,suTTunaa,,,,"Will not get rid of, Will not stop","அகலாது, விடாது",,,,opp,corpus_sourashtradictionary
+,,ஸெர்க்கொ,serkko,,,,Right,சரி,,,,opp,corpus_sourashtradictionary
+,,மன்து,mantu,,,,Wrong,தவறு,,,,opp,corpus_sourashtradictionary
+,,ஸெரய்,seray,,,,Valid,"செல்லும், செல்லுபடியாகும்",,,,opp,corpus_sourashtradictionary
+,,ஸென்னா,sennaa,,,,Invalid,"செல்லாதது, செல்லாது",,,,opp,corpus_sourashtradictionary
+,,ஹவ்ட3ன்,havDan,,,,"Memory, Remembrance","நினைவு, ஞாபகம்",,,,opp,corpus_sourashtradictionary
+,,நிஸுர்,nisur,,,,Forgetfulness,மறதி,,,,opp,corpus_sourashtradictionary
+,,ஹிட்டை,hiTTai,,,,Will get loose,அவிழும்,,,,opp,corpus_sourashtradictionary
+,,ஹிட்டுனா,hiTTunaa,,,,Will not get loose,அவிழாது,,,,opp,corpus_sourashtradictionary
+,,ஹுடொ3,huDo,,,,Flat on stomach,குப்புற,,,,opp,corpus_sourashtradictionary
+,,நித்தொ,nitto,,,,Flat on back,மல்லாக்க,,,,opp,corpus_sourashtradictionary
+,,ஹொல்லொ,hollo,,,,Over,மேலே,,,,opp,corpus_sourashtradictionary
+,,க2ல்லொ,khallo,,,,Under,"கீழே, அடியில்",,,,opp,corpus_sourashtradictionary
+,,ஹோட்3,hEaaD,,,,Tight,இறுக்கம்,,,,opp,corpus_sourashtradictionary
+,,தி4ல்லொ,dhillo,,,,Loose,தளர்ந்த,,,,opp,corpus_sourashtradictionary

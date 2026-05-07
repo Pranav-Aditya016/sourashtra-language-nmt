@@ -1,0 +1,41 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,வஸ்து,vastu,,,,Material,பொருள்,ஜெல்மின் ஒண்டெ ஹவ்லொஹொயெ வஸ்து,Aluminum is a lighter material,அலுமினியம் ஒரு இலகுவான பொருள்,material,corpus_sourashtradictionary
+,,வேன்மோலுயொ,vEnmOluyo,,,,Precious,"விலைமதிப்பற்ற, விலையுயர்ந்த",ஹிரான் வேன்மோலுயொ,Diamonds are precious,வைரங்கள் விலைமதிப்பற்றவை,material,corpus_sourashtradictionary
+,,லோவு,lOvu,,,,Metal,உலோகம்,லோவுனுக் ஜு2கு ப்ரகார்கன் வடொ கெருவாயி,Metals can be divided into several types,உலோகங்களை பல வகைகளாகப் பிரிக்கலாம்,material,corpus_sourashtradictionary
+,,தா4து,dhaatu,,,,Minerals,கனிமம்,தா4துன் நொவ்வொகெரத்தக் முஸுனா ஸம்பத்துன்,Minerals are non renewable resources,கனிமங்கள் புதுப்பிக்க முடியாத வளங்கள்,material,corpus_sourashtradictionary
+,,ஸொர்ணு,sorNu,,,,Gold,தங்கம்,ஸொர்ணு மோலு ஸதா3 ஹிங்கி3லேத் ர்ஹாயி,The price of gold will always be rising,தங்கத்தின் விலை எப்போதும் உயர்ந்து கொண்டே இருக்கும்,material,corpus_sourashtradictionary
+,,ஹிரண்ய,hiraNya,,,,Gold,தங்கம்,ஹிரண்யாக் கொ2ப்3பி3ம் மோல் ர்ஹாயி,The price of gold will always be rising,தங்கத்திற்கு எப்போதும் மதிப்பு உண்டு,material,corpus_sourashtradictionary
+,,காஞ்சனொ,kaanjcano,,,,Gold,தங்கம்,கெஸார் காஞ்சனாக் கெ3ஸிகின் மோல் தவஸுன்,The goldsmith assays gold by rubbing,பொற்கொல்லர் தங்கத்தை தேய்த்து மதிப்பிடுகிறார்,material,corpus_sourashtradictionary
+,,அப்புரஞ்ஜி,appuranjji,,,,Pure gold,சுத்தத் தங்கம்,அப்புரஞ்ஜி வேன் ம்ருது3 ஹொயெயொ,Pure gold is very soft,தூய தங்கம் மிகவும் மென்மையானது,material,corpus_sourashtradictionary
+,,ஹிரன்,hiran,,,,Pure gold,சுத்தத் தங்கம்,ஹிரன் ஸெரொ தம்பெ3 செர்ச்சி ஸொம்முன் கெரனு,Pure gold is mixed with copper to make jewelry,தூய தங்கம் செம்பு கலந்து நகைகள் செய்வார்கள்,material,corpus_sourashtradictionary
+,,ருப்பொ,ruppo,,,,Silver,வெள்ளி,லெச்சேக் ருப்பாம் கெரனு,The talisman will be made of silver,தாயத்தை வெள்ளியில் செய்வார்கள்,material,corpus_sourashtradictionary
+,,கெஸ்துல்,kestul,,,,Lead,ஈயம்,கெஸ்துல் லேஸும் சிலும் தெ4ர்னா,Bronze does not rust easily,வெண்கலம் எளிதில் துருப்பிடிக்காது,material,corpus_sourashtradictionary
+,,கஸ்தீல்,kasteel,,,,Bronze,வெண்கலம்,கஸ்தீல் தம்பெ3கின் தெகரம் ஹால் ஹொயெயொ,The bronze is made of copper and tin,வெண்கலம் செம்பு மற்றும் தகரத்தால் ஆனது,material,corpus_sourashtradictionary
+,,கஸொ,kaso,,,,Bronze,வெண்கலம்,கஸெ பொ4ன்னாம் பொங்க3ல் கெரனு,Pongal is cooked in a bronze pot,வெண்கலப் பாத்திரத்தில் பொங்கல் செய்வார்கள்,material,corpus_sourashtradictionary
+,,லீத்,leet,,,,Brass,பித்தளை,புஜா வஸ்துனுன் ஜுக்குகன் லீதும் கெரெயொ,Pooja objects are mostly made of brass,பூஜை பொருட்கள் பெரும்பாலும் பித்தளையால் செய்யப்பட்டவை,material,corpus_sourashtradictionary
+,,தம்பெ3,tambe,,,,Copper,"செம்பு, தாமிரம்",தம்பெ3 செர்ச்சுனாத்தக் ஸொம்முன் கெரானா,Jewelry cannot be made without the addition of copper,செம்பு சேர்க்காமல் நகைகள் செய்ய முடியாது,material,corpus_sourashtradictionary
+,,தம்பு3ரம்,tamburam,,,,Copper,"செம்பு, தாமிரம்",கொ4ம்மானும் ப்ரயோக்3 கெரரியொ விஜிலி தாரு தம்பு3ரம் ஹால் ஹொயெயொ,Electrical wires used in homes are made of copper,வீடுகளில் பயன்படுத்தப்படும் மின் கம்பிகள் தாமிரத்தால் செய்யப்பட்டவை,material,corpus_sourashtradictionary
+,,ஜெல்மின்,jelmin,,,,Aluminium,அலுமினியம்,ஜெல்மின் தெட்டொ வேன் ஹவ்லொ ர்ஹாய்,Aluminum plates are much lighter,அலுமினிய தட்டுகள் மிகவும் இலகுவானவை,material,corpus_sourashtradictionary
+,,தௌ,tau,,,,Tin,தகரம்,தௌவுக் லுங்க்டொ3 ஹால் செக்கத்தக் முஸயி,The tin can be cut with scissors,தகரத்தை கத்தரிக்கோலால் வெட்ட முடியும்,material,corpus_sourashtradictionary
+,,பொட்டொ,poTTo,,,,Tin,தகரம்,ஜெல்மின்கின் பொட்டொ ல்ஹொகண்-ந்ஹாத்த லோவுனு,Aluminum and tin are non-ferrous metals,அலுமினியம் மற்றும் தகரம் இரும்பு அல்லாத உலோகங்கள்,material,corpus_sourashtradictionary
+,,தெகரம்,tekaram,,,,Tin,தகரம்,பொள்டொ தக3த்தக் தெகரம் பிர்ஜனம்கன் ர்ஹாயி,Tin is useful in roofing,கூரை வேய தகரம் பயனுள்ளதாக இருக்கும்,material,corpus_sourashtradictionary
+,,தெக3ட்,tegaT,,,,Metal Plate,தகடு,புல்னொ ப4ந்த3த்தக் தெக3ட் ஜு2க்கு வவ்ரஸுனு,Metal plates are used a lot to build bridges,பாலம் கட்ட தகடை அதிகம் பயன்படுத்துகிறார்கள்,material,corpus_sourashtradictionary
+,,ல்ஹொகண்,lhokaN,,,,Iron,இரும்பு,ல்ஹொகண் கெ4ட்டி ர்ஹியெத் மெல்லி பு2ட்டத்திஸானுகெ,Iron is brittle though hard,இரும்பு கடினமாக இருந்தாலும் உடையக்கூடியது,material,corpus_sourashtradictionary
+,,சிலும்,cilum,,,,Rust,துரு,ஸில்லொ வராம் ப4ராட் தொ2வெத் லோவுனும் சிலும் தெ4ரயி,Rust will appear on the metal if left outside in wet air,ஈரமான காற்றில் வெளியே விட்டால் உலோகத்தில் துரு தோன்றும்,material,corpus_sourashtradictionary
+,,குந்த்3ரொ,kundro,,,,Porcelain,பீங்கான்,ஹந்த3வ் தௌரம் எத்னமுனுக் கெரத்தக் குந்த்3ரொ நுக3ஸு,Porcelain is used to make kitchen utensils,சமையலறை பாத்திரங்கள் தயாரிக்க பீங்கான் பயன்படுகிறது,material,corpus_sourashtradictionary
+,,ஹபாள்,hapaaL,,,,Glass,கண்ணாடி,ஹபாளுக் மத்திம் ர்ஹீ கெரராஸ்,Glass is made from sand,கண்ணாடியை மணலில் இருந்து தயாரிக்கிறார்கள்,material,corpus_sourashtradictionary
+,,முக்ரொ,mukro,,,,Glass,கண்ணாடி,முக்ராக் வனி மர்ச்சத்தக் தா4துன் செர்ச்சஸுன்,Minerals are added to change the color of the glass,கண்ணாடியின் நிறத்தை மாற்ற கனிமங்கள் சேர்க்கிறார்கள்,material,corpus_sourashtradictionary
+,,ஸிஷொ,sisho,,,,Bottle,கண்ணாடி குப்பி,ஸிஷொ 100% பி2ரி ப்ரயோக்3 கெரத்திஸானுகெ,Glass bottles are 100% recyclable,கண்ணாடி குப்பிகள் 100% மறுசுழற்சி செய்யக்கூடியவை,material,corpus_sourashtradictionary
+,,கு3த்தி,gutti,,,,Bottle,கண்ணாடி குப்பி,கு3த்திம் அம்ப3ட் ஸொடி3 தொ2வாய்,The acid can be stored in glass bottles,கண்ணாடி பாட்டில்களில் அமிலத்தை ஊற்றி வைக்கலாம்,material,corpus_sourashtradictionary
+,,கள்ஜம்,kaLjam,,,,Paper,காகிதம்,சீனுன் 2100 ஒர்ஸுனுன் முது3ல்லொ கள்ஜமுக் தெ3க்கி தெ4ராஸி,The Chinese invented paper 2100 years ago,சீனர்கள் 2100 ஆண்டுகளுக்கு முன்பு காகிதத்தைக் கண்டுபிடித்தனர்,material,corpus_sourashtradictionary
+,,மீடு கள்ஜம்,meeTu kaLjam,,,,"Emery sheet, Sandpaper",உப்புக்காகிதம்,சிலும் ஜாத்தக் மீடு கள்ஜம் ப்ரயோக்3 பொட3ஸு,Sandpaper is used to remove the rust,துருவை அகற்ற உப்புக்காகிதம் பயன்படுகிறது,material,corpus_sourashtradictionary
+,,"பிஸ்னி, முத்3த3ட்3","pisni, muddaD",,,,Plastic,"நெகிழி, குழைவான",பிஸ்னி வஸ்துன் பூ4ய்ஞ் ஸுபீகுக் நஸஸு,Plastic materials spoil the fertility of the earth,நெகிழி பொருட்கள் பூமியின் வளத்தை கெடுக்கின்றன,material,corpus_sourashtradictionary
+,,பொ3ங்கு3,bonggu,,,,Bamboo,மூங்கில்,பொ3ங்கு3 தாகும் ர்ஹீ பொ3ட்டொ கெரத்தக் முஸையி,The dress can be made from bamboo fiber,மூங்கில் நாரிலிருந்து உடை தயாரிக்க முடியும்,material,corpus_sourashtradictionary
+,,வள்டி,vaLTi,,,,Bamboo stems,மூங்கில் கோவி,வள்டிம் ர்ஹீ முரளி கெருவாயி,Bamboo flutes can be made from bamboo stems,மூங்கில் கோவியிலிருந்து புல்லாங்குழல் செய்யலாம்,material,corpus_sourashtradictionary
+,,பொ3ங்கு3பொட்டொ,bonggupoTTo,,,,Split Bamboo stick,மூங்கில் குச்சி,வாடி3 ப4ந்த3த்தக் பொ3ங்கு3பொட்டொ நுக3ஸு,Split bamboo sticks are used to build fences,வேலி கட்ட மூங்கில் குச்சிகள் பயன்படுகின்றன,material,corpus_sourashtradictionary
+,,பெ3த்தெம் லைடொ3,bettem laiDo,,,,"Baton, Wood log",உருட்டுகட்டை,பெ3த்தெம் லைடா3க் அய்து3கன் ப்ரயோக்3 கெருவாயி,A baton may be used as a weapon,உருட்டுகட்டையை ஆயுதமாக பயன்படுத்தப்படலாம்,material,corpus_sourashtradictionary
+,,கு2டொ,khuTo,,,,Plywood,ஆலங்குப் பலகை,தேகு ஜா2டு3 ஸொம்மர் கு2டா பொல்கா வஸ்துன் வேன் ஸொங்கொ3யொ,Plywood furnitures are much cheaper than teak,தேக்கை விட ஆலங்குப் பலகை மரச்சாமான்கள் மிகவும் மலிவானவை,material,corpus_sourashtradictionary
+,,காந்தொ,kaanto,,,,Magnet,காந்தம்,பு4ய்ஞ் ஒண்டெ ம்ஹொட்டொ காந்தொகன் காம் கெரஸு,The earth acts as a giant magnet,பூமி ஒரு மாபெரும் காந்தமாக செயல்படுகிறது,material,corpus_sourashtradictionary
+,,கெ4ந்த்யாவ்,ghentyaav,,,,"Sulphur, Brim stone, Brimstone",கந்தகம்,பொ3ண்ால் தயார் கெரத்தக் கெ4ந்த்யாவ் நுக3ஸு,Sulfur is used to make crackers,பட்டாசு தயாரிக்க கந்தகம் பயன்படுகிறது,material,corpus_sourashtradictionary
+,,கொ2ள்ச்யா பு4ர்கொ,khoLcyaa bhurko,,,,Carbon,கரிபொருள்,ஹிரான் நிஸ்தொ கொ2ள்க்யா பு4ர்க்கொஹால் ஹொயெயொ,Diamonds are made of only carbon,வைரங்கள் கரிபொருளால் மட்டுமே ஆனவை,material,corpus_sourashtradictionary
+,,ஶிலா க2ட்டி பு4ர்கொ,ssilaa khaTTi bhurko,,,,Graphite,பென்சிற்கரி,ஶிலா க2ட்டி கெரத்தக் ஶிலா க2ட்டி பு4ர்கொ ஒர்க3ஸு,Graphite is used to make pencils,பென்சில் தயாரிக்க கிராஃபைட் பயன்படுகிறது,material,corpus_sourashtradictionary

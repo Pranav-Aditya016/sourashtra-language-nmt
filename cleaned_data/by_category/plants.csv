@@ -1,0 +1,44 @@
+sourashtra_word,hindi_pronunciation,tamil_pronunciation,roman_readable,havard_kyoto,iast,ipa,meaning_english,meaning_tamil,example_sentence_sourashtra,example_sentence_english,example_sentence_tamil,category,source
+,,வனஸ்பதி,vanaspati,,,,Plant,தாவரம்,,,,plants,corpus_sourashtradictionary
+,,ஹாகு,haaku,,,,"Grove, Garden","தோப்பு, தோட்டம்",,,,plants,corpus_sourashtradictionary
+,,ஜீ2னு,jheenu,,,,Garden,தோட்டம்,,,,plants,corpus_sourashtradictionary
+,,கொ3வத்,govat,,,,Hay,வைக்கோல்,,,,plants,corpus_sourashtradictionary
+,,கொ3வது பெடொ3,govatu peDo,,,,Haystack,வைக்கோல் போர்,,,,plants,corpus_sourashtradictionary
+,,பொஸ்கெ,poske,,,,Grass,புல்,,,,plants,corpus_sourashtradictionary
+,,நௌஸு,nausu,,,,Grass,புல்,,,,plants,corpus_sourashtradictionary
+,,த்ருணொ,truNo,,,,"Grass, Reed","புல், கோரை புல், நாணல்",,,,plants,corpus_sourashtradictionary
+,,கா4ஸ்,ghaas,,,,Dried grass,காய்ந்த புல்,,,,plants,corpus_sourashtradictionary
+,,ஹரளி,haraLi,,,,Green grass,பசும்புல்,,,,plants,corpus_sourashtradictionary
+,,ஹரளி பான்,haraLi paan,,,,Scutch grass,அருகம்புல்,,,,plants,corpus_sourashtradictionary
+,,த3ர்பொ3,darbo,,,,Reed,நாணல்,,,,plants,corpus_sourashtradictionary
+,,ஹொக3து பான்,hogatu paan,,,,Herb,மூலிகை,,,,plants,corpus_sourashtradictionary
+,,கொப்3பு3,kobbu,,,,Sugarcane,கரும்பு,,,,plants,corpus_sourashtradictionary
+,,பிஸ்கலு கொப்3பு3,piskalu kobbu,,,,Red Stained Sugarcane,சாறில்லா கரும்பு,,,,plants,corpus_sourashtradictionary
+,,கல்பவ்ருக்ஷொ,kalpavruksho,,,,The tree that grants any boon,கற்பக விருட்சம்,,,,plants,corpus_sourashtradictionary
+,,ஜா2ட்3,jhaaD,,,,Tree,மரம்,,,,plants,corpus_sourashtradictionary
+,,ஜ2ட்கி,jhaTki,,,,Shrubs,செடி,,,,plants,corpus_sourashtradictionary
+,,வேல்,vEl,,,,Creeper,கொடி,,,,plants,corpus_sourashtradictionary
+,,கு3ல்மொ,gulmo,,,,Bush,புதர்,,,,plants,corpus_sourashtradictionary
+,,ஸுனாஸதி,sunaasati,,,,Mushroom,காளான்,,,,plants,corpus_sourashtradictionary
+,,கு3மாரு,gumaaru,,,,"Cactus, Aloe vera, Aloevera, Alovera",கற்றாழை,,,,plants,corpus_sourashtradictionary
+,,அந்த்யால்,antyaal,,,,Castor,ஆமணக்கு,,,,plants,corpus_sourashtradictionary
+,,இந்த்3ரானி கைலொ,indraani kailo,,,,Colocynth,குமிட்டி காய்,,,,plants,corpus_sourashtradictionary
+,,துடா3 ஜ3ட்கி,tuDaa jaTki,,,,"Devil's trumpet, Jimsonweeds",ஊமத்தம் செடி,,,,plants,corpus_sourashtradictionary
+,,குப்பியாபான்,kuppiyaapaan,,,,Indian Copperleaf,குப்பைமேனி இலை,,,,plants,corpus_sourashtradictionary
+,,கென்னர்,kennar,,,,Oleander,அரளி,,,,plants,corpus_sourashtradictionary
+,,கெரதினி,keratini,,,,Myrobalan,கடுக்காய்,,,,plants,corpus_sourashtradictionary
+,,கெ3ன்னேரி,gennEri,,,,"Orange Ginger, Hidden-Lilies",கஸ்தூரி மஞ்சள்,,,,plants,corpus_sourashtradictionary
+,,நெர்கு3டு3,nerguDu,,,,Chaste tree,நொச்சி,,,,plants,corpus_sourashtradictionary
+,,பிஸ தொ2ள்சி,pisa thoLci,,,,"American Basil, Lemon basil",நாய்த்துளசி,,,,plants,corpus_sourashtradictionary
+,,லயெத் வட்னி,layet vaTni,,,,"Touch me not, Shame Plant",தொட்டா சிணுங்கி,,,,plants,corpus_sourashtradictionary
+,,லுஸ்கின் ஜ2ட்கி,luskin jhaTki,,,,Milkweeds,எருக்கஞ்செடி,,,,plants,corpus_sourashtradictionary
+,,ஜிலி,jili,,,,"Algae, Fungus, Moss","பாசி, பூஞ்சை",,,,plants,corpus_sourashtradictionary
+,,நல்லு,nallu,,,,Vetiver,வெட்டிவேர்,,,,plants,corpus_sourashtradictionary
+,,பீகு,peeku,,,,Crop,பயிர்,,,,plants,corpus_sourashtradictionary
+,,சொரா பீகு,coraa peeku,,,,Fodder crop,தீவனப் பயிர்,,,,plants,corpus_sourashtradictionary
+,,கே2து,khEtu,,,,Field,வயல்,,,,plants,corpus_sourashtradictionary
+,,நாக3டிசாலு,naagaTicaalu,,,,Furrow irrigation,"படைச்சால், உழவுசால்",,,,plants,corpus_sourashtradictionary
+,,ரௌணி,rauNi,,,,Waterlifting device,ஏற்றம்,,,,plants,corpus_sourashtradictionary
+,,ஸடொ,saTo,,,,Waterlifting device,ஏற்றம்,,,,plants,corpus_sourashtradictionary
+,,மஸ்து,mastu,,,,"Manure, Compost, Fertilizer",உரம்,,,,plants,corpus_sourashtradictionary
+,,பா3ஞ்ஜி,baanjji,,,,"Algae, Fungus, Moss","பாசி, பூஞ்சை",,,,plants,corpus_sourashtradictionary

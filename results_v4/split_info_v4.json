@@ -1,0 +1,16 @@
+{
+  "task_sr_en": 9568,
+  "task_ta_en": 9568,
+  "task_sr_ta": 0,
+  "sent_augment_en": 1724,
+  "sent_augment_ta": 0,
+  "total_train": 20860,
+  "val_size": 1276,
+  "test_size": 1914,
+  "augmentation_ratio": 2.18,
+  "languages": [
+    "sourashtra",
+    "english",
+    "tamil"
+  ]
+}
